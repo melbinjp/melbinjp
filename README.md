@@ -110,7 +110,7 @@ A project to make lora training just easy for anyone
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -132,9 +132,9 @@ A project to make lora training just easy for anyone
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pixel Watch 4 gets new side charger that’s still not wireless charging - 9to5...](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSbktuVW85NUgxakFmWWtRNDZpQVdWdFA5a2dPWG1USmt6eTR1d2N4bFJlNXdwLTl1ZFE0WldYZV90djdqaWl4bkx6TDdzTExwc0EwWlp2NVBsVmxGVzJRVzRqaDVuczA?oc=5)
-* 📰 [Amazon is launching a cheaper color Kindle - The Verge](https://www.theverge.com/news/712765/amazon-kindle-colorsoft-16-gb-kids)
-* 📰 [Google’s new AI feature lets you virtually try on clothes - TechCrunch](https://techcrunch.com/2025/07/24/googles-new-ai-feature-lets-you-virtually-try-on-clothes/)
+* 📰 [Apple’s Liquid Glass redesign is shaping up to be a snoozer on Macs - The Verge](https://www.theverge.com/tech/711358/apple-macos-tahoe-26-public-beta-impressions-macbook-liquid-glass)
+* 📰 [Apple releases public betas of its new software updates with Liquid Glass - T...](https://www.theverge.com/news/695142/apple-public-betas-liquid-glass-ios-macos-26)
+* 📰 [Amazon introduces a more affordable color screen Kindle - TechCrunch](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -161,5 +161,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: <!--TIMESTAMP_START-->2024-01-01 00:00 UTC<!--TIMESTAMP_END--></sub>
+  <sub>Last updated: Last updated: 2025-07-25 17:30 </sub>
 </div>
+
