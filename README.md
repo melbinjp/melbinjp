@@ -92,17 +92,17 @@ A project to make lora training just easy for anyone
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [chat_with_a_doc](https://github.com/melbinjp/chat_with_a_doc) - _last updated 2025-07-14_
-* 🔨 Working on [voice_notes](https://github.com/melbinjp/voice_notes) - _last updated 2025-07-13_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [Utily](https://github.com/melbinjp/Utily)
 * [chat_with_a_doc](https://github.com/melbinjp/chat_with_a_doc) - A rag to chat about any pdf or URL that you have.
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Transcribe-Realtime-](https://github.com/melbinjp/Transcribe-Realtime-) - Transcribe audio files from a web page on any device hope...
 * [favicon](https://github.com/melbinjp/favicon)
-* [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 <!-- REPO_LIST_END -->
 
 ---
@@ -110,7 +110,7 @@ A project to make lora training just easy for anyone
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -132,9 +132,9 @@ A project to make lora training just easy for anyone
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple’s Liquid Glass redesign is shaping up to be a snoozer on Macs - The Verge](https://www.theverge.com/tech/711358/apple-macos-tahoe-26-public-beta-impressions-macbook-liquid-glass)
-* 📰 [Apple releases public betas of its new software updates with Liquid Glass - T...](https://www.theverge.com/news/695142/apple-public-betas-liquid-glass-ios-macos-26)
-* 📰 [Amazon introduces a more affordable color screen Kindle - TechCrunch](https://techcrunch.com/2025/07/24/amazon-introduces-a-more-affordable-color-screen-kindle/)
+* 📰 [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It’s a Slippery Slope...](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
+* 📰 [Lego Game Boy Still In Stock At Amazon After Selling Out At Lego Store - Game...](https://www.gamespot.com/articles/lego-game-boy-preorder-nintendo-building-set/1100-6533358/)
+* 📰 [‘NASCAR 25’ console game set for October 2025 release date - NASCAR.com](https://www.nascar.com/news-media/2025/07/24/nascar-25-console-game-set-for-october-2025-release-date/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -161,6 +161,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-25 18:40 </sub>
+  <sub>Last updated: Last updated: 2025-07-26 02:19 </sub>
 </div>
 
