@@ -110,7 +110,7 @@ A project to make lora training just easy for anyone
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -133,8 +133,8 @@ A project to make lora training just easy for anyone
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Pokémon Legends: Z-A Reveals New Pre-Order Distribution, Available In Two Cou...](https://www.nintendolife.com/news/2025/07/pokemon-legends-z-a-reveals-new-pre-order-distribution-available-in-two-countries)
+* 📰 [Marvel's New Beat 'Em Up 'Cosmic Invasion' Reveals Two More Playable Characte...](https://www.nintendolife.com/news/2025/07/marvels-new-beat-em-up-cosmic-invasion-reveals-two-more-playable-characters)
 * 📰 [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It’s a Slippery Slope...](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
-* 📰 [‘NASCAR 25’ console game set for October 2025 release date - NASCAR.com](https://www.nascar.com/news-media/2025/07/24/nascar-25-console-game-set-for-october-2025-release-date/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -161,6 +161,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-26 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-07-26 12:54 </sub>
 </div>
 
