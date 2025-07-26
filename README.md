@@ -110,18 +110,18 @@ A project to make lora training just easy for anyone
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1500px.png" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1500px.png" alt="Twelve Years of Kappa Cygnids" 
+  <a href="https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg" alt="Globular Cluster Omega Centauri" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Twelve Years of Kappa Cygnids</em> • NASA APOD</p>
+<p align="center"><em>Globular Cluster Omega Centauri</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -132,8 +132,8 @@ A project to make lora training just easy for anyone
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Pokémon Legends: Z-A Reveals New Pre-Order Distribution, Available In Two Cou...](https://www.nintendolife.com/news/2025/07/pokemon-legends-z-a-reveals-new-pre-order-distribution-available-in-two-countries)
 * 📰 [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It’s a Slippery Slope...](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)
-* 📰 [Lego Game Boy Still In Stock At Amazon After Selling Out At Lego Store - Game...](https://www.gamespot.com/articles/lego-game-boy-preorder-nintendo-building-set/1100-6533358/)
 * 📰 [‘NASCAR 25’ console game set for October 2025 release date - NASCAR.com](https://www.nascar.com/news-media/2025/07/24/nascar-25-console-game-set-for-october-2025-release-date/)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -161,6 +161,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-26 02:19 </sub>
+  <sub>Last updated: Last updated: 2025-07-26 06:39 </sub>
 </div>
 
