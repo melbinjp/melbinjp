@@ -92,15 +92,15 @@ A project to make lora training just easy for anyone
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [chat-with-doc-api](https://github.com/melbinjp/chat-with-doc-api) - _last updated today_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
+* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [DocQA_api](https://github.com/melbinjp/DocQA_api) - RAG Chat with Documents API with MCP compatibility
+* [DocQA](https://github.com/melbinjp/DocQA) - A rag to chat about any pdf or URL that you have.
 * [Utily](https://github.com/melbinjp/Utily)
-* [chat-with-doc-api](https://github.com/melbinjp/chat-with-doc-api) - RAG Chat with Documents API with MCP compatibility
-* [chat_with_a_doc](https://github.com/melbinjp/chat_with_a_doc) - A rag to chat about any pdf or URL that you have.
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Transcribe-Realtime-](https://github.com/melbinjp/Transcribe-Realtime-) - Transcribe audio files from a web page on any device hope...
 <!-- REPO_LIST_END -->
@@ -110,7 +110,7 @@ A project to make lora training just easy for anyone
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -132,9 +132,9 @@ A project to make lora training just easy for anyone
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Ubisoft Reportedly Cancels Star Wars Outlaws Sequel - Nintendo Life](https://www.nintendolife.com/news/2025/07/ubisoft-reportedly-cancels-star-wars-outlaws-sequel)
 * 📰 [Halo Infinite Esports Update | Halo - Official Site (en) - Halo Waypoint](https://www.halowaypoint.com/news/halo-infinite-hcs-update)
-* 📰 [Sony is hiring to expand "PlayStation Studios games beyond PlayStation hardwa...](https://www.windowscentral.com/gaming/sony-is-hiring-to-expand-playstation-studios-games-beyond-playstation-hardware-including-xbox-steam-nintendo-switch-and-more)
-* 📰 [Fresh Pixel 10 leak shows off the series in more than just Moonstone - Androi...](https://www.androidauthority.com/pixel-10-series-fresh-renders-3581248/)
+* 📰 [Poll: So, Will You Be Getting Super Mario Party Jamboree For Switch 2? - Nint...](https://www.nintendolife.com/news/2025/07/poll-so-will-you-be-getting-super-mario-party-jamboree-for-switch-2)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -161,6 +161,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-27 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-07-27 12:55 </sub>
 </div>
 
