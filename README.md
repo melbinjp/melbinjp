@@ -35,7 +35,9 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 * **Jupyter Notebook**
 * **CSS**
 
-**📦 Other Technologies:** automation
+**🤖 AI & Machine Learning:** ai
+**🌐 Web Development:** api
+**📦 Other Technologies:** mcp, microservice, automation
 <!-- CORE_COMPETENCIES_END -->
 
 <details>
@@ -72,8 +74,8 @@ A multi-threaded video surveillance system for capturing and processing video fr
 
 **Primary Tech:** `Python`
 
-### 🚀 [Lora_trainer](https://github.com/melbinjp/Lora_trainer)
-A project to make lora training just easy for anyone
+### 🚀 [DocQA_api](https://github.com/melbinjp/DocQA_api)
+A MCP (Model Context Protocol) compatible tool. This can take documents or URLs along with questions and return relevant answers with the context f...
 
 **Primary Tech:** `Python`
 <!-- FEATURED_PROJECTS_END -->
@@ -92,15 +94,15 @@ A project to make lora training just easy for anyone
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
-* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [DocQA_api](https://github.com/melbinjp/DocQA_api) - RAG Chat with Documents API with MCP compatibility
-* [DocQA](https://github.com/melbinjp/DocQA) - A rag to chat about any pdf or URL that you have.
 * [Utily](https://github.com/melbinjp/Utily)
+* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
+* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Transcribe-Realtime-](https://github.com/melbinjp/Transcribe-Realtime-) - Transcribe audio files from a web page on any device hope...
 <!-- REPO_LIST_END -->
@@ -110,7 +112,7 @@ A project to make lora training just easy for anyone
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -132,9 +134,9 @@ A project to make lora training just easy for anyone
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Ubisoft Reportedly Cancels Star Wars Outlaws Sequel - Nintendo Life](https://www.nintendolife.com/news/2025/07/ubisoft-reportedly-cancels-star-wars-outlaws-sequel)
-* 📰 [Halo Infinite Esports Update | Halo - Official Site (en) - Halo Waypoint](https://www.halowaypoint.com/news/halo-infinite-hcs-update)
-* 📰 [Poll: So, Will You Be Getting Super Mario Party Jamboree For Switch 2? - Nint...](https://www.nintendolife.com/news/2025/07/poll-so-will-you-be-getting-super-mario-party-jamboree-for-switch-2)
+* 📰 [Fortnite OG live event - our live coverage of the Blast Off rocket launch as ...](https://www.techradar.com/news/live/fortnite-og-live-event-blast-off)
+* 📰 [A father buys a new gaming PC for his son for $1,200, not realizing that the ...](https://evidencenetwork.ca/a-father-buys-a-new-gaming-pc-for-his-son-for-1200-not-realizing-that-the-hardware-installed-on-it-is-over-10-years-old/)
+* 📰 [iPhone 17 Pro Launching in Two Months With These 16 New Features - MacRumors](https://www.macrumors.com/2025/07/26/iphone-17-pro-expected-features/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -161,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-27 12:55 </sub>
+  <sub>Last updated: Last updated: 2025-07-27 18:37 </sub>
 </div>
 
