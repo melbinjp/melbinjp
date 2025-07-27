@@ -92,17 +92,17 @@ A project to make lora training just easy for anyone
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [chat-with-doc-api](https://github.com/melbinjp/chat-with-doc-api) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [chat_with_a_doc](https://github.com/melbinjp/chat_with_a_doc) - _last updated 2025-07-14_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [chat-with-doc-api](https://github.com/melbinjp/chat-with-doc-api) - RAG Chat with Documents API with MCP compatibility
 * [Utily](https://github.com/melbinjp/Utily)
 * [chat_with_a_doc](https://github.com/melbinjp/chat_with_a_doc) - A rag to chat about any pdf or URL that you have.
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Transcribe-Realtime-](https://github.com/melbinjp/Transcribe-Realtime-) - Transcribe audio files from a web page on any device hope...
-* [favicon](https://github.com/melbinjp/favicon)
 <!-- REPO_LIST_END -->
 
 ---
@@ -110,7 +110,7 @@ A project to make lora training just easy for anyone
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -132,9 +132,9 @@ A project to make lora training just easy for anyone
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Elden Ring Nightreign's Most Requested Feature Is Finally Coming Later This M...](https://kotaku.com/elden-ring-nightreign-duos-mode-option-patch-1-02-ps5-1851786981)
-* 📰 [Pixel Buds Pro 2 join the ‘Moonstone’ party in new leak - 9to5Google](http://9to5google.com/2025/07/25/pixel-buds-2-pro-join-the-moonstone-party/)
-* 📰 [Nintendo's LEGO Game Boy Officially Revealed, Releasing October 2025 - Ninten...](https://www.nintendolife.com/news/2025/07/nintendos-lego-game-boy-officially-revealed-releasing-october-2025)
+* 📰 [Halo Infinite Esports Update | Halo - Official Site (en) - Halo Waypoint](https://www.halowaypoint.com/news/halo-infinite-hcs-update)
+* 📰 [Sony is hiring to expand "PlayStation Studios games beyond PlayStation hardwa...](https://www.windowscentral.com/gaming/sony-is-hiring-to-expand-playstation-studios-games-beyond-playstation-hardware-including-xbox-steam-nintendo-switch-and-more)
+* 📰 [Fresh Pixel 10 leak shows off the series in more than just Moonstone - Androi...](https://www.androidauthority.com/pixel-10-series-fresh-renders-3581248/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -161,6 +161,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-26 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-07-27 02:34 </sub>
 </div>
 
