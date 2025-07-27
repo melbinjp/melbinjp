@@ -92,14 +92,14 @@ A project to make lora training just easy for anyone
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [chat-with-doc-api](https://github.com/melbinjp/chat-with-doc-api) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [chat-with-doc-api](https://github.com/melbinjp/chat-with-doc-api) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [chat-with-doc-api](https://github.com/melbinjp/chat-with-doc-api) - RAG Chat with Documents API with MCP compatibility
 * [Utily](https://github.com/melbinjp/Utily)
+* [chat-with-doc-api](https://github.com/melbinjp/chat-with-doc-api) - RAG Chat with Documents API with MCP compatibility
 * [chat_with_a_doc](https://github.com/melbinjp/chat_with_a_doc) - A rag to chat about any pdf or URL that you have.
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Transcribe-Realtime-](https://github.com/melbinjp/Transcribe-Realtime-) - Transcribe audio files from a web page on any device hope...
@@ -116,12 +116,12 @@ A project to make lora training just easy for anyone
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg" alt="Globular Cluster Omega Centauri" 
+  <a href="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg" alt="Lightning over the Volcano of Water" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Globular Cluster Omega Centauri</em> • NASA APOD</p>
+<p align="center"><em>Lightning over the Volcano of Water</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -161,6 +161,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-27 02:34 </sub>
+  <sub>Last updated: Last updated: 2025-07-27 06:40 </sub>
 </div>
 
