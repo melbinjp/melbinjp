@@ -94,17 +94,17 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [AV-Recorder](https://github.com/melbinjp/AV-Recorder) - _last updated today_
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 * [Utily](https://github.com/melbinjp/Utily)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [voice_notes](https://github.com/melbinjp/voice_notes)
-* [Transcribe-Realtime-](https://github.com/melbinjp/Transcribe-Realtime-) - Transcribe audio files from a web page on any device hope...
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [What on earth happened to the Games Workshop logo? - Creative Bloq](https://www.creativebloq.com/design/branding/what-on-earth-happened-to-the-games-workshop-logo)
-* 📰 [Not in his 135,000 sq.ft office but video game billionaire Gabe Newell works ...](https://luxurylaunches.com/transport/gabe-newell-working-on-his-superyacht-07272025.php)
-* 📰 [Steam Users Are Banding Together To Contact Visa Over Removal Of Adult Games ...](https://www.thegamer.com/steam-gaming-industry-visa-payment-processors-adult-games-banned/)
+* 📰 [Fans are once again accusing Activision Blizzard of using AI-generated art in...](https://www.eurogamer.net/fans-are-once-again-accusing-activision-blizzard-of-using-ai-generated-art-in-diablo-immortal-x-hearthstone-event-marketing-materials)
+* 📰 [Rumor: iPhone 17 Pro could have three unexpected camera upgrades - 9to5Mac](https://9to5mac.com/2025/07/27/iphone-17-pro-camera-upgrades/)
+* 📰 [I finally found the perfect note-taking app after years of switching back and...](https://www.androidpolice.com/found-perfect-note-taking-app/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-28 13:01 </sub>
+  <sub>Last updated: Last updated: 2025-07-28 18:42 </sub>
 </div>
 
