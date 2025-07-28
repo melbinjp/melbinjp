@@ -94,14 +94,14 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [Utily](https://github.com/melbinjp/Utily)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
+* [Utily](https://github.com/melbinjp/Utily)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Transcribe-Realtime-](https://github.com/melbinjp/Transcribe-Realtime-) - Transcribe audio files from a web page on any device hope...
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo denies Mario and Peach are hooking up, basically daring internet to ...](https://www.avclub.com/nintendo-denies-mario-and-peach-are-hooking-up)
-* 📰 [Poll: So, Have You Tried Out Pokémon Friends On Switch Or Mobile Yet? - Ninte...](https://www.nintendolife.com/news/2025/07/poll-so-have-you-tried-out-pokemon-friends-on-switch-or-mobile-yet)
-* 📰 [Xbox's Gears of War: E-Day Seemingly in Development for PS5 - Push Square](https://www.pushsquare.com/news/2025/07/xboxs-gears-of-war-e-day-seemingly-in-development-for-ps5)
+* 📰 [What on earth happened to the Games Workshop logo? - Creative Bloq](https://www.creativebloq.com/design/branding/what-on-earth-happened-to-the-games-workshop-logo)
+* 📰 [Not in his 135,000 sq.ft office but video game billionaire Gabe Newell works ...](https://luxurylaunches.com/transport/gabe-newell-working-on-his-superyacht-07272025.php)
+* 📰 [Steam Users Are Banding Together To Contact Visa Over Removal Of Adult Games ...](https://www.thegamer.com/steam-gaming-industry-visa-payment-processors-adult-games-banned/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-28 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-07-28 13:01 </sub>
 </div>
 
