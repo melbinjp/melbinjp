@@ -113,17 +113,6 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 
 <!-- INSPIRATION_START -->
 > "First, solve the problem. Then, write the code." — John Johnson
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg" alt="Lightning over the Volcano of Water" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Lightning over the Volcano of Water</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Nintendo denies Mario and Peach are hooking up, basically daring internet to ...](https://www.avclub.com/nintendo-denies-mario-and-peach-are-hooking-up)
+* 📰 [Poll: So, Have You Tried Out Pokémon Friends On Switch Or Mobile Yet? - Ninte...](https://www.nintendolife.com/news/2025/07/poll-so-have-you-tried-out-pokemon-friends-on-switch-or-mobile-yet)
 * 📰 [Xbox's Gears of War: E-Day Seemingly in Development for PS5 - Push Square](https://www.pushsquare.com/news/2025/07/xboxs-gears-of-war-e-day-seemingly-in-development-for-ps5)
-* 📰 [Reliable leaker tips mind-blowing Samsung Galaxy S26 Edge battery size and ot...](https://www.phonearena.com/news/samsung-galaxy-s26-edge-battery-size-charging-speeds-early-launch-rumor_id172651)
-* 📰 [Data Shows Destiny 2 Edge of Fate Campaign Completions Down Nearly 70% Compar...](https://thegamepost.com/data-destiny-2-edge-of-fate-campaign-completions-down-the-final-shape/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-28 02:30 </sub>
+  <sub>Last updated: Last updated: 2025-07-28 06:45 </sub>
 </div>
 
