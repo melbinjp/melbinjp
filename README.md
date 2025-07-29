@@ -94,14 +94,14 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [AV-Recorder](https://github.com/melbinjp/AV-Recorder) - _last updated today_
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
+* 🔨 Working on [AV-Recorder](https://github.com/melbinjp/AV-Recorder) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
+* [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [Utily](https://github.com/melbinjp/Utily)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [voice_notes](https://github.com/melbinjp/voice_notes)
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [UK Charts: No Prizes For Guessing Who Overtook Donkey Kong Bananza This Week ...](https://www.nintendolife.com/news/2025/07/uk-charts-no-prizes-for-guessing-who-overtook-donkey-kong-bananza-this-week)
-* 📰 [These 3 Zodiac Signs Have A Challenging Week Ahead, But Soon Everything Will ...](https://www.yourtango.com/2025388606/zodiac-signs-challenging-week-worth-it-july-28-august-3-2025)
-* 📰 [Google failed to warn 10 million of Turkey earthquake - Yahoo Home](https://www.bbc.com/news/articles/c77v2kx304go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D)
+* 📰 [Microsoft starts rolling out Xbox age verification in the UK - The Verge](https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features)
+* 📰 [Fans Think Nintendo May Have Accidentally Revealed Multiplayer For Pokémon Le...](https://kotaku.com/pokemon-legends-z-a-link-play-multiplayer-switch-2-1851787158)
+* 📰 [Another Google Pixel 6a catches fire after battery-nerfing update - Ars Technica](https://arstechnica.com/gadgets/2025/07/another-google-pixel-6a-catches-fire-after-battery-nerfing-update/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-29 13:01 </sub>
+  <sub>Last updated: Last updated: 2025-07-29 18:43 </sub>
 </div>
 
