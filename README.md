@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Fans are once again accusing Activision Blizzard of using AI-generated art in...](https://www.eurogamer.net/fans-are-once-again-accusing-activision-blizzard-of-using-ai-generated-art-in-diablo-immortal-x-hearthstone-event-marketing-materials)
-* 📰 [Rumor: iPhone 17 Pro could have three unexpected camera upgrades - 9to5Mac](https://9to5mac.com/2025/07/27/iphone-17-pro-camera-upgrades/)
-* 📰 [I finally found the perfect note-taking app after years of switching back and...](https://www.androidpolice.com/found-perfect-note-taking-app/)
+* 📰 [The Era Of Nintendo Switch 2 Game Deals On Woot Has Begun - GameSpot](https://www.gamespot.com/articles/woot-nintendo-switch-2-game-deals/1100-6533471/)
+* 📰 [World's Most Common Pain Relief Drug May Induce Risky Behavior, Research Sugg...](https://www.sciencealert.com/worlds-most-common-pain-relief-drug-may-induce-risky-behavior-research-suggests)
+* 📰 [Google admits it failed to warn 10 million of Turkey earthquake - BBC](https://www.bbc.com/news/articles/c77v2kx304go)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-28 18:42 </sub>
+  <sub>Last updated: Last updated: 2025-07-29 02:35 </sub>
 </div>
 
