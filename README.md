@@ -94,16 +94,16 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated today_
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
-* [Utily](https://github.com/melbinjp/Utily)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 <!-- REPO_LIST_END -->
 
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Switch 2 and Switch update 20.3.0 out now, patch notes - Nintendo Ev...](https://nintendoeverything.com/nintendo-switch-2-and-switch-update-20-3-0-out-now-patch-notes/)
-* 📰 [Mario Paint scribbles into the Super NES collection - Nintendo](https://www.nintendo.com/us/whatsnew/mario-paint-scribbles-into-the-super-nes-collection/)
-* 📰 [Xbox sale round-up July 29, 2025 - TrueAchievements](https://www.trueachievements.com/n59779/xbox-sale-roundup-july-29-2025)
+* 📰 [Warner Bros. Games is working on another live-service game, despite Suicide S...](https://www.eurogamer.net/warner-bros-games-is-working-on-another-live-service-game-despite-suicide-squad-flop)
+* 📰 [Nintendo Announces New Donkey Kong Maximus Cup Event For Tetris 99 - Nintendo...](https://www.nintendolife.com/news/2025/07/nintendo-announces-new-donkey-kong-maximus-cup-event-for-tetris-99)
+* 📰 [Battlefield 6 Maps Leak: All 11 Multiplayer Maps and 4 Remasters Revealed Via...](https://thegamepost.com/battlefield-6-maps-leak-all-multiplayer-maps-remasters-revealed/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-30 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-07-30 13:01 </sub>
 </div>
 
