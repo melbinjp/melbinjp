@@ -94,17 +94,17 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated today_
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
-* 🔨 Working on [AV-Recorder](https://github.com/melbinjp/AV-Recorder) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [favicon](https://github.com/melbinjp/favicon)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [Utily](https://github.com/melbinjp/Utily)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
-* [voice_notes](https://github.com/melbinjp/voice_notes)
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Microsoft starts rolling out Xbox age verification in the UK - The Verge](https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features)
-* 📰 [Fans Think Nintendo May Have Accidentally Revealed Multiplayer For Pokémon Le...](https://kotaku.com/pokemon-legends-z-a-link-play-multiplayer-switch-2-1851787158)
-* 📰 [Another Google Pixel 6a catches fire after battery-nerfing update - Ars Technica](https://arstechnica.com/gadgets/2025/07/another-google-pixel-6a-catches-fire-after-battery-nerfing-update/)
+* 📰 [Xbox sale round-up July 29, 2025 - TrueAchievements](https://www.trueachievements.com/n59779/xbox-sale-roundup-july-29-2025)
+* 📰 [iPhone 17 Pro Spotted in the Wild? - MacRumors](https://www.macrumors.com/2025/07/28/iphone-17-pro-possibly-spotted-in-the-wild/)
+* 📰 [Earthbound -Style Fan Remake Of The Original Mother Might Finally Launch 19 Y...](https://kotaku.com/earthbound-beginnings-remake-romhack-nintendo-trailer-1851787185)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-29 18:43 </sub>
+  <sub>Last updated: Last updated: 2025-07-30 02:27 </sub>
 </div>
 
