@@ -118,12 +118,12 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2507/Helix_GC_2332.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2507/Helix_GC_2332.jpg" alt="A Helix Nebula Deep Field" 
+  <a href="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg" alt="Coronal Loops on the Sun" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>A Helix Nebula Deep Field</em> • NASA APOD</p>
+<p align="center"><em>Coronal Loops on the Sun</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Nintendo Switch 2 and Switch update 20.3.0 out now, patch notes - Nintendo Ev...](https://nintendoeverything.com/nintendo-switch-2-and-switch-update-20-3-0-out-now-patch-notes/)
+* 📰 [Mario Paint scribbles into the Super NES collection - Nintendo](https://www.nintendo.com/us/whatsnew/mario-paint-scribbles-into-the-super-nes-collection/)
 * 📰 [Xbox sale round-up July 29, 2025 - TrueAchievements](https://www.trueachievements.com/n59779/xbox-sale-roundup-july-29-2025)
-* 📰 [iPhone 17 Pro Spotted in the Wild? - MacRumors](https://www.macrumors.com/2025/07/28/iphone-17-pro-possibly-spotted-in-the-wild/)
-* 📰 [Earthbound -Style Fan Remake Of The Original Mother Might Finally Launch 19 Y...](https://kotaku.com/earthbound-beginnings-remake-romhack-nintendo-trailer-1851787185)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-30 02:27 </sub>
+  <sub>Last updated: Last updated: 2025-07-30 06:45 </sub>
 </div>
 
