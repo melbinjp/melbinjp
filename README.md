@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Warner Bros. Games is working on another live-service game, despite Suicide S...](https://www.eurogamer.net/warner-bros-games-is-working-on-another-live-service-game-despite-suicide-squad-flop)
-* 📰 [Nintendo Announces New Donkey Kong Maximus Cup Event For Tetris 99 - Nintendo...](https://www.nintendolife.com/news/2025/07/nintendo-announces-new-donkey-kong-maximus-cup-event-for-tetris-99)
-* 📰 [Battlefield 6 Maps Leak: All 11 Multiplayer Maps and 4 Remasters Revealed Via...](https://thegamepost.com/battlefield-6-maps-leak-all-multiplayer-maps-remasters-revealed/)
+* 📰 [iOS 18.6 now available for iPhone, here’s what’s new - 9to5Mac](https://9to5mac.com/2025/07/29/ios-18-6-now-available-for-iphone-heres-whats-new/)
+* 📰 [Google’s NotebookLM rolls out Video Overviews - TechCrunch](https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/)
+* 📰 [FOMO won, I own a Switch 2 now - Polygon](https://www.polygon.com/nintendo-switch-2/617002/fomo-buying-switch-tariffs-price-increase)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-30 13:01 </sub>
+  <sub>Last updated: Last updated: 2025-07-30 18:41 </sub>
 </div>
 
