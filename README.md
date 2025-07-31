@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [iOS 18.6 now available for iPhone, here’s what’s new - 9to5Mac](https://9to5mac.com/2025/07/29/ios-18-6-now-available-for-iphone-heres-whats-new/)
-* 📰 [Google’s NotebookLM rolls out Video Overviews - TechCrunch](https://techcrunch.com/2025/07/29/googles-notebooklm-rolls-out-video-overviews/)
-* 📰 [FOMO won, I own a Switch 2 now - Polygon](https://www.polygon.com/nintendo-switch-2/617002/fomo-buying-switch-tariffs-price-increase)
+* 📰 [Mario Kart World 1.2.0 update out now, patch notes - 3 lap courses appear mor...](https://nintendoeverything.com/mario-kart-world-1-2-0-update-out-now-patch-notes-3-lap-courses-appear-more-often-for-voting-cpu-nerfed-more/)
+* 📰 [Leaker shares clearest look yet at all the iPhone 17 dummy units - 9to5Mac](https://9to5mac.com/2025/07/29/sonny-dickson-shares-clearest-look-yet-at-the-entire-iphone-17-lineup/)
+* 📰 [Plagiarism claims hit Pokémon TCG Pocket as fans say Ho-Oh art was copied - P...](https://www.polygon.com/pokemon/617134/pokemon-tcg-pocket-ho-oh-card-art-plagiarism)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-30 18:41 </sub>
+  <sub>Last updated: Last updated: 2025-07-31 02:26 </sub>
 </div>
 
