@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Flaw in Gemini CLI coding tool could allow hackers to run nasty commands - Ar...](https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/)
+* 📰 [NIS Accidentally Reveals Upcoming Switch 2 Game, Sparking Even More Direct Sp...](https://www.nintendolife.com/news/2025/07/nis-accidentally-reveals-upcoming-switch-2-game-sparking-even-more-direct-speculation)
 * 📰 [Super Mario 3D World + Bowser's Fury Recieves Another Switch 2 Update - Ninte...](https://www.nintendolife.com/news/2025/07/super-mario-3d-world-plus-bowsers-fury-recieves-another-switch-2-update)
-* 📰 [Switch Online's SNES Update Has Apparently Upgraded The CRT Filter - Nintendo...](https://www.nintendolife.com/news/2025/07/switch-onlines-snes-update-has-apparently-upgraded-the-crt-filter)
-* 📰 [Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update...](https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-31 06:42 </sub>
+  <sub>Last updated: Last updated: 2025-07-31 12:59 </sub>
 </div>
 
