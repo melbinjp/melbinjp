@@ -94,8 +94,8 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
+* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Flaw in Gemini CLI coding tool could allow hackers to run nasty commands - Ar...](https://arstechnica.com/security/2025/07/flaw-in-gemini-cli-coding-tool-allowed-hackers-to-run-nasty-commands-on-user-devices/)
-* 📰 [NIS Accidentally Reveals Upcoming Switch 2 Game, Sparking Even More Direct Sp...](https://www.nintendolife.com/news/2025/07/nis-accidentally-reveals-upcoming-switch-2-game-sparking-even-more-direct-speculation)
-* 📰 [Super Mario 3D World + Bowser's Fury Recieves Another Switch 2 Update - Ninte...](https://www.nintendolife.com/news/2025/07/super-mario-3d-world-plus-bowsers-fury-recieves-another-switch-2-update)
+* 📰 [You can hide an AirTag in Skechers’ new kids’ shoes - The Verge](https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking)
+* 📰 [Apex Legends Season 26 early patch notes: New Wildcard mode, Legend reworks a...](https://www.dexerto.com/apex-legends/apex-legends-season-26-patch-notes-new-wildcard-mode-legend-reworks-and-more-3231792/)
+* 📰 [DJI finally brings its impressive Amflow e-bike to US trails - The Verge](https://news.google.com/rss/articles/CBMidkFVX3lxTFBJOTBpU2tQaHhWMjFHSTJRZzNMNzJyTzdhY0dHUlZPSk9ldDQ1bnNqWWd3bnhxenhPdzc4Q1BSMHh1YWFET04xc2pfaWd4MWZjV2tldkdrTHNUOEJOWnA1d25yTHlqNWtYVk1nVUZxQlV3a2lIVFE?oc=5)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-31 12:59 </sub>
+  <sub>Last updated: Last updated: 2025-07-31 18:41 </sub>
 </div>
 
