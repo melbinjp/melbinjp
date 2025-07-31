@@ -118,12 +118,12 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg" alt="Coronal Loops on the Sun" 
+  <a href="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2507/2025rbsAnnotated1024.png" alt="Supernova 2025rbs in NGC 7331" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Coronal Loops on the Sun</em> • NASA APOD</p>
+<p align="center"><em>Supernova 2025rbs in NGC 7331</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Mario Kart World 1.2.0 update out now, patch notes - 3 lap courses appear mor...](https://nintendoeverything.com/mario-kart-world-1-2-0-update-out-now-patch-notes-3-lap-courses-appear-more-often-for-voting-cpu-nerfed-more/)
-* 📰 [Leaker shares clearest look yet at all the iPhone 17 dummy units - 9to5Mac](https://9to5mac.com/2025/07/29/sonny-dickson-shares-clearest-look-yet-at-the-entire-iphone-17-lineup/)
-* 📰 [Plagiarism claims hit Pokémon TCG Pocket as fans say Ho-Oh art was copied - P...](https://www.polygon.com/pokemon/617134/pokemon-tcg-pocket-ho-oh-card-art-plagiarism)
+* 📰 [Super Mario 3D World + Bowser's Fury Recieves Another Switch 2 Update - Ninte...](https://www.nintendolife.com/news/2025/07/super-mario-3d-world-plus-bowsers-fury-recieves-another-switch-2-update)
+* 📰 [Switch Online's SNES Update Has Apparently Upgraded The CRT Filter - Nintendo...](https://www.nintendolife.com/news/2025/07/switch-onlines-snes-update-has-apparently-upgraded-the-crt-filter)
+* 📰 [Nintendo Finally Throws Mario Kart World Players A Bone In Its Biggest Update...](https://kotaku.com/mario-kart-world-patch-notes-1-2-0-three-lap-cpu-nerf-1851787286)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-07-31 02:26 </sub>
+  <sub>Last updated: Last updated: 2025-07-31 06:42 </sub>
 </div>
 
