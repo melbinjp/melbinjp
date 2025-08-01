@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [DJI is bringing its e-bikes to the U.S. market with a jaw-dropping price tag ...](https://mashable.com/article/dji-amflow-e-bikes-united-states-launch)
+* 📰 [Nintendo Direct Partner Showcase Announced For Today, 31st July 2025 - Ninten...](https://www.nintendolife.com/news/2025/07/nintendo-direct-partner-showcase-announced-for-today-31st-july-2025)
+* 📰 [6 of the 10 Best-Selling Games on PlayStation Last Quarter in the U.S. Were P...](https://www.ign.com/articles/6-of-the-10-best-selling-games-on-playstation-last-quarter-in-the-us-were-published-by-microsoft)
 * 📰 [Marvel Rivals Season 3.5 Adds Blade, Resource Rumble Mode, and More in August...](https://www.ign.com/articles/marvel-rivals-season-35-adds-blade-resource-rumble-mode-and-more-in-august)
-* 📰 [Reaction: PS Plus Essential Deserves Much More Credit for Its Free PS5, PS4 G...](https://www.pushsquare.com/features/reaction-ps-plus-essential-deserves-much-more-credit-for-its-free-ps5-ps4-games-in-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-01 06:46 </sub>
+  <sub>Last updated: Last updated: 2025-08-01 13:00 </sub>
 </div>
 
