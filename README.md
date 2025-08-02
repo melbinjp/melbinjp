@@ -95,7 +95,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated today_
+* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google Phone beta expands rollout of Material 3 Expressive redesign - 9to5Google](http://9to5google.com/2025/07/31/google-phone-m3-expressive-expands/)
-* 📰 [The Adventures of Elliot: The Millennium Tales Debut Demo - Nintendo](https://www.nintendo.com/us/store/products/the-adventures-of-elliot-the-millennium-tales-debut-demo-switch-2/)
-* 📰 [Nintendo U-Turns on Mario Kart World Change That Forced More Open-World Drivi...](https://www.ign.com/articles/nintendo-u-turns-on-mario-kart-world-change-that-forced-more-open-world-driving-as-it-increases-chance-of-lap-type-races)
+* 📰 [DJI won’t sell you an Osmo 360 in the US — but these retailers will - The Verge](https://www.theverge.com/news/716996/dji-osmo-360-no-us-launch-bh-adorama)
+* 📰 [Battlefield 6's Godot-powered UGC mode is the heart of EA's big live service ...](https://www.gamedeveloper.com/business/battlefield-6-s-ugc-mode-is-the-heart-of-ea-s-live-service-aspirations-for-the-series)
+* 📰 [Shinobi: Art of Vengeance Has a Free Playable Demo Available Right Now on PS5...](https://www.pushsquare.com/news/2025/07/shinobi-art-of-vengeance-has-a-free-playable-demo-available-right-now-on-ps5-ps4)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-01 18:41 </sub>
+  <sub>Last updated: Last updated: 2025-08-02 02:20 </sub>
 </div>
 
