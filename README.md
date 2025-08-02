@@ -112,18 +112,18 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg" alt="Small Dark Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies.jpg" alt="Fireflies, Meteors, and Milky Way" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Small Dark Nebula</em> • NASA APOD</p>
+<p align="center"><em>Fireflies, Meteors, and Milky Way</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -136,7 +136,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [DJI won’t sell you an Osmo 360 in the US — but these retailers will - The Verge](https://www.theverge.com/news/716996/dji-osmo-360-no-us-launch-bh-adorama)
 * 📰 [Battlefield 6's Godot-powered UGC mode is the heart of EA's big live service ...](https://www.gamedeveloper.com/business/battlefield-6-s-ugc-mode-is-the-heart-of-ea-s-live-service-aspirations-for-the-series)
-* 📰 [Shinobi: Art of Vengeance Has a Free Playable Demo Available Right Now on PS5...](https://www.pushsquare.com/news/2025/07/shinobi-art-of-vengeance-has-a-free-playable-demo-available-right-now-on-ps5-ps4)
+* 📰 [We Know What Your Kids Are Watching This Summer - Vulture](http://www.vulture.com/article/nielsen-streaming-ratings-kids-tv-june-2025.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-02 02:20 </sub>
+  <sub>Last updated: Last updated: 2025-08-02 06:38 </sub>
 </div>
 
