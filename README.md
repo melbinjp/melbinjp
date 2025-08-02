@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [DJI won’t sell you an Osmo 360 in the US — but these retailers will - The Verge](https://www.theverge.com/news/716996/dji-osmo-360-no-us-launch-bh-adorama)
-* 📰 [Battlefield 6's Godot-powered UGC mode is the heart of EA's big live service ...](https://www.gamedeveloper.com/business/battlefield-6-s-ugc-mode-is-the-heart-of-ea-s-live-service-aspirations-for-the-series)
-* 📰 [We Know What Your Kids Are Watching This Summer - Vulture](http://www.vulture.com/article/nielsen-streaming-ratings-kids-tv-june-2025.html)
+* 📰 [Battlefield 6 Preorders Are Live For $70 With Exclusive Bonuses - GameSpot](https://www.gamespot.com/articles/battlefield-6-preorder-guide-ps5-xbox-physical-edition-retailer-bonuses/1100-6533616/)
+* 📰 [Clock in and Lock in for Double Rewards on Odd Jobs - Rockstar Games](https://www.rockstargames.com/newswire/article/513ok7k5aa315o/clock-in-and-lock-in-for-double-rewards-on-odd-jobs)
+* 📰 [Your public ChatGPT queries are getting indexed by Google and other search en...](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-02 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-08-02 12:54 </sub>
 </div>
 
