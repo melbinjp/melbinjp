@@ -94,15 +94,15 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
-* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated 2 days ago_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 * [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
-* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 <!-- REPO_LIST_END -->
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Fall Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint](https://www.halowaypoint.com/news/fall-update-2025-halo-infinite)
-* 📰 [iOS 26: 10+ Features Coming to the Phone App - MacRumors](https://www.macrumors.com/guide/ios-26-phone-app/)
-* 📰 [Anthropic Revokes OpenAI's Access to Claude - WIRED](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
+* 📰 [There’s another risk to your heart that’s getting new attention - The Washing...](https://www.washingtonpost.com/health/2025/08/02/heart-lipoprotein-vascular-disease/)
+* 📰 [Hollow Knight: Silksong - The Story Behind the Insanely Long Wait For a Game ...](https://www.ign.com/articles/hollow-knight-silksong-the-story-behind-the-insanely-long-wait-clown-meme)
+* 📰 [Gmail's New Feature Lets You Clean Up Your Inbox in a Couple of Taps - CNET](https://www.cnet.com/tech/services-and-software/gmails-new-feature-lets-you-clean-up-your-inbox-in-a-couple-of-taps/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-03 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-08-03 18:39 </sub>
 </div>
 
