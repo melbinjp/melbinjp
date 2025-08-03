@@ -118,12 +118,12 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies.jpg" alt="Fireflies, Meteors, and Milky Way" 
+  <a href="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif" alt="Milky Way and Exploding Meteor" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Fireflies, Meteors, and Milky Way</em> • NASA APOD</p>
+<p align="center"><em>Milky Way and Exploding Meteor</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-03 02:36 </sub>
+  <sub>Last updated: Last updated: 2025-08-03 06:39 </sub>
 </div>
 
