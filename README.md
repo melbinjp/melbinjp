@@ -95,7 +95,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated yesterday_
+* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated 2 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [ChatGPT users shocked to learn their chats were in Google search results - Ar...](https://arstechnica.com/tech-policy/2025/08/chatgpt-users-shocked-to-learn-their-chats-were-in-google-search-results/)
-* 📰 [Director’s Take: The More You Know — Overwatch 2 - Blizzard News](https://news.blizzard.com/en-us/article/24226466/directors-take-the-more-you-know)
-* 📰 [Alleged PS6 Leak Gives First Clues On Price, Power, And New Sony Handheld - K...](https://kotaku.com/ps6-leak-specs-sony-handheld-price-release-date-2000614206)
+* 📰 [Fall Update 2025 | Halo Infinite | Halo - Official Site (en) - Halo Waypoint](https://www.halowaypoint.com/news/fall-update-2025-halo-infinite)
+* 📰 [Anthropic Revokes OpenAI's Access to Claude - WIRED](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
+* 📰 [EA Shutting Down Four Games Forever in October - ComicBook.com](http://comicbook.com/gaming/news/ea-electronic-arts-games-delistings/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-02 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-08-03 02:36 </sub>
 </div>
 
