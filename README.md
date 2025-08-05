@@ -94,8 +94,8 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated yesterday_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 2 days ago_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 2 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Wait, What? Titan Quest II Is A Thing, And Is Out In Early Access? - Kotaku](https://kotaku.com/titan-quest-2-early-access-out-now-2000614459)
-* 📰 [Metroid Prime 4: Beyond Playable At Fan Expo Canada This Month - Nintendo Life](https://www.nintendolife.com/news/2025/08/metroid-prime-4-beyond-playable-at-fan-expo-canada-this-month)
-* 📰 [Xbox Game Pass adds cute indie adventure game soon - TrueAchievements](https://www.trueachievements.com/news/herdling-xbox-game-pass-coming-soon)
+* 📰 [Google Pixel 10 ‘Soon’ teaser goes hard on iPhone’s AI Siri delays [Video] - ...](http://9to5google.com/2025/08/04/pixel-10-soon-teaser/)
+* 📰 [Xbox Game Pass Is Losing Three Games This Month Including One Of The Best Gam...](https://www.gamespot.com/gallery/xbox-game-pass-is-losing-three-games-this-month-including-one-of-the-best-games-of-2024/2900-6840/)
+* 📰 [8BitDo’s first wireless Xbox controller is a surprise Rare collaboration - Th...](https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-05 13:02 </sub>
+  <sub>Last updated: Last updated: 2025-08-05 18:45 </sub>
 </div>
 
