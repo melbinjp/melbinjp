@@ -118,12 +118,12 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_3755.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_3755.jpg" alt="NGC 6072: A Complex Planetary Nebula from Webb" 
+  <a href="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_1948.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_1948.jpg" alt="Meteor before Galaxy" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>NGC 6072: A Complex Planetary Nebula from Webb</em> • NASA APOD</p>
+<p align="center"><em>Meteor before Galaxy</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Patagonia just updated its Nano Puff Jacket. Here’s how it compares to the or...](https://www.cnn.com/cnn-underscored/outdoors/patagonia-nano-puff-jacket-launch)
-* 📰 [Apex Legends details Nintendo Switch 2 frame rate, resolution - Nintendo Ever...](https://nintendoeverything.com/apex-legends-frame-rate-resolution-switch-2/)
-* 📰 [Apple Sues Movie Theater Chain With Same Name As Exhibitor Plans Expansion - ...](http://www.hollywoodreporter.com/business/business-news/apple-sues-movie-theater-chain-1236337107/)
+* 📰 [Apex Legends Switch 2 Performance And Resolution Upgrade Detailed - Nintendo ...](https://www.nintendolife.com/news/2025/08/apex-legends-switch-2-performance-and-resolution-upgrade-detailed)
+* 📰 [Sagat update and server maintenance times, new content, features and more for...](https://www.eventhubs.com/news/2025/aug/04/sagat-update-details-sf6/)
+* 📰 [One million people claim GOG's FreedomToBuy games in protest of ongoing NSFW ...](https://www.gamesindustry.biz/one-million-people-claim-gogs-freedomtobuy-games-in-protest-of-ongoing-nsfw-game-censorship-row)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-06 02:27 </sub>
+  <sub>Last updated: Last updated: 2025-08-06 06:45 </sub>
 </div>
 
