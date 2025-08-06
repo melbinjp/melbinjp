@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Column | Carolyn Hax: Cheating college ex has changed a lot in six years. Or ...](https://www.washingtonpost.com/advice/2025/08/05/carolyn-hax-cheating-ex-years/)
+* 📰 [People are using ChatGPT to write their text messages - here's how you can te...](https://www.zdnet.com/article/people-are-using-chatgpt-to-write-their-text-messages-heres-how-you-can-tell/)
 * 📰 [Apex Legends Switch 2 Performance And Resolution Upgrade Detailed - Nintendo ...](https://www.nintendolife.com/news/2025/08/apex-legends-switch-2-performance-and-resolution-upgrade-detailed)
-* 📰 [Sagat update and server maintenance times, new content, features and more for...](https://www.eventhubs.com/news/2025/aug/04/sagat-update-details-sf6/)
-* 📰 [One million people claim GOG's FreedomToBuy games in protest of ongoing NSFW ...](https://www.gamesindustry.biz/one-million-people-claim-gogs-freedomtobuy-games-in-protest-of-ongoing-nsfw-game-censorship-row)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-06 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-08-06 13:02 </sub>
 </div>
 
