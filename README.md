@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google Pixel 10 ‘Soon’ teaser goes hard on iPhone’s AI Siri delays [Video] - ...](http://9to5google.com/2025/08/04/pixel-10-soon-teaser/)
-* 📰 [Xbox Game Pass Is Losing Three Games This Month Including One Of The Best Gam...](https://www.gamespot.com/gallery/xbox-game-pass-is-losing-three-games-this-month-including-one-of-the-best-games-of-2024/2900-6840/)
-* 📰 [8BitDo’s first wireless Xbox controller is a surprise Rare collaboration - Th...](https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition)
+* 📰 [Patagonia just updated its Nano Puff Jacket. Here’s how it compares to the or...](https://www.cnn.com/cnn-underscored/outdoors/patagonia-nano-puff-jacket-launch)
+* 📰 [Apex Legends details Nintendo Switch 2 frame rate, resolution - Nintendo Ever...](https://nintendoeverything.com/apex-legends-frame-rate-resolution-switch-2/)
+* 📰 [Apple Sues Movie Theater Chain With Same Name As Exhibitor Plans Expansion - ...](http://www.hollywoodreporter.com/business/business-news/apple-sues-movie-theater-chain-1236337107/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-05 18:45 </sub>
+  <sub>Last updated: Last updated: 2025-08-06 02:27 </sub>
 </div>
 
