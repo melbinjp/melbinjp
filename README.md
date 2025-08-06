@@ -94,8 +94,8 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 2 days ago_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 2 days ago_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 3 days ago_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 3 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Column | Carolyn Hax: Cheating college ex has changed a lot in six years. Or ...](https://www.washingtonpost.com/advice/2025/08/05/carolyn-hax-cheating-ex-years/)
-* 📰 [People are using ChatGPT to write their text messages - here's how you can te...](https://www.zdnet.com/article/people-are-using-chatgpt-to-write-their-text-messages-heres-how-you-can-tell/)
-* 📰 [Apex Legends Switch 2 Performance And Resolution Upgrade Detailed - Nintendo ...](https://www.nintendolife.com/news/2025/08/apex-legends-switch-2-performance-and-resolution-upgrade-detailed)
+* 📰 [Game Pass Jumpstarts August With Assassin’s Creed Mirage - Kotaku](https://kotaku.com/game-pass-august-2025-assassins-creed-mirage-aliens-2000614695)
+* 📰 [DeepMind thinks its new Genie 3 world model presents a stepping stone toward ...](https://techcrunch.com/2025/08/05/deepmind-thinks-genie-3-world-model-presents-stepping-stone-towards-agi/)
+* 📰 [Here's Everything We Know So Far About Phasmophobia's Terrifying New Map, Nel...](https://www.ign.com/articles/heres-everything-we-know-so-far-about-phasmophobias-terrifying-new-map-nells-diner)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-06 13:02 </sub>
+  <sub>Last updated: Last updated: 2025-08-06 18:41 </sub>
 </div>
 
