@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google is rolling out a fix for Pixel back button issues - The Verge](https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16)
-* 📰 [How Virtua Fighter Looks to Bring Innovation and Realism to the 3D Fighting G...](https://www.ign.com/articles/how-virtua-fighter-looks-to-bring-innovation-and-realism-to-the-3d-fighting-genre-evo-2025)
-* 📰 [RIP to the Macintosh HD hard drive icon, 2000–2025 - Ars Technica](https://arstechnica.com/gadgets/2025/08/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025/)
+* 📰 [Here’s the Pixel Watch 4 in all colors from even more angles [Gallery] - 9to5...](http://9to5google.com/2025/08/06/heres-the-pixel-watch-4-in-all-colors-from-even-more-angles-gallery/)
+* 📰 [AirPods 4 now starting within $10 of Prime Day low at $99 shipped via Amazon,...](http://9to5toys.com/2025/08/06/airpods-4-amazon-deals-summer/)
+* 📰 [Evo 2025 featured a ridiculous amount of announcements, so here's everything ...](https://www.eventhubs.com/news/2025/aug/05/every-evo-2025-announcement/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-07 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-08-07 13:02 </sub>
 </div>
 
