@@ -112,18 +112,18 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_1948.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_1948.jpg" alt="Meteor before Galaxy" 
+  <a href="https://apod.nasa.gov/apod/image/2508/DoubleClusterBrechersmall.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/DoubleClusterBrechersmall.jpg" alt="The Double Cluster in Perseus" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Meteor before Galaxy</em> • NASA APOD</p>
+<p align="center"><em>The Double Cluster in Perseus</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Google is rolling out a fix for Pixel back button issues - The Verge](https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16)
+* 📰 [How Virtua Fighter Looks to Bring Innovation and Realism to the 3D Fighting G...](https://www.ign.com/articles/how-virtua-fighter-looks-to-bring-innovation-and-realism-to-the-3d-fighting-genre-evo-2025)
 * 📰 [RIP to the Macintosh HD hard drive icon, 2000–2025 - Ars Technica](https://arstechnica.com/gadgets/2025/08/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025/)
-* 📰 [TP-Link’s new travel router delivers Wi-Fi 7 speeds - The Verge](https://www.theverge.com/news/719334/tp-link-be3600-wifi-7-travel-router-vpn)
-* 📰 [CoD Season 5 Battle Pass Adds Sims And Two New Guns In BO6 And Warzone - Game...](https://www.gamespot.com/gallery/cod-season-5-battle-pass-adds-sims-and-two-new-guns-in-bo6-and-warzone/2900-6852/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-07 02:28 </sub>
+  <sub>Last updated: Last updated: 2025-08-07 06:45 </sub>
 </div>
 
