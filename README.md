@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Game Pass Jumpstarts August With Assassin’s Creed Mirage - Kotaku](https://kotaku.com/game-pass-august-2025-assassins-creed-mirage-aliens-2000614695)
-* 📰 [DeepMind thinks its new Genie 3 world model presents a stepping stone toward ...](https://techcrunch.com/2025/08/05/deepmind-thinks-genie-3-world-model-presents-stepping-stone-towards-agi/)
-* 📰 [Here's Everything We Know So Far About Phasmophobia's Terrifying New Map, Nel...](https://www.ign.com/articles/heres-everything-we-know-so-far-about-phasmophobias-terrifying-new-map-nells-diner)
+* 📰 [RIP to the Macintosh HD hard drive icon, 2000–2025 - Ars Technica](https://arstechnica.com/gadgets/2025/08/rip-to-the-macintosh-hd-hard-drive-icon-2000-2025/)
+* 📰 [TP-Link’s new travel router delivers Wi-Fi 7 speeds - The Verge](https://www.theverge.com/news/719334/tp-link-be3600-wifi-7-travel-router-vpn)
+* 📰 [CoD Season 5 Battle Pass Adds Sims And Two New Guns In BO6 And Warzone - Game...](https://www.gamespot.com/gallery/cod-season-5-battle-pass-adds-sims-and-two-new-guns-in-bo6-and-warzone/2900-6852/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-06 18:41 </sub>
+  <sub>Last updated: Last updated: 2025-08-07 02:28 </sub>
 </div>
 
