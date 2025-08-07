@@ -74,10 +74,10 @@ A multi-threaded video surveillance system for capturing and processing video fr
 
 **Primary Tech:** `Python`
 
-### 🚀 [DocQA_api](https://github.com/melbinjp/DocQA_api)
-A MCP (Model Context Protocol) compatible tool. This can take documents or URLs along with questions and return relevant answers with the context f...
+### 🚀 [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI)
+AI-powered predictive maintenance and driver safety platform for smart mobility.
 
-**Primary Tech:** `Python`
+**Primary Tech:** `HTML`
 <!-- FEATURED_PROJECTS_END -->
 
 ---
@@ -94,17 +94,17 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 3 days ago_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 3 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
+* [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI) - AI-powered predictive maintenance and driver safety platf...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 * [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
-* [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
-* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A MCP (Model Context Protocol) compatible tool. This can take documents or URLs 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Here’s the Pixel Watch 4 in all colors from even more angles [Gallery] - 9to5...](http://9to5google.com/2025/08/06/heres-the-pixel-watch-4-in-all-colors-from-even-more-angles-gallery/)
-* 📰 [AirPods 4 now starting within $10 of Prime Day low at $99 shipped via Amazon,...](http://9to5toys.com/2025/08/06/airpods-4-amazon-deals-summer/)
-* 📰 [Evo 2025 featured a ridiculous amount of announcements, so here's everything ...](https://www.eventhubs.com/news/2025/aug/05/every-evo-2025-announcement/)
+* 📰 [Xbox Is An Increasingly Unstable Platform For Anyone To Invest In - GameSpot](https://www.gamespot.com/articles/xbox-is-an-increasingly-unstable-platform-for-anyone-to-invest-in/1100-6533717/)
+* 📰 [Here's how you can still get a Battlefield 6 multiplayer early access code - ...](https://www.eurogamer.net/heres-how-you-can-still-get-a-battlefield-6-multiplayer-early-access-code)
+* 📰 [Ex-BioWare Dev Wanted Dragon Age 4 Out Before Anthem - Kotaku](https://kotaku.com/anthem-bioware-development-mark-darrah-live-service-2000615972)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-07 13:02 </sub>
+  <sub>Last updated: Last updated: 2025-08-07 18:44 </sub>
 </div>
 
