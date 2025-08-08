@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT - WIRED](https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/)
-* 📰 [Guilty Gear Strive Producer On Lucy, Upcoming Balance Changes, and Strive 2.0...](https://www.ign.com/articles/guilty-gear-strive-producer-on-lucy-upcoming-balance-changes-and-strive-200-evo-2025)
-* 📰 [CoD Season 5 Patch Notes: BO6 And Warzone Adds Weapon Balancing And Stadium E...](https://www.gamespot.com/gallery/cod-season-5-patch-notes-bo6-and-warzone-adds-weapon-balancing-and-stadium-event/2900-6857/)
+* 📰 [Metroid Prime 4, Elden Ring, Silksong All Playable At Nintendo's Gamescom Boo...](https://www.nintendolife.com/news/2025/08/metroid-prime-4-elden-ring-silksong-all-playable-at-nintendos-gamescom-booth)
+* 📰 [Sony CFO says its live service shift is ‘not entirely going smoothly’ but ple...](https://www.videogameschronicle.com/news/sony-cfo-says-its-live-service-shift-is-not-entirely-going-smoothly-but-pledges-to-carry-on-and-learn-from-mistakes/)
+* 📰 [Battlefield 6 Open Beta Forces PC Gamers to Mess About With Their BIOS to Ena...](https://www.ign.com/articles/battlefield-6-open-beta-forces-pc-gamers-to-mess-about-with-their-bios-to-enable-secure-boot-and-call-of-duty-black-ops-7-is-next)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-08 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-08-08 13:00 </sub>
 </div>
 
