@@ -29,9 +29,9 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 
 <!-- CORE_COMPETENCIES_START -->
 **🔧 Languages & Frameworks:**
+* **JavaScript**
 * **Python**
 * **HTML**
-* **JavaScript**
 * **CSS**
 * **Jupyter Notebook**
 
@@ -95,7 +95,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
-* 🔨 Working on [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI) - _last updated today_
+* 🔨 Working on [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Metroid Prime 4, Elden Ring, Silksong All Playable At Nintendo's Gamescom Boo...](https://www.nintendolife.com/news/2025/08/metroid-prime-4-elden-ring-silksong-all-playable-at-nintendos-gamescom-booth)
-* 📰 [Sony CFO says its live service shift is ‘not entirely going smoothly’ but ple...](https://www.videogameschronicle.com/news/sony-cfo-says-its-live-service-shift-is-not-entirely-going-smoothly-but-pledges-to-carry-on-and-learn-from-mistakes/)
-* 📰 [Battlefield 6 Open Beta Forces PC Gamers to Mess About With Their BIOS to Ena...](https://www.ign.com/articles/battlefield-6-open-beta-forces-pc-gamers-to-mess-about-with-their-bios-to-enable-secure-boot-and-call-of-duty-black-ops-7-is-next)
+* 📰 [Xbox Drops Work on ‘Contraband’ Video Game After Four Years - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-08-07/xbox-drops-work-on-contraband-video-game-after-four-years)
+* 📰 [Sony Senior Vice President says they are moving away from a hardware centric ...](https://mynintendonews.com/2025/08/07/sony-senior-vice-president-says-they-are-moving-away-from-a-hardware-centric-business-model/)
+* 📰 [‘MindsEye’ is more than the worst game of the year - The Washington Post](https://www.washingtonpost.com/entertainment/video-games/2025/08/07/mindseye-worst-game-of-year/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-08 13:00 </sub>
+  <sub>Last updated: Last updated: 2025-08-08 18:38 </sub>
 </div>
 
