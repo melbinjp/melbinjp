@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
-* 🔨 Working on [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI) - _last updated yesterday_
+* 🔨 Working on [Phone-App](https://github.com/melbinjp/Phone-App) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [Phone-App](https://github.com/melbinjp/Phone-App)
+* [Utily](https://github.com/melbinjp/Utily)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI) - AI-powered predictive maintenance and driver safety platf...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
-* [Utily](https://github.com/melbinjp/Utily)
-* [favicon](https://github.com/melbinjp/favicon)
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Xbox Drops Work on ‘Contraband’ Video Game After Four Years - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-08-07/xbox-drops-work-on-contraband-video-game-after-four-years)
-* 📰 [Sony Senior Vice President says they are moving away from a hardware centric ...](https://mynintendonews.com/2025/08/07/sony-senior-vice-president-says-they-are-moving-away-from-a-hardware-centric-business-model/)
-* 📰 [‘MindsEye’ is more than the worst game of the year - The Washington Post](https://www.washingtonpost.com/entertainment/video-games/2025/08/07/mindseye-worst-game-of-year/)
+* 📰 [Nintendo announces "My Mario" series of products, including Switch app - Nint...](https://nintendoeverything.com/nintendo-announces-my-mario-series-of-products-including-switch-app/)
+* 📰 [Announcing the Total Victories Against Shiny Wo‑Chien in Pokémon Scarlet and ...](https://www.pokemon.com/us/pokemon-news/announcing-the-total-victories-against-shiny-wo-chien-in-pokemon-scarlet-and-pokemon-violet)
+* 📰 [BioShock 4 Won't Be Canceled Despite Development Delays - Kotaku](https://kotaku.com/bioshock-4-not-canceled-movie-judas-ken-levine-2000616424)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-08 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-08-09 02:10 </sub>
 </div>
 
