@@ -31,8 +31,8 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 **🔧 Languages & Frameworks:**
 * **JavaScript**
 * **Python**
-* **HTML**
 * **CSS**
+* **HTML**
 * **Jupyter Notebook**
 
 **🤖 AI & Machine Learning:** ai
@@ -94,13 +94,13 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Phone-App](https://github.com/melbinjp/Phone-App) - _last updated today_
+* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [Phone-App](https://github.com/melbinjp/Phone-App)
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [Utily](https://github.com/melbinjp/Utily)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI) - AI-powered predictive maintenance and driver safety platf...
@@ -134,8 +134,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pixel Watch 4 ‘with Gemini’ has dual-frequency GPS, Quick Charge Dock - 9to5G...](http://9to5google.com/2025/08/07/pixel-watch-4-gemini-leak/)
 * 📰 [Nintendo announces "My Mario" series of products, including Switch app - Nint...](https://nintendoeverything.com/nintendo-announces-my-mario-series-of-products-including-switch-app/)
+* 📰 [Pixel Watch 4 ‘with Gemini’ has dual-frequency GPS, Quick Charge Dock - 9to5G...](http://9to5google.com/2025/08/07/pixel-watch-4-gemini-leak/)
 * 📰 [Announcing the Total Victories Against Shiny Wo‑Chien in Pokémon Scarlet and ...](https://www.pokemon.com/us/pokemon-news/announcing-the-total-victories-against-shiny-wo-chien-in-pokemon-scarlet-and-pokemon-violet)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-09 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-08-09 12:53 </sub>
 </div>
 
