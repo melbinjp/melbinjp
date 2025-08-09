@@ -30,8 +30,8 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 <!-- CORE_COMPETENCIES_START -->
 **🔧 Languages & Frameworks:**
 * **JavaScript**
-* **Python**
 * **CSS**
+* **Python**
 * **HTML**
 * **Jupyter Notebook**
 
@@ -95,16 +95,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
+* [favicon](https://github.com/melbinjp/favicon)
 * [Utily](https://github.com/melbinjp/Utily)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
-* [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI) - AI-powered predictive maintenance and driver safety platf...
-* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo announces "My Mario" series of products, including Switch app - Nint...](https://nintendoeverything.com/nintendo-announces-my-mario-series-of-products-including-switch-app/)
-* 📰 [Pixel Watch 4 ‘with Gemini’ has dual-frequency GPS, Quick Charge Dock - 9to5G...](http://9to5google.com/2025/08/07/pixel-watch-4-gemini-leak/)
-* 📰 [Announcing the Total Victories Against Shiny Wo‑Chien in Pokémon Scarlet and ...](https://www.pokemon.com/us/pokemon-news/announcing-the-total-victories-against-shiny-wo-chien-in-pokemon-scarlet-and-pokemon-violet)
+* 📰 [Google and Valve will kill “Steam for Chromebooks” experiment in January 2026...](https://arstechnica.com/gadgets/2025/08/google-and-valve-will-kill-steam-for-chromebooks-experiment-in-january-2026/)
+* 📰 [iPhone 17 Pro Max: Three new upgrades that could be hard to resist - 9to5Mac](https://9to5mac.com/2025/08/08/iphone-17-pro-max-three-new-upgrades-that-could-be-hard-to-resist/)
+* 📰 [Cheaters Already Spotted in Battlefield 6 Open Beta, Despite Secure Boot Requ...](https://www.ign.com/articles/cheaters-already-spotted-in-battlefield-6-open-beta-despite-secure-boot-requirement)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-09 12:53 </sub>
+  <sub>Last updated: Last updated: 2025-08-09 18:37 </sub>
 </div>
 
