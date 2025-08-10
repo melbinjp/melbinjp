@@ -94,16 +94,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
-* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [Utily](https://github.com/melbinjp/Utily)
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [favicon](https://github.com/melbinjp/favicon)
-* [Utily](https://github.com/melbinjp/Utily)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 <!-- REPO_LIST_END -->
 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google and Valve will kill “Steam for Chromebooks” experiment in January 2026...](https://arstechnica.com/gadgets/2025/08/google-and-valve-will-kill-steam-for-chromebooks-experiment-in-january-2026/)
-* 📰 [iPhone 17 Pro Max: Three new upgrades that could be hard to resist - 9to5Mac](https://9to5mac.com/2025/08/08/iphone-17-pro-max-three-new-upgrades-that-could-be-hard-to-resist/)
-* 📰 [Cheaters Already Spotted in Battlefield 6 Open Beta, Despite Secure Boot Requ...](https://www.ign.com/articles/cheaters-already-spotted-in-battlefield-6-open-beta-despite-secure-boot-requirement)
+* 📰 [Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open T...](https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/)
+* 📰 [Massive Pixel leak spoils everything ahead of Google launch event - Android A...](https://www.androidauthority.com/google-pixel-hardware-specs-revealed-3585509/)
+* 📰 [RIP, Microsoft Lens, a simple little app that’s getting replaced by AI - Tech...](https://techcrunch.com/2025/08/08/rip-microsoft-lens-a-simple-little-app-thats-getting-replaced-by-ai/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-09 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-08-10 02:31 </sub>
 </div>
 
