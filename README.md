@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 * 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
-* [Utily](https://github.com/melbinjp/Utily)
-* [favicon](https://github.com/melbinjp/favicon)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [voice_notes](https://github.com/melbinjp/voice_notes)
+* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
+* [Utily](https://github.com/melbinjp/Utily)
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [As an Android expert, here are 7 phones I don’t recommend buying right now - ...](https://www.androidauthority.com/android-phones-i-dont-recommend-buying-august-2025-3585114/)
-* 📰 [WATCH: Best of Son Heung-Min's historic MLS debut - MLSsoccer.com](https://www.mlssoccer.com/video/watch-best-of-son-heung-min-s-historic-mls-debut)
-* 📰 [Mariners Game #118: Thread II - Lookout Landing](https://www.lookoutlanding.com/game-thread/132539/mariners-game-117-thread-ii)
+* 📰 [Battlefield 6 Features New "Quick Turn" Mechanic That Looks Like You're Cheat...](https://mp1st.com/news/battlefield-6-features-new-quick-turn-that-looks-like-youre-cheating)
+* 📰 [I’ve been a swimmer for over 15 years. Here’s everything you need to start sw...](https://www.cnn.com/cnn-underscored/health-fitness/swimming-essentials)
+* 📰 ['I am a disgrace...': Google's Gemini has 'mental breakdown' trying to fix co...](https://www.deccanherald.com/technology/artificial-intelligence/i-am-a-disgrace-googles-gemini-has-mental-breakdown-trying-to-fix-code-sparks-concerns-meme-fest-online-3674442)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-11 12:59 </sub>
+  <sub>Last updated: Last updated: 2025-08-11 18:41 </sub>
 </div>
 
