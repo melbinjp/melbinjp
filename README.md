@@ -94,15 +94,15 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
-* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated yesterday_
+* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
+* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [Utily](https://github.com/melbinjp/Utily)
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 <!-- REPO_LIST_END -->
@@ -123,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [CarPlay connection issues? This might explain why - 9to5Mac](https://9to5mac.com/2025/08/09/carplay-connection-issues/)
-* 📰 [Katsuhiro Harada says that he would like to show fans what they already have ...](https://www.eventhubs.com/news/2025/aug/09/harada-sfxt-eagerness-show-fans/)
-* 📰 [I finally replaced Gboard with SwiftKey and it's been a game-changer - Androi...](https://www.androidpolice.com/replaced-gboard-with-swiftkey/)
+* 📰 [As an Android expert, here are 7 phones I don’t recommend buying right now - ...](https://www.androidauthority.com/android-phones-i-dont-recommend-buying-august-2025-3585114/)
+* 📰 [WATCH: Best of Son Heung-Min's historic MLS debut - MLSsoccer.com](https://www.mlssoccer.com/video/watch-best-of-son-heung-min-s-historic-mls-debut)
+* 📰 [Mariners Game #118: Thread II - Lookout Landing](https://www.lookoutlanding.com/game-thread/132539/mariners-game-117-thread-ii)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-11 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-08-11 12:59 </sub>
 </div>
 
