@@ -112,18 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_1080.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/ZodiacalRoad_Merzlyakov_1080.jpg" alt="Zodiacal Road" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Zodiacal Road</em> • NASA APOD</p>
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [CarPlay connection issues? This might explain why - 9to5Mac](https://9to5mac.com/2025/08/09/carplay-connection-issues/)
 * 📰 [Katsuhiro Harada says that he would like to show fans what they already have ...](https://www.eventhubs.com/news/2025/aug/09/harada-sfxt-eagerness-show-fans/)
-* 📰 [Former Nintendo staffers share details about the one time a Nintendo Direct w...](https://nintendoeverything.com/nintendo-direct-delay-details/)
-* 📰 [Cartoon: Rooftop idiot - Daily Kos](https://www.dailykos.com/stories/2025/8/9/2337449/-Cartoon-Rooftop-idiot)
+* 📰 [I finally replaced Gboard with SwiftKey and it's been a game-changer - Androi...](https://www.androidpolice.com/replaced-gboard-with-swiftkey/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-11 02:27 </sub>
+  <sub>Last updated: Last updated: 2025-08-11 06:45 </sub>
 </div>
 
