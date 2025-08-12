@@ -31,8 +31,8 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 **🔧 Languages & Frameworks:**
 * **JavaScript**
 * **CSS**
-* **Python**
 * **HTML**
+* **Python**
 * **Jupyter Notebook**
 
 **🤖 AI & Machine Learning:** ai
@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
-* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
+* 🔨 Working on [voice_notes](https://github.com/melbinjp/voice_notes) - _last updated today_
+* 🔨 Working on [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [voice_notes](https://github.com/melbinjp/voice_notes)
+* [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
-* [voice_notes](https://github.com/melbinjp/voice_notes)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
-* [Utily](https://github.com/melbinjp/Utily)
 <!-- REPO_LIST_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 ["He Played 200 Beats A Minute": Robot Drummer Stuns Engineers By Mastering Co...](https://www.rudebaguette.com/en/2025/08/he-played-200-beats-a-minute-robot-drummer-stuns-engineers-by-mastering-complex-songs-with-uncanny-human-like-precision/)
-* 📰 [New 12.9-Inch MacBook to Launch As Soon This Year for As Low As $599 - MacRumors](https://www.macrumors.com/2025/08/11/new-12-9-inch-macbook-launch-this-year-599-price/)
-* 📰 [WinRAR Zero-Day Under Active Exploitation – Update to Latest Version Immediat...](https://thehackernews.com/2025/08/winrar-zero-day-under-active.html)
+* 📰 [Madden NFL 26 Review in Progress - IGN](https://www.ign.com/articles/madden-nfl-26-review)
+* 📰 [Samsung Makes New Free Offer To Millions Of Galaxy Phones - Forbes](https://www.forbes.com/sites/jaymcgregor/2025/08/11/samsung-gives-google-ai-one-pro-to-galaxy-s25-galaxy-z-fold-users/)
+* 📰 [The Nintendo Switch 2 apparently uses DLSS 3.1 - My Nintendo News](https://mynintendonews.com/2025/08/11/the-nintendo-switch-2-apparently-uses-dlss-3-1/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-12 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-08-12 18:40 </sub>
 </div>
 
