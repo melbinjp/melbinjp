@@ -112,7 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
+
+
+### 🌌 Today's Cosmic Perspective
+
+<p align="center">
+  <a href="https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_5500.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_5500.jpg" alt="Perseids from Perseus" 
+         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
+</p>
+<p align="center"><em>Perseids from Perseus</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [New Swiftie Marc Maron Covers ‘Bigger Than the Whole Sky’ - Vulture](http://www.vulture.com/article/marc-maron-covers-taylor-swift.html)
+* 📰 [Modder Is Determined To Breathe New Life Into A Classic WW2 Game - DualShockers](https://www.dualshockers.com/modder-is-determined-to-breath-new-life-into-a-classic-ww2-game/)
 * 📰 [Just A Mix Of 45 Random Products That Will Make You Go "Oh, I Need That Immed...](https://www.buzzfeed.com/emmalord9/random-need-products)
-* 📰 [Security flaws in a carmaker’s web portal let one hacker remotely unlock cars...](https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/)
-* 📰 [What Google Material 3 Expressive redesigns are rolling out - 9to5Google](http://9to5google.com/2025/08/10/google-material-3-expressive-redesign/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-12 02:09 </sub>
+  <sub>Last updated: Last updated: 2025-08-12 06:40 </sub>
 </div>
 
