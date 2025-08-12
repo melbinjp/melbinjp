@@ -94,15 +94,15 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [voice_notes](https://github.com/melbinjp/voice_notes) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 * 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [voice_notes](https://github.com/melbinjp/voice_notes)
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [voice_notes](https://github.com/melbinjp/voice_notes)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [Utily](https://github.com/melbinjp/Utily)
 <!-- REPO_LIST_END -->
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [New Swiftie Marc Maron Covers ‘Bigger Than the Whole Sky’ - Vulture](http://www.vulture.com/article/marc-maron-covers-taylor-swift.html)
-* 📰 [Modder Is Determined To Breathe New Life Into A Classic WW2 Game - DualShockers](https://www.dualshockers.com/modder-is-determined-to-breath-new-life-into-a-classic-ww2-game/)
-* 📰 [Just A Mix Of 45 Random Products That Will Make You Go "Oh, I Need That Immed...](https://www.buzzfeed.com/emmalord9/random-need-products)
+* 📰 ["He Played 200 Beats A Minute": Robot Drummer Stuns Engineers By Mastering Co...](https://www.rudebaguette.com/en/2025/08/he-played-200-beats-a-minute-robot-drummer-stuns-engineers-by-mastering-complex-songs-with-uncanny-human-like-precision/)
+* 📰 [New 12.9-Inch MacBook to Launch As Soon This Year for As Low As $599 - MacRumors](https://www.macrumors.com/2025/08/11/new-12-9-inch-macbook-launch-this-year-599-price/)
+* 📰 [WinRAR Zero-Day Under Active Exploitation – Update to Latest Version Immediat...](https://thehackernews.com/2025/08/winrar-zero-day-under-active.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-12 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-08-12 12:56 </sub>
 </div>
 
