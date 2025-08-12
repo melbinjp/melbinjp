@@ -94,15 +94,15 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [voice_notes](https://github.com/melbinjp/voice_notes) - _last updated today_
 * 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [voice_notes](https://github.com/melbinjp/voice_notes)
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [Utily](https://github.com/melbinjp/Utily)
 <!-- REPO_LIST_END -->
@@ -123,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Battlefield 6 Features New "Quick Turn" Mechanic That Looks Like You're Cheat...](https://mp1st.com/news/battlefield-6-features-new-quick-turn-that-looks-like-youre-cheating)
-* 📰 [I’ve been a swimmer for over 15 years. Here’s everything you need to start sw...](https://www.cnn.com/cnn-underscored/health-fitness/swimming-essentials)
-* 📰 ['I am a disgrace...': Google's Gemini has 'mental breakdown' trying to fix co...](https://www.deccanherald.com/technology/artificial-intelligence/i-am-a-disgrace-googles-gemini-has-mental-breakdown-trying-to-fix-code-sparks-concerns-meme-fest-online-3674442)
+* 📰 [Just A Mix Of 45 Random Products That Will Make You Go "Oh, I Need That Immed...](https://www.buzzfeed.com/emmalord9/random-need-products)
+* 📰 [Security flaws in a carmaker’s web portal let one hacker remotely unlock cars...](https://techcrunch.com/2025/08/10/security-flaws-in-a-carmakers-web-portal-let-one-hacker-remotely-unlock-cars-from-anywhere/)
+* 📰 [What Google Material 3 Expressive redesigns are rolling out - 9to5Google](http://9to5google.com/2025/08/10/google-material-3-expressive-redesign/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-11 18:41 </sub>
+  <sub>Last updated: Last updated: 2025-08-12 02:09 </sub>
 </div>
 
