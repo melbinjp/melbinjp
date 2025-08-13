@@ -94,16 +94,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [voice_notes](https://github.com/melbinjp/voice_notes) - _last updated today_
-* 🔨 Working on [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - _last updated today_
+* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 <!-- REPO_LIST_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [High-severity WinRAR 0-day exploited for weeks by 2 groups - Ars Technica](https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/)
-* 📰 [Walmart Has a Brand New Apple MacBook Air for Just $599, Great for Back to Sc...](https://www.ign.com/articles/best-apple-macbook-deal-for-students-on-a-budget)
-* 📰 [iPhone 17 Pro to have repositioned antennas - GSMArena.com news - GSMArena.com](https://www.gsmarena.com/iphone_17_pro_to_have_repositioned_antennas-news-69000.php)
+* 📰 [Microsoft releases lightweight Office taskbar apps for Windows 11 - The Verge](https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release)
+* 📰 [Column | Can’t put solar panels on your roof? Plug-in ‘balcony solar’ may be ...](https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1RGMDFHblluTzVZSHlMdXFsRlpweXZ4Xzh5X0ZEbWlTaGNVcndjOXJ3Nzh5ZHVBRUFhRjNuRlpvbG44di0tUVA0UmlJNXFicmtXd1lQQ0dpbGhZR1hfUnRsMUNzYksxWUVGcjZSRVFLYnROOEZCMUNqb2MzYUxqXzRrdjN2S0V1RDNnV3dpOW00LXhQdFpN?oc=5)
+* 📰 [Random: Oh Jeez, Now Palworld Has Its Own Rip-Off On The Switch eShop - Ninte...](https://www.nintendolife.com/news/2025/08/random-oh-jeez-now-palworld-has-its-own-rip-off-on-the-switch-eshop)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-13 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-08-13 12:58 </sub>
 </div>
 
