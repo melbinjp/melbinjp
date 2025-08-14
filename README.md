@@ -118,12 +118,12 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_4000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_4000.jpg" alt="Trapezium: In the Heart of Orion" 
+  <a href="https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg" alt="M13: The Great Globular Cluster in Hercules" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Trapezium: In the Heart of Orion</em> • NASA APOD</p>
+<p align="center"><em>M13: The Great Globular Cluster in Hercules</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Insight Into NASA’s Contractor RIF Plans - NASA Watch](https://nasawatch.com/personnel-news/insight-into-nasas-contractor-rif-plans/)
-* 📰 [Crimson Desert delayed to Q1 2026 - Gematsu](https://www.gematsu.com/2025/08/crimson-desert-delayed-to-q1-2026)
-* 📰 [GTA Actor Says Disastrous Florida Gaming Convention 'Put the Con in Comic-Con...](https://www.ign.com/articles/gta-actor-says-disastrous-florida-gaming-convention-put-the-con-in-comic-con)
+* 📰 [Battlefield 6 Open Beta end time: Week 1 over, here’s when second week will s...](https://economictimes.indiatimes.com/news/international/us/battlefield-6-open-beta-end-time-bf6-week-1-over-second-week-schedule-new-modes-twitch-early-access/articleshow/123233519.cms)
+* 📰 [New Grand Theft Auto Trilogy Physical Switch Release Spotted - Nintendo Life](https://www.nintendolife.com/news/2025/08/new-grand-theft-auto-trilogy-physical-switch-release-spotted)
+* 📰 [Overflow thread: Cubs vs. Blue Jays, Tuesday 8/12, 6:07 CT - Bleed Cubbie Blue](https://www.bleedcubbieblue.com/chicago-cubs-game-threads/190604/overflow-thread-cubs-vs-blue-jays-tuesday-8-12-607-ct)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-14 02:11 </sub>
+  <sub>Last updated: Last updated: 2025-08-14 06:41 </sub>
 </div>
 
