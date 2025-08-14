@@ -94,14 +94,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [Utily](https://github.com/melbinjp/Utily)
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [Utily](https://github.com/melbinjp/Utily)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Your Windows PC has a secretly useful backup tool - here's how to access it -...](https://www.zdnet.com/article/your-windows-pc-has-a-secretly-useful-backup-tool-heres-how-to-access-it/)
-* 📰 [Every rumored iPhone 17, iPhone 17 Air, and iPhone 17 Pro color - 9to5Mac](https://9to5mac.com/2025/08/12/iphone-17-color-options-2025/)
-* 📰 [Grand Theft Auto Trilogy Appears To Now Have A Proper Physical Switch Release...](https://www.nintendolife.com/news/2025/08/new-grand-theft-auto-trilogy-physical-switch-release-spotted)
+* 📰 [PUBG On PS4 And Xbox Shutting Down After Nearly 8 Years - Kotaku](https://kotaku.com/well-bad-news-for-pubg-players-on-ps4-and-xbox-one-2000617500)
+* 📰 [PS Plus August 2025: Spider-Man Comes And Witcher 3 Goes - Kotaku](https://kotaku.com/spider-man-ps-plus-ps5-motal-kombat-resident-evil-witcher-3-2000617489)
+* 📰 [Google’s official Pixel 10 cases leak with familiar look and magnet ring [Gal...](http://9to5google.com/2025/08/13/pixel-10-case-leak-magnets/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-14 12:59 </sub>
+  <sub>Last updated: Last updated: 2025-08-14 18:39 </sub>
 </div>
 
