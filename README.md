@@ -94,15 +94,15 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [Utily](https://github.com/melbinjp/Utily)
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
 <!-- REPO_LIST_END -->
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [New Apple TV Coming Later This Year With A17 Pro Chip - MacRumors](https://www.macrumors.com/2025/08/13/new-apple-tv-coming-later-this-year-with-a17-pro-chip/)
-* 📰 [Leaked S11 Chip Details Reveal No Major Performance Upgrades for 2025 Apple W...](https://www.macrumors.com/2025/08/13/apple-watch-s11-chip-info/)
-* 📰 [Amazon Drops a Huge Discount on the Google Pixel 9 Pro Fold Phone Days Before...](https://www.ign.com/articles/google-pixel-9-pro-fold-deal-amazon-august-2025)
+* 📰 [I converted this Windows 11 mini PC into a Linux work station - and didn't re...](https://www.zdnet.com/article/i-converted-this-windows-11-mini-pc-into-a-linux-work-station-and-didnt-regret-it/)
+* 📰 [ASUS increases price of ROG NUC 2025 with U9 275HX and RTX 5080 to $3,199 - V...](https://videocardz.com/newz/asus-increases-price-of-rog-nuc-2025-with-u9-275hx-and-rtx-5080-to-3199)
+* 📰 [Battlefield 6 Dev Confirms Playlist Changes, Custom Search, and Start Time fo...](https://www.ign.com/articles/battlefield-6-dev-confirms-playlist-changes-custom-search-and-start-time-for-open-beta-weekend-2)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-15 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-08-15 12:54 </sub>
 </div>
 
