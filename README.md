@@ -28,17 +28,16 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 ## 🛠️ Technical Stack
 
 <!-- CORE_COMPETENCIES_START -->
-**Languages & Frameworks**
-• **JavaScript**
-• **CSS**
-• **HTML**
-• **Python**
-• **Jupyter Notebook**
-• **Shell**
+**🔧 Languages & Frameworks:**
+* **JavaScript**
+* **CSS**
+* **HTML**
+* **Python**
+* **Jupyter Notebook**
 
-**Services / Infra**: webrtc
-
-**Other**: 3d, 3dmodels, animated, animated-scene, decentralised, epic, free-calls, peer-to-peer, three-js
+**🤖 AI & Machine Learning:** ai
+**🌐 Web Development:** api
+**📦 Other Technologies:** mcp, microservice, automation
 <!-- CORE_COMPETENCIES_END -->
 
 <details>
@@ -65,20 +64,20 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 ## 🌟 Featured Projects
 
 <!-- FEATURED_PROJECTS_START -->
-### [Automated_videogen](https://github.com/melbinjp/Automated_videogen)
+### 🚀 [Automated_videogen](https://github.com/melbinjp/Automated_videogen)
 Automated Media Generation: A Python project that automates the creation of media content, including videos and subtitles, based on search queries....
 
-**Primary Tech**: `Jupyter Notebook`
+**Primary Tech:** `Jupyter Notebook`
 
-### [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI)
-AI-powered predictive maintenance and driver safety platform for smart mobility.
-
-**Primary Tech**: `HTML`
-
-### [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance)
+### 🚀 [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance)
 A multi-threaded video surveillance system for capturing and processing video frames from multiple cameras.
 
-**Primary Tech**: `Python`
+**Primary Tech:** `Python`
+
+### 🚀 [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI)
+AI-powered predictive maintenance and driver safety platform for smart mobility.
+
+**Primary Tech:** `HTML`
 <!-- FEATURED_PROJECTS_END -->
 
 ---
@@ -95,17 +94,17 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-• Working on [Utily](https://github.com/melbinjp/Utily) — _updated today_
-• Working on [make-a-call](https://github.com/melbinjp/make-a-call) — _updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [Utily](https://github.com/melbinjp/Utily)
-* [make-a-call](https://github.com/melbinjp/make-a-call) — WebRTC-based voice calling system for instant peer-to-pee...
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) — A 3d model viewer
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [voice_notes](https://github.com/melbinjp/voice_notes)
-* [Lora_trainer](https://github.com/melbinjp/Lora_trainer) — A project to make lora training just easy for anyone
+* [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
 <!-- REPO_LIST_END -->
 
 ---
@@ -113,13 +112,15 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Simplicity is the soul of efficiency." — Austin Freeman
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
-### Cosmic Perspective
+
+### 🌌 Today's Cosmic Perspective
 
 <p align="center">
   <a href="https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg" alt="Moonlight, Planets, and Perseids" style="max-width: 600px; width: 100%; border-radius: 8px;">
+    <img src="https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125_2048.jpg" alt="Moonlight, Planets, and Perseids" 
+         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
 <p align="center"><em>Moonlight, Planets, and Perseids</em> • NASA APOD</p>
@@ -133,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* [Is streaming about to have a Wordle moment? - The Verge](https://www.theverge.com/lowpass-newsletter/758917/streaming-gaming-netflix)
-* [An afternoon with Drag x Drive reveals a game with a lovely bloodthirsty edge...](https://www.eurogamer.net/an-afternoon-with-drag-x-drive-reveals-a-game-with-a-lovely-bloodthirsty-edge-and-a-disappointing-irony-to-accessibility-representation)
-* [Apple Watch Blood Oxygen Tracker Returns to US After Legal Win - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-08-14/apple-watch-blood-oxygen-tracker-returns-to-us-after-legal-win)
+* 📰 [Is streaming about to have a Wordle moment? - The Verge](https://www.theverge.com/lowpass-newsletter/758917/streaming-gaming-netflix)
+* 📰 [An afternoon with Drag x Drive reveals a game with a lovely bloodthirsty edge...](https://www.eurogamer.net/an-afternoon-with-drag-x-drive-reveals-a-game-with-a-lovely-bloodthirsty-edge-and-a-disappointing-irony-to-accessibility-representation)
+* 📰 [Apple Watch Blood Oxygen Tracker Returns to US After Legal Win - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-08-14/apple-watch-blood-oxygen-tracker-returns-to-us-after-legal-win)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -162,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-15 17:18 UTC</sub>
+  <sub>Last updated: Last updated: 2025-08-15 17:35 </sub>
 </div>
 
