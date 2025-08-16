@@ -94,15 +94,15 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [Utily](https://github.com/melbinjp/Utily)
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
 <!-- REPO_LIST_END -->
@@ -123,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pokémon Scarlet & Violet 2025 Pokémon World Championships Distribution Live -...](https://www.nintendolife.com/news/2025/08/pokemon-scarlet-and-violet-2025-pokemon-world-championships-distribution-live)
-* 📰 [Black Ops 7’s campaign reportedly ends with 32-person multiplayer extraction ...](https://www.dexerto.com/call-of-duty/black-ops-7s-campaign-reportedly-ends-with-32-person-multiplayer-extraction-mission-3238339/)
-* 📰 [PS5 Stunner Neo Berlin 2087 Walks the Uncanny Valley with New Gameplay Traile...](https://www.pushsquare.com/news/2025/08/ps5-stunner-neo-berlin-2087-walks-the-uncanny-valley-with-new-gameplay-trailer)
+* 📰 [Geoff Keighley Confirms 7 Games Set for ONL on Tuesday Alongside Fallout Seas...](https://www.ign.com/articles/geoff-keighley-confirms-7-games-set-for-onl-on-tuesday-alongside-fallout-season-2-and-a-clair-obscur-expedition-33-music-performance)
+* 📰 [iPhone 17 Pro Max Rumored to Have Major Telephoto Camera Upgrade - MacRumors](https://www.macrumors.com/2025/08/15/iphone-17-pro-max-telephoto-camera-rumor/)
+* 📰 [I Lost My Fiancé to His Life Coach - The Cut](http://www.thecut.com/article/breaking-up-with-fiance-over-life-coach-cult.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-16 12:52 </sub>
+  <sub>Last updated: Last updated: 2025-08-16 18:35 </sub>
 </div>
 
