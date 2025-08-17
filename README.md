@@ -94,14 +94,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [Utily](https://github.com/melbinjp/Utily)
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Geoff Keighley Confirms 7 Games Set for ONL on Tuesday Alongside Fallout Seas...](https://www.ign.com/articles/geoff-keighley-confirms-7-games-set-for-onl-on-tuesday-alongside-fallout-season-2-and-a-clair-obscur-expedition-33-music-performance)
-* 📰 [iPhone 17 Pro Max Rumored to Have Major Telephoto Camera Upgrade - MacRumors](https://www.macrumors.com/2025/08/15/iphone-17-pro-max-telephoto-camera-rumor/)
-* 📰 [I Lost My Fiancé to His Life Coach - The Cut](http://www.thecut.com/article/breaking-up-with-fiance-over-life-coach-cult.html)
+* 📰 [Report: 2026 Apple Watch lineup will bring three notable changes - 9to5Mac](https://9to5mac.com/2025/08/15/report-2026-apple-watch-lineup-will-bring-three-notable-changes/)
+* 📰 [SpaceX reveals why the last two Starships failed as another launch draws near...](https://arstechnica.com/space/2025/08/spacex-reveals-why-the-last-two-starships-failed-as-another-launch-draws-near/)
+* 📰 [Battlefield 6 Multiplayer Review in Progress - Beta Impressions - IGN](https://www.ign.com/articles/battlefield-6-review-multiplayer)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-16 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-08-17 02:24 </sub>
 </div>
 
