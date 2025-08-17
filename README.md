@@ -95,14 +95,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [Utily](https://github.com/melbinjp/Utily)
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
 <!-- REPO_LIST_END -->
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple accidentally leaks some of its upcoming products - PhoneArena](https://www.phonearena.com/news/apple-accidentally-leaks-some-upcoming-products_id173267)
-* 📰 [Star-studded Pixel 10 keynote will have Fallon, Curry, Norris, and Jonas Brot...](http://9to5google.com/2025/08/15/pixel-10-keynote-stars/)
-* 📰 [Apple’s Wallet app just made Amazon returns easy, and more is coming - 9to5Mac](https://9to5mac.com/2025/08/15/apples-wallet-app-just-made-amazon-returns-easy-and-more-is-coming/)
+* 📰 [The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut - The Verge](https://www.theverge.com/tech/760131/google-pixel-9-pro-fold-lenovo-legion-go-s-deal-sale)
+* 📰 [Apple Working on All-New Operating System - MacRumors](https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/)
+* 📰 [Google's next big Android release is coming with these AI tools and UWB featu...](https://www.androidauthority.com/android-16-qpr2-expected-features-3588166/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-17 12:52 </sub>
+  <sub>Last updated: Last updated: 2025-08-17 18:36 </sub>
 </div>
 
