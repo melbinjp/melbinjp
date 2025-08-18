@@ -37,7 +37,7 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 
 **🤖 AI & Machine Learning:** ai
 **🌐 Web Development:** api
-**📦 Other Technologies:** automation, mcp, microservice
+**📦 Other Technologies:** mcp, microservice, automation
 <!-- CORE_COMPETENCIES_END -->
 
 <details>
@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
 * 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance) - A multi-threaded video surveillance system for capturing ...
 * [Utily](https://github.com/melbinjp/Utily)
-* [voice_notes](https://github.com/melbinjp/voice_notes)
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Bride wants to refuse $100,000 wedding gift because it comes with strings att...](https://www.yahoo.com/lifestyle/articles/bride-wants-refuse-100-000-113000024.html)
-* 📰 [5 password managers you should use instead of LastPass - Android Authority](https://www.androidauthority.com/lastpass-password-manager-alternatives-3587020/)
-* 📰 [Google’s Gmail Warning—Hackers Gain Access To User Accounts - Forbes](https://www.forbes.com/sites/zakdoffman/2025/08/17/google-warns-gmail-users-hackers-gain-access-to-accounts/)
+* 📰 [I ditched my Pixel for the Galaxy Z Fold 7, but I can’t get over this broken ...](http://9to5google.com/2025/08/17/pixel-galaxy-z-fold-7-broken-android-feature/)
+* 📰 [Intel Bartlett Lake-S 12 P-Core silicon steppings confirmed, still no sign of...](https://videocardz.com/newz/intel-bartlett-lake-s-12-p-core-silicon-steppings-confirmed-still-no-sign-of-consumer-variant)
+* 📰 [The First Descendant is using bizarre AI ads, at least one of which appears t...](https://www.eurogamer.net/the-first-descendant-is-using-bizarre-ai-ads-at-least-one-of-which-appears-to-be-a-clone-of-a-real-content-creator)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-18 12:58 </sub>
+  <sub>Last updated: Last updated: 2025-08-18 18:40 </sub>
 </div>
 
