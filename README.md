@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg" alt="Asperitas Clouds Over New Zealand" 
+  <a href="https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg" alt="NGC 1309: A Useful Spiral Galaxy" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Asperitas Clouds Over New Zealand</em> • NASA APOD</p>
+<p align="center"><em>NGC 1309: A Useful Spiral Galaxy</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Support for Ninjala appears to be over - Nintendo Everything](https://nintendoeverything.com/ninjala-support-ends/)
-* 📰 [2026 BMW M850i Edition M Heritage Is BMW's Very Red Farewell To The 8 Series ...](https://www.jalopnik.com/1941218/2026-bmw-m850i-m-heritage-reveal/)
-* 📰 [Dragon Ball Sparking Zero details Nintendo Switch 2 and Switch frame rate and...](https://nintendoeverything.com/dragon-ball-sparking-zero-details-nintendo-switch-2-and-switch-frame-rate-and-resolution-official-comparison/)
+* 📰 [Top Stories: Major Apple Devices Leak, $599 MacBook Rumor, and More - MacRumors](https://www.macrumors.com/2025/08/16/top-stories-apple-devices-leak-and-more/)
+* 📰 [Ubisoft seemingly bulked out Assassin’s Creed games to delay people reselling...](https://mynintendonews.com/2025/08/16/ubisoft-seemingly-bulked-out-assassins-creed-games-to-delay-people-reselling/)
+* 📰 [I Used an AI-Powered Glucose Monitor for 2 Weeks. Here's What Surprised Me - ...](https://www.cnet.com/health/medical/i-used-an-ai-powered-glucose-monitor-for-2-weeks-heres-what-surprised-me/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-18 02:24 </sub>
+  <sub>Last updated: Last updated: 2025-08-18 06:44 </sub>
 </div>
 
