@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [Utily](https://github.com/melbinjp/Utily)
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [voice_notes](https://github.com/melbinjp/voice_notes)
-* [Lora_trainer](https://github.com/melbinjp/Lora_trainer) - A project to make lora training just easy for anyone
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut - The Verge](https://www.theverge.com/tech/760131/google-pixel-9-pro-fold-lenovo-legion-go-s-deal-sale)
-* 📰 [Apple Working on All-New Operating System - MacRumors](https://www.macrumors.com/2025/08/16/apple-working-on-all-new-operating-system/)
-* 📰 [Google's next big Android release is coming with these AI tools and UWB featu...](https://www.androidauthority.com/android-16-qpr2-expected-features-3588166/)
+* 📰 [Support for Ninjala appears to be over - Nintendo Everything](https://nintendoeverything.com/ninjala-support-ends/)
+* 📰 [2026 BMW M850i Edition M Heritage Is BMW's Very Red Farewell To The 8 Series ...](https://www.jalopnik.com/1941218/2026-bmw-m850i-m-heritage-reveal/)
+* 📰 [Dragon Ball Sparking Zero details Nintendo Switch 2 and Switch frame rate and...](https://nintendoeverything.com/dragon-ball-sparking-zero-details-nintendo-switch-2-and-switch-frame-rate-and-resolution-official-comparison/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-17 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-08-18 02:24 </sub>
 </div>
 
