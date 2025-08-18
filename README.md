@@ -37,7 +37,7 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 
 **🤖 AI & Machine Learning:** ai
 **🌐 Web Development:** api
-**📦 Other Technologies:** mcp, microservice, automation
+**📦 Other Technologies:** automation, mcp, microservice
 <!-- CORE_COMPETENCIES_END -->
 
 <details>
@@ -95,16 +95,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
-* [Utily](https://github.com/melbinjp/Utily)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
+* [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance) - A multi-threaded video surveillance system for capturing ...
+* [Utily](https://github.com/melbinjp/Utily)
 * [voice_notes](https://github.com/melbinjp/voice_notes)
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Top Stories: Major Apple Devices Leak, $599 MacBook Rumor, and More - MacRumors](https://www.macrumors.com/2025/08/16/top-stories-apple-devices-leak-and-more/)
-* 📰 [Ubisoft seemingly bulked out Assassin’s Creed games to delay people reselling...](https://mynintendonews.com/2025/08/16/ubisoft-seemingly-bulked-out-assassins-creed-games-to-delay-people-reselling/)
-* 📰 [I Used an AI-Powered Glucose Monitor for 2 Weeks. Here's What Surprised Me - ...](https://www.cnet.com/health/medical/i-used-an-ai-powered-glucose-monitor-for-2-weeks-heres-what-surprised-me/)
+* 📰 [Bride wants to refuse $100,000 wedding gift because it comes with strings att...](https://www.yahoo.com/lifestyle/articles/bride-wants-refuse-100-000-113000024.html)
+* 📰 [5 password managers you should use instead of LastPass - Android Authority](https://www.androidauthority.com/lastpass-password-manager-alternatives-3587020/)
+* 📰 [Google’s Gmail Warning—Hackers Gain Access To User Accounts - Forbes](https://www.forbes.com/sites/zakdoffman/2025/08/17/google-warns-gmail-users-hackers-gain-access-to-accounts/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-18 06:44 </sub>
+  <sub>Last updated: Last updated: 2025-08-18 12:58 </sub>
 </div>
 
