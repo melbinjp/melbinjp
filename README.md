@@ -95,16 +95,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
-* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance) - A multi-threaded video surveillance system for capturing ...
 * [Utily](https://github.com/melbinjp/Utily)
+* [voice_notes](https://github.com/melbinjp/voice_notes)
 <!-- REPO_LIST_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pokémon Champions will Replace Scarlet and Violet at the Pokémon World Champi...](https://www.ign.com/articles/pokemon-champions-will-replace-scarlet-and-violet-at-the-pokemon-world-championships-next-year)
-* 📰 [iOS 26 tweaks iPhone Always On Display in a way you might not like - 9to5Mac](https://9to5mac.com/2025/08/17/ios-26-iphone-always-on-display-wallpaper-blur/)
-* 📰 [The CD turns 43: The format that changed music forever - TechSpot](https://www.techspot.com/news/109098-cd-turns-43-format-changed-music-forever.html)
+* 📰 [Microsoft is finally improving Windows 11’s dark mode - The Verge](https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements)
+* 📰 [Last-minute Google leak reveals brand-new 67W charger, cheaper Pixelsnap stan...](https://www.androidauthority.com/google-67w-charger-pixelsnap-stand-cases-price-leak-3588183/)
+* 📰 [New Pokémon Legends: Z-A trailer shows off Link Battles - Eurogamer](https://www.eurogamer.net/new-pokemon-legends-z-a-trailer-shows-off-link-battles)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-19 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-08-19 12:53 </sub>
 </div>
 
