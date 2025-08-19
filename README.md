@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/Spiral1309_HubbleGalbany_4000.jpg" alt="NGC 1309: A Useful Spiral Galaxy" 
+  <a href="https://apod.nasa.gov/apod/image/2508/NGC6872_block.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/NGC6872_block.jpg" alt="Giant Galaxies in Pavo" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>NGC 1309: A Useful Spiral Galaxy</em> • NASA APOD</p>
+<p align="center"><em>Giant Galaxies in Pavo</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [How Nintendo could fix Mario & Luigi: Brothership - Nintendo Everything](https://nintendoeverything.com/how-nintendo-could-fix-mario-and-luigi-brothership/)
-* 📰 [What Google Material 3 Expressive redesigns are rolling out [Updated] - 9to5G...](http://9to5google.com/2025/08/17/google-material-3-expressive-redesign/)
-* 📰 [LLM Found Transmitting Behavioral Traits to 'Student' LLM Via Hidden Signals ...](https://slashdot.org/story/25/08/17/0331217/llm-found-transmitting-behavioral-traits-to-student-llm-via-hidden-signals-in-data)
+* 📰 [Pokémon Champions will Replace Scarlet and Violet at the Pokémon World Champi...](https://www.ign.com/articles/pokemon-champions-will-replace-scarlet-and-violet-at-the-pokemon-world-championships-next-year)
+* 📰 [iOS 26 tweaks iPhone Always On Display in a way you might not like - 9to5Mac](https://9to5mac.com/2025/08/17/ios-26-iphone-always-on-display-wallpaper-blur/)
+* 📰 [The CD turns 43: The format that changed music forever - TechSpot](https://www.techspot.com/news/109098-cd-turns-43-format-changed-music-forever.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-19 02:04 </sub>
+  <sub>Last updated: Last updated: 2025-08-19 06:39 </sub>
 </div>
 
