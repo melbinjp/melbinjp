@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [I ditched my Pixel for the Galaxy Z Fold 7, but I can’t get over this broken ...](http://9to5google.com/2025/08/17/pixel-galaxy-z-fold-7-broken-android-feature/)
-* 📰 [Intel Bartlett Lake-S 12 P-Core silicon steppings confirmed, still no sign of...](https://videocardz.com/newz/intel-bartlett-lake-s-12-p-core-silicon-steppings-confirmed-still-no-sign-of-consumer-variant)
-* 📰 [The First Descendant is using bizarre AI ads, at least one of which appears t...](https://www.eurogamer.net/the-first-descendant-is-using-bizarre-ai-ads-at-least-one-of-which-appears-to-be-a-clone-of-a-real-content-creator)
+* 📰 [How Nintendo could fix Mario & Luigi: Brothership - Nintendo Everything](https://nintendoeverything.com/how-nintendo-could-fix-mario-and-luigi-brothership/)
+* 📰 [What Google Material 3 Expressive redesigns are rolling out [Updated] - 9to5G...](http://9to5google.com/2025/08/17/google-material-3-expressive-redesign/)
+* 📰 [LLM Found Transmitting Behavioral Traits to 'Student' LLM Via Hidden Signals ...](https://slashdot.org/story/25/08/17/0331217/llm-found-transmitting-behavioral-traits-to-student-llm-via-hidden-signals-in-data)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-18 18:40 </sub>
+  <sub>Last updated: Last updated: 2025-08-19 02:04 </sub>
 </div>
 
