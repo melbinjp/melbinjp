@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated yesterday_
 * 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Microsoft is finally improving Windows 11’s dark mode - The Verge](https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements)
-* 📰 [Last-minute Google leak reveals brand-new 67W charger, cheaper Pixelsnap stan...](https://www.androidauthority.com/google-67w-charger-pixelsnap-stand-cases-price-leak-3588183/)
-* 📰 [New Pokémon Legends: Z-A trailer shows off Link Battles - Eurogamer](https://www.eurogamer.net/new-pokemon-legends-z-a-trailer-shows-off-link-battles)
+* 📰 [Shin'en Announces 'The Touryst: Deluxe', Exclusive To Switch 2 - Nintendo Life](https://www.nintendolife.com/news/2025/08/shinen-announces-the-touryst-deluxe-exclusive-to-switch-2)
+* 📰 [Microsoft Confirms ‘Last Update’ For 700 Million Windows Users - Forbes](https://www.forbes.com/sites/zakdoffman/2025/08/18/microsoft-confirms-last-update-for-700-million-windows-users/)
+* 📰 [Seven Xbox-Related Events To Look Out For At Gamescom 2025 - Pure Xbox](https://www.purexbox.com/features/seven-xbox-related-events-to-look-out-for-at-gamescom-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-19 12:53 </sub>
+  <sub>Last updated: Last updated: 2025-08-19 18:35 </sub>
 </div>
 
