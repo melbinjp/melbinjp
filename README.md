@@ -118,12 +118,12 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/NGC6872_block.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/NGC6872_block.jpg" alt="Giant Galaxies in Pavo" 
+  <a href="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_3963.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_3963.jpg" alt="Perseid Meteors from Durdle Door" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Giant Galaxies in Pavo</em> • NASA APOD</p>
+<p align="center"><em>Perseid Meteors from Durdle Door</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Kirby Air Riders Direct Revealed for Tomorrow, 19th August 2025 - Nintendo Life](https://www.nintendolife.com/news/2025/08/kirby-air-riders-direct-revealed-for-tomorrow-19th-august-2025)
 * 📰 [Mario Kart World 1.2.1 update out now, patch notes - Nintendo Everything](https://nintendoeverything.com/mario-kart-world-1-2-1-update-out-now-patch-notes/)
 * 📰 [How Google’s Pixel 10 Pro Will Change Smartphones Forever - Forbes](https://www.forbes.com/sites/ewanspence/2025/08/18/google-pixel-10-pro-secrets-android-16-tensor-ai-apple-iphone-17-pro/)
-* 📰 [Get Your Hands on the Samsung Galaxy Tab A9+ With a 23% Discount - PCMag](https://www.pcmag.com/deals/new-egg-deal-of-the-day-samsung-galaxy-tab-a9-plus-23-discount-aug-18)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-20 02:03 </sub>
+  <sub>Last updated: Last updated: 2025-08-20 06:39 </sub>
 </div>
 
