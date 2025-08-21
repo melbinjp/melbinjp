@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_3963.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_3963.jpg" alt="Perseid Meteors from Durdle Door" 
+  <a href="https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_2048.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_2048.jpg" alt="Mostly Perseids" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Perseid Meteors from Durdle Door</em> • NASA APOD</p>
+<p align="center"><em>Mostly Perseids</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -136,7 +136,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Last-minute Pixel 10 leak suggests controversial change is really happening -...](https://www.androidauthority.com/google-pixel-10-leak-no-physical-sim-3589062/)
 * 📰 [Everything announced at Opening Night Live, Gamescom 2025 - Eurogamer](https://www.eurogamer.net/everything-announced-at-opening-night-live-gamescom-2025)
-* 📰 [In World Of Warcraft: Midnight, What's Old Is New Again - GameSpot](https://www.gamespot.com/articles/in-world-of-warcraft-midnight-whats-old-is-new-again/1100-6534043/)
+* 📰 [iPhone 17 Pro may be a tougher sell than ever before - 9to5Mac](https://9to5mac.com/2025/08/19/iphone-17-pro-may-be-a-tougher-sell-than-ever-before/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-21 02:01 </sub>
+  <sub>Last updated: Last updated: 2025-08-21 06:49 </sub>
 </div>
 
