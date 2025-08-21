@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 2 days ago_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 3 days ago_
 * 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Microsoft Confirms Emergency Windows Update—Your PC ‘Might Fail’ - Forbes](https://www.forbes.com/sites/zakdoffman/2025/08/20/microsoft-confirms-windows-is-broken-emergency-update-on-way/)
-* 📰 [Hollow Knight: Silksong Offers Buttery Smooth Performance On Switch 2 - Ninte...](https://www.nintendolife.com/news/2025/08/hollow-knight-silksong-offers-buttery-smooth-performance-on-switch-2)
-* 📰 [Prices leak for the rest of Google’s new Pixel products - The Verge](https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak)
+* 📰 [Pixel Watch 4 hides Google's biggest upgrade behind classic design & same pri...](http://9to5google.com/2025/08/20/pixel-watch-4-announcement-hands-on/)
+* 📰 [Google’s Pixel Buds 2A add Gemini, noise cancellation, and a replaceable batt...](https://www.theverge.com/hands-on/760852/google-pixel-buds-2a-hands-on-active-noise-cancellation-battery-gemini-earbuds)
+* 📰 [Sony is raising PS5 prices, starting tomorrow - The Verge](https://www.theverge.com/news/762410/sony-ps5-price-hike-raise-digital-pro)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-21 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-08-21 18:35 </sub>
 </div>
 
