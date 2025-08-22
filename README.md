@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 3 days ago_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 4 days ago_
 * 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Humans intervened every 9 minutes in AAA test of driver assists - Ars Technica](https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/)
-* 📰 [Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET](https://www.cnet.com/tech/mobile/everything-from-made-by-google-2025-pixel-10-pixel-watch-4-pixel-10-pro-fold-announced/)
-* 📰 [Google’s Gemini Live AI assistant will show you what it’s talking about - The...](https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update)
+* 📰 [Every Pixel device announced at Made by Google yesterday: 10 Pro Fold, Watch,...](https://www.zdnet.com/article/every-pixel-device-announced-at-made-by-google-yesterday-10-pro-fold-watch-buds-more/)
+* 📰 [Silksong finally launches in September - The Verge](https://www.theverge.com/news/680636/hollow-knight-silksong-release-date-trailer)
+* 📰 [Google hints Gemini for Android Auto and Google TV may be just a few weeks aw...](http://9to5google.com/2025/08/21/gemini-android-auto-google-tv-fall-timeline/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-22 12:52 </sub>
+  <sub>Last updated: Last updated: 2025-08-22 18:36 </sub>
 </div>
 
