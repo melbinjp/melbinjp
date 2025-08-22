@@ -95,7 +95,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 3 days ago_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -135,8 +135,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Humans intervened every 9 minutes in AAA test of driver assists - Ars Technica](https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/)
+* 📰 [Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET](https://www.cnet.com/tech/mobile/everything-from-made-by-google-2025-pixel-10-pixel-watch-4-pixel-10-pro-fold-announced/)
 * 📰 [Google’s Gemini Live AI assistant will show you what it’s talking about - The...](https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update)
-* 📰 [Google’s Journal app is real — and Pixel 10 owners get first dibs - Android P...](https://www.androidpolice.com/new-google-pixel-journal-app/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-22 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-08-22 12:52 </sub>
 </div>
 
