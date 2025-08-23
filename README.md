@@ -95,7 +95,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 4 days ago_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [New Limited-Time Pokémon Scarlet And Violet Distribution Now Available - Nint...](https://www.nintendolife.com/news/2025/08/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available)
-* 📰 [After successes like Severance and The Studio , Apple TV+ gets a price hike -...](https://arstechnica.com/culture/2025/08/after-successes-like-severance-and-the-studio-apple-tv-gets-a-price-hike/)
-* 📰 [Destiny 2 Desert Perpetual Epic Raid: Release Date, Start Time, Contest Mode,...](https://thegamepost.com/destiny-2-desert-perpetual-epic-raid-release-date-start-time/)
+* 📰 [Metal Gear Solid Delta: Snake Eater Includes Remake of Fan-Favorite Secret Mo...](https://www.ign.com/articles/metal-gear-solid-delta-snake-eater-includes-remake-of-fan-favorite-secret-mode-from-original-ps2-version-and-bayonetta-developer-platinumgames-worked-on-it)
+* 📰 [Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET](https://www.cnet.com/tech/mobile/what-you-missed-at-made-by-google-2025-pixel-10-watch-4-10-pro-fold-and-everything-announced/)
+* 📰 [Samsung’s “Micro RGB” TV proves the value of RGB backlights for premium displ...](https://arstechnica.com/gadgets/2025/08/samsungs-micro-rgb-tv-proves-the-value-of-rgb-backlights-for-premium-displays/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-23 06:34 </sub>
+  <sub>Last updated: Last updated: 2025-08-23 12:49 </sub>
 </div>
 
