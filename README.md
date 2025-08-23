@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 4 days ago_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 5 days ago_
 * 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
 <!-- CURRENT_FOCUS_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Metal Gear Solid Delta: Snake Eater Includes Remake of Fan-Favorite Secret Mo...](https://www.ign.com/articles/metal-gear-solid-delta-snake-eater-includes-remake-of-fan-favorite-secret-mode-from-original-ps2-version-and-bayonetta-developer-platinumgames-worked-on-it)
-* 📰 [Every Piece of Pixel Hardware Announced at Made by Google 2025 - CNET](https://www.cnet.com/tech/mobile/what-you-missed-at-made-by-google-2025-pixel-10-watch-4-10-pro-fold-and-everything-announced/)
-* 📰 [Samsung’s “Micro RGB” TV proves the value of RGB backlights for premium displ...](https://arstechnica.com/gadgets/2025/08/samsungs-micro-rgb-tv-proves-the-value-of-rgb-backlights-for-premium-displays/)
+* 📰 [Silksong Release Date Has Already Prompted Multiple Game Delays - GameSpot](https://www.gamespot.com/articles/silksong-release-date-has-already-prompted-two-game-delays/1100-6534203/)
+* 📰 [Accelerating life sciences research - OpenAI](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/)
+* 📰 [At This Point, It’s Impossible to Know What the Trump Phone Looks Like - WIRED](https://www.wired.com/story/trump-phone-t1-samsung-spigen/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-23 12:49 </sub>
+  <sub>Last updated: Last updated: 2025-08-23 18:33 </sub>
 </div>
 
