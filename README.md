@@ -123,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Mortal Kombat: Legacy Kollection Final Lineup Confirmed, Includes Version of ...](https://www.ign.com/articles/mortal-kombat-legacy-kollection-final-lineup-confirmed-includes-version-of-ultimate-mortal-kombat-3-that-has-not-been-playable-anywhere-since-1997)
-* 📰 [Capcom shares TGS 2025 lineup - Nintendo Everything](https://nintendoeverything.com/capcom-shares-tgs-2025-lineup/)
-* 📰 [Mac mini vs Mac Studio: For under $900 right now, which one should you pick u...](https://9to5mac.com/2025/08/24/apple-mac-mini-vs-mac-studio-comparison-best-value-under-900/)
+* 📰 [iPhone Fold detailed in new report — display, cameras and Touch ID, plus 3-ye...](https://www.tomsguide.com/phones/iphones/forget-the-iphone-17-foldable-iphone-tipped-to-debut-next-year-with-four-cameras-touch-id-and-apple-cellular-modem)
+* 📰 [Bandai Namco shares TGS 2025 lineup - Nintendo Everything](https://nintendoeverything.com/bandai-namco-shares-tgs-2025-lineup/)
+* 📰 [Japan's National Library Says Game-Key Cards Are Not Eligible For Preservatio...](https://www.nintendolife.com/news/2025/08/japans-national-library-says-game-key-cards-are-not-eligible-for-preservation)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-26 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-08-26 12:56 </sub>
 </div>
 
