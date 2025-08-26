@@ -112,18 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_1677.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_1677.jpg" alt="The Meteor and the Star Cluster" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>The Meteor and the Star Cluster</em> • NASA APOD</p>
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [David Jones-Garcia throws punch in brawl between the Dominican Republic and A...](https://www.poundingtherock.com/general/87333/david-jones-garcia-throws-punch-in-brawl-between-the-domincan-republic-and-argentina)
-* 📰 [Blaney on Dale comparisons, learning drafting from Logano, Keselowski - NASCA...](https://www.nascar.com/videos/franchise/press-pass/blaney-on-dale-comparisons-learning-drafting-from-logano-keselowski/)
-* 📰 [This Week’s Japanese Game Releases: Metal Gear Solid Delta: Snake Eater, Lost...](https://www.gematsu.com/2025/08/this-weeks-japanese-game-releases-metal-gear-solid-delta-snake-eater-lost-soul-aside-super-robot-wars-y-more)
+* 📰 [Mortal Kombat: Legacy Kollection Final Lineup Confirmed, Includes Version of ...](https://www.ign.com/articles/mortal-kombat-legacy-kollection-final-lineup-confirmed-includes-version-of-ultimate-mortal-kombat-3-that-has-not-been-playable-anywhere-since-1997)
+* 📰 [Capcom shares TGS 2025 lineup - Nintendo Everything](https://nintendoeverything.com/capcom-shares-tgs-2025-lineup/)
+* 📰 [Mac mini vs Mac Studio: For under $900 right now, which one should you pick u...](https://9to5mac.com/2025/08/24/apple-mac-mini-vs-mac-studio-comparison-best-value-under-900/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-26 02:03 </sub>
+  <sub>Last updated: Last updated: 2025-08-26 06:39 </sub>
 </div>
 
