@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Samsung hints at massive One UI 8 update wave in September - Sammy Fans](https://www.sammyfans.com/2025/08/26/samsung-one-ui-8-update-wave-september/)
-* 📰 [Nintendo Music Update Adds More Songs To Kirby And The Forgotten Land Playlis...](https://www.nintendolife.com/news/2025/08/nintendo-music-update-adds-more-songs-to-kirby-and-the-forgotten-land-playlist)
-* 📰 [Nintendo's New 'Hello, Mario!' App Is Now Available On The Switch - Nintendo ...](https://www.nintendolife.com/news/2025/08/nintendos-new-hello-mario-app-is-now-available-on-the-switch)
+* 📰 [Apple’s iPhone 17 launch event is set for September 9th - The Verge](https://www.theverge.com/apple/766062/apple-iphone-17-launch-event-awe-dropping)
+* 📰 [Google is building a Duolingo rival into the Translate app - The Verge](https://www.theverge.com/news/765872/google-translate-ai-language-learning-duolingo)
+* 📰 [iRacing Studios To Produce Standalone INDYCAR Video Game in 2026 - INDYCAR.com](http://www.indycar.com/news/2025/08/08-26-iracing-console-game)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-27 12:53 </sub>
+  <sub>Last updated: Last updated: 2025-08-27 18:34 </sub>
 </div>
 
