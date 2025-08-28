@@ -94,16 +94,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated 2025-08-18_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2025-08-18_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [Utily](https://github.com/melbinjp/Utily)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance) - A multi-threaded video surveillance system for capturing ...
-* [Utily](https://github.com/melbinjp/Utily)
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 <!-- REPO_LIST_END -->
 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Video: Nintendo Highlights 'Super NES - Nintendo Classics' Features Update - ...](https://www.nintendolife.com/news/2025/08/video-nintendo-highlights-super-nes-nintendo-classics-features-update)
-* 📰 [“….People Will Not Be Able to Adapt Fast Enough” Microsoft Stock (NASDAQ:MSFT...](https://www.tipranks.com/news/people-will-not-be-able-to-adapt-fast-enough-microsoft-stock-nasdaqmsft-slips-on-new-ai-threat)
-* 📰 [Final Fantasy 14 Is Running Out Of Room On PS4 Ahead Of Next Expansion - Kotaku](https://kotaku.com/final-fantasy-14-ps4-fanfest-2026-8-0-expansion-2000620418)
+* 📰 [We Have Two Beloved Visitors in Brooklyn This Week - Cup of Jo](https://cupofjo.com/2025/08/26/nyc-best-activities-for-preteens/)
+* 📰 [ICYMI: Nintendo Highlights 'Super NES - Nintendo Classics' Features Update - ...](https://www.nintendolife.com/news/2025/08/icymi-nintendo-highlights-super-nes-nintendo-classics-features-update)
+* 📰 [Yes, you can buy a MacBook Air for just $142 right now - here's what's includ...](https://www.zdnet.com/article/yes-you-can-buy-a-macbook-air-for-just-116-right-now-heres-whats-included/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-28 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-08-28 12:53 </sub>
 </div>
 
