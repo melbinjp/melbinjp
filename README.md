@@ -95,7 +95,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and mac...](https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html)
-* 📰 [Labor Day Apple deals now live: MacBook, AirPods, iPhone 16 Pro, Mac mini, iP...](http://9to5toys.com/2025/08/29/early-labor-day-apple-deals-live/)
-* 📰 [Google tells billions of Gmail users to change passwords - NewsNation](https://www.newsnationnow.com/business/tech/google-billions-gmail-change-passwords/)
+* 📰 [Best Buy's Labor Day Sale Is Bringing Big Savings on Tablets, Headphones, and...](https://www.pcmag.com/deals/best-buy-deals-labor-day-2025-tech-electronics-sales)
+* 📰 [Blizzard is suing the fan devs behind Turtle WoW — and the “Mysteries of Azer...](https://www.windowscentral.com/gaming/xbox/blizzard-entertainment-files-lawsuit-owners-turtle-wow)
+* 📰 [Here’s The ‘Borderlands 4’ Live-Service-Ish Roadmap Into 2026 - Forbes](https://www.forbes.com/sites/paultassi/2025/08/30/heres-the-borderlands-4-live-service-ish-roadmap-into-2026/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-31 12:48 </sub>
+  <sub>Last updated: Last updated: 2025-08-31 18:33 </sub>
 </div>
 
