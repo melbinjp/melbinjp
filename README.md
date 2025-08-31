@@ -118,12 +118,12 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2508/IMG_4081.jpeg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2508/IMG_4081.jpeg" alt="A Two Percent Moon" 
+  <a href="https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2508/ngc7027_HubbleDtc_960.jpg" alt="NGC 7027: The Pillow Planetary Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>A Two Percent Moon</em> • NASA APOD</p>
+<p align="center"><em>NGC 7027: The Pillow Planetary Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Google tells billions of Gmail users to change passwords - NewsNation](https://www.newsnationnow.com/business/tech/google-billions-gmail-change-passwords/)
 * 📰 [Can't Decide Between Shinobi And Ninja Gaiden? This Steam Bundle Should Help ...](https://www.timeextension.com/news/2025/08/cant-decide-between-shinobi-and-ninja-gaiden-this-steam-bundle-should-help)
 * 📰 [Qualifying results: West Series at Portland International Raceway - arcaracin...](https://www.arcaracing.com/2025/08/29/qualifying-results-west-series-portland/)
-* 📰 [Labor Day Apple deals now live: MacBook, AirPods, iPhone 16 Pro, Mac mini, iP...](http://9to5toys.com/2025/08/29/early-labor-day-apple-deals-live/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-31 02:04 </sub>
+  <sub>Last updated: Last updated: 2025-08-31 06:34 </sub>
 </div>
 
