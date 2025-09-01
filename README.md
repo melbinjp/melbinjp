@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
+* 🔨 Working on [AV-Recorder](https://github.com/melbinjp/AV-Recorder) - _last updated today_
+* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
+* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [Utily](https://github.com/melbinjp/Utily)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
-* [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance) - A multi-threaded video surveillance system for capturing ...
 <!-- REPO_LIST_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Best Buy's Labor Day Sale Is Bringing Big Savings on Tablets, Headphones, and...](https://www.pcmag.com/deals/best-buy-deals-labor-day-2025-tech-electronics-sales)
-* 📰 [Blizzard is suing the fan devs behind Turtle WoW — and the “Mysteries of Azer...](https://www.windowscentral.com/gaming/xbox/blizzard-entertainment-files-lawsuit-owners-turtle-wow)
-* 📰 [Here’s The ‘Borderlands 4’ Live-Service-Ish Roadmap Into 2026 - Forbes](https://www.forbes.com/sites/paultassi/2025/08/30/heres-the-borderlands-4-live-service-ish-roadmap-into-2026/)
+* 📰 [The eBay Labor Day Sale Has the Best Deals on LG Evo C5 4K OLED TVs So Far Th...](https://www.ign.com/articles/lg-evo-c5-4k-oled-smart-tv-deal-from-ebay-labor-day-sale-2025)
+* 📰 [Denny Hamlin rockets to Southern 500 pole award - NASCAR.com](https://www.nascar.com/videos/franchise/nascar-cup-qualifying-clips/denny-hamlin-rockets-to-southern-500-pole-award/)
+* 📰 [Stardew Valley 1.7 update announced - Nintendo Everything](https://nintendoeverything.com/stardew-valley-1-7-update-announced/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-08-31 18:33 </sub>
+  <sub>Last updated: Last updated: 2025-09-01 02:21 </sub>
 </div>
 
