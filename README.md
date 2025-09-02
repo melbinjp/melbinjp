@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [AV-Recorder](https://github.com/melbinjp/AV-Recorder) - _last updated yesterday_
-* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated yesterday_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
+* [Utily](https://github.com/melbinjp/Utily)
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
-* [Utily](https://github.com/melbinjp/Utily)
-* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
 <!-- REPO_LIST_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Team Cherry Confirms Hollow Knight: Silksong Price, Release Times - Push Square](https://www.pushsquare.com/news/2025/09/team-cherry-confirms-hollow-knight-silksong-price-release-times)
-* 📰 [WhatsApp warns of 'attack against specific targeted users' - theregister.com](https://www.theregister.com/2025/09/01/infosec_in_brief/)
-* 📰 [35 Random Products That Will Make You Think “Oh, That Needs To Come Home With...](https://www.buzzfeed.com/emmalord9/random-products-come-home)
+* 📰 [iPhone 17 Pro: Apple’s rumored not-so-clear case design shown in video - 9to5Mac](https://9to5mac.com/2025/09/01/iphone-17-pro-apple-not-so-clear-case/)
+* 📰 [Survey: Nearly 70% of Users Plan to Upgrade to iPhone 17 - MacRumors](https://www.macrumors.com/2025/09/01/nearly-70-of-users-plan-to-upgrade-to-iphone-17/)
+* 📰 [Kojima Productions 10th anniversary event ‘Beyond The Strand’ set for Septemb...](https://www.gematsu.com/2025/09/kojima-productions-10th-anniversary-event-beyond-the-strand-set-for-september-23)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-02 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-09-02 18:33 </sub>
 </div>
 
