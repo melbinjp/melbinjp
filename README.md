@@ -95,7 +95,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [AV-Recorder](https://github.com/melbinjp/AV-Recorder) - _last updated today_
-* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated today_
+* 🔨 Working on [make-a-call](https://github.com/melbinjp/make-a-call) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_1602.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_1602.jpg" alt="Callisto: Dirty Battered Iceball" 
+  <a href="https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_5842.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_5842.jpg" alt="The Horsehead and Flame Nebulas" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Callisto: Dirty Battered Iceball</em> • NASA APOD</p>
+<p align="center"><em>The Horsehead and Flame Nebulas</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo maintenance schedule - August 31, 2025 - Switch 2 and Switch eShops ...](https://nintendoeverything.com/nintendo-maintenance-schedule-august-31-2025/)
-* 📰 [Borderlands 4 Rage Room Sounds Like A Car Crash And Fans Can't Look Away - Ko...](https://kotaku.com/borderlands-4-pax-west-rage-room-gearbox-2000621767)
-* 📰 [iPhone 17 Air is basically guaranteed to make a US feature expand to more cou...](https://9to5mac.com/2025/08/31/iphone-17-air-esim-only/)
+* 📰 [Labor Day Apple deals now live: MacBook, AirPods, iPhone 16 Pro, Mac mini, iP...](http://9to5toys.com/2025/08/31/early-labor-day-apple-deals-live/)
+* 📰 [Samsung will give you a free 65-inch TV right now - here's how to qualify for...](https://www.zdnet.com/home-and-office/home-entertainment/samsung-will-give-you-a-free-65-inch-tv-right-now-heres-how-to-qualify-for-the-deal/)
+* 📰 [You can still buy refurbished Meta Ray-Ban smart glasses for $76 off - how to...](https://www.zdnet.com/article/you-can-still-buy-refurbished-meta-ray-ban-smart-glasses-for-76-off-how-to-find-deals/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-02 02:00 </sub>
+  <sub>Last updated: Last updated: 2025-09-02 06:38 </sub>
 </div>
 
