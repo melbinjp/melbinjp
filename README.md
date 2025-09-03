@@ -30,14 +30,14 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 <!-- CORE_COMPETENCIES_START -->
 **🔧 Languages & Frameworks:**
 * **JavaScript**
-* **CSS**
 * **HTML**
+* **CSS**
 * **Python**
 * **Jupyter Notebook**
 
 **🤖 AI & Machine Learning:** ai
 **🌐 Web Development:** api
-**📦 Other Technologies:** mcp, microservice, automation
+**📦 Other Technologies:** microservice, automation
 <!-- CORE_COMPETENCIES_END -->
 
 <details>
@@ -94,15 +94,15 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
+* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
-* [Utily](https://github.com/melbinjp/Utily)
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
+* [Utily](https://github.com/melbinjp/Utily)
+* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 <!-- REPO_LIST_END -->
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Switch 2 System Update 20.4.0 Is Now Live, Here Are The Full Patch N...](https://www.nintendolife.com/news/2025/09/nintendo-switch-2-system-update-20-4-0-is-now-live-here-are-the-full-patch-notes)
-* 📰 [Pixel 10 Pro XL proves its got the strength to match its software update prom...](https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/)
-* 📰 [Still live: Lenovo’s compact yet powerful Legion Tab Gen 3 Android tablet dow...](http://9to5toys.com/2025/09/01/lenovo-legion-tab-gen-3-android-tablet-new-all-time-low-at-399/)
+* 📰 [Apple releases iOS 26 beta 9 for iPhone - 9to5Mac](https://9to5mac.com/2025/09/02/ios-26-beta-9/)
+* 📰 [Astro Bot PS5 Controller Returns In October, Good Luck Pre-Ordering It - Kotaku](https://kotaku.com/astro-bot-ps5-controller-returns-in-october-good-luck-pre-ordering-it-2000622375)
+* 📰 [Hollow Knight: Silksong Players on Nintendo Switch Can Unlock 'Enhanced' Swit...](https://www.ign.com/articles/hollow-knight-silksong-players-on-nintendo-switch-can-unlock-enhanced-switch-2-features-for-free)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-03 12:51 </sub>
+  <sub>Last updated: Last updated: 2025-09-03 18:34 </sub>
 </div>
 
