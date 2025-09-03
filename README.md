@@ -95,16 +95,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
+* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [Utily](https://github.com/melbinjp/Utily)
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 <!-- REPO_LIST_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [iPhone 17 Pro: Apple’s rumored not-so-clear case design shown in video - 9to5Mac](https://9to5mac.com/2025/09/01/iphone-17-pro-apple-not-so-clear-case/)
-* 📰 [Survey: Nearly 70% of Users Plan to Upgrade to iPhone 17 - MacRumors](https://www.macrumors.com/2025/09/01/nearly-70-of-users-plan-to-upgrade-to-iphone-17/)
-* 📰 [Kojima Productions 10th anniversary event ‘Beyond The Strand’ set for Septemb...](https://www.gematsu.com/2025/09/kojima-productions-10th-anniversary-event-beyond-the-strand-set-for-september-23)
+* 📰 [Save an Extra 20% off the eBay Labor Day Sale With This Coupon Code (Works on...](https://www.ign.com/articles/ebay-labor-day-sale-2025-best-deals-on-bose-dyson-lg-sony-and-more)
+* 📰 [Nintendo Switch 2 and Switch update 20.4.0 out now, patch notes - Nintendo Ev...](https://nintendoeverything.com/nintendo-switch-2-and-switch-update-20-4-0-out-now-patch-notes/)
+* 📰 [Xbox sale round-up September 2, 2025 - TrueAchievements](https://www.trueachievements.com/n60109/xbox-sale-roundup-september-2-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-02 18:33 </sub>
+  <sub>Last updated: Last updated: 2025-09-03 01:52 </sub>
 </div>
 
