@@ -95,14 +95,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
-* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A MCP (Model Context Protocol) compatible tool. This can ...
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [Utily](https://github.com/melbinjp/Utily)
+* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 <!-- REPO_LIST_END -->
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Common Pesticide Linked to Widespread Brain Abnormalities in Children - Scien...](https://www.sciencealert.com/common-pesticide-linked-to-widespread-brain-abnormalities-in-children)
-* 📰 [Nintendo Switch 2 and Switch update 20.4.0 out now, patch notes - Nintendo Ev...](https://nintendoeverything.com/nintendo-switch-2-and-switch-update-20-4-0-out-now-patch-notes/)
-* 📰 [Xbox sale round-up September 2, 2025 - TrueAchievements](https://www.trueachievements.com/n60109/xbox-sale-roundup-september-2-2025)
+* 📰 [Nintendo Switch 2 System Update 20.4.0 Is Now Live, Here Are The Full Patch N...](https://www.nintendolife.com/news/2025/09/nintendo-switch-2-system-update-20-4-0-is-now-live-here-are-the-full-patch-notes)
+* 📰 [Pixel 10 Pro XL proves its got the strength to match its software update prom...](https://www.androidauthority.com/google-pixel-10-pro-xl-durability-test-3593396/)
+* 📰 [Still live: Lenovo’s compact yet powerful Legion Tab Gen 3 Android tablet dow...](http://9to5toys.com/2025/09/01/lenovo-legion-tab-gen-3-android-tablet-new-all-time-low-at-399/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-03 06:35 </sub>
+  <sub>Last updated: Last updated: 2025-09-03 12:51 </sub>
 </div>
 
