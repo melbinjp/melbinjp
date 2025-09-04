@@ -95,14 +95,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
-* [Utily](https://github.com/melbinjp/Utily)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
+* [Utily](https://github.com/melbinjp/Utily)
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 * [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 <!-- REPO_LIST_END -->
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Remarkable’s new digital notepad is smaller than a paperback - The Verge](https://www.theverge.com/news/769005/remarkable-paper-pro-move-e-note-notebook-stylus-tablet-e-ink)
-* 📰 [Samsung’s new party speakers are less subtle than ever - The Verge](https://www.theverge.com/news/769896/samsungs-new-party-speakers-are-less-subtle-than-ever)
-* 📰 [Google will reveal its Gemini smart home plans (and hardware) next month - Th...](https://www.theverge.com/news/769848/google-teases-new-nest-cam-gemini-home)
+* 📰 [Android 16 QPR1 September update rolling out with 24 Pixel fixes - 9to5Google](http://9to5google.com/2025/09/03/android-16-september-update-pixel/)
+* 📰 [More Pixel phones are getting Google’s new look for Android - The Verge](https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive)
+* 📰 [007 First Light State of Play September 2025: Everything Announced - IGN](https://www.ign.com/articles/007-first-light-state-of-play-september-2025-everything-announced)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-04 12:50 </sub>
+  <sub>Last updated: Last updated: 2025-09-04 18:34 </sub>
 </div>
 
