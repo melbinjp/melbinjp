@@ -94,14 +94,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 * 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
+* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
+* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [Utily](https://github.com/melbinjp/Utily)
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [5 Android phones you should buy instead of the Google Pixel 10 Pro - Android ...](https://www.androidauthority.com/google-pixel-10-pro-alternatives-3593549/)
-* 📰 [Huawei’s second trifold adds stylus support and purple pleather - The Verge](https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather)
-* 📰 [Meet Samsung Galaxy Tab S11 Series: Packing Everything You Expect From a Prem...](https://news.samsung.com/global/meet-samsung-galaxy-tab-s11-series-packing-everything-you-expect-from-a-premium-tablet)
+* 📰 [IFA 2025: the biggest tech and gadget announcements - The Verge](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
+* 📰 [Govee’s new TV backlight uses a triple camera - The Verge](https://www.theverge.com/news/771242/govee-tv-backlight-3-pro-launch-availability)
+* 📰 [Apple Event 2025: 5 new Apple products you likely won’t see next week - Mashable](https://mashable.com/article/products-you-wont-see-apple-event-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-05 12:51 </sub>
+  <sub>Last updated: Last updated: 2025-09-05 18:33 </sub>
 </div>
 
