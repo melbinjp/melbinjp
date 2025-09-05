@@ -30,9 +30,9 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 <!-- CORE_COMPETENCIES_START -->
 **🔧 Languages & Frameworks:**
 * **JavaScript**
-* **HTML**
 * **CSS**
 * **Python**
+* **HTML**
 * **Jupyter Notebook**
 
 **🤖 AI & Machine Learning:** ai
@@ -94,14 +94,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 * 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
+* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
+* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [Utily](https://github.com/melbinjp/Utily)
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Patrick Gibson Cast As James Bond In ‘007 First Light’ Video Game: Photos, Tr...](https://deadline.com/gallery/patrick-gibson-cast-james-bond-007-first-light-playstation/)
-* 📰 [Destiny 2 Ash & Iron: All Exotic Armor and Ability Changes Detailed - The Gam...](https://thegamepost.com/destiny-2-ash-iron-exotic-armor-abilities-changes-detailed/)
-* 📰 [New AI model turns photos into explorable 3D worlds, with caveats - Ars Technica](https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/)
+* 📰 [5 Android phones you should buy instead of the Google Pixel 10 Pro - Android ...](https://www.androidauthority.com/google-pixel-10-pro-alternatives-3593549/)
+* 📰 [Huawei’s second trifold adds stylus support and purple pleather - The Verge](https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather)
+* 📰 [Meet Samsung Galaxy Tab S11 Series: Packing Everything You Expect From a Prem...](https://news.samsung.com/global/meet-samsung-galaxy-tab-s11-series-packing-everything-you-expect-from-a-premium-tablet)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-05 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-09-05 12:51 </sub>
 </div>
 
