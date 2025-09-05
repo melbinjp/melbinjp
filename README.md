@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 * 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [Utily](https://github.com/melbinjp/Utily)
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
-* [make-a-call](https://github.com/melbinjp/make-a-call) - WebRTC-based voice calling system for instant peer-to-pee...
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Android 16 QPR1 September update rolling out with 24 Pixel fixes - 9to5Google](http://9to5google.com/2025/09/03/android-16-september-update-pixel/)
-* 📰 [More Pixel phones are getting Google’s new look for Android - The Verge](https://www.theverge.com/news/770174/google-pixel-drop-september-2025-material-3-expressive)
-* 📰 [007 First Light State of Play September 2025: Everything Announced - IGN](https://www.ign.com/articles/007-first-light-state-of-play-september-2025-everything-announced)
+* 📰 [Patrick Gibson Cast As James Bond In ‘007 First Light’ Video Game: Photos, Tr...](https://deadline.com/gallery/patrick-gibson-cast-james-bond-007-first-light-playstation/)
+* 📰 [Destiny 2 Ash & Iron: All Exotic Armor and Ability Changes Detailed - The Gam...](https://thegamepost.com/destiny-2-ash-iron-exotic-armor-abilities-changes-detailed/)
+* 📰 [New AI model turns photos into explorable 3D worlds, with caveats - Ars Technica](https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-04 18:34 </sub>
+  <sub>Last updated: Last updated: 2025-09-05 01:56 </sub>
 </div>
 
