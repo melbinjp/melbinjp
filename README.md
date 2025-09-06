@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [IFA 2025: the biggest tech and gadget announcements - The Verge](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
-* 📰 [Govee’s new TV backlight uses a triple camera - The Verge](https://www.theverge.com/news/771242/govee-tv-backlight-3-pro-launch-availability)
-* 📰 [Apple Event 2025: 5 new Apple products you likely won’t see next week - Mashable](https://mashable.com/article/products-you-wont-see-apple-event-2025)
+* 📰 [The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest. - Ars...](https://arstechnica.com/information-technology/2025/09/the-number-of-mis-issued-1-1-1-1-certificates-grows-heres-the-latest/)
+* 📰 [Palantir CEO Alex Karp says top tech talent is about to get 'crazy valuable' ...](https://www.businessinsider.com/alex-karp-tech-talent-pay-spiking-ai-competition-heats-up-2025-9)
+* 📰 [Yes, You Can Stay on Windows 10. But You Need to Do This Before Oct. 14 - PCMag](https://www.pcmag.com/news/yes-you-can-stay-on-windows-10-but-you-need-to-do-this-before-oct-14-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-05 18:33 </sub>
+  <sub>Last updated: Last updated: 2025-09-06 01:53 </sub>
 </div>
 
