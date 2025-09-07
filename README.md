@@ -94,16 +94,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
-* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [Utily](https://github.com/melbinjp/Utily)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 <!-- REPO_LIST_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Get a free $100 gift card when you buy the Samsung Galaxy S25 FE at Amazon - ...](https://mashable.com/article/sept-5-samsung-galaxy-fe-deal)
+* 📰 [Poll: Are You Buying Borderlands 4 Next Week? - Pure Xbox](https://www.purexbox.com/features/poll-are-you-buying-borderlands-4-next-week)
+* 📰 [Apple’s Sept. 9 Event to Feature Next-Generation iPhone and Apple Watch - PYM...](http://www.pymnts.com/apple/2025/apples-sept-9-event-to-feature-next-generation-iphone-and-apple-watch/)
 * 📰 [You can stay on Windows 10 for another year for free — if you act by Oct. 14 ...](https://mashable.com/article/how-to-stay-on-windows-10-for-free)
-* 📰 [Here's when your Samsung device might get stable One UI 8 - Android Police](https://www.androidpolice.com/leaked-one-ui-8-release-schedule/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-07 06:33 </sub>
+  <sub>Last updated: Last updated: 2025-09-07 12:45 </sub>
 </div>
 
