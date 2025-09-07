@@ -94,16 +94,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
-* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
-* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [Utily](https://github.com/melbinjp/Utily)
+* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
+* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
+* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
 <!-- REPO_LIST_END -->
 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple Vision Pro could soon have a whole new look - 9to5Mac](https://9to5mac.com/2025/09/05/apple-vision-pro-2-space-black/)
-* 📰 [Galaxy S26 Edge renders show the iPhone 17-like design, corroborate Qi2 magne...](http://9to5google.com/2025/09/05/samsung-galaxy-s26-edge-design-renders-qi2-report/)
-* 📰 ["I'm picking it up a lot faster" Hollow Knight newcomers and veterans respond...](https://www.eurogamer.net/im-picking-it-up-a-lot-faster-hollow-knight-newcomers-and-veterans-respond-to-the-first-few-hours-of-silksong)
+* 📰 [OpenAI reorganizes research team behind ChatGPT’s personality - TechCrunch](https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/)
+* 📰 [You can stay on Windows 10 for another year for free — if you act by Oct. 14 ...](https://mashable.com/article/how-to-stay-on-windows-10-for-free)
+* 📰 [What to expect (and not expect) from yet another September Apple event - Ars ...](https://arstechnica.com/gadgets/2025/09/what-to-expect-and-not-expect-from-yet-another-september-apple-event/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-06 18:31 </sub>
+  <sub>Last updated: Last updated: 2025-09-07 02:02 </sub>
 </div>
 
