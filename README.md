@@ -94,14 +94,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [Utily](https://github.com/melbinjp/Utily)
+* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Poll: Are You Buying Borderlands 4 Next Week? - Pure Xbox](https://www.purexbox.com/features/poll-are-you-buying-borderlands-4-next-week)
-* 📰 [Apple’s Sept. 9 Event to Feature Next-Generation iPhone and Apple Watch - PYM...](http://www.pymnts.com/apple/2025/apples-sept-9-event-to-feature-next-generation-iphone-and-apple-watch/)
-* 📰 [You can stay on Windows 10 for another year for free — if you act by Oct. 14 ...](https://mashable.com/article/how-to-stay-on-windows-10-for-free)
+* 📰 [Don't expect the new AI Siri to debut at the Sept. 9 Apple event - Mashable](https://mashable.com/article/ai-siri-apple-event-2025)
+* 📰 ['The Tension Is Hurting a Lot of People': Ex-Bethesda Boss Speaks Out on Subs...](https://www.pushsquare.com/news/2025/09/the-tension-is-hurting-a-lot-of-people-ex-bethesda-boss-speaks-out-on-subs-like-xbox-game-pass)
+* 📰 [I like the Pixel 10 in spite of Google’s AI, not because of it - 9to5Google](http://9to5google.com/2025/09/06/i-like-the-pixel-10-in-spite-of-googles-ai-not-because-of-it/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-07 12:45 </sub>
+  <sub>Last updated: Last updated: 2025-09-07 18:31 </sub>
 </div>
 
