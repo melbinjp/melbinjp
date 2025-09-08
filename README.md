@@ -94,14 +94,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 * 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [Utily](https://github.com/melbinjp/Utily)
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
+* [Utily](https://github.com/melbinjp/Utily)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google Pixel 10 Pro XL in for review - GSMArena.com news - GSMArena.com](https://www.gsmarena.com/google_pixel_10_pro_xl_in_for_review-news-69383.php)
-* 📰 [Martina Navratilova calls out 'stupid' tennis rule that needs changing after ...](https://www.thetennisgazette.com/news/martina-navratilova-calls-out-stupid-tennis-rule-she-wants-changed-after-getting-fed-up-in-the-womens-us-open-final/)
-* 📰 [Denny Hamlin reacts to third Cup Series pole of 2025 at Gateway - NASCAR.com](https://www.nascar.com/videos/franchise/nascar-cup-qualifying-clips/denny-hamlin-reacts-to-third-cup-series-pole-of-2025-at-gateway/)
+* 📰 [An Electrician's Warning: Don't Plug These 7 Dangerous Devices Into Extension...](https://www.cnet.com/home/kitchen-and-household/an-electricians-warning-dont-plug-these-7-dangerous-devices-into-extension-cords/)
+* 📰 [An ‘iPhone Air,’ price hikes and AI: What to watch at Apple’s biggest event o...](https://www.cnn.com/2025/09/07/tech/iphone-air-price-ai-apple-event)
+* 📰 [Apple AirPods Pro 3 LEAKS Reveal INSANE New Features - Geeky Gadgets](https://www.geeky-gadgets.com/apple-airpods-pro-3-leaks/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-08 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-09-08 12:54 </sub>
 </div>
 
