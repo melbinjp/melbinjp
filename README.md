@@ -95,14 +95,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated today_
-* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
+* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [favicon](https://github.com/melbinjp/favicon)
-* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
+* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 * [Utily](https://github.com/melbinjp/Utily)
 * [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 <!-- REPO_LIST_END -->
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Plex tells users to reset passwords after new data breach - BleepingComputer](https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/)
-* 📰 [Xbox sale round-up September 9, 2025 - TrueAchievements](https://www.trueachievements.com/n60177/xbox-sale-roundup-september-9-2025)
-* 📰 [What’s new in Android’s September 2025 Google System Updates [U] - 9to5Google](http://9to5google.com/2025/09/08/september-2025-google-system-updates/)
+* 📰 [Star Wars Outlaws 'Switch 2 Title Update 1' Now Available, Here Are The Full ...](https://www.nintendolife.com/news/2025/09/star-wars-outlaws-switch-2-title-update-1-now-available-here-are-the-full-patch-notes)
+* 📰 [Hollow Knight: Silksong's first patch will make the early game easier - Eurog...](https://www.eurogamer.net/hollow-knight-silksongs-first-patch-will-make-the-early-game-easier)
+* 📰 [Smart Launcher has a message for grieving Nova Launcher users - Android Autho...](https://www.androidauthority.com/smart-launcher-nova-launcher-migration-update-3596005/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-10 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-09-10 12:51 </sub>
 </div>
 
