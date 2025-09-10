@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [jules-prompts](https://github.com/melbinjp/jules-prompts) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated today_
+* 🔨 Working on [DocQA_api](https://github.com/melbinjp/DocQA_api) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
-* [Utily](https://github.com/melbinjp/Utily)
-* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
+* [favicon](https://github.com/melbinjp/favicon)
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
-* [AV-Recorder](https://github.com/melbinjp/AV-Recorder)
+* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
+* [Utily](https://github.com/melbinjp/Utily)
+* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [PS6 Will Go Modular With Optional Disc Drive - Report - GameSpot](https://www.gamespot.com/articles/ps6-will-go-modular-with-optional-disc-drive-report/1100-6534538/)
-* 📰 [Hollow Knight Silksong map – area order and where to buy maps - PCGamesN](https://www.pcgamesn.com/hollow-knight-silksong/map)
-* 📰 [This Is the New 911 Turbo S—Porsche's Most Powerful 911 Ever - Motor1.com](https://www.motor1.com/news/771380/2026-porsche-911-turbo-s/)
+* 📰 [Xbox sale round-up September 9, 2025 - TrueAchievements](https://www.trueachievements.com/n60177/xbox-sale-roundup-september-9-2025)
+* 📰 [Google pulls ‘Daily Hub’ preview on Pixel 10 as it works on improvements - 9t...](http://9to5google.com/2025/09/08/pixel-10-daily-hub-pause/)
+* 📰 [Nest Doorbell 2K retail box specifies resolution, wider FOV - 9to5Google](http://9to5google.com/2025/09/08/nest-doorbell-2k-resolution/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-09 18:33 </sub>
+  <sub>Last updated: Last updated: 2025-09-10 01:54 </sub>
 </div>
 
