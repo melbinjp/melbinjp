@@ -94,17 +94,17 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [favicon](https://github.com/melbinjp/favicon) - _last updated today_
-* 🔨 Working on [DocQA](https://github.com/melbinjp/DocQA) - _last updated today_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
+* [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
-* [Utily](https://github.com/melbinjp/Utily)
-* [jules-prompts](https://github.com/melbinjp/jules-prompts) - A curated library of pre-made, machine-readable task prom...
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Star Wars Outlaws 'Switch 2 Title Update 1' Now Available, Here Are The Full ...](https://www.nintendolife.com/news/2025/09/star-wars-outlaws-switch-2-title-update-1-now-available-here-are-the-full-patch-notes)
-* 📰 [Hollow Knight: Silksong's first patch will make the early game easier - Eurog...](https://www.eurogamer.net/hollow-knight-silksongs-first-patch-will-make-the-early-game-easier)
-* 📰 [Smart Launcher has a message for grieving Nova Launcher users - Android Autho...](https://www.androidauthority.com/smart-launcher-nova-launcher-migration-update-3596005/)
+* 📰 [Apple announces iOS 26 release date: September 15 - 9to5Mac](https://9to5mac.com/2025/09/09/apple-announces-ios-26-release-date-september-15/)
+* 📰 [The Apple Watch Ultra 3 has 42 hours of battery life and satellite connectivi...](https://www.theverge.com/news/770763/apple-watch-ultra-3-awe-dropping-event)
+* 📰 [Apple Intelligence: Everything you need to know about Apple’s AI model and se...](https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-10 12:51 </sub>
+  <sub>Last updated: Last updated: 2025-09-10 18:35 </sub>
 </div>
 
