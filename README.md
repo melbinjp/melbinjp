@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/JetIss_nasa_6604.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/JetIss_nasa_6604.jpg" alt="Up from the Earth: Gigantic Jet Lightning" 
+  <a href="https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_5509.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_5509.jpg" alt="The Great Lacerta Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Up from the Earth: Gigantic Jet Lightning</em> • NASA APOD</p>
+<p align="center"><em>The Great Lacerta Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Plex tells users to reset passwords after new data breach - BleepingComputer](https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/)
 * 📰 [Xbox sale round-up September 9, 2025 - TrueAchievements](https://www.trueachievements.com/n60177/xbox-sale-roundup-september-9-2025)
-* 📰 [Google pulls ‘Daily Hub’ preview on Pixel 10 as it works on improvements - 9t...](http://9to5google.com/2025/09/08/pixel-10-daily-hub-pause/)
-* 📰 [Nest Doorbell 2K retail box specifies resolution, wider FOV - 9to5Google](http://9to5google.com/2025/09/08/nest-doorbell-2k-resolution/)
+* 📰 [What’s new in Android’s September 2025 Google System Updates [U] - 9to5Google](http://9to5google.com/2025/09/08/september-2025-google-system-updates/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-10 01:54 </sub>
+  <sub>Last updated: Last updated: 2025-09-10 06:36 </sub>
 </div>
 
