@@ -118,12 +118,12 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_5509.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/GrLacerta_Moehring_5509.jpg" alt="The Great Lacerta Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg" alt="The Umbra of Earth" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>The Great Lacerta Nebula</em> • NASA APOD</p>
+<p align="center"><em>The Umbra of Earth</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,6 +134,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wear...](https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/)
 * 📰 [AirPods Pro 3 get foam-infused ear tips in five different sizes - 9to5Mac](https://9to5mac.com/2025/09/09/airpods-pro-3-get-foam-infused-ear-tips-in-five-different-sizes/)
 * 📰 [The New Apple Watches Are Here. You Should Probably Upgrade - WIRED](https://www.wired.com/story/apple-watch-series-11-se-ultra-3/)
 <!-- FUTURE_INSIGHTS_END -->
@@ -162,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-11 01:56 </sub>
+  <sub>Last updated: Last updated: 2025-09-11 06:37 </sub>
 </div>
 
