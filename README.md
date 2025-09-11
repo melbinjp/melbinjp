@@ -94,14 +94,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
 * [Utily](https://github.com/melbinjp/Utily)
+* [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
 * [favicon](https://github.com/melbinjp/favicon)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple announces iOS 26 release date: September 15 - 9to5Mac](https://9to5mac.com/2025/09/09/apple-announces-ios-26-release-date-september-15/)
-* 📰 [The Apple Watch Ultra 3 has 42 hours of battery life and satellite connectivi...](https://www.theverge.com/news/770763/apple-watch-ultra-3-awe-dropping-event)
-* 📰 [Apple Intelligence: Everything you need to know about Apple’s AI model and se...](https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/)
+* 📰 [AirPods Pro 3 get foam-infused ear tips in five different sizes - 9to5Mac](https://9to5mac.com/2025/09/09/airpods-pro-3-get-foam-infused-ear-tips-in-five-different-sizes/)
+* 📰 [The New Apple Watches Are Here. You Should Probably Upgrade - WIRED](https://www.wired.com/story/apple-watch-series-11-se-ultra-3/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +162,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-10 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-09-11 01:56 </sub>
 </div>
 
