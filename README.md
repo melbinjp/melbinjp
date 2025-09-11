@@ -29,10 +29,10 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 
 <!-- CORE_COMPETENCIES_START -->
 **🔧 Languages & Frameworks:**
+* **HTML**
 * **JavaScript**
 * **CSS**
 * **Python**
-* **HTML**
 * **Jupyter Notebook**
 
 **🤖 AI & Machine Learning:** ai
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -135,8 +135,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Apple Events live updates: iPhone 17, iPhone Air, AirPods Pro 3, and new wear...](https://www.zdnet.com/article/apple-events-live-updates-iphone-17-iphone-air-airpods-pro-3-and-new-wearables-just-unveiled/)
-* 📰 [AirPods Pro 3 get foam-infused ear tips in five different sizes - 9to5Mac](https://9to5mac.com/2025/09/09/airpods-pro-3-get-foam-infused-ear-tips-in-five-different-sizes/)
-* 📰 [The New Apple Watches Are Here. You Should Probably Upgrade - WIRED](https://www.wired.com/story/apple-watch-series-11-se-ultra-3/)
+* 📰 [Apple is giving iPhone 14 and 15 users another free year of satellite feature...](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free)
+* 📰 [Apple reveals iPadOS 26 release date - The Verge](https://www.theverge.com/news/773018/apple-ipados-26-release-date-launch)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-11 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-09-11 12:50 </sub>
 </div>
 
