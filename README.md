@@ -95,7 +95,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated yesterday_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [AirPods Pro 3 don’t include a USB-C charging cable in the box - 9to5Mac](https://9to5mac.com/2025/09/10/airpods-pro-3-dont-include-a-usb-c-charging-cable-in-the-box/)
-* 📰 [How to turn off autoplay on your social media feeds - TechCrunch](https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/)
-* 📰 [Tim Cook and Apple’s Design Team Explain the ‘Shockingly Thin’ iPhone Air - T...](https://www.wsj.com/tech/apple-iphone-air-tim-cook-design-thin-case-b67d5d8b)
+* 📰 [Is Hollow Knight: Silksong too hard? Well, it depends on what you mean by “ha...](https://arstechnica.com/gaming/2025/09/is-hollow-knight-silksong-too-hard-well-it-depends-on-what-you-mean-by-hard/)
+* 📰 [Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods ...](https://www.zdnet.com/article/apple-iphone-17-event-recap-reactions-to-iphone-air-apple-watches-airpods-pro-3-more/)
+* 📰 [Gmail makes it easier to track upcoming package deliveries - TechCrunch](https://techcrunch.com/2025/09/11/gmail-makes-it-easier-to-track-upcoming-package-deliveries/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-12 12:49 </sub>
+  <sub>Last updated: Last updated: 2025-09-12 18:31 </sub>
 </div>
 
