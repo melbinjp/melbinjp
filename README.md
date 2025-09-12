@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/UmbraEarth.jpg" alt="The Umbra of Earth" 
+  <a href="https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/APODtwo_hemisphere_combined_no_text.jpg" alt="Lunar Eclipse in Two Hemispheres" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>The Umbra of Earth</em> • NASA APOD</p>
+<p align="center"><em>Lunar Eclipse in Two Hemispheres</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,8 +134,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [New iPhone 17 lineup and iPhone Air now at Verizon: 5G power, incredible trad...](https://www.verizon.com/about/news/iphone-17-air-pro-max-verizon-offers)
 * 📰 [Let’s compare the specs of the Apple Watch Series 11, Ultra 3, and SE 3 - The...](https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison)
-* 📰 [Samsung Galaxy S26 Pro renders leak with familiar design and a bigger display...](http://9to5google.com/2025/09/10/samsung-galaxy-s26-pro-renders-leak-with-familiar-design-and-a-bigger-display/)
 * 📰 [watchOS 26 Adds Four New Apple Watch Faces - MacRumors](https://www.macrumors.com/2025/09/10/watchos-26-adds-four-new-apple-watch-faces/)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-12 01:52 </sub>
+  <sub>Last updated: Last updated: 2025-09-12 06:36 </sub>
 </div>
 
