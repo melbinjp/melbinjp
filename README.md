@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [New iPhone 17 lineup and iPhone Air now at Verizon: 5G power, incredible trad...](https://www.verizon.com/about/news/iphone-17-air-pro-max-verizon-offers)
-* 📰 [Let’s compare the specs of the Apple Watch Series 11, Ultra 3, and SE 3 - The...](https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison)
-* 📰 [watchOS 26 Adds Four New Apple Watch Faces - MacRumors](https://www.macrumors.com/2025/09/10/watchos-26-adds-four-new-apple-watch-faces/)
+* 📰 [AirPods Pro 3 don’t include a USB-C charging cable in the box - 9to5Mac](https://9to5mac.com/2025/09/10/airpods-pro-3-dont-include-a-usb-c-charging-cable-in-the-box/)
+* 📰 [How to turn off autoplay on your social media feeds - TechCrunch](https://techcrunch.com/2025/09/10/how-to-turn-off-autoplay-on-your-social-media-feeds/)
+* 📰 [Tim Cook and Apple’s Design Team Explain the ‘Shockingly Thin’ iPhone Air - T...](https://www.wsj.com/tech/apple-iphone-air-tim-cook-design-thin-case-b67d5d8b)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-12 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-09-12 12:49 </sub>
 </div>
 
