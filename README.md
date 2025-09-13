@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated yesterday_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 2 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2 days ago_
 <!-- CURRENT_FOCUS_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple Watch hypertension alerts feature receives FDA clearance - 9to5Mac](https://9to5mac.com/2025/09/11/apple-watch-hypertension-alerts-feature-receives-fda-clearance/)
-* 📰 ["We Fully Agree": Bungie Admits Destiny 2 Ash & Iron Power Climb Feels "Way O...](https://thegamepost.com/bungie-destiny-2-ash-iron-power-climb-feels-reward-buffs/)
-* 📰 [Borderlands 4 Launches To Mostly Negative Steam Reviews Over Performance Issu...](https://www.thegamer.com/borderlands-4-launches-to-mostly-negative-steam-reviews-performance-issues-crashing/)
+* 📰 [Apple Watch hypertension alerts cleared by FDA for new and old watches - The ...](https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda)
+* 📰 [Borderlands 4 is off to a 'Mixed' start on Steam — here's why - Windows Central](https://www.windowscentral.com/gaming/borderlands-4-falls-to-mixed-steam-rating-at-launch-as-reviews-hammer-poor-pc-performance)
+* 📰 [Apple iPhone 17 event recap: Reactions to iPhone Air, Apple Watches, AirPods ...](https://www.zdnet.com/article/apple-iphone-17-event-recap-reactions-to-iphone-air-apple-watches-airpods-pro-3-more/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-13 06:32 </sub>
+  <sub>Last updated: Last updated: 2025-09-13 12:45 </sub>
 </div>
 
