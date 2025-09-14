@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 2 days ago_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 3 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 3 days ago_
 <!-- CURRENT_FOCUS_END -->
 
@@ -123,9 +123,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Three Days Until iOS 26 Launch: What Are You Most Looking Forward To? - MacRu...](https://www.macrumors.com/2025/09/12/ios-26-launch-monday/)
-* 📰 [Apple AI and Search Executive Robby Walker to Leave Company - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-09-12/apple-ai-and-search-executive-robby-walker-to-leave-iphone-maker)
-* 📰 [Pokémon Legends Z-A Game's Videos Reveal Paid DLC, Mega Evolutions of Pokémon...](https://www.animenewsnetwork.com/news/2025-09-12/pokemon-legends-z-a-game-videos-reveal-paid-dlc-mega-evolutions-of-pokemon-x-y-starters-raichu/.228725)
+* 📰 [Tips on stepping back from screens and starting a new hobby - AP News](https://apnews.com/article/finding-a-hobby-screen-alternatives-ef4c9320e1ede4a0b3ce04f5f4b149dd)
+* 📰 [Metroid Prime 4 Game And Samus Amiibo Preorders Available Now - GameSpot](https://www.gamespot.com/articles/metroid-prime-4-beyond-game-amiibo-preorder-buying-guide-nintendo-switch-2/1100-6530754/)
+* 📰 [I tried Apple's 2 big AI features announced at the iPhone 17 event - and both...](https://www.zdnet.com/article/i-tried-apples-2-big-ai-features-announced-at-the-iphone-17-event-and-both-are-game-changers/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-14 06:33 </sub>
+  <sub>Last updated: Last updated: 2025-09-14 12:44 </sub>
 </div>
 
