@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 4 days ago_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 5 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 5 days ago_
 <!-- CURRENT_FOCUS_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google's 27th birthday bash comes with Pixel freebies and big discounts - And...](https://www.androidauthority.com/google-store-birthday-pixel-deals-3597529/)
-* 📰 [Top JUCO Prospect KJ Perry Talks BYU Basketball Official Visit - Vanquish The...](https://www.vanquishthefoe.com/byu-basketball/25064/top-juco-prospect-kj-perry-talks-byu-basketball-official-visit-recruiting)
-* 📰 [Meta Connect 2025: What We Expect, And What We Don't - UploadVR](https://www.uploadvr.com/meta-connect-2025-predictions-expectations/)
+* 📰 [Borderlands 4 Shift Codes: All Active Keys And How To Redeem Them - GameSpot](https://www.gamespot.com/articles/borderlands-4-shift-codes-all-active-keys-and-how-to-redeem-them/1100-6533833/)
+* 📰 [Claude now has memory, but only for certain users - Mashable](https://mashable.com/article/anthropic-claude-ai-now-has-memory-for-some-users)
+* 📰 [Mark Zuckerberg is making a major bet on the future. He’s about to share it -...](https://www.cnn.com/2025/09/15/tech/meta-future-ai-smart-glasses)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-16 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-09-16 12:53 </sub>
 </div>
 
