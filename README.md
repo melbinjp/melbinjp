@@ -95,7 +95,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 6 days ago_
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 6 days ago_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-10_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Showcases Every Switch And Switch 2 Direct Game In New Infographic -...](https://www.nintendolife.com/news/2025/09/nintendo-showcases-every-switch-and-switch-2-direct-game-in-new-infographic)
-* 📰 [Here's your first official look at the first Snapdragon 8 Elite Gen 5 flagshi...](https://www.androidauthority.com/xiaomi-17-pro-max-design-second-display-3597961/)
-* 📰 [Poll: Are You Playing Borderlands 4? - Push Square](https://www.pushsquare.com/features/poll-are-you-playing-borderlands-4)
+* 📰 [YouTube says it has paid creators more than $100 billion over last 4 years - ...](https://www.cnbc.com/2025/09/16/youtube-creators-pay.html)
+* 📰 [The Aurzen D1R Cube is the first Roku TV smart projector - The Verge](https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector)
+* 📰 [iOS 26: All the New iPhone Lock Screen Customizations - MacRumors](https://www.macrumors.com/2025/09/16/ios-26-whats-new-iphone-lock-screen/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-17 12:53 </sub>
+  <sub>Last updated: Last updated: 2025-09-17 18:35 </sub>
 </div>
 
