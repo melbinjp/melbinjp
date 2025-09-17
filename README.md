@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 5 days ago_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 6 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 6 days ago_
 <!-- CURRENT_FOCUS_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [PSA: Your Samsung Galaxy phone has a security update you should install right...](https://mashable.com/article/samsung-issues-urgent-security-fix-galaxy-phones)
-* 📰 [Snap unveils Snap OS 2.0 with native browser, WebXR support, and more - TechC...](https://techcrunch.com/2025/09/15/snap-unveils-snap-os-2-0-with-native-browser-webxr-support-and-more/)
-* 📰 [Super Mario Galaxy + Super Mario Galaxy 2 to offer mouse controls on Nintendo...](https://nintendoeverything.com/super-mario-galaxy-super-mario-galaxy-2-to-offer-mouse-controls-on-nintendo-switch-2/)
+* 📰 [Nintendo Showcases Every Switch And Switch 2 Direct Game In New Infographic -...](https://www.nintendolife.com/news/2025/09/nintendo-showcases-every-switch-and-switch-2-direct-game-in-new-infographic)
+* 📰 [Here's your first official look at the first Snapdragon 8 Elite Gen 5 flagshi...](https://www.androidauthority.com/xiaomi-17-pro-max-design-second-display-3597961/)
+* 📰 [Poll: Are You Playing Borderlands 4? - Push Square](https://www.pushsquare.com/features/poll-are-you-playing-borderlands-4)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-17 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-09-17 12:53 </sub>
 </div>
 
