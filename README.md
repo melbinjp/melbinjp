@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 6 days ago_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 2025-09-11_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-10_
 <!-- CURRENT_FOCUS_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 ['My Advice to Users Is to Accept Reality and Tune, or to Not Play' — Randy Pi...](https://www.ign.com/articles/my-advice-to-users-is-to-accept-reality-and-tune-or-to-not-play-randy-pitchford-is-at-the-get-a-refund-from-steam-stage-of-the-borderlands-4-pc-performance-backlash)
-* 📰 [Mac Mini Sale: Get Into MacOS for Less Than $500 Today - WIRED](https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/)
-* 📰 [26 New Features to Try in watchOS 26 - MacRumors](https://www.macrumors.com/guide/watchos-26-new-features/)
+* 📰 [Meta Connect 2025 LIVE — Ray-Ban Meta Display smart glasses, new Oakley glass...](https://www.tomsguide.com/news/live/meta-connect-2025-live-updates)
+* 📰 [The iPhone 17 is the one to get this year - The Verge](https://www.theverge.com/tech/779568/iphone-17-review-apple-best-features)
+* 📰 [All of the best iPhone 17 case deals: Exclusive discounts, launch bundles, an...](http://9to5toys.com/2025/09/16/all-best-iphone-17-case-deals/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-18 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-09-18 12:52 </sub>
 </div>
 
