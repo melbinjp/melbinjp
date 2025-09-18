@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [YouTube says it has paid creators more than $100 billion over last 4 years - ...](https://www.cnbc.com/2025/09/16/youtube-creators-pay.html)
-* 📰 [The Aurzen D1R Cube is the first Roku TV smart projector - The Verge](https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector)
-* 📰 [iOS 26: All the New iPhone Lock Screen Customizations - MacRumors](https://www.macrumors.com/2025/09/16/ios-26-whats-new-iphone-lock-screen/)
+* 📰 [Almost a week in, the iPhone Air doesn’t look like a pre-order hit - 9to5Mac](https://9to5mac.com/2025/09/16/iphone-air-pre-order-availability/)
+* 📰 [Consumer Reports asks Microsoft to keep supporting Windows 10 - The Verge](https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft)
+* 📰 [Here are all the new features in iOS 26, iPadOS 26, macOS Tahoe - 9to5Mac](https://9to5mac.com/2025/09/16/here-are-all-the-new-features-in-ios-26-ipados-26-macos-tahoe/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-17 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-09-18 01:54 </sub>
 </div>
 
