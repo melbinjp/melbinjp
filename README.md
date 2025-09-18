@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_4550.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_4550.jpg" alt="Nebulas and Clusters in Sagittarius" 
+  <a href="https://apod.nasa.gov/apod/image/2509/C2025R2_2000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/C2025R2_2000.jpg" alt="Comet C/2025 R2 (SWAN)" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Nebulas and Clusters in Sagittarius</em> • NASA APOD</p>
+<p align="center"><em>Comet C/2025 R2 (SWAN)</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Almost a week in, the iPhone Air doesn’t look like a pre-order hit - 9to5Mac](https://9to5mac.com/2025/09/16/iphone-air-pre-order-availability/)
-* 📰 [Consumer Reports asks Microsoft to keep supporting Windows 10 - The Verge](https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft)
-* 📰 [Here are all the new features in iOS 26, iPadOS 26, macOS Tahoe - 9to5Mac](https://9to5mac.com/2025/09/16/here-are-all-the-new-features-in-ios-26-ipados-26-macos-tahoe/)
+* 📰 ['My Advice to Users Is to Accept Reality and Tune, or to Not Play' — Randy Pi...](https://www.ign.com/articles/my-advice-to-users-is-to-accept-reality-and-tune-or-to-not-play-randy-pitchford-is-at-the-get-a-refund-from-steam-stage-of-the-borderlands-4-pc-performance-backlash)
+* 📰 [Mac Mini Sale: Get Into MacOS for Less Than $500 Today - WIRED](https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/)
+* 📰 [26 New Features to Try in watchOS 26 - MacRumors](https://www.macrumors.com/guide/watchos-26-new-features/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-18 01:54 </sub>
+  <sub>Last updated: Last updated: 2025-09-18 06:36 </sub>
 </div>
 
