@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Super Mario Galaxy + Super Mario Galaxy 2 Switch Online Icons Revealed - Nint...](https://www.nintendolife.com/news/2025/09/super-mario-galaxy-plus-super-mario-galaxy-2-switch-online-icons-revealed)
-* 📰 [Samsung’s biggest new phone in years may launch in the US this year - CNN](https://www.cnn.com/2025/09/18/tech/samsung-trifold-phone-galaxy-s26-edge)
-* 📰 [Galaxy S25 One UI 8 update is now rolling out worldwide - SamMobile](https://www.sammobile.com/news/galaxy-s25-one-ui-8-update-worldwide-rollout/)
+* 📰 [Google brings Gemini in Chrome to US users, unveils agentic browsing capabili...](https://techcrunch.com/2025/09/18/google-brings-gemini-in-chrome-to-us-users-unveils-agentic-browsing-capabilities-and-more/)
+* 📰 [Sonic Racing: CrossWorlds Review - IGN](https://www.ign.com/articles/sonic-racing-crossworlds-review)
+* 📰 [Hollow Knight: Silksong devs admit it has "moments of steep difficulty" but a...](https://www.eurogamer.net/hollow-knight-silksong-devs-admit-it-has-moments-of-steep-difficulty-but-also-a-higher-level-of-freedom-to-avoid-getting-stonewalled)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-19 12:52 </sub>
+  <sub>Last updated: Last updated: 2025-09-19 18:34 </sub>
 </div>
 
