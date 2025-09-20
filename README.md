@@ -94,14 +94,14 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated today_
 * 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 2025-09-11_
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-10_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [Utily](https://github.com/melbinjp/Utily)
 * [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
+* [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 * [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
@@ -118,12 +118,12 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/NGC6914_2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/NGC6914_2048.jpg" alt="The NGC 6914 Complex" 
+  <a href="https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logo.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logo.jpg" alt="Gibbous vs Crescent" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>The NGC 6914 Complex</em> • NASA APOD</p>
+<p align="center"><em>Gibbous vs Crescent</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Watch the Meta Ray-Ban Display glasses fail in Mark Zuckerberg's painful live...](https://mashable.com/article/mark-zuckerberg-failed-demo-meta-ray-ban-display-glasses)
-* 📰 [First iPhone 17 pre-orders now arriving to customers - 9to5Mac](https://9to5mac.com/2025/09/18/first-iphone-17-pre-orders-now-arriving-customers/)
-* 📰 [Google announces massive expansion of AI features in Chrome - Ars Technica](https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/)
+* 📰 [‘I don’t know what happened’: AI glasses fail during Zuckerberg’s Meta Connec...](https://www.kron4.com/news/technology-ai/i-dont-know-what-happened-ai-glasses-fail-during-zuckerbergs-meta-connect-keynote/)
+* 📰 [Sonic Racing: CrossWorlds’ final DLC collaboration leaked - nintendoeverythin...](https://nintendoeverything.com/sonic-racing-crossworlds-final-dlc-collaboration-leaked/)
+* 📰 [iOS 26’s new Battery feature can help save a draining iPhone - 9to5Mac](https://9to5mac.com/2025/09/18/ios-26s-new-battery-feature-can-help-save-a-draining-iphone/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-20 01:51 </sub>
+  <sub>Last updated: Last updated: 2025-09-20 06:34 </sub>
 </div>
 
