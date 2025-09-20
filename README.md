@@ -95,16 +95,16 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated today_
-* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated 2025-09-11_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
 * [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
-* [DocQA_api](https://github.com/melbinjp/DocQA_api) - A Retrieval Augmented Generation (RAG) API 
 <!-- REPO_LIST_END -->
 
 ---
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Another Sonic Racing: CrossWorlds Collab Appears To Have Been Revealed - Nint...](https://www.nintendolife.com/news/2025/09/another-sonic-racing-crossworlds-collab-appears-to-have-been-revealed)
-* 📰 [The internet is out to break the iPhone Air, but it seems indestructible - An...](https://www.androidauthority.com/iphone-air-bend-test-3599216/)
-* 📰 [The latest iPhone, Apple Watch, and AirPods arrive in Apple Store locations -...](https://www.apple.com/newsroom/2025/09/the-latest-iphone-apple-watch-and-airpods-arrive-in-apple-store-locations/)
+* 📰 [One UI 8.5 leak shows off some iOS-inspired visuals coming alongside the Gala...](http://9to5google.com/2025/09/19/one-ui-8-5-leak-shows-off-ios-inspired-visuals-coming-alongside-galaxy-s26/)
+* 📰 [First look at the Google Home app powered by Gemini - The Verge](https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini)
+* 📰 [Would You Use a Mouse With a Fake ‘Click?’ - Gizmodo](https://gizmodo.com/would-you-use-a-mouse-with-a-fake-click-2000660238)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-20 12:47 </sub>
+  <sub>Last updated: Last updated: 2025-09-20 18:31 </sub>
 </div>
 
