@@ -118,12 +118,12 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logo.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/20250919_Moon_Venus_logo.jpg" alt="Gibbous vs Crescent" 
+  <a href="https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_2400.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/SunsetMonths_Vanzella_2400.jpg" alt="Equinox Sunset" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Gibbous vs Crescent</em> • NASA APOD</p>
+<p align="center"><em>Equinox Sunset</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [2025 New Hampshire Motor Speedway pit stall assignments - NASCAR.com](https://www.nascar.com/news-media/2025/09/19/2025-new-hampshire-motor-speedway-pit-stall-assignments/)
+* 📰 [Starship will soon fly over towns and cities, but will dodge the biggest ones...](https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/)
 * 📰 [‘The Last Couple of Years Have Been Rough’ – Ninja Says ‘Trolls’ Mock His Vie...](https://www.ign.com/articles/the-last-couple-of-years-have-been-rough-ninja-says-trolls-mock-his-viewer-numbers-every-day)
-* 📰 [Windows 11 is adding another Copilot button nobody asked for - The Verge](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button)
-* 📰 [Borderlands 4: 12 Tips For New And Returning Players - Kotaku](https://kotaku.com/12-tips-borderlands-4-guide-help-better-loot-gold-keys-side-quests-tricks-2000626554)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-21 02:05 </sub>
+  <sub>Last updated: Last updated: 2025-09-21 06:35 </sub>
 </div>
 
