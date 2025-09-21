@@ -95,7 +95,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- CURRENT_FOCUS_START -->
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated today_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [2025 New Hampshire Motor Speedway pit stall assignments - NASCAR.com](https://www.nascar.com/news-media/2025/09/19/2025-new-hampshire-motor-speedway-pit-stall-assignments/)
-* 📰 [‘The Last Couple of Years Have Been Rough’ – Ninja Says ‘Trolls’ Mock His Vie...](https://www.ign.com/articles/the-last-couple-of-years-have-been-rough-ninja-says-trolls-mock-his-viewer-numbers-every-day)
-* 📰 [PlayStation Studio Boss Breaks Silence On Dev Fired For Charlie Kirk Joke - K...](https://kotaku.com/sucker-punch-charlie-kirk-ghost-yotei-sony-2000627290)
+* 📰 [Samsung has updated these Galaxy devices to Android 16 – here’s the schedule ...](http://9to5google.com/2025/09/20/samsung-galaxy-android-16-one-ui-8-update-list-schedule/)
+* 📰 [Moon Helium Deal Is the Biggest Space Resource Grab Yet - Gizmodo](https://gizmodo.com/moon-helium-deal-marks-the-largest-space-resource-grab-yet-2000660283)
+* 📰 [Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More ...](https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-21 12:47 </sub>
+  <sub>Last updated: Last updated: 2025-09-21 18:32 </sub>
 </div>
 
