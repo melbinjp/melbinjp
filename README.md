@@ -94,8 +94,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 3 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_2400.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_2400.jpg" alt="GW250114: Rotating Black Holes Collide" 
+  <a href="https://apod.nasa.gov/apod/image/2509/DSC05293.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/DSC05293.jpg" alt="Saturn Opposite the Sun" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>GW250114: Rotating Black Holes Collide</em> • NASA APOD</p>
+<p align="center"><em>Saturn Opposite the Sun</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Yakuza Kiwami and Yakuza Kiwami 2 coming to PS5, Xbox Series on December 8 - ...](https://www.gematsu.com/2025/09/yakuza-kiwami-and-yakuza-kiwami-2-coming-to-ps5-xbox-series-on-december-8)
+* 📰 [iFixit zooms in on reports of an iPhone 17 Pro scratch problem - The Verge](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch)
 * 📰 [Mario Kart World Has Been Updated To Version 1.3.0, Here Are The Full Patch N...](https://www.nintendolife.com/news/2025/09/mario-kart-world-has-been-updated-to-version-1-3-0-here-are-the-full-patch-notes)
-* 📰 [The Switch 2 version of Borderlands 4 has been delayed - The Verge](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay)
-* 📰 [When “no” means “yes”: Why AI chatbots can’t process Persian social etiquette...](https://arstechnica.com/ai/2025/09/when-no-means-yes-why-ai-chatbots-cant-process-persian-social-etiquette/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-25 01:57 </sub>
+  <sub>Last updated: Last updated: 2025-09-25 06:38 </sub>
 </div>
 
