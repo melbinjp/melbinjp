@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [OpenAI launches ChatGPT Pulse to proactively write you morning briefs - TechC...](https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/)
-* 📰 [AirPods 4 vs. AirPods Pro 3 Buyer's Guide: 25 Differences Compared - MacRumors](https://www.macrumors.com/guide/airpods-4-vs-airpods-pro-3/)
-* 📰 [Samsung’s One UI 8.5 lock screen refresh has blurred notifications, new clock...](http://9to5google.com/2025/09/25/samsungs-one-ui-8-5-lock-screen-refresh-has-blurred-notifications-new-clock-styles/)
+* 📰 [Microsoft and Asus open Xbox Ally preorders — the X costs $999 - The Verge](https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder)
+* 📰 [Nvidia is letting anyone use its AI voice animation tech - The Verge](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source)
+* 📰 [Viral call-recording app Neon goes dark after exposing users' phone numbers, ...](https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-26 18:33 </sub>
+  <sub>Last updated: Last updated: 2025-09-27 01:51 </sub>
 </div>
 
