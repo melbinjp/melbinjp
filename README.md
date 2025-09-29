@@ -94,8 +94,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 6 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 6 days ago_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-22_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,18 +112,18 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_1648.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_1648.jpg" alt="Leopard Spots on Martian Rocks" 
+  <a href="https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg" alt="Two Camera Comets in One Sky" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Leopard Spots on Martian Rocks</em> • NASA APOD</p>
+<p align="center"><em>Two Camera Comets in One Sky</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [PlayStation Secret Lair Superdrop Brings The Last of Us, God of War, and More...](https://www.ign.com/articles/playstation-secret-lair-superdrop-brings-the-last-of-us-god-of-war-and-more-to-magic-the-gathering-in-october)
-* 📰 [Minecraft's next game drop has already been revealed, and I love this new mob...](https://www.windowscentral.com/gaming/xbox/minecraft-live-mounts-of-mayhem-revealed)
-* 📰 [Silent Hill f Looks Incredible With Its Hidden “True Epic” Settings - DSOGaming](https://www.dsogaming.com/pc-performance-analyses/silent-hill-f-looks-incredible-with-its-hidden-true-epic-settings/)
+* 📰 [Big Google Home app redesign with ‘Ask Home’ starts rolling out on iPhone - 9...](http://9to5google.com/2025/09/27/google-home-ask-redesign-iphone/)
+* 📰 [Penn State-Oregon Fourth Quarter Open Thread - Black Shoe Diaries](https://www.blackshoediaries.com/open_threads/79261/penn-state-nittany-lions-football-oregon-fourth-quarter-open-thread-bsd)
+* 📰 [Little Nightmares Enhanced Edition upgrade for Nintendo Switch players unavai...](https://nintendoeverything.com/little-nightmares-enhanced-edition-switch-upgrade/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-29 01:59 </sub>
+  <sub>Last updated: Last updated: 2025-09-29 06:39 </sub>
 </div>
 
