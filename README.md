@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Column | I discovered ChatGPT’s best new feature: Quitting things for you - T...](https://www.washingtonpost.com/technology/2025/09/29/chat-gpt-agent-mode-subscriptions/)
-* 📰 [ZR1, GTD, and America’s new Nürburgring war - Ars Technica](https://arstechnica.com/cars/2025/09/zr1-gtd-and-americas-new-nurburgring-war/)
-* 📰 [As Chrono Trigger celebrates 30th anniversary, spiritual successor Threads of...](https://www.eurogamer.net/as-chrono-trigger-celebrates-30th-anniversary-spiritual-successor-threads-of-time-gets-fresh-gameplay-trailer)
+* 📰 [Alexa Plus is smarter — but it’s not yet smart enough - The Verge](https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home)
+* 📰 [Sony celebrates PlayStation anniversary with a new photography book that cost...](https://www.eurogamer.net/sony-celebrates-playstation-anniversary-with-a-new-photography-book-that-costs-95-or-245-if-youre-fancy)
+* 📰 [Destiny Rising Leak Reveals 4 Upcoming Characters, Including a Gunslinger Tha...](https://thegamepost.com/destiny-rising-leak-reveals-4-upcoming-characters/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-09-30 12:55 </sub>
+  <sub>Last updated: Last updated: 2025-09-30 18:34 </sub>
 </div>
 
