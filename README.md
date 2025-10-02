@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -135,8 +135,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Meta Ray-Ban Display Is Now On Sale, But Only In Select US Stores - UploadVR](https://www.uploadvr.com/meta-ray-ban-display-now-available-in-us-stores/)
-* 📰 [Here’s where to preorder all of Amazon’s new Alexa devices and when they arri...](https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date)
-* 📰 [Call of Duty: Blacks Ops 7 shares new multiplayer gameplay and details in len...](https://www.eurogamer.net/call-of-duty-blacks-ops-7-shares-new-multiplayer-gameplay-and-details-in-lengthy-new-showcase)
+* 📰 [Amazon event 2025 live: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire ...](https://www.zdnet.com/home-and-office/smart-home/amazon-event-2025-live-reactions-to-echo-dot-kindle-scribe-colorsoft-fire-tv-more/)
+* 📰 [Amazon France shipped someone their ROG Xbox Ally X almost 3 weeks early… and...](https://www.windowscentral.com/gaming/xbox/amazon-france-ships-the-rog-xbox-ally-x-three-weeks-early-one-lucky-gamer-posts-first-review)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-02 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-10-02 12:51 </sub>
 </div>
 
