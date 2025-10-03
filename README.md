@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [HP’s new 49-inch curved ultrawide monitor has a pop-up webcam - The Verge](https://www.theverge.com/news/789795/hps-new-49-inch-curved-ultrawide-monitor-has-a-pop-up-webcam)
-* 📰 [GameStop Says It Will Continue to Sell Xbox Game Pass Ultimate for $19.99 a M...](https://www.ign.com/articles/gamestop-says-it-will-keep-selling-xbox-game-pass-ultimate-at-pre-hiked-price)
-* 📰 [Meta Ray-Ban Display Sells Out As Early Adopters Struggle To Buy - UploadVR](https://www.uploadvr.com/meta-ray-ban-display-sold-out-early-adopters-struggle/)
+* 📰 [Amazon’s Vega OS launch trick: cloud-streamed apps - The Verge](https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud)
+* 📰 [With up to 48% off, the Garmin Birthday Sale is a gift that keeps on giving -...](https://www.cyclingnews.com/news/with-up-to-48-percent-off-the-garmin-birthday-sale-is-a-gift-that-keeps-on-giving-here-are-five-of-the-best-deals-weve-seen/)
+* 📰 [Find out how Perplexity wants to fight AI 'slop' with its latest browser - Bu...](https://www.businessinsider.com/perplexity-makes-200-ai-browser-free-to-battle-ai-slop-2025-10)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-03 12:51 </sub>
+  <sub>Last updated: Last updated: 2025-10-03 18:34 </sub>
 </div>
 
