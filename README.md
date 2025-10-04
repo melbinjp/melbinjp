@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Microsoft says its "trying to reinforce" Xbox Game Pass price increases "by a...](https://www.gamesindustry.biz/microsoft-says-its-trying-to-reinforce-xbox-game-pass-price-increases-by-adding-more-value)
-* 📰 [It looks like Windows 11 is about to get a new dedicated OneDrive app — here'...](https://www.windowscentral.com/microsoft/windows-11/new-onedrive-dedicated-app-windows-11-2025-leak)
-* 📰 [Every October 2025 Game Release From Battlefield 6 To Pokémon Legends - Kotaku](https://kotaku.com/every-game-release-october-2025-pokemon-battlefield-ninja-gaiden-2000630373)
+* 📰 [I tried Amazon and Google’s new smart home gadgets. Ask me anything! - The Verge](https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama)
+* 📰 [Here's What Makes Apple's New 40-Watt Power Adapter Unique - CNET](https://www.cnet.com/tech/mobile/heres-what-makes-apples-new-40-watt-power-adapter-unique/)
+* 📰 [The Voice Behind Mortal Kombat's 'Toasty!' Is Leaving NetherRealm - IGN](https://www.ign.com/articles/the-voice-behind-mortal-kombats-toasty-is-leaving-netherrealm)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-04 12:46 </sub>
+  <sub>Last updated: Last updated: 2025-10-04 18:32 </sub>
 </div>
 
