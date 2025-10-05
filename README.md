@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Scientists race to make 'living' computers powered by human cells - BBC](https://www.bbc.com/news/articles/cy7p1lzvxjro)
-* 📰 [‘Smiling Friends’ Team Launches New L.A.-Based Animation Studio - Deadline](http://deadline.com/2025/10/smiling-friends-team-zam-studios-animation-studio-1236570049/)
-* 📰 [Google reportedly testing MediaTek modem for Tensor G6 and Pixel 11 - 9to5Google](http://9to5google.com/2025/10/03/pixel-11-tensor-g6-modem/)
+* 📰 [Developers using Unity warned to patch games ASAP following the discovery of ...](https://www.eurogamer.net/developers-using-unity-warned-to-patch-games-asap-following-the-discovery-of-a-serious-security-vulnerability)
+* 📰 [Windows 11’s annual ’25H2′ update arrives, and it’s a weird one - pcworld.com](https://www.pcworld.com/article/2925476/windows-11s-annual-25h2-update-arrives-and-its-a-weird-one.html)
+* 📰 [Lego Game Boy Review: The Designers Share All the Secrets to the Fun, Nostalg...](https://gizmodo.com/lego-game-boy-review-the-designers-share-all-the-secrets-to-the-fun-nostalgic-set-2000667492)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-05 12:47 </sub>
+  <sub>Last updated: Last updated: 2025-10-05 18:32 </sub>
 </div>
 
