@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Developers using Unity warned to patch games ASAP following the discovery of ...](https://www.eurogamer.net/developers-using-unity-warned-to-patch-games-asap-following-the-discovery-of-a-serious-security-vulnerability)
-* 📰 [Windows 11’s annual ’25H2′ update arrives, and it’s a weird one - pcworld.com](https://www.pcworld.com/article/2925476/windows-11s-annual-25h2-update-arrives-and-its-a-weird-one.html)
-* 📰 [Lego Game Boy Review: The Designers Share All the Secrets to the Fun, Nostalg...](https://gizmodo.com/lego-game-boy-review-the-designers-share-all-the-secrets-to-the-fun-nostalgic-set-2000667492)
+* 📰 [Where Google Wallet state IDs are available on Android [Updated] - 9to5Google](http://9to5google.com/2025/10/04/google-wallet-state-ids/)
+* 📰 [Nintendo issues October 2025 Switch 1 backwards compatibility fixes for Switc...](https://nintendoeverything.com/nintendo-switch-1-2-backwards-compatibility-fixes-october-2025/)
+* 📰 [iPhone 17 Pro Max vs. iPhone 16 Pro Max - GSMArena.com](https://www.gsmarena.com/iphone_17_pro_max_vs_iphone_16_pro_max_review_battery_camera_price_compared-news-69769.php)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-05 18:32 </sub>
+  <sub>Last updated: Last updated: 2025-10-06 01:57 </sub>
 </div>
 
