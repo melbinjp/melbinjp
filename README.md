@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [When is Gemini for Home rolling out: Schedule, countries, & early access [U] ...](http://9to5google.com/2025/10/06/gemini-for-home-rolling-out-schedule-countries/)
-* 📰 [Pokémon GO Events This Week (6 October – 12 October 2025) - Pokémon GO Hub](https://pokemongohub.net/post/event/pokemon-go-events-this-week-6-october-12-october-2025/)
-* 📰 [I charged my iPhone the 'Apple way' for 2 years - here's the battery conditio...](https://www.zdnet.com/article/i-charged-my-iphone-the-apple-way-for-2-years-heres-the-battery-condition-now/)
+* 📰 [A 19-year-old nabs backing from Google execs for his AI memory startup, Super...](https://finance.yahoo.com/news/19-old-nabs-backing-google-154513586.html)
+* 📰 [LEGO Game Boy Designers Discuss Collaborating With A "Very Involved" Nintendo...](https://www.nintendolife.com/news/2025/10/lego-game-boy-designers-discuss-collaborating-with-a-very-involved-nintendo)
+* 📰 [Metal: Hellsinger dev The Outsiders is being shut down - Game Developer](https://www.gamedeveloper.com/business/funcom-is-closing-metal-hellslinger-developer-the-outsiders)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-07 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-10-07 18:37 </sub>
 </div>
 
