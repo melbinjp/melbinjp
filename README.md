@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [WWE Shop on a budget: 5 affordable picks that won’t body slam your wallet - C...](https://www.cagesideseats.com/wwe/387594/wwe-shop-on-a-budget-5-affordable-picks)
-* 📰 [GameStop issues statement on Shiny Koraidon and Miraidon codes for Pokemon Sc...](https://nintendoeverything.com/gamestop-statement-shiny-koraidon-miraidon-pokemon-scarlet-violet/)
-* 📰 [What could Ben Kindel look like this year? A history of 18-year old NHL forwa...](https://www.pensburgh.com/general/67622/what-could-ben-kindel-look-like-this-year-a-history-of-18-year-old-nhl-forwards)
+* 📰 [When is Gemini for Home rolling out: Schedule, countries, & early access [U] ...](http://9to5google.com/2025/10/06/gemini-for-home-rolling-out-schedule-countries/)
+* 📰 [Pokémon GO Events This Week (6 October – 12 October 2025) - Pokémon GO Hub](https://pokemongohub.net/post/event/pokemon-go-events-this-week-6-october-12-october-2025/)
+* 📰 [I charged my iPhone the 'Apple way' for 2 years - here's the battery conditio...](https://www.zdnet.com/article/i-charged-my-iphone-the-apple-way-for-2-years-heres-the-battery-condition-now/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-07 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-07 12:54 </sub>
 </div>
 
