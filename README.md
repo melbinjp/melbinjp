@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [No, Xbox's next gen console hardware plans aren't cancelled — for now - Windo...](https://www.windowscentral.com/gaming/no-xboxs-next-gen-console-hardware-plans-arent-cancelled)
-* 📰 [Mariners Moose Tracks, 10/5/25: Cal Raleigh, Jackson Chourio, and Harrison Ba...](https://www.lookoutlanding.com/lookout-linkage/135480/mariners-moose-tracks-10-5-25-cal-raleigh-jackson-chourio-and-harrison-bader)
-* 📰 [YouTuber reaches Minecraft’s legendary Far Lands after 14-plus-year journey -...](https://www.dexerto.com/minecraft/youtuber-reaches-minecrafts-legendary-far-lands-after-14-plus-year-journey-3262361/)
+* 📰 [What could Ben Kindel look like this year? A history of 18-year old NHL forwa...](https://www.pensburgh.com/general/67622/what-could-ben-kindel-look-like-this-year-a-history-of-18-year-old-nhl-forwards)
+* 📰 [A Smarter Way to Disagree - Harvard Business Review](https://hbr.org/2025/11/a-smarter-way-to-disagree)
+* 📰 [“This Lunar Vehicle Changes Everything”: GM Builds 10-Year Battery Rover With...](https://www.energy-reporters.com/news/this-lunar-vehicle-changes-everything-gm-builds-10-year-battery-rover-with-crab-walk-to-power-nasas-artemis-moon-missions-its-unstoppable/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-06 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-10-07 01:55 </sub>
 </div>
 
