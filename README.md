@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’ - WIRED](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)
-* 📰 [Retro Zelda-Inspired Adventure 'Mina The Hollower' Has Been Delayed For Switc...](https://www.nintendolife.com/news/2025/10/retro-zelda-inspired-adventure-mina-the-hollower-has-been-delayed-for-switch-2-and-switch)
-* 📰 [Xbox sale round-up October 7, 2025 - TrueAchievements](https://www.trueachievements.com/n60433/xbox-sale-roundup-october-7-2025)
+* 📰 [The trendiest TVs are tiny, old and in your kitchen - The Washington Post](https://www.washingtonpost.com/home/2025/10/07/kitchen-tv-makes-a-comeback/)
+* 📰 [I've covered every Amazon AU sale – these are the 117 best deals on Day 1 of ...](https://www.techradar.com/live/news/amazon-prime-big-deal-days-2025-australia)
+* 📰 [Best Buy's weeklong Techtober Sale is competing with October Prime Day - Mash...](https://mashable.com/article/best-buy-techtober-sale-october-prime-day-2025-day-1)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-08 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-10-08 12:54 </sub>
 </div>
 
