@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [A 19-year-old nabs backing from Google execs for his AI memory startup, Super...](https://finance.yahoo.com/news/19-old-nabs-backing-google-154513586.html)
-* 📰 [LEGO Game Boy Designers Discuss Collaborating With A "Very Involved" Nintendo...](https://www.nintendolife.com/news/2025/10/lego-game-boy-designers-discuss-collaborating-with-a-very-involved-nintendo)
-* 📰 [Metal: Hellsinger dev The Outsiders is being shut down - Game Developer](https://www.gamedeveloper.com/business/funcom-is-closing-metal-hellslinger-developer-the-outsiders)
+* 📰 [Xbox sale round-up October 7, 2025 - TrueAchievements](https://www.trueachievements.com/n60433/xbox-sale-roundup-october-7-2025)
+* 📰 [Microsoft is plugging more holes that let you use Windows 11 without an onlin...](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
+* 📰 [The best October Prime Day tech deals on AirPods, TVs, iPads and more at Amaz...](https://tech.yahoo.com/deals/live/the-best-october-prime-day-tech-deals-on-airpods-tvs-ipads-and-more-at-amazon-135113014.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-07 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-08 01:54 </sub>
 </div>
 
