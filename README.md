@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-22_
 <!-- CURRENT_FOCUS_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’ - WIRED](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)
+* 📰 [Retro Zelda-Inspired Adventure 'Mina The Hollower' Has Been Delayed For Switc...](https://www.nintendolife.com/news/2025/10/retro-zelda-inspired-adventure-mina-the-hollower-has-been-delayed-for-switch-2-and-switch)
 * 📰 [Xbox sale round-up October 7, 2025 - TrueAchievements](https://www.trueachievements.com/n60433/xbox-sale-roundup-october-7-2025)
-* 📰 [Microsoft is plugging more holes that let you use Windows 11 without an onlin...](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
-* 📰 [The best October Prime Day tech deals on AirPods, TVs, iPads and more at Amaz...](https://tech.yahoo.com/deals/live/the-best-october-prime-day-tech-deals-on-airpods-tvs-ipads-and-more-at-amazon-135113014.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-08 01:54 </sub>
+  <sub>Last updated: Last updated: 2025-10-08 06:38 </sub>
 </div>
 
