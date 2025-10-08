@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The trendiest TVs are tiny, old and in your kitchen - The Washington Post](https://www.washingtonpost.com/home/2025/10/07/kitchen-tv-makes-a-comeback/)
-* 📰 [I've covered every Amazon AU sale – these are the 117 best deals on Day 1 of ...](https://www.techradar.com/live/news/amazon-prime-big-deal-days-2025-australia)
-* 📰 [Best Buy's weeklong Techtober Sale is competing with October Prime Day - Mash...](https://mashable.com/article/best-buy-techtober-sale-october-prime-day-2025-day-1)
+* 📰 [New Leak Reveals Marathon's Pricing Details, Deluxe Edition, Season Pass, Pre...](https://thegamepost.com/leak-marathons-base-price-deluxe-edition-season-pass-weapons/)
+* 📰 [UFS 5.0 storage promises to be twice as fast for AI’s sake, hopefully enticin...](http://9to5google.com/2025/10/07/ufs-5-0-speed-improvement/)
+* 📰 [The best October Prime Day deals on TVs, soundbars, and more - The Verge](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-08 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-10-08 18:37 </sub>
 </div>
 
