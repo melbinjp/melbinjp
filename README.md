@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-22_
 <!-- CURRENT_FOCUS_END -->
 
@@ -134,8 +134,8 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The electric screwdriver I use for DIY projects is 40 percent off right now -...](https://www.theverge.com/tech/792618/amazon-october-prime-day-hoto-electric-screwdriver-deal-tools-sale-2025)
-* 📰 [Philips Hue customizable string lights are $50 off for October Prime Day - Th...](https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale)
+* 📰 [Google Pixel 10 Phones Get Their First Ever Discounts at Amazon for Prime Big...](https://www.ign.com/articles/google-pixel-10-phone-deals-october-prime-day-2025)
+* 📰 [Sennheiser's new high-res audiophile wireless headphones want to give you the...](https://www.whathifi.com/headphones/wireless-headphones/sennheisers-new-high-res-audiophile-wireless-headphones-want-to-give-you-the-best-of-both-worlds)
 * 📰 [Google’s latest AI model uses a web browser like you do - The Verge](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-09 01:56 </sub>
+  <sub>Last updated: Last updated: 2025-10-09 06:38 </sub>
 </div>
 
