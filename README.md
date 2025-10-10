@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [LA indie studio Heart Machine is making layoffs - Game Developer](https://www.gamedeveloper.com/business/heart-machine-making-layoffs-and-ending-development-on-hyper-light-breaker)
-* 📰 [Fortnite's Halloween Plans Get Off to Messy Start Following Social Media Snaf...](https://www.ign.com/articles/fortnites-halloween-plans-get-off-to-messy-start-following-social-media-snafu-involving-doja-cat-and-a-sex-toy)
-* 📰 [This thin flagship will crush the Galaxy S25 Edge and iPhone Air on battery a...](https://www.androidauthority.com/motorola-edge-70-battery-charging-specs-3605674/)
+* 📰 [Xbox Co-Founder Calls Game Pass Price Hike A "Betrayal" - GameSpot](https://www.gamespot.com/articles/xbox-co-founder-calls-game-pass-price-hike-a-betrayal/1100-6535337/)
+* 📰 [The AI industry is at a major crossroads - The Verge](https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt)
+* 📰 [Battlefield 6 Update 1.0.1.0 Day One Patch Notes Out Now in Full - IGN](https://www.ign.com/articles/battlefield-6-update-1010-day-one-patch-notes-out-now-in-full)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-10 12:52 </sub>
+  <sub>Last updated: Last updated: 2025-10-10 18:35 </sub>
 </div>
 
