@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [We Found Over 55 Prime Big Deal Days Discounts on Anker Headphones, Speakers,...](https://www.cnet.com/deals/best-prime-day-anker-deals-2025-10-08/)
-* 📰 [Logitech will brick its $100 Pop smart home buttons on October 15 - Ars Technica](https://arstechnica.com/gadgets/2025/10/logitech-will-brick-its-100-pop-smart-home-buttons-on-october-15/)
-* 📰 [Google Pixel 10 Pro Fold review: The ultimate Google phone - Ars Technica](https://arstechnica.com/gadgets/2025/10/google-pixel-10-pro-fold-review-the-ultimate-google-phone/)
+* 📰 [All buffs and nerfs in Black Ops 6 & Warzone Season 6 - Dexerto](https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/)
+* 📰 [Google begins inviting users to try Gemini for Home - Android Police](https://www.androidpolice.com/google-begins-inviting-users-to-try-gemini-for-home/)
+* 📰 [Logitech’s MX Master 3S is one of the best wireless mice around, and it’s 25 ...](https://www.theverge.com/tech/791722/amazon-october-prime-day-logitech-mx-master-3s-wireless-mouse-deal-sale-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-09 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-10-10 01:56 </sub>
 </div>
 
