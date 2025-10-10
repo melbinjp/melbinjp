@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-22_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Ubisoft reportedly killed an Assassin's Creed game about fighting the Klan fo...](https://www.avclub.com/assassins-creed-canceled-reconstruction-clan-political)
+* 📰 [Leah Kateb's Pasties, Kylie Jenner's Brow Gel, and More A-List Prime Day Deal...](https://www.popsugar.com/shopping/amazon-prime-day-deals-celebrity-recommendations-49461798)
 * 📰 [All buffs and nerfs in Black Ops 6 & Warzone Season 6 - Dexerto](https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/)
-* 📰 [Google begins inviting users to try Gemini for Home - Android Police](https://www.androidpolice.com/google-begins-inviting-users-to-try-gemini-for-home/)
-* 📰 [Logitech’s MX Master 3S is one of the best wireless mice around, and it’s 25 ...](https://www.theverge.com/tech/791722/amazon-october-prime-day-logitech-mx-master-3s-wireless-mouse-deal-sale-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-10 01:56 </sub>
+  <sub>Last updated: Last updated: 2025-10-10 06:38 </sub>
 </div>
 
