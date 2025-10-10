@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Ubisoft reportedly killed an Assassin's Creed game about fighting the Klan fo...](https://www.avclub.com/assassins-creed-canceled-reconstruction-clan-political)
-* 📰 [Leah Kateb's Pasties, Kylie Jenner's Brow Gel, and More A-List Prime Day Deal...](https://www.popsugar.com/shopping/amazon-prime-day-deals-celebrity-recommendations-49461798)
-* 📰 [All buffs and nerfs in Black Ops 6 & Warzone Season 6 - Dexerto](https://www.dexerto.com/call-of-duty/all-buffs-and-nerfs-in-black-ops-6-warzone-season-6-3263735/)
+* 📰 [LA indie studio Heart Machine is making layoffs - Game Developer](https://www.gamedeveloper.com/business/heart-machine-making-layoffs-and-ending-development-on-hyper-light-breaker)
+* 📰 [Fortnite's Halloween Plans Get Off to Messy Start Following Social Media Snaf...](https://www.ign.com/articles/fortnites-halloween-plans-get-off-to-messy-start-following-social-media-snafu-involving-doja-cat-and-a-sex-toy)
+* 📰 [This thin flagship will crush the Galaxy S25 Edge and iPhone Air on battery a...](https://www.androidauthority.com/motorola-edge-70-battery-charging-specs-3605674/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-10 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-10-10 12:52 </sub>
 </div>
 
