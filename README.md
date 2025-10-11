@@ -74,8 +74,8 @@ A multi-threaded video surveillance system for capturing and processing video fr
 
 **Primary Tech:** `Python`
 
-### 🚀 [DriveSafeAI](https://github.com/melbinjp/DriveSafeAI)
-AI-powered predictive maintenance and driver safety platform for smart mobility.
+### 🚀 [jules-prompts](https://github.com/melbinjp/jules-prompts)
+A curated library of pre-made, machine-readable task prompts that let Jules (or any agent) — and humans — turn intent into production-grade work.
 
 **Primary Tech:** `HTML`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [The Fascinating Waveguide Technology Inside Meta’s Ray-Ban Display Glasses - ...](https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/)
 * 📰 [Battlefield 6: Can EA's big-budget gamble pay off? - BBC](https://www.bbc.com/news/articles/c8xrkxdkkrno)
-* 📰 [Final Fantasy 7, 8, and 9 Physical Editions for Switch Are Up for Preorder - IGN](https://www.ign.com/articles/final-fantasy-7-8-and-9-physical-editions-for-switch-are-up-for-preorder-where-to-buy)
-* 📰 [Why Halo’s longtime art director left — and what his cryptic message might me...](https://www.windowscentral.com/gaming/xbox/former-halo-art-director-departs-ominous-message)
+* 📰 [First Look at Tesla's New 3D Buildings and Maps in Update 2025.38 [VIDEO] - N...](https://www.notateslaapp.com/news/3222/first-look-at-teslas-new-3d-buildings-and-maps-in-update-202538-video)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-11 06:33 </sub>
+  <sub>Last updated: Last updated: 2025-10-11 12:46 </sub>
 </div>
 
