@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Fascinating Waveguide Technology Inside Meta’s Ray-Ban Display Glasses - ...](https://hackaday.com/2025/10/09/the-fascinating-waveguide-technology-inside-metas-ray-ban-display-glasses/)
-* 📰 [Battlefield 6: Can EA's big-budget gamble pay off? - BBC](https://www.bbc.com/news/articles/c8xrkxdkkrno)
-* 📰 [First Look at Tesla's New 3D Buildings and Maps in Update 2025.38 [VIDEO] - N...](https://www.notateslaapp.com/news/3222/first-look-at-teslas-new-3d-buildings-and-maps-in-update-202538-video)
+* 📰 [Battlefield 6 players face extensive queues this weekend as servers immediate...](https://www.eurogamer.net/battlefield-6-players-face-extensive-queues-this-weekend-as-servers-immediately-reach-capacity)
+* 📰 [Apple’s executive reshuffling isn’t over - The Verge](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji)
+* 📰 [Edifier’s new wireless speaker looks like a gaming PC - The Verge](https://www.theverge.com/news/798148/edifier-huazai-new-cyber-speaker-bluetooth-gaming-pc)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-11 12:46 </sub>
+  <sub>Last updated: Last updated: 2025-10-11 18:30 </sub>
 </div>
 
