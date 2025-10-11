@@ -94,7 +94,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-22_
 <!-- CURRENT_FOCUS_END -->
 
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Vision Pro is getting its first live ‘immersive’ sports - The Verge](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games)
-* 📰 [Apple and Google reluctantly comply with Texas age verification law - Ars Tec...](https://arstechnica.com/tech-policy/2025/10/apple-and-google-reluctantly-comply-with-texas-age-verification-law/)
-* 📰 [Apple Releases New Beta Firmware for AirPods Pro 2, AirPods Pro 3 and AirPods...](https://www.macrumors.com/2025/10/09/apple-airpods-beta-firmware-8b5014c/)
+* 📰 [Battlefield 6: Can EA's big-budget gamble pay off? - BBC](https://www.bbc.com/news/articles/c8xrkxdkkrno)
+* 📰 [Final Fantasy 7, 8, and 9 Physical Editions for Switch Are Up for Preorder - IGN](https://www.ign.com/articles/final-fantasy-7-8-and-9-physical-editions-for-switch-are-up-for-preorder-where-to-buy)
+* 📰 [Why Halo’s longtime art director left — and what his cryptic message might me...](https://www.windowscentral.com/gaming/xbox/former-halo-art-director-departs-ominous-message)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-11 01:51 </sub>
+  <sub>Last updated: Last updated: 2025-10-11 06:33 </sub>
 </div>
 
