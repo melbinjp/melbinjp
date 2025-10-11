@@ -112,7 +112,7 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ AI-powered predictive maintenance and driver safety platform for smart mobility.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Xbox Co-Founder Calls Game Pass Price Hike A "Betrayal" - GameSpot](https://www.gamespot.com/articles/xbox-co-founder-calls-game-pass-price-hike-a-betrayal/1100-6535337/)
-* 📰 [The AI industry is at a major crossroads - The Verge](https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt)
-* 📰 [Battlefield 6 Update 1.0.1.0 Day One Patch Notes Out Now in Full - IGN](https://www.ign.com/articles/battlefield-6-update-1010-day-one-patch-notes-out-now-in-full)
+* 📰 [The Vision Pro is getting its first live ‘immersive’ sports - The Verge](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games)
+* 📰 [Apple and Google reluctantly comply with Texas age verification law - Ars Tec...](https://arstechnica.com/tech-policy/2025/10/apple-and-google-reluctantly-comply-with-texas-age-verification-law/)
+* 📰 [Apple Releases New Beta Firmware for AirPods Pro 2, AirPods Pro 3 and AirPods...](https://www.macrumors.com/2025/10/09/apple-airpods-beta-firmware-8b5014c/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-10 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-10-11 01:51 </sub>
 </div>
 
