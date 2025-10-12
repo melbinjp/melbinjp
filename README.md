@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Plants Vs. Zombies: Replanted Supports Local Co-Op And PvP Via GameShare - Ni...](https://www.nintendolife.com/news/2025/10/plants-vs-zombies-replanted-supports-local-co-op-and-pvp-via-gameshare)
-* 📰 [TrumpRx Is a Narcissistic, AI-Generated Nightmare - Gizmodo](https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309)
-* 📰 [Google Maps gets a brain upgrade as Gemini takes the wheel - Digital Trends](https://www.digitaltrends.com/phones/google-maps-gets-a-brain-upgrade-as-gemini-takes-the-wheel/)
+* 📰 [Hackers claim to have breached internal Nintendo data - Eurogamer](https://www.eurogamer.net/hackers-claim-to-have-breached-internal-nintendo-data)
+* 📰 [Pokemon Legends: Z-A leaks starting, new Mega Evolutions shown - Nintendo Eve...](https://nintendoeverything.com/pokemon-legends-z-a-leaks-mega-evolutions/)
+* 📰 [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week -...](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-12 12:47 </sub>
+  <sub>Last updated: Last updated: 2025-10-12 18:32 </sub>
 </div>
 
