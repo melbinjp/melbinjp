@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-22_
 <!-- CURRENT_FOCUS_END -->
 
@@ -135,8 +135,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [TrumpRx Is a Narcissistic, AI-Generated Nightmare - Gizmodo](https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309)
-* 📰 [People regret buying Amazon smart displays after being bombarded with ads - A...](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
-* 📰 [Apple and Google say they'll reluctantly comply with new Texas law - Chron](https://www.chron.com/culture/article/apple-google-texas-age-verification-law-21094464.php)
+* 📰 [M&A News: Apple Is Close to Acquiring Computer Vision Startup Prompt AI - Tip...](https://www.tipranks.com/news/ma-news-apple-is-close-to-acquiring-computer-vision-startup-prompt-ai)
+* 📰 [Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legen...](https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-12 02:00 </sub>
+  <sub>Last updated: Last updated: 2025-10-12 06:34 </sub>
 </div>
 
