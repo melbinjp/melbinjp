@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Plants Vs. Zombies: Replanted Supports Local Co-Op And PvP Via GameShare - Ni...](https://www.nintendolife.com/news/2025/10/plants-vs-zombies-replanted-supports-local-co-op-and-pvp-via-gameshare)
 * 📰 [TrumpRx Is a Narcissistic, AI-Generated Nightmare - Gizmodo](https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309)
-* 📰 [M&A News: Apple Is Close to Acquiring Computer Vision Startup Prompt AI - Tip...](https://www.tipranks.com/news/ma-news-apple-is-close-to-acquiring-computer-vision-startup-prompt-ai)
-* 📰 [Borderlands 4 Player Kills 3,000 Bosses To Discover Disappointingly Low Legen...](https://kotaku.com/borderlands-4-legendary-drop-rate-bosses-patch-notes-nerf-2000634114)
+* 📰 [Google Maps gets a brain upgrade as Gemini takes the wheel - Digital Trends](https://www.digitaltrends.com/phones/google-maps-gets-a-brain-upgrade-as-gemini-takes-the-wheel/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-12 06:34 </sub>
+  <sub>Last updated: Last updated: 2025-10-12 12:47 </sub>
 </div>
 
