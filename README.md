@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Battlefield 6 players face extensive queues this weekend as servers immediate...](https://www.eurogamer.net/battlefield-6-players-face-extensive-queues-this-weekend-as-servers-immediately-reach-capacity)
-* 📰 [Apple’s executive reshuffling isn’t over - The Verge](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji)
-* 📰 [Edifier’s new wireless speaker looks like a gaming PC - The Verge](https://www.theverge.com/news/798148/edifier-huazai-new-cyber-speaker-bluetooth-gaming-pc)
+* 📰 [TrumpRx Is a Narcissistic, AI-Generated Nightmare - Gizmodo](https://gizmodo.com/trumprx-is-a-narcissistic-ai-generated-nightmare-2000671309)
+* 📰 [People regret buying Amazon smart displays after being bombarded with ads - A...](https://arstechnica.com/gadgets/2025/10/people-regret-buying-amazon-smart-displays-after-being-bombarded-with-ads/)
+* 📰 [Apple and Google say they'll reluctantly comply with new Texas law - Chron](https://www.chron.com/culture/article/apple-google-texas-age-verification-law-21094464.php)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-11 18:30 </sub>
+  <sub>Last updated: Last updated: 2025-10-12 02:00 </sub>
 </div>
 
