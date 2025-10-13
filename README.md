@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Are deepfakes of dead people rewriting the past? - NBC News](https://www.nbcnews.com/tech/tech-news/are-deepfakes-dead-people-rewriting-rcna235982)
-* 📰 [The 7 best smartwatches of 2025 include some surprises - Mashable](https://mashable.com/article/best-smartwatches-tested)
-* 📰 [Apple's former CEO says the company has its 'first real competitor' in decade...](https://www.businessinsider.com/former-apple-ceo-john-sculley-says-openai-rivals-apple-2025-10)
+* 📰 [Why does Samsung feel the need to ruin Android notifications? - 9to5Google](http://9to5google.com/2025/10/12/why-does-samsung-feel-the-need-to-ruin-android-notifications/)
+* 📰 [Legendary Jersey Shore nightclub announces closure, final days of operation -...](https://www.nj.com/monmouth/2025/10/legendary-jersey-shore-nightclub-announces-closure-final-days-of-operation.html)
+* 📰 [I Am Crawling Through ‘Ghost Of Yotei,’ Given That Life Has Changed - Forbes](https://www.forbes.com/sites/paultassi/2025/10/12/i-am-crawling-through-ghost-of-yotei-given-that-life-has-changed/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-13 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-10-13 18:35 </sub>
 </div>
 
