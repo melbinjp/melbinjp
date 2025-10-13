@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [New Dissidia Final Fantasy title for iOS, Android to be announced on October ...](https://www.gematsu.com/2025/10/new-dissidia-final-fantasy-title-for-ios-android-to-be-announced-on-october-14)
-* 📰 [Windows 10: When you should update and what it means for you - BBC](https://www.bbc.com/news/articles/cy0vzegkqweo)
-* 📰 [Xbox Controllers Are Now Selling for Pennies, Microsoft Is Offloading Prime D...](https://kotaku.com/xbox-controllers-are-now-selling-for-pennies-microsoft-is-offloading-prime-day-leftovers-2000634423)
+* 📰 [Are deepfakes of dead people rewriting the past? - NBC News](https://www.nbcnews.com/tech/tech-news/are-deepfakes-dead-people-rewriting-rcna235982)
+* 📰 [The 7 best smartwatches of 2025 include some surprises - Mashable](https://mashable.com/article/best-smartwatches-tested)
+* 📰 [Apple's former CEO says the company has its 'first real competitor' in decade...](https://www.businessinsider.com/former-apple-ceo-john-sculley-says-openai-rivals-apple-2025-10)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-13 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-10-13 12:54 </sub>
 </div>
 
