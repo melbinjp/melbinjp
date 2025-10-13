@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Hackers claim to have breached internal Nintendo data - Eurogamer](https://www.eurogamer.net/hackers-claim-to-have-breached-internal-nintendo-data)
-* 📰 [Pokemon Legends: Z-A leaks starting, new Mega Evolutions shown - Nintendo Eve...](https://nintendoeverything.com/pokemon-legends-z-a-leaks-mega-evolutions/)
-* 📰 [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week -...](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale)
+* 📰 [Windows 10: When you should update and what it means for you - BBC](https://www.bbc.com/news/articles/cy0vzegkqweo)
+* 📰 [Are You Mean When You're Overstimulated? There's Actually A Reason For That. ...](https://www.buzzfeed.com/jillianwilson/experts-say-this-why-youre-mean-when-overstimulated-sc)
+* 📰 [Super Mario Galaxy 2 on Nintendo Switch removes an NPC from the Wii original ...](https://nintendoeverything.com/super-mario-galaxy-2-on-nintendo-switch-removes-an-npc/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-12 18:32 </sub>
+  <sub>Last updated: Last updated: 2025-10-13 02:04 </sub>
 </div>
 
