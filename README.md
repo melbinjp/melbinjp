@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Massive Black Myth Wukong Update Is Going Live Today, Introducing Performance...](https://wccftech.com/massive-black-myth-wukong-update-is-going-live-today-introducing-performance-optimizations/)
-* 📰 [Why some Atlantans are saying ‘Hello’ again, or for first time, to landlines ...](https://www.ajc.com/things-to-do/2025/10/why-some-atlantans-are-saying-hello-again-or-for-first-time-to-landlines/)
-* 📰 [Takashi Iizuka Explains Why Sonic Racing: CrossWorlds Was Delayed On Switch 2...](https://www.nintendolife.com/news/2025/10/takashi-iizuka-explains-why-sonic-racing-crossworlds-was-delayed-on-switch-2)
+* 📰 [Community: 32 Switch Games We Missed, As Recommended By You - Nintendo Life](https://www.nintendolife.com/guides/community-32-switch-games-we-missed-as-recommended-by-you)
+* 📰 [Google Search has ‘hide sponsored results’ button in new ad section design - ...](http://9to5google.com/2025/10/13/google-search-updated-hide-sponsored-label/)
+* 📰 [Apple releases iOS 26.1 beta 3 for iPhone - 9to5Mac](https://9to5mac.com/2025/10/13/ios-26-1-beta-3/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-14 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-10-14 18:36 </sub>
 </div>
 
