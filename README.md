@@ -113,17 +113,6 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 
 <!-- INSPIRATION_START -->
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" alt="Astronomy Picture of the Day" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Astronomy Picture of the Day</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Why does Samsung feel the need to ruin Android notifications? - 9to5Google](http://9to5google.com/2025/10/12/why-does-samsung-feel-the-need-to-ruin-android-notifications/)
-* 📰 [Legendary Jersey Shore nightclub announces closure, final days of operation -...](https://www.nj.com/monmouth/2025/10/legendary-jersey-shore-nightclub-announces-closure-final-days-of-operation.html)
-* 📰 [I Am Crawling Through ‘Ghost Of Yotei,’ Given That Life Has Changed - Forbes](https://www.forbes.com/sites/paultassi/2025/10/12/i-am-crawling-through-ghost-of-yotei-given-that-life-has-changed/)
+* 📰 [No, Target and Walmart are not removing Xbox products from their stores — as ...](https://www.windowscentral.com/gaming/no-target-and-walmart-are-not-removing-xbox-products-from-their-stores-as-xbox-misinformation-reaches-new-levels)
+* 📰 [Pokémon GO Events This Week (13 October – 19 October 2025) - Pokémon GO Hub](https://pokemongohub.net/post/event/pokemon-go-events-this-week-13-october-19-october-2025/)
+* 📰 [‘Real American’ debuts, but that’s not Hulk Hogan walking out, brother - Cage...](https://www.cagesideseats.com/wwe/389484/hulk-hogan-real-american-entrance-theme-40th-anniversary-wwe)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-13 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-10-14 01:57 </sub>
 </div>
 
