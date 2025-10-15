@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Dissidia Duellum Final Fantasy announced for iOS/Android, releasing in 2026 -...](https://novacrystallis.com/2025/10/dissidia-duellum-final-fantasy-announced-for-ios-android/)
-* 📰 [Another devastating Pokémon leak reveals plans for future games, but it's the...](https://www.eurogamer.net/another-devastating-pokemon-leak-reveals-plans-for-future-games-but-its-the-reported-development-budgets-that-have-left-players-stunned)
-* 📰 [Exclusive: The web is still mostly written by humans, study finds - Axios](https://www.axios.com/2025/10/14/ai-generated-writing-humans)
+* 📰 [We Finally Know When Pokémon Legends: Z-A Takes Place in the Pokémon Timeline...](https://www.ign.com/articles/we-finally-know-when-pokmon-legends-z-a-takes-place-in-the-pokmon-timeline)
+* 📰 [Minecraft Preview 1.21.130.20 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-preview-1-21-130-20)
+* 📰 [‘Destiny 2’ Reverts Yet Another Hated ‘Edge Of Fate’ Addition - Forbes](https://www.forbes.com/sites/paultassi/2025/10/14/destiny-2-reverts-yet-another-hated-edge-of-fate-addition/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-15 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-10-15 18:37 </sub>
 </div>
 
