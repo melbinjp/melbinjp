@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [American Airlines adding Google Wallet support for boarding passes - 9to5Google](http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/)
-* 📰 [Microsoft AI announces first image generator created in-house - The Verge](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)
-* 📰 [Apple Pro Display XDR 2 likely has key hardware upgrade over original $4999 m...](https://9to5mac.com/2025/10/13/apple-pro-display-xdr-2-will-have-a-key-hardware-upgrade-over-original-4999-monitor/)
+* 📰 [Croc's Remaster Returns This Week With A Free 'Platinum Edition' Update - Nin...](https://www.nintendolife.com/news/2025/10/crocs-switch-remaster-returns-this-week-with-a-free-platinum-edition-update)
+* 📰 [Pokémon TCG Pocket Announces "New And Updated" Features For First Anniversary...](https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary)
+* 📰 [Netflix makes a major move to win over subscribers - TheStreet](https://www.thestreet.com/entertainment/netflix-makes-a-major-move-to-win-over-subscribers)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-15 02:00 </sub>
+  <sub>Last updated: Last updated: 2025-10-15 06:37 </sub>
 </div>
 
