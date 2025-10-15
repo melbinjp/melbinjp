@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Croc's Remaster Returns This Week With A Free 'Platinum Edition' Update - Nin...](https://www.nintendolife.com/news/2025/10/crocs-switch-remaster-returns-this-week-with-a-free-platinum-edition-update)
-* 📰 [Pokémon TCG Pocket Announces "New And Updated" Features For First Anniversary...](https://www.nintendolife.com/news/2025/10/pokemon-tcg-pocket-announces-new-and-updated-features-for-first-anniversary)
-* 📰 [Netflix makes a major move to win over subscribers - TheStreet](https://www.thestreet.com/entertainment/netflix-makes-a-major-move-to-win-over-subscribers)
+* 📰 [Dissidia Duellum Final Fantasy announced for iOS/Android, releasing in 2026 -...](https://novacrystallis.com/2025/10/dissidia-duellum-final-fantasy-announced-for-ios-android/)
+* 📰 [Another devastating Pokémon leak reveals plans for future games, but it's the...](https://www.eurogamer.net/another-devastating-pokemon-leak-reveals-plans-for-future-games-but-its-the-reported-development-budgets-that-have-left-players-stunned)
+* 📰 [Exclusive: The web is still mostly written by humans, study finds - Axios](https://www.axios.com/2025/10/14/ai-generated-writing-humans)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-15 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-15 12:56 </sub>
 </div>
 
