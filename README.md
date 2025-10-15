@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Community: 32 Switch Games We Missed, As Recommended By You - Nintendo Life](https://www.nintendolife.com/guides/community-32-switch-games-we-missed-as-recommended-by-you)
-* 📰 [Google Search has ‘hide sponsored results’ button in new ad section design - ...](http://9to5google.com/2025/10/13/google-search-updated-hide-sponsored-label/)
-* 📰 [Apple releases iOS 26.1 beta 3 for iPhone - 9to5Mac](https://9to5mac.com/2025/10/13/ios-26-1-beta-3/)
+* 📰 [American Airlines adding Google Wallet support for boarding passes - 9to5Google](http://9to5google.com/2025/10/13/american-airlines-adding-google-wallet-support-for-boarding-passes/)
+* 📰 [Microsoft AI announces first image generator created in-house - The Verge](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)
+* 📰 [Apple Pro Display XDR 2 likely has key hardware upgrade over original $4999 m...](https://9to5mac.com/2025/10/13/apple-pro-display-xdr-2-will-have-a-key-hardware-upgrade-over-original-4999-monitor/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-14 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-10-15 02:00 </sub>
 </div>
 
