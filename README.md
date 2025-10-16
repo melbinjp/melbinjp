@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [These are the Office icons Microsoft rejected - The Verge](https://www.theverge.com/news/799736/microsoft-office-icons-test-versions)
-* 📰 [MANGO beats FAANG in battle for tech supremacy - Axios](https://www.axios.com/2025/10/15/mango-faang-ai-tech-companies)
-* 📰 [Get Ready For The New Leveling Up Journey: Level 80 is Here! - Pokémon GO Hub](https://pokemongohub.net/post/news/get-ready-for-the-new-leveling-up-journey-level-80-is-here/)
+* 📰 [Windows 10 End of Life: Microsoft releases final update — everything you need...](https://www.tomsguide.com/news/live/windows-10-end-of-support-2025)
+* 📰 [New PvZ Replanted Trailer Is Very Cringey And Not Good - Kotaku](https://kotaku.com/new-plants-vs-zombies-remastered-replanted-trailer-cringe-fake-twitch-stream-2000635689)
+* 📰 [How Sam Altman Played Hollywood With OpenAI's Sora 2 - The Hollywood Reporter](http://www.hollywoodreporter.com/business/business-news/sam-altman-openai-sora-agencies-talent-1236401618/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-16 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-10-16 18:36 </sub>
 </div>
 
