@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple SVP On Why They Dropped The "Plus" From Apple TV & Hints At Subscriber ...](http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/)
-* 📰 [Samsung officially teases Moohan headset launch for next week - The Verge](https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open)
-* 📰 [Pixel 10 Pro Fold bends and breaks in durability test, just like its predeces...](http://9to5google.com/2025/10/14/pixel-10-pro-fold-durability-test/)
+* 📰 [These are the Office icons Microsoft rejected - The Verge](https://www.theverge.com/news/799736/microsoft-office-icons-test-versions)
+* 📰 [MANGO beats FAANG in battle for tech supremacy - Axios](https://www.axios.com/2025/10/15/mango-faang-ai-tech-companies)
+* 📰 [Get Ready For The New Leveling Up Journey: Level 80 is Here! - Pokémon GO Hub](https://pokemongohub.net/post/news/get-ready-for-the-new-leveling-up-journey-level-80-is-here/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-16 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-16 12:56 </sub>
 </div>
 
