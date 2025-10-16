@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [We Finally Know When Pokémon Legends: Z-A Takes Place in the Pokémon Timeline...](https://www.ign.com/articles/we-finally-know-when-pokmon-legends-z-a-takes-place-in-the-pokmon-timeline)
-* 📰 [Minecraft Preview 1.21.130.20 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-preview-1-21-130-20)
-* 📰 [‘Destiny 2’ Reverts Yet Another Hated ‘Edge Of Fate’ Addition - Forbes](https://www.forbes.com/sites/paultassi/2025/10/14/destiny-2-reverts-yet-another-hated-edge-of-fate-addition/)
+* 📰 [Apple SVP On Why They Dropped The "Plus" From Apple TV & Hints At Subscriber ...](http://deadline.com/2025/10/apple-svp-drop-plus-apple-tv-rebrand-logo-1236585098/)
+* 📰 [Samsung officially teases Moohan headset launch for next week - The Verge](https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open)
+* 📰 [Pixel 10 Pro Fold bends and breaks in durability test, just like its predeces...](http://9to5google.com/2025/10/14/pixel-10-pro-fold-durability-test/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-15 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-16 01:58 </sub>
 </div>
 
