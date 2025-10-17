@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,8 +123,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Breaking: Samsung has reportedly cancelled the Galaxy S26 Edge, here's why - ...](https://www.androidauthority.com/samsung-galaxy-s26-edge-cancelled-report-3607637/)
 * 📰 [Roku might've just solved the biggest problem with home TV streaming - here's...](https://www.zdnet.com/home-and-office/home-entertainment/roku-mightve-just-solved-the-biggest-problem-with-home-tv-streaming-heres-how/)
-* 📰 [What do you think of YouTube’s new video player redesign? [Poll] - 9to5Google](http://9to5google.com/2025/10/15/what-do-you-think-of-youtubes-new-video-player-redesign-poll/)
 * 📰 [Apple’s Head of ChatGPT-Like AI Search Effort to Leave for Meta - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-17 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-17 12:54 </sub>
 </div>
 
