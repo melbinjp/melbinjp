@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Breaking: Samsung has reportedly cancelled the Galaxy S26 Edge, here's why - ...](https://www.androidauthority.com/samsung-galaxy-s26-edge-cancelled-report-3607637/)
-* 📰 [Roku might've just solved the biggest problem with home TV streaming - here's...](https://www.zdnet.com/home-and-office/home-entertainment/roku-mightve-just-solved-the-biggest-problem-with-home-tv-streaming-heres-how/)
-* 📰 [Apple’s Head of ChatGPT-Like AI Search Effort to Leave for Meta - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta)
+* 📰 [Review | I’m 44, and ‘Pokémon Legends: Z-A’ makes me feel the walls closing i...](https://www.washingtonpost.com/entertainment/video-games/2025/10/16/pokemon-legends-z-a-review/)
+* 📰 [OnePlus's big OxygenOS 16 update brings much more than just Android 16: Here'...](https://www.androidauthority.com/oxygenos-16-features-3607625/)
+* 📰 [Quantic Dream Is Making Spellcasters Chronicles, A Multiplayer Game – Here's ...](https://gameinformer.com/2025/10/16/quantic-dream-is-making-spellcasters-chronicles-a-multiplayer-game-heres-what-we-think)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-17 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-10-17 18:34 </sub>
 </div>
 
