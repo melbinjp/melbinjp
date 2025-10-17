@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -124,8 +124,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Roku might've just solved the biggest problem with home TV streaming - here's...](https://www.zdnet.com/home-and-office/home-entertainment/roku-mightve-just-solved-the-biggest-problem-with-home-tv-streaming-heres-how/)
+* 📰 [What do you think of YouTube’s new video player redesign? [Poll] - 9to5Google](http://9to5google.com/2025/10/15/what-do-you-think-of-youtubes-new-video-player-redesign-poll/)
 * 📰 [Apple’s Head of ChatGPT-Like AI Search Effort to Leave for Meta - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta)
-* 📰 [Six More Game Modes Could Be Coming To Battlefield 6, Datamine Reveals - Insi...](https://insider-gaming.com/six-more-game-modes-could-be-coming-to-battlefield-6-datamine-reveals/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-17 01:57 </sub>
+  <sub>Last updated: Last updated: 2025-10-17 06:37 </sub>
 </div>
 
