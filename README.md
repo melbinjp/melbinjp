@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Windows 10 End of Life: Microsoft releases final update — everything you need...](https://www.tomsguide.com/news/live/windows-10-end-of-support-2025)
-* 📰 [New PvZ Replanted Trailer Is Very Cringey And Not Good - Kotaku](https://kotaku.com/new-plants-vs-zombies-remastered-replanted-trailer-cringe-fake-twitch-stream-2000635689)
-* 📰 [How Sam Altman Played Hollywood With OpenAI's Sora 2 - The Hollywood Reporter](http://www.hollywoodreporter.com/business/business-news/sam-altman-openai-sora-agencies-talent-1236401618/)
+* 📰 [Roku might've just solved the biggest problem with home TV streaming - here's...](https://www.zdnet.com/home-and-office/home-entertainment/roku-mightve-just-solved-the-biggest-problem-with-home-tv-streaming-heres-how/)
+* 📰 [Apple’s Head of ChatGPT-Like AI Search Effort to Leave for Meta - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta)
+* 📰 [Six More Game Modes Could Be Coming To Battlefield 6, Datamine Reveals - Insi...](https://insider-gaming.com/six-more-game-modes-could-be-coming-to-battlefield-6-datamine-reveals/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-16 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-10-17 01:57 </sub>
 </div>
 
