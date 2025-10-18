@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Marvel Rivals first-ever PvE mode ‘Zombie Mode’ announced - Gematsu](https://www.gematsu.com/2025/10/marvel-rivals-first-ever-pve-mode-zombie-mode-announced)
-* 📰 [MacBook Pro rumor points to OLED, touchscreen upgrades next year - The Verge](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
-* 📰 [Anthropic brings mad Skills to Claude - theregister.com](https://www.theregister.com/2025/10/16/anthropic_mad_skills_claude/)
+* 📰 [Battlefield 6 developers U-turn on a multiplayer adjustment following communi...](https://www.eurogamer.net/battlefield-6-developers-u-turn-on-a-multiplayer-adjustment-following-community-feedback)
+* 📰 [Battlefield 6 devs are finally doing something about its dreadful XP and atta...](https://www.vg247.com/battlefield-6-progression-xp-boost-attachment-unlocks-dev-update)
+* 📰 [Everybody's roasting YouTube's new web design - Creative Bloq](https://www.creativebloq.com/web-design/ux-ui/is-the-new-youtube-ui-design-really-that-bad)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-18 12:49 </sub>
+  <sub>Last updated: Last updated: 2025-10-18 18:32 </sub>
 </div>
 
