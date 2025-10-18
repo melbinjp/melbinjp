@@ -94,14 +94,14 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2025-10-07_
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-09-22_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
+* [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Marvel Rivals first-ever PvE mode ‘Zombie Mode’ announced - Gematsu](https://www.gematsu.com/2025/10/marvel-rivals-first-ever-pve-mode-zombie-mode-announced)
 * 📰 [MacBook Pro rumor points to OLED, touchscreen upgrades next year - The Verge](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
-* 📰 [Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars...](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/)
-* 📰 [I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’ - Giz...](https://gizmodo.com/star-trek-voyager-across-the-unknown-demo-impressions-2000673198)
+* 📰 [Anthropic brings mad Skills to Claude - theregister.com](https://www.theregister.com/2025/10/16/anthropic_mad_skills_claude/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-18 06:34 </sub>
+  <sub>Last updated: Last updated: 2025-10-18 12:49 </sub>
 </div>
 
