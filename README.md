@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [MacBook Pro rumor points to OLED, touchscreen upgrades next year - The Verge](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
 * 📰 [Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars...](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/)
 * 📰 [I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’ - Giz...](https://gizmodo.com/star-trek-voyager-across-the-unknown-demo-impressions-2000673198)
-* 📰 [Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-10-16/apple-readies-high-end-macbook-pro-with-touch-hole-punch-screen)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-18 01:52 </sub>
+  <sub>Last updated: Last updated: 2025-10-18 06:34 </sub>
 </div>
 
