@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Review | I’m 44, and ‘Pokémon Legends: Z-A’ makes me feel the walls closing i...](https://www.washingtonpost.com/entertainment/video-games/2025/10/16/pokemon-legends-z-a-review/)
-* 📰 [OnePlus's big OxygenOS 16 update brings much more than just Android 16: Here'...](https://www.androidauthority.com/oxygenos-16-features-3607625/)
-* 📰 [Quantic Dream Is Making Spellcasters Chronicles, A Multiplayer Game – Here's ...](https://gameinformer.com/2025/10/16/quantic-dream-is-making-spellcasters-chronicles-a-multiplayer-game-heres-what-we-think)
+* 📰 [Microsoft’s vision for AI PCs looks a lot like another crack at Cortana - Ars...](https://arstechnica.com/gadgets/2025/10/microsofts-vision-for-ai-pcs-looks-a-lot-like-another-crack-at-cortana/)
+* 📰 [I Tried My Best to Completely Mess Up the Pilot of ‘Star Trek: Voyager’ - Giz...](https://gizmodo.com/star-trek-voyager-across-the-unknown-demo-impressions-2000673198)
+* 📰 [Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-10-16/apple-readies-high-end-macbook-pro-with-touch-hole-punch-screen)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-17 18:34 </sub>
+  <sub>Last updated: Last updated: 2025-10-18 01:52 </sub>
 </div>
 
