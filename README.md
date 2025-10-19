@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Plants vs. Zombies: Replanted leaks, game appears to have various issues - Ni...](https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/)
+* 📰 [Battlefield 6 Sparks 'Zoomers' vs 'Battledads' War Over Movement — but the De...](https://www.ign.com/articles/battlefield-6-sparks-zoomers-vs-battledads-war-over-movement-but-the-devs-are-looking-for-somewhere-in-between)
 * 📰 [AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac](https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/)
-* 📰 [How To Catch All Legendary Pokemon In Pokemon Legends: Z-A - Zygarde, Xerneas...](https://www.gamespot.com/gallery/pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-guide/2900-7148/)
-* 📰 [WhatsApp to test monthly cap for unsanswered messages - 9to5Mac](https://9to5mac.com/2025/10/17/whatsapp-to-restrict-how-many-messages-users-can-send-without-replies/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-19 02:10 </sub>
+  <sub>Last updated: Last updated: 2025-10-19 06:35 </sub>
 </div>
 
