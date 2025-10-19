@@ -94,8 +94,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated today_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated yesterday_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [ALCS, 3-2: Chart - Lookout Landing](https://www.lookoutlanding.com/mariners-charts/136277/alcs-3-2-chart)
+* 📰 [Facebook’s new button lets its AI look at photos you haven’t uploaded yet - T...](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll)
 * 📰 [Plants vs. Zombies: Replanted leaks, game appears to have various issues - Ni...](https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/)
-* 📰 [Battlefield 6 Sparks 'Zoomers' vs 'Battledads' War Over Movement — but the De...](https://www.ign.com/articles/battlefield-6-sparks-zoomers-vs-battledads-war-over-movement-but-the-devs-are-looking-for-somewhere-in-between)
-* 📰 [AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac](https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-19 06:35 </sub>
+  <sub>Last updated: Last updated: 2025-10-19 12:48 </sub>
 </div>
 
