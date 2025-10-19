@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Battlefield 6 developers U-turn on a multiplayer adjustment following communi...](https://www.eurogamer.net/battlefield-6-developers-u-turn-on-a-multiplayer-adjustment-following-community-feedback)
-* 📰 [Battlefield 6 devs are finally doing something about its dreadful XP and atta...](https://www.vg247.com/battlefield-6-progression-xp-boost-attachment-unlocks-dev-update)
-* 📰 [Everybody's roasting YouTube's new web design - Creative Bloq](https://www.creativebloq.com/web-design/ux-ui/is-the-new-youtube-ui-design-really-that-bad)
+* 📰 [AirPods Pro 3 after one month: The most complicated upgrade yet - 9to5Mac](https://9to5mac.com/2025/10/17/airpods-pro-3-after-one-month-the-most-complicated-upgrade-yet/)
+* 📰 [How To Catch All Legendary Pokemon In Pokemon Legends: Z-A - Zygarde, Xerneas...](https://www.gamespot.com/gallery/pokemon-legends-za-legendary-pokemon-zygarde-xerneas-yveltal-guide/2900-7148/)
+* 📰 [WhatsApp to test monthly cap for unsanswered messages - 9to5Mac](https://9to5mac.com/2025/10/17/whatsapp-to-restrict-how-many-messages-users-can-send-without-replies/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-18 18:32 </sub>
+  <sub>Last updated: Last updated: 2025-10-19 02:10 </sub>
 </div>
 
