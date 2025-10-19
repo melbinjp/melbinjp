@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [ALCS, 3-2: Chart - Lookout Landing](https://www.lookoutlanding.com/mariners-charts/136277/alcs-3-2-chart)
-* 📰 [Facebook’s new button lets its AI look at photos you haven’t uploaded yet - T...](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll)
-* 📰 [Plants vs. Zombies: Replanted leaks, game appears to have various issues - Ni...](https://nintendoeverything.com/plants-vs-zombies-replanted-leak-issues/)
+* 📰 [Talking Point: How Do You Play NES Games These Days? - Nintendo Life](https://www.nintendolife.com/features/talking-point-how-do-you-play-nes-games-these-days)
+* 📰 [Apple TV Revs Up to Compete, For Real, In Streaming - The Hollywood Reporter](http://www.hollywoodreporter.com/business/business-news/apple-tv-streaming-f1-peacock-bundle-rebrand-1236404227/)
+* 📰 [Update Microsoft Windows Now — New 2 Week Security Deadline Confirmed - Forbes](https://www.forbes.com/sites/daveywinder/2025/10/18/update-microsoft-windows-now---new-2-week-security-deadline-confirmed/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-19 12:48 </sub>
+  <sub>Last updated: Last updated: 2025-10-19 18:33 </sub>
 </div>
 
