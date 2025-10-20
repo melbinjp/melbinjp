@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Gemini shows up early on Google TV with speaker-like voice selection [Gallery...](http://9to5google.com/2025/10/18/gemini-shows-up-early-on-google-tv-with-updated-voice-selection-gallery/)
+* 📰 [Take advantage of this $280 MacBook Pro deal while supplies last - Mashable](https://mashable.com/article/oct-18-apple-macbook-pro-8gb-ram-512gb)
 * 📰 [Gemini removes ‘@Google Maps’ & ‘@YouTube’ apps for direct integration - 9to5...](http://9to5google.com/2025/10/18/gemini-youtube-google-maps-apps/)
-* 📰 [Nintendo talks about why Donkey Kong Bananza wouldn’t have been possible on S...](https://nintendoeverything.com/nintendo-talks-about-why-donkey-kong-bananza-wouldnt-have-been-possible-on-switch-1/)
-* 📰 [Bit-banged 100 MBit/s Ethernet Transmission On Raspberry Pi Pico - Hackaday](https://hackaday.com/2025/10/18/bit-banged-100-mbit-s-ethernet-transmission-on-raspberry-pi-pico/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-20 02:07 </sub>
+  <sub>Last updated: Last updated: 2025-10-20 06:39 </sub>
 </div>
 
