@@ -94,8 +94,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated yesterday_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Gemini shows up early on Google TV with speaker-like voice selection [Gallery...](http://9to5google.com/2025/10/18/gemini-shows-up-early-on-google-tv-with-updated-voice-selection-gallery/)
-* 📰 [Take advantage of this $280 MacBook Pro deal while supplies last - Mashable](https://mashable.com/article/oct-18-apple-macbook-pro-8gb-ram-512gb)
-* 📰 [Gemini removes ‘@Google Maps’ & ‘@YouTube’ apps for direct integration - 9to5...](http://9to5google.com/2025/10/18/gemini-youtube-google-maps-apps/)
+* 📰 [Whatever you do, don't buy these 6 Google gadgets right now - Android Authority](https://www.androidauthority.com/dont-buy-these-google-gadgets-october-2025-3608007/)
+* 📰 [Rumour: Nintendo Patent Supposedly Points To Return Of DS Games - Nintendo Life](https://www.nintendolife.com/news/2025/10/rumour-nintendo-patent-supposedly-points-to-return-of-ds-games)
+* 📰 [You only need to work out twice a week, according to new research. Here's how...](https://www.tomsguide.com/wellness/fitness/you-only-need-to-work-out-twice-a-week-according-to-new-research-heres-how-to-maximize-those-two-sessions)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-20 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-10-20 12:55 </sub>
 </div>
 
