@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Whatever you do, don't buy these 6 Google gadgets right now - Android Authority](https://www.androidauthority.com/dont-buy-these-google-gadgets-october-2025-3608007/)
-* 📰 [Rumour: Nintendo Patent Supposedly Points To Return Of DS Games - Nintendo Life](https://www.nintendolife.com/news/2025/10/rumour-nintendo-patent-supposedly-points-to-return-of-ds-games)
-* 📰 [You only need to work out twice a week, according to new research. Here's how...](https://www.tomsguide.com/wellness/fitness/you-only-need-to-work-out-twice-a-week-according-to-new-research-heres-how-to-maximize-those-two-sessions)
+* 📰 [Qi2 batteries have quickly become my favorite Pixel 10 accessory [Gallery] - ...](http://9to5google.com/2025/10/19/pixel-10-qi2-battery-banks-favorite-accessory/)
+* 📰 [I've been using the iPhone 17 for a month — here's my pros and cons - Tom's G...](https://www.tomsguide.com/phones/iphones/ive-been-using-the-iphone-17-for-over-a-month-heres-what-i-really-think-about-it)
+* 📰 [The Sony Watchman was must-see TV - The Verge](https://www.theverge.com/podcast/802307/sony-watchman-tv-version-history)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-20 12:55 </sub>
+  <sub>Last updated: Last updated: 2025-10-20 18:38 </sub>
 </div>
 
