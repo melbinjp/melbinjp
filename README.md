@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Talking Point: How Do You Play NES Games These Days? - Nintendo Life](https://www.nintendolife.com/features/talking-point-how-do-you-play-nes-games-these-days)
-* 📰 [Apple TV Revs Up to Compete, For Real, In Streaming - The Hollywood Reporter](http://www.hollywoodreporter.com/business/business-news/apple-tv-streaming-f1-peacock-bundle-rebrand-1236404227/)
-* 📰 [Update Microsoft Windows Now — New 2 Week Security Deadline Confirmed - Forbes](https://www.forbes.com/sites/daveywinder/2025/10/18/update-microsoft-windows-now---new-2-week-security-deadline-confirmed/)
+* 📰 [Gemini removes ‘@Google Maps’ & ‘@YouTube’ apps for direct integration - 9to5...](http://9to5google.com/2025/10/18/gemini-youtube-google-maps-apps/)
+* 📰 [Nintendo talks about why Donkey Kong Bananza wouldn’t have been possible on S...](https://nintendoeverything.com/nintendo-talks-about-why-donkey-kong-bananza-wouldnt-have-been-possible-on-switch-1/)
+* 📰 [Bit-banged 100 MBit/s Ethernet Transmission On Raspberry Pi Pico - Hackaday](https://hackaday.com/2025/10/18/bit-banged-100-mbit-s-ethernet-transmission-on-raspberry-pi-pico/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-19 18:33 </sub>
+  <sub>Last updated: Last updated: 2025-10-20 02:07 </sub>
 </div>
 
