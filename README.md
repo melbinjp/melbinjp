@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Marathon's disastrous beta test was "a very great A/B test" for Arc Raiders, ...](https://www.eurogamer.net/marathons-disastrous-beta-test-was-a-very-great-ab-test-for-arc-raiders-according-to-technical-director)
-* 📰 [Microsoft triples down on Xbox hardware commitment, while also teasing first-...](https://www.windowscentral.com/gaming/xbox/microsoft-triples-down-on-xbox-hardware-commitment-while-also-teasing-first-party-gaming-handhelds-too-what-will-it-look-like-in-practice)
-* 📰 [UK Charts: Pokémon Legends: Z-A Sales Almost 50/50 Across Switch And Switch 2...](https://www.nintendolife.com/news/2025/10/uk-charts-pokemon-legends-z-a-sales-almost-5050-across-switch-and-switch-2)
+* 📰 [Absolum And Ball X Pit Post Excellent Initial Sales, But They Deserve More - ...](https://www.nintendolife.com/news/2025/10/absolum-and-ball-x-pit-post-excellent-initial-sales-but-they-deserve-more)
+* 📰 [Iniu’s tiny 10,000mAh power bank is almost half off right now - The Verge](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale)
+* 📰 [EXCLUSIVE: Hearthstone Reveals Three New Warlock Cards From Across The Timewa...](https://www.thegamer.com/hearthstone-new-warlock-cards-chronogor-across-the-timeways-expansion/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-21 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-10-21 18:37 </sub>
 </div>
 
