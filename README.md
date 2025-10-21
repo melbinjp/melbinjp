@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Qi2 batteries have quickly become my favorite Pixel 10 accessory [Gallery] - ...](http://9to5google.com/2025/10/19/pixel-10-qi2-battery-banks-favorite-accessory/)
-* 📰 [I've been using the iPhone 17 for a month — here's my pros and cons - Tom's G...](https://www.tomsguide.com/phones/iphones/ive-been-using-the-iphone-17-for-over-a-month-heres-what-i-really-think-about-it)
-* 📰 [The Sony Watchman was must-see TV - The Verge](https://www.theverge.com/podcast/802307/sony-watchman-tv-version-history)
+* 📰 [AirPods Pro 3 proved me wrong, but they now have one unfortunate drawback - 9...](https://9to5mac.com/2025/10/19/airpods-pro-3-pros-and-cons-after-one-month-of-testing/)
+* 📰 [Protect your family from ads, trackers, and malware for life for just $40 - M...](https://mashable.com/article/oct-19-adguard-family-plan-lifetime-subscription)
+* 📰 [Oversharing with AI: How your ChatGPT conversations could be used against you...](https://www.the-independent.com/tech/ai-chatgpt-crime-data-ads-b2846677.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-20 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-10-21 02:00 </sub>
 </div>
 
