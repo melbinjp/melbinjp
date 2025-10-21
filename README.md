@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [This Week’s Japanese Game Releases: NINJA GAIDEN 4, Double Dragon Revive, Onc...](https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-ninja-gaiden-4-double-dragon-revive-once-upon-a-katamari-more)
 * 📰 [AirPods Pro 3 proved me wrong, but they now have one unfortunate drawback - 9...](https://9to5mac.com/2025/10/19/airpods-pro-3-pros-and-cons-after-one-month-of-testing/)
-* 📰 [Protect your family from ads, trackers, and malware for life for just $40 - M...](https://mashable.com/article/oct-19-adguard-family-plan-lifetime-subscription)
-* 📰 [Oversharing with AI: How your ChatGPT conversations could be used against you...](https://www.the-independent.com/tech/ai-chatgpt-crime-data-ads-b2846677.html)
+* 📰 [X is changing how it handles links to try and keep you in the app - The Verge](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-21 02:00 </sub>
+  <sub>Last updated: Last updated: 2025-10-21 06:38 </sub>
 </div>
 
