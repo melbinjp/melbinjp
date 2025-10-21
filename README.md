@@ -94,8 +94,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2 days ago_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 3 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [This Week’s Japanese Game Releases: NINJA GAIDEN 4, Double Dragon Revive, Onc...](https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-ninja-gaiden-4-double-dragon-revive-once-upon-a-katamari-more)
-* 📰 [AirPods Pro 3 proved me wrong, but they now have one unfortunate drawback - 9...](https://9to5mac.com/2025/10/19/airpods-pro-3-pros-and-cons-after-one-month-of-testing/)
-* 📰 [X is changing how it handles links to try and keep you in the app - The Verge](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)
+* 📰 [Marathon's disastrous beta test was "a very great A/B test" for Arc Raiders, ...](https://www.eurogamer.net/marathons-disastrous-beta-test-was-a-very-great-ab-test-for-arc-raiders-according-to-technical-director)
+* 📰 [Microsoft triples down on Xbox hardware commitment, while also teasing first-...](https://www.windowscentral.com/gaming/xbox/microsoft-triples-down-on-xbox-hardware-commitment-while-also-teasing-first-party-gaming-handhelds-too-what-will-it-look-like-in-practice)
+* 📰 [UK Charts: Pokémon Legends: Z-A Sales Almost 50/50 Across Switch And Switch 2...](https://www.nintendolife.com/news/2025/10/uk-charts-pokemon-legends-z-a-sales-almost-5050-across-switch-and-switch-2)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-21 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-10-21 12:56 </sub>
 </div>
 
