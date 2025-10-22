@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Absolum And Ball X Pit Post Excellent Initial Sales, But They Deserve More - ...](https://www.nintendolife.com/news/2025/10/absolum-and-ball-x-pit-post-excellent-initial-sales-but-they-deserve-more)
-* 📰 [Iniu’s tiny 10,000mAh power bank is almost half off right now - The Verge](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale)
-* 📰 [EXCLUSIVE: Hearthstone Reveals Three New Warlock Cards From Across The Timewa...](https://www.thegamer.com/hearthstone-new-warlock-cards-chronogor-across-the-timeways-expansion/)
+* 📰 [Snapchat is down — live updates on AWS outage and its impact on the social me...](https://www.tomsguide.com/news/live/snapchat-outage-live-october-20)
+* 📰 [Google confirms when Android 16 QPR2 Beta 3 will return (Update: It's back) -...](https://www.androidauthority.com/android-16-qpr2-beta-3-return-3608643/)
+* 📰 [Microsoft to release emergency fix for Windows 11 update that caused widespre...](https://mashable.com/article/microsoft-windows-11-oct-2025-emergency-update)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-21 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-22 02:04 </sub>
 </div>
 
