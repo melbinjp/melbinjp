@@ -94,8 +94,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 3 days ago_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 4 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,8 +123,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Ninja Gaiden 4 is the perfect place to jump into the series - The Verge](https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc)
-* 📰 [Snapchat is down — live updates on AWS outage and its impact on the social me...](https://www.tomsguide.com/news/live/snapchat-outage-live-october-20)
+* 📰 [Don't let anyone tell you you're not skilled enough to enjoy Ninja Gaiden 4 -...](https://www.eurogamer.net/dont-let-anyone-tell-you-youre-not-skilled-enough-to-enjoy-ninja-gaiden-4-im-near-incompetent-yet-having-an-absolute-blast-with-xboxs-hack-n-slash)
+* 📰 [Claude Code comes to iOS and web as research preview - 9to5Mac](https://9to5mac.com/2025/10/20/claude-code-preview-ios-iphone/)
 * 📰 [Apple will let users roll back the Liquid Glass look with new ‘tinted’ option...](https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-22 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-10-22 12:57 </sub>
 </div>
 
