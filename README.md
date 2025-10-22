@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Don't let anyone tell you you're not skilled enough to enjoy Ninja Gaiden 4 -...](https://www.eurogamer.net/dont-let-anyone-tell-you-youre-not-skilled-enough-to-enjoy-ninja-gaiden-4-im-near-incompetent-yet-having-an-absolute-blast-with-xboxs-hack-n-slash)
-* 📰 [Claude Code comes to iOS and web as research preview - 9to5Mac](https://9to5mac.com/2025/10/20/claude-code-preview-ios-iphone/)
-* 📰 [Apple will let users roll back the Liquid Glass look with new ‘tinted’ option...](https://techcrunch.com/2025/10/20/apple-will-let-users-roll-back-the-liquid-glass-look-with-new-tinted-option/)
+* 📰 [Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This - Kotaku](https://kotaku.com/dont-download-ps-pluss-latest-batch-of-games-until-youve-read-this-2000637598)
+* 📰 [Exclusive: Apple alerts exploit developer that his iPhone was targeted with g...](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
+* 📰 [Minecraft Snapshot 25w43a - Minecraft](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w43a)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-22 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-10-22 18:39 </sub>
 </div>
 
