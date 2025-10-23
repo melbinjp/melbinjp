@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read This - Kotaku](https://kotaku.com/dont-download-ps-pluss-latest-batch-of-games-until-youve-read-this-2000637598)
-* 📰 [Exclusive: Apple alerts exploit developer that his iPhone was targeted with g...](https://techcrunch.com/2025/10/21/apple-alerts-exploit-developer-that-his-iphone-was-targeted-with-government-spyware/)
-* 📰 [Minecraft Snapshot 25w43a - Minecraft](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w43a)
+* 📰 [Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic ...](https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic)
+* 📰 [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support ...](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)
+* 📰 [Pixel phones will get a smarter always-on display that saves battery life - A...](https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-22 18:39 </sub>
+  <sub>Last updated: Last updated: 2025-10-23 01:59 </sub>
 </div>
 
