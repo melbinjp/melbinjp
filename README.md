@@ -94,8 +94,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 4 days ago_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 5 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Samsung’s Galaxy XR Headset Debuts at Half the Price of Apple’s Vision Pro - ...](https://www.bloomberg.com/news/features/2025-10-22/samsung-s-galaxy-xr-headset-costs-1-800-undercutting-apple-s-vision-pro)
-* 📰 [Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic ...](https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic)
-* 📰 [Next Xbox won’t be cheap — Sarah Bond teases a “very premium, high-end next-g...](https://www.windowscentral.com/gaming/xbox/next-xbox-wont-be-cheap-sarah-bond-teases-a-very-premium-high-end-next-gen-console-experience)
+* 📰 [Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar...](https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025)
+* 📰 [AI chatbots fail at accurate news, major study reveals - DW](https://www.dw.com/en/artificial-intelligence-ai-chatbot-chatgpt-google-news-misinformation-fact-check-copilot/a-74392921)
+* 📰 [Apple slashes iPhone Air production plans, boosts other 17 models: sources - ...](https://asia.nikkei.com/spotlight/supply-chain/apple-slashes-iphone-air-production-plans-boosts-other-17-models-sources)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-23 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-10-23 12:57 </sub>
 </div>
 
