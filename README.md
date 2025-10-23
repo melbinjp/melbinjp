@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Microsoft prepares major Windows 11 feature drop with new Start menu, Taskbar...](https://www.windowscentral.com/microsoft/windows-11/microsoft-prepares-new-start-menu-release-major-windows-11-feature-update-november-2025)
-* 📰 [AI chatbots fail at accurate news, major study reveals - DW](https://www.dw.com/en/artificial-intelligence-ai-chatbot-chatgpt-google-news-misinformation-fact-check-copilot/a-74392921)
-* 📰 [Apple slashes iPhone Air production plans, boosts other 17 models: sources - ...](https://asia.nikkei.com/spotlight/supply-chain/apple-slashes-iphone-air-production-plans-boosts-other-17-models-sources)
+* 📰 [The Plants vs. Zombies remaster is a sad reminder of what could have been - T...](https://www.theverge.com/games/803795/plants-vs-zombies-replanted-remaster-switch-pc-ps5-xbox)
+* 📰 [EA, NFL extend exclusive Madden deal - NBC Sports](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ea-nfl-extend-exclusive-madden-deal)
+* 📰 [Pokémon Legends Z-A Review: An Enjoyable Identity Crisis - Kotaku](https://kotaku.com/pokemon-legends-za-review-switch-2-bugs-performance-2000637719)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-23 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-10-23 18:37 </sub>
 </div>
 
