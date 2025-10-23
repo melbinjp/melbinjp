@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Samsung’s Galaxy XR Headset Debuts at Half the Price of Apple’s Vision Pro - ...](https://www.bloomberg.com/news/features/2025-10-22/samsung-s-galaxy-xr-headset-costs-1-800-undercutting-apple-s-vision-pro)
 * 📰 [Nintendo Expands Switch 2's GameCube Library Next Week With A Spooky Classic ...](https://www.nintendolife.com/news/2025/10/nintendo-expands-switch-2s-gamecube-library-next-week-with-a-spooky-classic)
-* 📰 [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support ...](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)
-* 📰 [Pixel phones will get a smarter always-on display that saves battery life - A...](https://www.androidauthority.com/always-on-display-inactivity-detection-rumor-3609052/)
+* 📰 [Next Xbox won’t be cheap — Sarah Bond teases a “very premium, high-end next-g...](https://www.windowscentral.com/gaming/xbox/next-xbox-wont-be-cheap-sarah-bond-teases-a-very-premium-high-end-next-gen-console-experience)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-23 01:59 </sub>
+  <sub>Last updated: Last updated: 2025-10-23 06:38 </sub>
 </div>
 
