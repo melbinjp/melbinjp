@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [CS2 skin update ‘rug pulls’ collectors as $1 billion wiped from market cap - ...](https://www.dexerto.com/counter-strike-2/cs2-skin-update-rug-pulls-collectors-as-1-billion-wiped-from-market-cap-3273322/)
-* 📰 [Mysterious OnePlus phone with Qualcomm Snapdragon 8 Gen 5 and 8,000mAh+ batte...](https://www.notebookcheck.net/Mysterious-OnePlus-phone-with-Qualcomm-Snapdragon-8-Gen-5-and-8-000mAh-battery-leaks-with-release-timeline.1144658.0.html)
-* 📰 [BIND warns of bugs that could bring DNS cache attack back from the dead - Ars...](https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/)
+* 📰 [Fallout: New Vegas 15th Anniversary Bundle Announced on Fallout Day — Here Ar...](https://www.ign.com/articles/fallout-new-vegas-15th-anniversary-bundle-announced-on-fallout-day-here-are-the-contents)
+* 📰 [Dev Diary: Creating Arena Powered Cube - Magic: The Gathering](https://magic.wizards.com/en/news/mtg-arena/dev-diary-creating-arena-powered-cube)
+* 📰 [Fallout 4: Anniversary Edition Announced - Bethesda.net](https://bethesda.net/en/article/N00XVTawnzBBH7HNwv0hN/fallout-4-anniversary-edition-announced)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-24 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-10-24 18:34 </sub>
 </div>
 
