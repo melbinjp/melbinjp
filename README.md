@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Plants vs. Zombies remaster is a sad reminder of what could have been - T...](https://www.theverge.com/games/803795/plants-vs-zombies-replanted-remaster-switch-pc-ps5-xbox)
-* 📰 [EA, NFL extend exclusive Madden deal - NBC Sports](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ea-nfl-extend-exclusive-madden-deal)
-* 📰 [Pokémon Legends Z-A Review: An Enjoyable Identity Crisis - Kotaku](https://kotaku.com/pokemon-legends-za-review-switch-2-bugs-performance-2000637719)
+* 📰 [OpenAI launches Atlas browser to compete with Google Chrome - KSL.com](https://www.ksl.com/article/51393293/openai-launches-atlas-browser-to-compete-with-google-chrome)
+* 📰 [Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Vari...](https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers)
+* 📰 [Apple confirms it pulled controversial dating apps Tea and TeaOnHer from the ...](https://techcrunch.com/2025/10/22/apple-confirms-it-pulled-controversial-dating-apps-tea-and-teaonher-from-the-app-store/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-23 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-24 01:55 </sub>
 </div>
 
