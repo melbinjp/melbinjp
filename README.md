@@ -94,8 +94,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 5 days ago_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 6 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 6 days ago_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [NFL Locks Up ‘Madden’ Game Franchise Long-Term and Goes Global With Amazon in...](http://www.hollywoodreporter.com/business/business-news/nfl-owners-meeting-espn-amazon-ea-deals-approved-1236407367/)
-* 📰 [OpenAI’s Atlas is more about ChatGPT than the web - TechCrunch](https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/)
-* 📰 [Marvel Comics Celebrates the Launch of 'MARVEL Cosmic Invasion' with New Vari...](https://www.marvel.com/articles/comics/marvel-comics-celebrates-the-launch-of-marvel-cosmic-invasion-with-new-variant-covers)
+* 📰 [CS2 skin update ‘rug pulls’ collectors as $1 billion wiped from market cap - ...](https://www.dexerto.com/counter-strike-2/cs2-skin-update-rug-pulls-collectors-as-1-billion-wiped-from-market-cap-3273322/)
+* 📰 [Mysterious OnePlus phone with Qualcomm Snapdragon 8 Gen 5 and 8,000mAh+ batte...](https://www.notebookcheck.net/Mysterious-OnePlus-phone-with-Qualcomm-Snapdragon-8-Gen-5-and-8-000mAh-battery-leaks-with-release-timeline.1144658.0.html)
+* 📰 [BIND warns of bugs that could bring DNS cache attack back from the dead - Ars...](https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-24 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-24 12:56 </sub>
 </div>
 
