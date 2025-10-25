@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple decries ‘intense lobbying,’ threatens to turn off App Tracking Transpar...](https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/)
-* 📰 [Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable](https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price)
-* 📰 [Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
+* 📰 [Indie shooter Escape From Duckov overtakes Battlefield 6 on Steam - Dexerto](https://www.dexerto.com/gaming/indie-shooter-escape-from-duckov-overtakes-battlefield-6-on-steam-3273511/)
+* 📰 [Microsoft Outlook is getting an AI overhaul under new leaders - The Verge](https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad)
+* 📰 [Nobody Seems To Like The New Halloween Event In Borderlands 4 - Kotaku](https://kotaku.com/new-halloween-event-borderlands-4-sucks-bad-horrors-of-kairos-2000638842)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-25 12:48 </sub>
+  <sub>Last updated: Last updated: 2025-10-25 18:33 </sub>
 </div>
 
