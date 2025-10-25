@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
-* 📰 [OpenAI buys Sky, an AI interface for Mac - TechCrunch](https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/)
-* 📰 [Instagram users can now use Meta AI editing tools directly in IG Stories - Te...](https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/)
+* 📰 [Neuroscientist has developed a six-pound phone case to help limit screen time...](https://supercarblondie.com/neuroscientist-developed-six-pound-phone-case/)
+* 📰 [Apple decries ‘intense lobbying,’ threatens to turn off App Tracking Transpar...](https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/)
+* 📰 [Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable](https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-25 01:57 </sub>
+  <sub>Last updated: Last updated: 2025-10-25 06:34 </sub>
 </div>
 
