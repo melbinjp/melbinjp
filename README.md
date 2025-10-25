@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Fallout: New Vegas 15th Anniversary Bundle Announced on Fallout Day — Here Ar...](https://www.ign.com/articles/fallout-new-vegas-15th-anniversary-bundle-announced-on-fallout-day-here-are-the-contents)
-* 📰 [Dev Diary: Creating Arena Powered Cube - Magic: The Gathering](https://magic.wizards.com/en/news/mtg-arena/dev-diary-creating-arena-powered-cube)
-* 📰 [Fallout 4: Anniversary Edition Announced - Bethesda.net](https://bethesda.net/en/article/N00XVTawnzBBH7HNwv0hN/fallout-4-anniversary-edition-announced)
+* 📰 [Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
+* 📰 [OpenAI buys Sky, an AI interface for Mac - TechCrunch](https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/)
+* 📰 [Instagram users can now use Meta AI editing tools directly in IG Stories - Te...](https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-24 18:34 </sub>
+  <sub>Last updated: Last updated: 2025-10-25 01:57 </sub>
 </div>
 
