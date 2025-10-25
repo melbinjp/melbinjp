@@ -94,8 +94,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 6 days ago_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 6 days ago_
+* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Neuroscientist has developed a six-pound phone case to help limit screen time...](https://supercarblondie.com/neuroscientist-developed-six-pound-phone-case/)
 * 📰 [Apple decries ‘intense lobbying,’ threatens to turn off App Tracking Transpar...](https://9to5mac.com/2025/10/23/apple-decries-intense-lobbying-threatens-to-turn-off-app-tracking-transparency-in-europe/)
 * 📰 [Samsung Galaxy XR vs Meta Quest 3: Comparing specs and price - Mashable](https://mashable.com/article/samsung-galaxy-xr-vs-meta-quest-3-specs-price)
+* 📰 [Microsoft Edge’s new Copilot Mode turns on more AI features - The Verge](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-25 06:34 </sub>
+  <sub>Last updated: Last updated: 2025-10-25 12:48 </sub>
 </div>
 
