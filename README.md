@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The original ‘Halo’ is getting a full remake, now on PlayStation - The Washin...](https://www.washingtonpost.com/entertainment/video-games/2025/10/24/halo-campaign-evolved-remake-xbox-playstation/)
-* 📰 [Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit - T...](https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti)
-* 📰 [iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors](https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/)
+* 📰 [Microsoft's Halo series heading to rival PlayStation - BBC](https://www.bbc.com/news/articles/ckg14442r73o)
+* 📰 [Act Now — Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes](https://www.forbes.com/sites/daveywinder/2025/10/25/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/)
+* 📰 [Sakurai Confirms Day One Update For Kirby Air Riders On Switch 2 - Nintendo Life](https://www.nintendolife.com/news/2025/10/sakurai-confirms-day-one-update-for-kirby-air-riders-on-switch-2)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-26 06:35 </sub>
+  <sub>Last updated: Last updated: 2025-10-26 12:50 </sub>
 </div>
 
