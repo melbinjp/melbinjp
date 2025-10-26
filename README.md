@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [I Am Trying To Play ‘Destiny 2,’ It Is Not Going Well - Forbes](https://www.forbes.com/sites/paultassi/2025/10/25/i-am-trying-to-play-destiny-2-it-is-not-going-well/)
+* 📰 [The glaring security risks with AI browser agents - TechCrunch](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
 * 📰 [Microsoft's Halo series heading to rival PlayStation - BBC](https://www.bbc.com/news/articles/ckg14442r73o)
-* 📰 [Act Now — Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes](https://www.forbes.com/sites/daveywinder/2025/10/25/act-now---microsoft-issues-emergency-windows-update-as-attacks-begin/)
-* 📰 [Sakurai Confirms Day One Update For Kirby Air Riders On Switch 2 - Nintendo Life](https://www.nintendolife.com/news/2025/10/sakurai-confirms-day-one-update-for-kirby-air-riders-on-switch-2)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-26 12:50 </sub>
+  <sub>Last updated: Last updated: 2025-10-26 18:34 </sub>
 </div>
 
