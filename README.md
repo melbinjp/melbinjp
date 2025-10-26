@@ -112,7 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+
+### 🌌 Today's Cosmic Perspective
+
+<p align="center">
+  <a href="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" alt="Astronomy Picture of the Day" 
+         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
+</p>
+<p align="center"><em>Astronomy Picture of the Day</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Indie shooter Escape From Duckov overtakes Battlefield 6 on Steam - Dexerto](https://www.dexerto.com/gaming/indie-shooter-escape-from-duckov-overtakes-battlefield-6-on-steam-3273511/)
-* 📰 [Microsoft Outlook is getting an AI overhaul under new leaders - The Verge](https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad)
-* 📰 [Nobody Seems To Like The New Halloween Event In Borderlands 4 - Kotaku](https://kotaku.com/new-halloween-event-borderlands-4-sucks-bad-horrors-of-kairos-2000638842)
+* 📰 [iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors](https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/)
+* 📰 [The Outer Worlds 2 PC Performance Benchmarks: Unreal Engine 5 Strikes Again -...](https://wccftech.com/the-outer-worlds-2-pc-performance-benchmarks/)
+* 📰 [Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 20...](https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-25 18:33 </sub>
+  <sub>Last updated: Last updated: 2025-10-26 02:06 </sub>
 </div>
 
