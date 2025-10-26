@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [The original ‘Halo’ is getting a full remake, now on PlayStation - The Washin...](https://www.washingtonpost.com/entertainment/video-games/2025/10/24/halo-campaign-evolved-remake-xbox-playstation/)
+* 📰 [Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit - T...](https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti)
 * 📰 [iOS 26.1 Beta Liquid Glass Battery Drain Test: Tinted vs Clear Mode - MacRumors](https://www.macrumors.com/2025/10/24/ios-26-1-liquid-glass-battery-test/)
-* 📰 [The Outer Worlds 2 PC Performance Benchmarks: Unreal Engine 5 Strikes Again -...](https://wccftech.com/the-outer-worlds-2-pc-performance-benchmarks/)
-* 📰 [Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 20...](https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-26 02:06 </sub>
+  <sub>Last updated: Last updated: 2025-10-26 06:35 </sub>
 </div>
 
