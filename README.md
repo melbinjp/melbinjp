@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [AI Models May Be Developing Their Own 'Survival Drive', Researchers Say - Sla...](https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say)
-* 📰 [The Strange Lawsuit That Put A Chevy Beretta Inside Beretta's Headquarters - ...](https://www.jalopnik.com/2006339/chevy-beretta-at-beretta-hq/)
-* 📰 [Samsung Galaxy XR Has Easy Sideloading & An Open Bootloader - UploadVR](https://www.uploadvr.com/samsung-galaxy-xr-has-easy-sideloading-and-open-bootloader/)
+* 📰 [Google Pixel’s best color in years, ‘Indigo,’ is even better on Watch [Galler...](http://9to5google.com/2025/10/26/google-pixel-indigo-color-watch/)
+* 📰 [Man buys replacement part for his broken iPhone from Temu to see if it’ll fix...](https://supercarblondie.com/man-buys-temu-part-to-fix-broken-iphone/)
+* 📰 [Adobe’s Project Indigo camera finally adds iPhone 17 support - The Verge](https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-27 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-10-27 18:37 </sub>
 </div>
 
