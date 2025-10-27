@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [I Am Trying To Play ‘Destiny 2,’ It Is Not Going Well - Forbes](https://www.forbes.com/sites/paultassi/2025/10/25/i-am-trying-to-play-destiny-2-it-is-not-going-well/)
-* 📰 [The glaring security risks with AI browser agents - TechCrunch](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
-* 📰 [Microsoft's Halo series heading to rival PlayStation - BBC](https://www.bbc.com/news/articles/ckg14442r73o)
+* 📰 [Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint](https://www.halowaypoint.com/news/halo-esports-2026-update)
+* 📰 [How to get Lich in Grow a Garden - Eurogamer](https://www.eurogamer.net/how-to-get-lich-in-grow-a-garden)
+* 📰 [Game thread: NC State vs. Pitt - Backing The Pack](https://www.backingthepack.com/nc-state-football/34496/game-thread-nc-state-vs-pitt)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-26 18:34 </sub>
+  <sub>Last updated: Last updated: 2025-10-27 02:10 </sub>
 </div>
 
