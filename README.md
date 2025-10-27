@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC](https://www.bbc.com/news/articles/c20pdy1exxvo)
 * 📰 [Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint](https://www.halowaypoint.com/news/halo-esports-2026-update)
-* 📰 [How to get Lich in Grow a Garden - Eurogamer](https://www.eurogamer.net/how-to-get-lich-in-grow-a-garden)
-* 📰 [Game thread: NC State vs. Pitt - Backing The Pack](https://www.backingthepack.com/nc-state-football/34496/game-thread-nc-state-vs-pitt)
+* 📰 [M5 MacBook Pro SSD Read & Write Speeds Run Circles Around The M4 MacBook Pro,...](https://wccftech.com/m5-macbook-pro-vs-m4-macbook-pro-ssd-read-and-write-speed-test-comparison/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-27 02:10 </sub>
+  <sub>Last updated: Last updated: 2025-10-27 06:41 </sub>
 </div>
 
