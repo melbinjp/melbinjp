@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [I tried ChatGPT's Atlas browser to rival Google - here's what I found - BBC](https://www.bbc.com/news/articles/c20pdy1exxvo)
-* 📰 [Halo Esports 2026 Update | Halo - Official Site (en) - Halo Waypoint](https://www.halowaypoint.com/news/halo-esports-2026-update)
-* 📰 [M5 MacBook Pro SSD Read & Write Speeds Run Circles Around The M4 MacBook Pro,...](https://wccftech.com/m5-macbook-pro-vs-m4-macbook-pro-ssd-read-and-write-speed-test-comparison/)
+* 📰 [AI Models May Be Developing Their Own 'Survival Drive', Researchers Say - Sla...](https://slashdot.org/story/25/10/25/2041220/ai-models-may-be-developing-their-own-survival-drive-researchers-say)
+* 📰 [The Strange Lawsuit That Put A Chevy Beretta Inside Beretta's Headquarters - ...](https://www.jalopnik.com/2006339/chevy-beretta-at-beretta-hq/)
+* 📰 [Samsung Galaxy XR Has Easy Sideloading & An Open Bootloader - UploadVR](https://www.uploadvr.com/samsung-galaxy-xr-has-easy-sideloading-and-open-bootloader/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-27 06:41 </sub>
+  <sub>Last updated: Last updated: 2025-10-27 12:56 </sub>
 </div>
 
