@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Cancelled God of War PS5 Game Leaks in Screenshots - Push Square](https://www.pushsquare.com/news/2025/10/cancelled-god-of-war-ps5-game-leaks-in-screenshots)
-* 📰 [Xbox take massive 200+ foot TV into the air over Miami to break bizarre gamin...](https://supercarblondie.com/xbox-ninja-gaiden-4-helicopter-record-swae-lee/)
-* 📰 [The Neuroscience-Based Nike Mind 001 Appears in "Black" - hypebeast.com](https://hypebeast.com/2025/10/nike-mind-001-black-hq4307-001-release-info)
+* 📰 [Battlefield 6's next patch will address the game's most frustrating problem a...](https://www.eurogamer.net/battlefield-6s-next-patch-will-address-the-games-most-frustrating-problem-ahead-of-season-ones-release)
+* 📰 [It's 2025, and Pixels still don't seem to deliver notifications on time - And...](https://www.androidauthority.com/google-pixel-notification-delay-3610210/)
+* 📰 [This Week’s Japanese Game Releases: Dragon Quest I & II HD-2D Remake, Tales o...](https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-dragon-quest-i-ii-hd-2d-remake-tales-of-xillia-remastered-more)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-28 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-10-28 12:55 </sub>
 </div>
 
