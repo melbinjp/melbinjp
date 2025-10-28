@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google Pixel’s best color in years, ‘Indigo,’ is even better on Watch [Galler...](http://9to5google.com/2025/10/26/google-pixel-indigo-color-watch/)
-* 📰 [Man buys replacement part for his broken iPhone from Temu to see if it’ll fix...](https://supercarblondie.com/man-buys-temu-part-to-fix-broken-iphone/)
-* 📰 [Adobe’s Project Indigo camera finally adds iPhone 17 support - The Verge](https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support)
+* 📰 [Tedious Hiking With No Tracks in the Snow - The Trek](https://thetrek.co/pacific-crest-trail/tedious-hiking-with-no-tracks-in-the-snow/)
+* 📰 [The Pros & Cons Of 3 Cylinder Engines - Jalopnik](https://www.jalopnik.com/2005436/three-cylinder-engines-pros-cons/)
+* 📰 [Sony Quietly Liquidates XM4 Stock at New Record Low, Amazon Just Sold 10K Uni...](https://kotaku.com/sony-quietly-liquidates-xm4-stock-at-new-record-low-amazon-just-sold-10k-units-2000639122)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-27 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-10-28 02:00 </sub>
 </div>
 
