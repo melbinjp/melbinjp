@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Battlefield 6's next patch will address the game's most frustrating problem a...](https://www.eurogamer.net/battlefield-6s-next-patch-will-address-the-games-most-frustrating-problem-ahead-of-season-ones-release)
-* 📰 [It's 2025, and Pixels still don't seem to deliver notifications on time - And...](https://www.androidauthority.com/google-pixel-notification-delay-3610210/)
-* 📰 [This Week’s Japanese Game Releases: Dragon Quest I & II HD-2D Remake, Tales o...](https://www.gematsu.com/2025/10/this-weeks-japanese-game-releases-dragon-quest-i-ii-hd-2d-remake-tales-of-xillia-remastered-more)
+* 📰 [Google Pixel adding ‘theme packs’ and more in November update, leaked images ...](http://9to5google.com/2025/10/27/google-pixel-theme-packs-november-update-leak/)
+* 📰 [Telegram for Android adds a touch of ‘Liquid Glass’ in beta [Gallery] - 9to5G...](http://9to5google.com/2025/10/27/telegram-for-android-adds-a-touch-of-liquid-glass-in-beta-gallery/)
+* 📰 [Google says new Fitbit hardware is coming in 2026 - 9to5Google](http://9to5google.com/2025/10/27/new-fitbit-2026/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-28 12:55 </sub>
+  <sub>Last updated: Last updated: 2025-10-28 18:39 </sub>
 </div>
 
