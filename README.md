@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Tedious Hiking With No Tracks in the Snow - The Trek](https://thetrek.co/pacific-crest-trail/tedious-hiking-with-no-tracks-in-the-snow/)
-* 📰 [The Pros & Cons Of 3 Cylinder Engines - Jalopnik](https://www.jalopnik.com/2005436/three-cylinder-engines-pros-cons/)
-* 📰 [Sony Quietly Liquidates XM4 Stock at New Record Low, Amazon Just Sold 10K Uni...](https://kotaku.com/sony-quietly-liquidates-xm4-stock-at-new-record-low-amazon-just-sold-10k-units-2000639122)
+* 📰 [Cancelled God of War PS5 Game Leaks in Screenshots - Push Square](https://www.pushsquare.com/news/2025/10/cancelled-god-of-war-ps5-game-leaks-in-screenshots)
+* 📰 [Xbox take massive 200+ foot TV into the air over Miami to break bizarre gamin...](https://supercarblondie.com/xbox-ninja-gaiden-4-helicopter-record-swae-lee/)
+* 📰 [The Neuroscience-Based Nike Mind 001 Appears in "Black" - hypebeast.com](https://hypebeast.com/2025/10/nike-mind-001-black-hq4307-001-release-info)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-28 02:00 </sub>
+  <sub>Last updated: Last updated: 2025-10-28 06:39 </sub>
 </div>
 
