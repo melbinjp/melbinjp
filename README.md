@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Battlefield 6 Update 1.1.1.0 Now Live on All Platforms Ahead of Season 1 and ...](https://www.ign.com/articles/battlefield-6-update-1110-now-live-on-all-platforms-ahead-of-season-1-and-battle-pass-progression-later-today)
+* 📰 [Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware ...](https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html)
 * 📰 [Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square](https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting)
-* 📰 [Poll: So, Will You Be Getting Hyrule Warriors: Age Of Imprisonment? - Nintend...](https://www.nintendolife.com/news/2025/10/poll-so-will-you-be-getting-hyrule-warriors-age-of-imprisonment)
-* 📰 [Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster...](https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-29 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-10-29 12:57 </sub>
 </div>
 
