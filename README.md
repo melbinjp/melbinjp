@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google Pixel adding ‘theme packs’ and more in November update, leaked images ...](http://9to5google.com/2025/10/27/google-pixel-theme-packs-november-update-leak/)
-* 📰 [Telegram for Android adds a touch of ‘Liquid Glass’ in beta [Gallery] - 9to5G...](http://9to5google.com/2025/10/27/telegram-for-android-adds-a-touch-of-liquid-glass-in-beta-gallery/)
-* 📰 [Google says new Fitbit hardware is coming in 2026 - 9to5Google](http://9to5google.com/2025/10/27/new-fitbit-2026/)
+* 📰 [Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster...](https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/)
+* 📰 [Trump’s DHS is recruiting ICE officers with a Halo meme - The Verge](https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars)
+* 📰 [Pokémon Card Fan Loses Collection In The Worst Way Possible - Kotaku](https://kotaku.com/pokemon-card-collection-basement-storage-insurance-2000639383)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-28 18:39 </sub>
+  <sub>Last updated: Last updated: 2025-10-29 02:07 </sub>
 </div>
 
