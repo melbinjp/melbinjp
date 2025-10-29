@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square](https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting)
+* 📰 [Poll: So, Will You Be Getting Hyrule Warriors: Age Of Imprisonment? - Nintend...](https://www.nintendolife.com/news/2025/10/poll-so-will-you-be-getting-hyrule-warriors-age-of-imprisonment)
 * 📰 [Porsche’s 2026 911 Turbo S is a ballistic, twin-turbo, 701-horsepower monster...](https://arstechnica.com/cars/2025/10/porsches-2026-911-turbo-s-is-a-ballistic-twin-turbo-701-horsepower-monster/)
-* 📰 [Trump’s DHS is recruiting ICE officers with a Halo meme - The Verge](https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars)
-* 📰 [Pokémon Card Fan Loses Collection In The Worst Way Possible - Kotaku](https://kotaku.com/pokemon-card-collection-basement-storage-insurance-2000639383)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-29 02:07 </sub>
+  <sub>Last updated: Last updated: 2025-10-29 06:40 </sub>
 </div>
 
