@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Battlefield 6 Update 1.1.1.0 Now Live on All Platforms Ahead of Season 1 and ...](https://www.ign.com/articles/battlefield-6-update-1110-now-live-on-all-platforms-ahead-of-season-1-and-battle-pass-progression-later-today)
-* 📰 [Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware ...](https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html)
-* 📰 [Sony's Social Media Tribute to the PS2 Borders on Insulting - Push Square](https://www.pushsquare.com/news/2025/10/sonys-social-media-tribute-to-the-ps2-borders-on-insulting)
+* 📰 [NASCAR and Night launch NASCAR 25 Creator Series in celebration of NASCAR 25 ...](https://www.nascar.com/news-media/2025/10/28/nascar-and-night-launch-nascar-25-creator-series-in-celebration-of-nascar-25/)
+* 📰 [Gemini for Home assistant starts rolling out in Early Access - 9to5Google](http://9to5google.com/2025/10/28/gemini-for-home-voice-assistant-preview/)
+* 📰 [Valorant 11.09 update finally clamps down on smurfs with long-awaited MFA cha...](https://www.dexerto.com/valorant/valorant-11-09-update-finally-clamps-down-on-smurfs-with-long-awaited-mfa-change-3275625/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-29 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-10-29 18:38 </sub>
 </div>
 
