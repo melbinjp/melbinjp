@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [CEO of spyware maker Memento Labs confirms one of its government customers wa...](https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/)
-* 📰 [New World: Aeternum Is Ending New Content After Season 10 - GameSpot](https://www.gamespot.com/articles/new-world-aeternum-is-ending-new-content-after-season-10/1100-6535786/)
-* 📰 [Super Mario 3D All-Stars Updated To Version 1.1.4, Improves Gameplay On Switc...](https://www.nintendolife.com/news/2025/10/super-mario-3d-all-stars-updated-to-version-1-1-4-improves-gameplay-on-switch-2)
+* 📰 [Anker’s fast 2-in-1 USB-C cable is less than $20 right now - The Verge](https://www.theverge.com/tech/809180/anker-140w-2-in-1-usb-c-cable-deal-sale)
+* 📰 [The Outer Worlds 2 Is Available Today - Xbox Wire](https://news.xbox.com/en-us/2025/10/29/the-outer-worlds-2-is-out-now/)
+* 📰 [Final Fantasy 7 Rebirth Director Defends The Scourge Of Yellow Paint - Kotaku](https://kotaku.com/final-fantasy-vii-rebirth-director-says-there-are-times-when-yellow-paint-is-definitely-needed-2000639876)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-30 12:55 </sub>
+  <sub>Last updated: Last updated: 2025-10-30 18:38 </sub>
 </div>
 
