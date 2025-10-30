@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -136,7 +136,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Super Mario 3D All-Stars Updated To Version 1.1.4, Improves Gameplay On Switc...](https://www.nintendolife.com/news/2025/10/super-mario-3d-all-stars-updated-to-version-1-1-4-improves-gameplay-on-switch-2)
 * 📰 [Gemini coming to Google TV Streamer, more devices this winter - 9to5Google](http://9to5google.com/2025/10/28/gemini-google-tv-streamer/)
-* 📰 [Windows 11 KB5067036 update rolls out Administrator Protection feature - Blee...](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
+* 📰 [Avatar Legends: The Fighting Game reveals new gameplay footage, Closed Alpha ...](https://www.eventhubs.com/news/2025/oct/28/avatar-legends-gameplay-alpha/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-30 02:05 </sub>
+  <sub>Last updated: Last updated: 2025-10-30 06:38 </sub>
 </div>
 
