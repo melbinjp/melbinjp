@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [CEO of spyware maker Memento Labs confirms one of its government customers wa...](https://techcrunch.com/2025/10/28/ceo-of-spyware-maker-memento-labs-confirms-one-of-its-government-customers-was-caught-using-its-malware/)
+* 📰 [New World: Aeternum Is Ending New Content After Season 10 - GameSpot](https://www.gamespot.com/articles/new-world-aeternum-is-ending-new-content-after-season-10/1100-6535786/)
 * 📰 [Super Mario 3D All-Stars Updated To Version 1.1.4, Improves Gameplay On Switc...](https://www.nintendolife.com/news/2025/10/super-mario-3d-all-stars-updated-to-version-1-1-4-improves-gameplay-on-switch-2)
-* 📰 [Gemini coming to Google TV Streamer, more devices this winter - 9to5Google](http://9to5google.com/2025/10/28/gemini-google-tv-streamer/)
-* 📰 [Avatar Legends: The Fighting Game reveals new gameplay footage, Closed Alpha ...](https://www.eventhubs.com/news/2025/oct/28/avatar-legends-gameplay-alpha/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-30 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-10-30 12:55 </sub>
 </div>
 
