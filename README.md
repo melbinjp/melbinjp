@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Anker’s fast 2-in-1 USB-C cable is less than $20 right now - The Verge](https://www.theverge.com/tech/809180/anker-140w-2-in-1-usb-c-cable-deal-sale)
-* 📰 [The Outer Worlds 2 Is Available Today - Xbox Wire](https://news.xbox.com/en-us/2025/10/29/the-outer-worlds-2-is-out-now/)
-* 📰 [Final Fantasy 7 Rebirth Director Defends The Scourge Of Yellow Paint - Kotaku](https://kotaku.com/final-fantasy-vii-rebirth-director-says-there-are-times-when-yellow-paint-is-definitely-needed-2000639876)
+* 📰 [Resident Evil Requiem Pre-Orders Live, Switch 2 Pro Controller And Amiibo Con...](https://www.nintendolife.com/news/2025/10/resident-evil-requiem-pre-orders-live-switch-2-pro-controller-and-amiibo-confirmed)
+* 📰 [The Battlefield 6 Honeymoon Is Over - Kotaku](https://kotaku.com/battlefield-6-season-one-small-map-battle-royale-reactions-negative-review-ea-2000639948)
+* 📰 [Google's Gemini is catching up to ChatGPT's popularity - MarketWatch](https://www.marketwatch.com/livecoverage/alphabet-earnings-google-stock-results-q3-ai)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-30 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-10-31 02:03 </sub>
 </div>
 
