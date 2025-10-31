@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Deepfake Videos Are More Realistic Than Ever. How Can You Spot if a Video Is ...](https://www.cnet.com/tech/services-and-software/deepfake-videos-are-more-realistic-than-ever-how-can-you-spot-if-a-video-is-real-or-sora-ai/)
-* 📰 [Apple adds new App Store submission and marketing features, will phase out pr...](https://9to5mac.com/2025/10/29/apple-adds-new-app-store-submission-and-marketing-features-will-phase-out-promo-codes-in-2026/)
-* 📰 [How to get the new Windows Start menu now - theregister.com](https://www.theregister.com/2025/10/29/microsofts_new_windows_start_menu/)
+* 📰 [Inside YouTube’s transformation on your TV - The Verge](https://www.theverge.com/column/809883/inside-youtubes-transformation-on-your-tv)
+* 📰 [Apex Legends Season 27 early patch notes: Movement updates, Olympus rework, L...](https://www.dexerto.com/apex-legends/apex-legends-season-27-early-patch-notes-movement-updates-olympus-rework-legend-buffs-nerfs-3277061/)
+* 📰 [Animal Crossing: New Horizons is getting a big Switch 2 upgrade in January - ...](https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-31 12:55 </sub>
+  <sub>Last updated: Last updated: 2025-10-31 18:38 </sub>
 </div>
 
