@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,8 +134,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Store leak may have spoiled 2nd playable character in Resident Evil Requiem -...](https://xboxera.com/2025/10/29/store-leak-may-have-spoiled-2nd-playable-character-in-resident-evil-requiem/)
-* 📰 [Samsung Internet is coming to PC with Galaxy AI, cross-device sync support - ...](http://9to5google.com/2025/10/29/samsung-internet-is-coming-to-pc-with-galaxy-ai-cross-device-sync-support/)
+* 📰 [Deepfake Videos Are More Realistic Than Ever. How Can You Spot if a Video Is ...](https://www.cnet.com/tech/services-and-software/deepfake-videos-are-more-realistic-than-ever-how-can-you-spot-if-a-video-is-real-or-sora-ai/)
+* 📰 [Apple adds new App Store submission and marketing features, will phase out pr...](https://9to5mac.com/2025/10/29/apple-adds-new-app-store-submission-and-marketing-features-will-phase-out-promo-codes-in-2026/)
 * 📰 [How to get the new Windows Start menu now - theregister.com](https://www.theregister.com/2025/10/29/microsofts_new_windows_start_menu/)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-31 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-10-31 12:55 </sub>
 </div>
 
