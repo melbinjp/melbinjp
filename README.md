@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Inside YouTube’s transformation on your TV - The Verge](https://www.theverge.com/column/809883/inside-youtubes-transformation-on-your-tv)
-* 📰 [Apex Legends Season 27 early patch notes: Movement updates, Olympus rework, L...](https://www.dexerto.com/apex-legends/apex-legends-season-27-early-patch-notes-movement-updates-olympus-rework-legend-buffs-nerfs-3277061/)
-* 📰 [Animal Crossing: New Horizons is getting a big Switch 2 upgrade in January - ...](https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january)
+* 📰 [Google surprises Pixel users with another October update - Android Authority](https://www.androidauthority.com/another-october-pixel-update-3611877/)
+* 📰 [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars ...](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
+* 📰 [Affinity’s image-editing apps go “freemium” in first major post-Canva update ...](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-10-31 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-11-01 02:06 </sub>
 </div>
 
