@@ -112,18 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" alt="Astronomy Picture of the Day" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Astronomy Picture of the Day</em> • NASA APOD</p>
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google drops a surprise late-October 2025 update for Pixels - Android Police](https://www.androidpolice.com/google-drops-surprise-late-october-2025-update-pixels/)
-* 📰 [WhatsApp now testing an Apple Watch companion app - 9to5Mac](https://9to5mac.com/2025/10/30/whatsapp-now-testing-an-apple-watch-companion-app/)
-* 📰 [Everything New In The REPO Monster Update - Full Patch Notes - GameSpot](https://www.gamespot.com/gallery/everything-new-in-the-repo-monster-update-full-patch-notes/2900-7198/)
+* 📰 [Tim Cook says Apple is open to M&A on the AI front - TechCrunch](https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/)
+* 📰 [Where is the Trump phone? - The Verge](https://www.theverge.com/news/810500/where-is-the-trump-phone)
+* 📰 [Android prepares ‘Min Mode’ always-on display upgrade that can show apps - 9t...](http://9to5google.com/2025/10/31/android-always-on-display-upgrade-min-mode-evidence/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-01 12:49 </sub>
+  <sub>Last updated: Last updated: 2025-11-01 18:33 </sub>
 </div>
 
