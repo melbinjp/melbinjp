@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google surprises Pixel users with another October update - Android Authority](https://www.androidauthority.com/another-october-pixel-update-3611877/)
-* 📰 [Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking - Ars ...](https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/)
-* 📰 [Affinity’s image-editing apps go “freemium” in first major post-Canva update ...](https://arstechnica.com/gadgets/2025/10/canvas-new-affinity-app-is-free-to-use-but-locks-ai-features-behind-a-subscription/)
+* 📰 [Resident Evil Requiem Preorders: Deluxe Steelbook, Switch 2 Collection, And M...](https://www.gamespot.com/articles/resident-evil-requiem-preorder-guide-ps5-nintendo-switch-2-xbox-pc/1100-6535813/)
+* 📰 [New Google Pixel October 2025 update rolling out with ‘performance improvemen...](http://9to5google.com/2025/10/30/new-pixel-october-2025-update/)
+* 📰 [Apex Legends Season 27 early patch notes: Movement updates, Olympus rework, L...](https://www.dexerto.com/apex-legends/apex-legends-season-27-early-patch-notes-movement-updates-olympus-rework-legend-buffs-nerfs-3277061/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-01 02:06 </sub>
+  <sub>Last updated: Last updated: 2025-11-01 06:35 </sub>
 </div>
 
