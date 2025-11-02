@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Music Updated To Version 1.4.0, Here Are The Full Patch Notes - Nint...](https://www.nintendolife.com/news/2025/11/nintendo-music-updated-to-version-1-4-0-here-are-the-full-patch-notes)
-* 📰 [Hyrule Warriors: Age Of Imprisonment In-Store Demos Now Available (North Amer...](https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-in-store-demos-now-available-north-america)
-* 📰 [Ankrum, Enfinger involved in multicar incident in overtime - NASCAR.com](https://www.nascar.com/videos/franchise/truck-series-highlights/ankrum-enfinger-involved-in-multicar-incident-in-overtime/)
+* 📰 [GTA 6 developer Rockstar accused of union-busting after it fires dozens of de...](https://www.eurogamer.net/gta-6-developer-rockstar-accused-of-union-busting-after-it-fires-dozens-of-developers)
+* 📰 [New Hades 2 patch notes deliver buffs, faster progression, and an upgraded en...](https://www.pcgamesn.com/hades-2/patch-notes-true-ending-update)
+* 📰 [AI researchers ’embodied’ an LLM into a robot – and it started channeling Rob...](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-02 12:48 </sub>
+  <sub>Last updated: Last updated: 2025-11-02 18:32 </sub>
 </div>
 
