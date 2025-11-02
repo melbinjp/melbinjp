@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Cursor introduces its coding model alongside multi-agent interface - Ars Tech...](https://arstechnica.com/ai/2025/10/cursor-introduces-its-coding-model-alongside-multi-agent-interface/)
-* 📰 [Chun-Li gameplay trailer released for Fatal Fury: City of the Wolves - EventHubs](https://www.eventhubs.com/news/2025/oct/31/chunli-fatal-fury-trailer/)
-* 📰 [My top Apple Music upgrade in iOS 26 has a hidden feature I love - 9to5Mac](https://9to5mac.com/2025/10/31/my-top-apple-music-upgrade-in-ios-26-has-a-hidden-feature-i-love/)
+* 📰 [Houses without lounges are a reality for renters - BBC](https://www.bbc.com/news/articles/c93063q2lzeo)
+* 📰 [YouTube denies AI was involved with odd removals of tech tutorials - Ars Tech...](https://arstechnica.com/tech-policy/2025/10/youtube-denies-ai-was-involved-with-odd-removals-of-tech-tutorials/)
+* 📰 [Xbox Elite Series 2 Controller On Sale For Lowest Price This Year - GameSpot](https://www.gamespot.com/articles/best-xbox-elite-series-2-wireless-controller-deal-holiday-2025/1100-6535861/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-02 02:09 </sub>
+  <sub>Last updated: Last updated: 2025-11-02 06:37 </sub>
 </div>
 
