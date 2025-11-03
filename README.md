@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [GTA 6 developer Rockstar accused of union-busting after it fires dozens of de...](https://www.eurogamer.net/gta-6-developer-rockstar-accused-of-union-busting-after-it-fires-dozens-of-developers)
-* 📰 [New Hades 2 patch notes deliver buffs, faster progression, and an upgraded en...](https://www.pcgamesn.com/hades-2/patch-notes-true-ending-update)
-* 📰 [AI researchers ’embodied’ an LLM into a robot – and it started channeling Rob...](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/)
+* 📰 [Battlefield 6 drops a new "relaxed" way to earn XP "without the intensity of ...](https://www.eurogamer.net/battlefield-6-drops-a-new-relaxed-way-to-earn-xp-without-the-intensity-of-a-full-pvp-lobby)
+* 📰 [The best Android phones never make it to the US - Android Police](https://www.androidpolice.com/the-best-android-phones-never-make-it-to-the-us/)
+* 📰 [Aerotech Reborn: The Stashed-Away 257-MPH GM Prototypes Live to Drive Another...](https://www.roadandtrack.com/car-culture/a69220164/aerotech-reborn-257-mph-gm-prototypes-live-to-drive-another-day/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-02 18:32 </sub>
+  <sub>Last updated: Last updated: 2025-11-03 02:08 </sub>
 </div>
 
