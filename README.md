@@ -113,17 +113,6 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 
 <!-- INSPIRATION_START -->
 > "First, solve the problem. Then, write the code." — John Johnson
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" alt="Astronomy Picture of the Day" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Astronomy Picture of the Day</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Xbox Game Pass loses five games in November 2025 - TrueAchievements](https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-november-2025)
-* 📰 [Mortal Kombat: Legacy Kollection Update Announced, Here Are The Patch Notes -...](https://www.nintendolife.com/news/2025/11/mortal-kombat-legacy-kollection-update-announced-here-are-the-patch-notes)
-* 📰 [Why Do Porsches Have The Ignition On The Left? - Jalopnik](https://www.jalopnik.com/2011430/why-porsches-have-ignition-on-the-left/)
+* 📰 [STALKER 2 Game Pass Players Left Stranded Ahead Of PS5 Launch - DualShockers](https://www.dualshockers.com/stalker-2-game-pass-players-left-stranded-ahead-of-ps5-launch/)
+* 📰 [4 Zodiac Signs Most Likely To Have An Ex Reappear This Scorpio Season 2025 - ...](https://www.yourtango.com/zodiac/zodiac-signs-most-likely-have-ex-reappear-scorpio-season-2025)
+* 📰 [12 Best Wireless Speakers For Audiophiles, According To Consumer Reports - bg...](https://www.bgr.com/2007972/best-wireless-speakers-audiophiles-according-consumer-reports-2025/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-03 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-11-03 18:35 </sub>
 </div>
 
