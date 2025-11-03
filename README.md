@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [One of Switch 2’s biggest flaws, and why Nintendo might never fix it - Ninten...](https://nintendoeverything.com/nintendo-switch-2-flaw/)
-* 📰 [Steam On Linux Gaming Finally Cracks 3% For October 2025 - Phoronix](https://www.phoronix.com/news/Steam-Linux-Above-3P-Oct-2025)
-* 📰 [Treat your PC to Microsoft Office apps for less than $7 each - Mashable](https://mashable.com/article/nov-1-microsoft-office-professional-2021-for-windows)
+* 📰 [Xbox Game Pass loses five games in November 2025 - TrueAchievements](https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-november-2025)
+* 📰 [Mortal Kombat: Legacy Kollection Update Announced, Here Are The Patch Notes -...](https://www.nintendolife.com/news/2025/11/mortal-kombat-legacy-kollection-update-announced-here-are-the-patch-notes)
+* 📰 [Why Do Porsches Have The Ignition On The Left? - Jalopnik](https://www.jalopnik.com/2011430/why-porsches-have-ignition-on-the-left/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-03 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-11-03 12:56 </sub>
 </div>
 
