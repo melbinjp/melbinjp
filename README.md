@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Battlefield 6 drops a new "relaxed" way to earn XP "without the intensity of ...](https://www.eurogamer.net/battlefield-6-drops-a-new-relaxed-way-to-earn-xp-without-the-intensity-of-a-full-pvp-lobby)
-* 📰 [The best Android phones never make it to the US - Android Police](https://www.androidpolice.com/the-best-android-phones-never-make-it-to-the-us/)
-* 📰 [Aerotech Reborn: The Stashed-Away 257-MPH GM Prototypes Live to Drive Another...](https://www.roadandtrack.com/car-culture/a69220164/aerotech-reborn-257-mph-gm-prototypes-live-to-drive-another-day/)
+* 📰 [One of Switch 2’s biggest flaws, and why Nintendo might never fix it - Ninten...](https://nintendoeverything.com/nintendo-switch-2-flaw/)
+* 📰 [Steam On Linux Gaming Finally Cracks 3% For October 2025 - Phoronix](https://www.phoronix.com/news/Steam-Linux-Above-3P-Oct-2025)
+* 📰 [Treat your PC to Microsoft Office apps for less than $7 each - Mashable](https://mashable.com/article/nov-1-microsoft-office-professional-2021-for-windows)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-03 02:08 </sub>
+  <sub>Last updated: Last updated: 2025-11-03 06:40 </sub>
 </div>
 
