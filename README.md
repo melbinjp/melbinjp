@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Arc Raiders has an impressive 2025 roadmap, bringing a new map, community eve...](https://www.eurogamer.net/arc-raiders-has-an-impressive-2025-roadmap-and-its-bringing-a-new-map-new-events-and-other-game-changers)
-* 📰 [Logitech’s latest keyboard dabbles in enthusiast features - The Verge](https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions)
-* 📰 [Google Wallet is finally fixing one of its most annoying flaws - Android Police](https://www.androidpolice.com/google-wallet-fixing-annoying-flaw/)
+* 📰 [30 Years, Part 1 - Magic: The Gathering](https://magic.wizards.com/en/news/making-magic/30-years-part-1)
+* 📰 [Someone Got Doom Running On A Damn Satellite - Kotaku](https://kotaku.com/doom-port-runs-on-satellite-esa-op-sat-ubuntu-2000640805)
+* 📰 [M5 Macs: Here are the new Mac models reportedly coming next - 9to5Mac](https://9to5mac.com/2025/11/03/m5-macs-here-are-the-new-mac-models-reportedly-coming-next/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-04 12:59 </sub>
+  <sub>Last updated: Last updated: 2025-11-04 18:38 </sub>
 </div>
 
