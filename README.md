@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Google Translate adding model picker for ‘Advanced’ or ‘Fast’ translations - ...](http://9to5google.com/2025/11/02/google-translate-model-picker/)
+* 📰 [Ys vs. Trails In The Sky: Alternative Saga Update Enhances Resolution On Swit...](https://www.nintendolife.com/news/2025/11/ys-vs-trails-in-the-sky-alternative-saga-update-enhances-resolution-on-switch-2)
 * 📰 [These are the new Google Photos and Maps icons with a gradient redesign - 9to...](http://9to5google.com/2025/11/02/google-photos-maps-gradient-icon/)
-* 📰 [Make your dusty old PC feel brand new for just $15 with this upgrade - Mashable](https://mashable.com/article/nov-2-microsoft-windows-11-pro)
-* 📰 [ChatGPT's Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got ...](https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-04 02:03 </sub>
+  <sub>Last updated: Last updated: 2025-11-04 06:40 </sub>
 </div>
 
