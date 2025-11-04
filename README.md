@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google Translate adding model picker for ‘Advanced’ or ‘Fast’ translations - ...](http://9to5google.com/2025/11/02/google-translate-model-picker/)
-* 📰 [Ys vs. Trails In The Sky: Alternative Saga Update Enhances Resolution On Swit...](https://www.nintendolife.com/news/2025/11/ys-vs-trails-in-the-sky-alternative-saga-update-enhances-resolution-on-switch-2)
-* 📰 [These are the new Google Photos and Maps icons with a gradient redesign - 9to...](http://9to5google.com/2025/11/02/google-photos-maps-gradient-icon/)
+* 📰 [Arc Raiders has an impressive 2025 roadmap, bringing a new map, community eve...](https://www.eurogamer.net/arc-raiders-has-an-impressive-2025-roadmap-and-its-bringing-a-new-map-new-events-and-other-game-changers)
+* 📰 [Logitech’s latest keyboard dabbles in enthusiast features - The Verge](https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions)
+* 📰 [Google Wallet is finally fixing one of its most annoying flaws - Android Police](https://www.androidpolice.com/google-wallet-fixing-annoying-flaw/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-04 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-11-04 12:59 </sub>
 </div>
 
