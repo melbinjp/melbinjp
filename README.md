@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [STALKER 2 Game Pass Players Left Stranded Ahead Of PS5 Launch - DualShockers](https://www.dualshockers.com/stalker-2-game-pass-players-left-stranded-ahead-of-ps5-launch/)
-* 📰 [4 Zodiac Signs Most Likely To Have An Ex Reappear This Scorpio Season 2025 - ...](https://www.yourtango.com/zodiac/zodiac-signs-most-likely-have-ex-reappear-scorpio-season-2025)
-* 📰 [12 Best Wireless Speakers For Audiophiles, According To Consumer Reports - bg...](https://www.bgr.com/2007972/best-wireless-speakers-audiophiles-according-consumer-reports-2025/)
+* 📰 [These are the new Google Photos and Maps icons with a gradient redesign - 9to...](http://9to5google.com/2025/11/02/google-photos-maps-gradient-icon/)
+* 📰 [Make your dusty old PC feel brand new for just $15 with this upgrade - Mashable](https://mashable.com/article/nov-2-microsoft-windows-11-pro)
+* 📰 [ChatGPT's Browser Bot Seems to Avoid New York Times Links Like a Rat Who Got ...](https://gizmodo.com/chatgpts-browser-bot-seems-to-avoid-new-york-times-links-like-a-rat-who-got-electrocuted-2000680444)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-03 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-11-04 02:03 </sub>
 </div>
 
