@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Samsung Galaxy S26 launch date has leaked, and it's not great news - Andr...](https://www.androidpolice.com/samsung-unpacked-2026-galaxy-s26-launch-date-leak/)
+* 📰 [Want more Switch 2 games? Nintendo just reconfirmed release dates for five bi...](https://www.eurogamer.net/want-more-switch-2-games-nintendo-just-reconfirmed-release-dates-for-five-big-releases-with-four-more-down-the-pipe)
+* 📰 [Sony's Allowing Mortal Kombat Legacy Kollection Refunds Because the PS5, PS4 ...](https://www.pushsquare.com/news/2025/11/sonys-allowing-mortal-kombat-legacy-kollection-refunds-because-the-ps5-ps4-compilation-is-a-downright-nightmare-for-some)
 * 📰 [Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls...](https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/)
-* 📰 [Google pulled the plug on Nest Thermostats, but you can now bring them back t...](https://www.androidpolice.com/google-pulled-the-plug-on-nest-thermostats-but-this-project-revives-them/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-05 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-05 12:56 </sub>
 </div>
 
