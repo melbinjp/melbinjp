@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Want more Switch 2 games? Nintendo just reconfirmed release dates for five bi...](https://www.eurogamer.net/want-more-switch-2-games-nintendo-just-reconfirmed-release-dates-for-five-big-releases-with-four-more-down-the-pipe)
-* 📰 [Sony's Allowing Mortal Kombat Legacy Kollection Refunds Because the PS5, PS4 ...](https://www.pushsquare.com/news/2025/11/sonys-allowing-mortal-kombat-legacy-kollection-refunds-because-the-ps5-ps4-compilation-is-a-downright-nightmare-for-some)
-* 📰 [Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls...](https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/)
+* 📰 [Apple Prepares to Enter Low-Cost Laptop Market for First Time - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-11-04/apple-readies-a-low-cost-laptop-to-rival-chromebooks-and-windows-pcs)
+* 📰 [Google Maps can tell Polestar 4 drivers when to merge lanes - The Verge](https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance)
+* 📰 [Destiny 2 Renegades Trailer Reveals New Exotic Weapons and Armor Coming This ...](https://thegamepost.com/destiny-2-renegades-trailer-new-exotic-weapons-armor/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-05 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-11-05 18:38 </sub>
 </div>
 
