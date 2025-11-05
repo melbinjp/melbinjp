@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [iOS 26.1 lets you tweak Liquid Glass, and it’s out now - The Verge](https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability)
+* 📰 [The Samsung Galaxy S26 launch date has leaked, and it's not great news - Andr...](https://www.androidpolice.com/samsung-unpacked-2026-galaxy-s26-launch-date-leak/)
+* 📰 [Apple releases iOS 26.1, macOS 26.1, other updates with Liquid Glass controls...](https://arstechnica.com/gadgets/2025/11/apple-releases-ios-26-1-macos-26-1-other-updates-with-liquid-glass-controls-and-more/)
 * 📰 [Google pulled the plug on Nest Thermostats, but you can now bring them back t...](https://www.androidpolice.com/google-pulled-the-plug-on-nest-thermostats-but-this-project-revives-them/)
-* 📰 [Here Are Jokes The MLB Cut From A Fan Favorite PS2 Game - Kotaku](https://kotaku.com/mlb-slugfest-2003-jokes-rejected-mlb-cut-ps2-xbox-tim-jimmy-2000640898)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-05 02:05 </sub>
+  <sub>Last updated: Last updated: 2025-11-05 06:39 </sub>
 </div>
 
