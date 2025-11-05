@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [30 Years, Part 1 - Magic: The Gathering](https://magic.wizards.com/en/news/making-magic/30-years-part-1)
-* 📰 [Someone Got Doom Running On A Damn Satellite - Kotaku](https://kotaku.com/doom-port-runs-on-satellite-esa-op-sat-ubuntu-2000640805)
-* 📰 [M5 Macs: Here are the new Mac models reportedly coming next - 9to5Mac](https://9to5mac.com/2025/11/03/m5-macs-here-are-the-new-mac-models-reportedly-coming-next/)
+* 📰 [iOS 26.1 lets you tweak Liquid Glass, and it’s out now - The Verge](https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability)
+* 📰 [Google pulled the plug on Nest Thermostats, but you can now bring them back t...](https://www.androidpolice.com/google-pulled-the-plug-on-nest-thermostats-but-this-project-revives-them/)
+* 📰 [Here Are Jokes The MLB Cut From A Fan Favorite PS2 Game - Kotaku](https://kotaku.com/mlb-slugfest-2003-jokes-rejected-mlb-cut-ps2-xbox-tim-jimmy-2000640898)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-04 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-11-05 02:05 </sub>
 </div>
 
