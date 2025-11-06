@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple Prepares to Enter Low-Cost Laptop Market for First Time - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-11-04/apple-readies-a-low-cost-laptop-to-rival-chromebooks-and-windows-pcs)
-* 📰 [Google Maps can tell Polestar 4 drivers when to merge lanes - The Verge](https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance)
-* 📰 [Destiny 2 Renegades Trailer Reveals New Exotic Weapons and Armor Coming This ...](https://thegamepost.com/destiny-2-renegades-trailer-new-exotic-weapons-armor/)
+* 📰 [Valve will finally turn off the Steam Deck’s screen while it’s downloading ga...](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off)
+* 📰 [New HDR10+ Advanced standard will try to fix the soap opera effect - Ars Tech...](https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/)
+* 📰 [Microsoft AI’s first in-house image generator MAI-Image-1 is now available - ...](https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-05 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-11-06 02:05 </sub>
 </div>
 
