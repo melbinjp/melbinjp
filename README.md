@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Switch 2 Has The Largest Third-Party Software Lineup Ever For New Nintendo Ha...](https://www.nintendolife.com/news/2025/11/switch-2-has-the-largest-third-party-software-lineup-ever-for-new-nintendo-hardware)
-* 📰 [Mortal Kombat: Legacy Kollection patch notes for new update to lower input la...](https://www.eventhubs.com/news/2025/nov/04/mortal-kombat-kollection-patch-notes/)
-* 📰 [Valve will finally turn off the Steam Deck’s screen while it’s downloading ga...](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off)
+* 📰 [Someone Made the Ultimate Portable CD Player, and I Need It Right Now - Gizmodo](https://gizmodo.com/someone-made-the-ultimate-portable-cd-player-and-i-need-it-right-now-2000681903)
+* 📰 [BlizzCon 2026 Passes go on sale November 7! - Blizzard News](https://news.blizzard.com/en-us/article/24245211/blizzcon-2026-passes-go-on-sale-november-7)
+* 📰 [If you want to satiate AI’s hunger for power, Google suggests going to space ...](https://arstechnica.com/space/2025/11/if-you-want-to-satiate-ais-hunger-for-power-google-suggests-going-to-space/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-06 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-11-06 18:39 </sub>
 </div>
 
