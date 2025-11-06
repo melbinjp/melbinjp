@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Ups Switch 2 Sales Outlook as Big Holiday Season Nears - Bloomberg](https://www.bloomberg.com/news/articles/2025-11-04/nintendo-lifts-switch-2-sales-forecast-after-profit-surges)
-* 📰 [New HDR10+ Advanced standard will try to fix the soap opera effect - Ars Tech...](https://arstechnica.com/gadgets/2025/11/hdr10-advanced-joins-dolby-vision-2-in-trying-to-make-you-like-motion-smoothing/)
-* 📰 [Microsoft AI’s first in-house image generator MAI-Image-1 is now available - ...](https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1)
+* 📰 [Switch 2 Has The Largest Third-Party Software Lineup Ever For New Nintendo Ha...](https://www.nintendolife.com/news/2025/11/switch-2-has-the-largest-third-party-software-lineup-ever-for-new-nintendo-hardware)
+* 📰 [Mortal Kombat: Legacy Kollection patch notes for new update to lower input la...](https://www.eventhubs.com/news/2025/nov/04/mortal-kombat-kollection-patch-notes/)
+* 📰 [Valve will finally turn off the Steam Deck’s screen while it’s downloading ga...](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-06 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-06 12:56 </sub>
 </div>
 
