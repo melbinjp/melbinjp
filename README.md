@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Someone Made the Ultimate Portable CD Player, and I Need It Right Now - Gizmodo](https://gizmodo.com/someone-made-the-ultimate-portable-cd-player-and-i-need-it-right-now-2000681903)
-* 📰 [BlizzCon 2026 Passes go on sale November 7! - Blizzard News](https://news.blizzard.com/en-us/article/24245211/blizzcon-2026-passes-go-on-sale-november-7)
-* 📰 [If you want to satiate AI’s hunger for power, Google suggests going to space ...](https://arstechnica.com/space/2025/11/if-you-want-to-satiate-ais-hunger-for-power-google-suggests-going-to-space/)
+* 📰 [One of PlayStation's Best Developers Marks 40 Years of Incredible Games - Pus...](https://www.pushsquare.com/news/2025/11/one-of-playstations-best-developers-marks-40-years-of-incredible-games)
+* 📰 [Report: Ubisoft Details Its Battle To Overcome Assassin’s Creed Shadows ‘Hate...](https://kotaku.com/assassins-creed-shadows-sales-ubisoft-politics-culture-war-2000641428)
+* 📰 [iOS 26.2 release date: Here’s when new iPhone features are coming - 9to5Mac](https://9to5mac.com/2025/11/05/ios-26-2-release-date-heres-when-new-iphone-features-are-coming/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-06 18:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-07 02:03 </sub>
 </div>
 
