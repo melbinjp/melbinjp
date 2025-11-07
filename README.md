@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Hyrule Warriors: Age Of Imprisonment Receives Its First Switch 2 Update (Vers...](https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-receives-its-first-switch-2-update-version-1-0-1)
-* 📰 [Pokemon Legends: Z-A 1.0.2 update out now, patch notes - Nintendo Everything](https://nintendoeverything.com/pokemon-legends-z-a-1-0-2-update-out-now-patch-notes/)
-* 📰 [Rare form of syphilis in married elderly man nearly stumps doctors - Ars Tech...](https://arstechnica.com/health/2025/11/rare-form-of-syphilis-in-married-elderly-man-nearly-stumps-doctors/)
+* 📰 [Ikea’s new low-cost line is a huge win for Matter and your smart home - The V...](https://www.theverge.com/tech/814928/ikea-matter-thread-dirigera-smart-home-interview)
+* 📰 [Live: in conversation with the pioneers of artificial intelligence - Financia...](https://www.ft.com/content/5f2f411c-3600-483b-bee8-4f06473ecdc0)
+* 📰 [GTA 6 Studio Rockstar Accuses Fired Employees of Leaking 'Confidential Inform...](https://www.ign.com/articles/gta-6-studio-rockstar-accuses-fired-employees-of-leaking-confidential-information-in-a-public-forum)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-07 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-07 12:54 </sub>
 </div>
 
