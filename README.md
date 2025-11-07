@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Ikea’s new low-cost line is a huge win for Matter and your smart home - The V...](https://www.theverge.com/tech/814928/ikea-matter-thread-dirigera-smart-home-interview)
-* 📰 [Live: in conversation with the pioneers of artificial intelligence - Financia...](https://www.ft.com/content/5f2f411c-3600-483b-bee8-4f06473ecdc0)
-* 📰 [GTA 6 Studio Rockstar Accuses Fired Employees of Leaking 'Confidential Inform...](https://www.ign.com/articles/gta-6-studio-rockstar-accuses-fired-employees-of-leaking-confidential-information-in-a-public-forum)
+* 📰 [Hyrule Warriors: Age of Imprisonment finishes what Tears of the Kingdom start...](https://www.theverge.com/entertainment/814762/hyrule-warriors-age-of-imprisonment-zelda-tears-of-the-kingdom)
+* 📰 [Plunder Cayo Perico for the Panther Statue and Double Rewards - Rockstar Games](https://www.rockstargames.com/newswire/article/1798o995k979a8/plunder-cayo-perico-for-the-panther-statue-and-double-rewards)
+* 📰 [After chasing NFTs and the metaverse, Square Enix wants generative AI to do 7...](https://www.eurogamer.net/after-chasing-nfts-and-the-metaverse-square-enix-wants-generative-ai-to-do-70-of-its-qa-by-2027)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-07 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-11-07 18:36 </sub>
 </div>
 
