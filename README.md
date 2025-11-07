@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [One of PlayStation's Best Developers Marks 40 Years of Incredible Games - Pus...](https://www.pushsquare.com/news/2025/11/one-of-playstations-best-developers-marks-40-years-of-incredible-games)
-* 📰 [Report: Ubisoft Details Its Battle To Overcome Assassin’s Creed Shadows ‘Hate...](https://kotaku.com/assassins-creed-shadows-sales-ubisoft-politics-culture-war-2000641428)
-* 📰 [iOS 26.2 release date: Here’s when new iPhone features are coming - 9to5Mac](https://9to5mac.com/2025/11/05/ios-26-2-release-date-heres-when-new-iphone-features-are-coming/)
+* 📰 [Hyrule Warriors: Age Of Imprisonment Receives Its First Switch 2 Update (Vers...](https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-receives-its-first-switch-2-update-version-1-0-1)
+* 📰 [Pokemon Legends: Z-A 1.0.2 update out now, patch notes - Nintendo Everything](https://nintendoeverything.com/pokemon-legends-z-a-1-0-2-update-out-now-patch-notes/)
+* 📰 [Rare form of syphilis in married elderly man nearly stumps doctors - Ars Tech...](https://arstechnica.com/health/2025/11/rare-form-of-syphilis-in-married-elderly-man-nearly-stumps-doctors/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-07 02:03 </sub>
+  <sub>Last updated: Last updated: 2025-11-07 06:39 </sub>
 </div>
 
