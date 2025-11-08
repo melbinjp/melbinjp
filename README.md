@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [IShowSpeed Rages Over GTA 6 Delay, Says: ‘It’s Not Coming Out’ - Yahoo](https://www.mandatory.com/news/1683682-ishowspeed-on-gta-6-delay)
-* 📰 [Hyrule Warriors: Age Of Imprisonment Already Has Free Updates Planned - Ninte...](https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-already-has-free-updates-planned)
-* 📰 [IKEA Debuts 21 HomeKit-Compatible Smart Bulbs, Sensors, and Controls - MacRumors](https://www.macrumors.com/2025/11/06/ikea-homekit-compatible-matter-products/)
+* 📰 [Ever Wondered Why There’s Two Of Every Pokémon Game? The Reason’s Sillier Tha...](https://kotaku.com/pokemon-mario-nintendo-two-versions-2000642053)
+* 📰 [Apple’s website lists AirTag 4-pack for $29 in likely pricing error [Update: ...](https://9to5mac.com/2025/11/07/apples-website-lists-airtag-4-pack-for-29-in-likely-pricing-error/)
+* 📰 [Bring back the iBook, you cowards - The Verge](https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-08 12:49 </sub>
+  <sub>Last updated: Last updated: 2025-11-08 18:34 </sub>
 </div>
 
