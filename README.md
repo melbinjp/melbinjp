@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Hyrule Warriors: Age of Imprisonment finishes what Tears of the Kingdom start...](https://www.theverge.com/entertainment/814762/hyrule-warriors-age-of-imprisonment-zelda-tears-of-the-kingdom)
-* 📰 [Plunder Cayo Perico for the Panther Statue and Double Rewards - Rockstar Games](https://www.rockstargames.com/newswire/article/1798o995k979a8/plunder-cayo-perico-for-the-panther-statue-and-double-rewards)
-* 📰 [After chasing NFTs and the metaverse, Square Enix wants generative AI to do 7...](https://www.eurogamer.net/after-chasing-nfts-and-the-metaverse-square-enix-wants-generative-ai-to-do-70-of-its-qa-by-2027)
+* 📰 [Grand Theft Auto VI is Now Set to Launch November 19, 2026 - Rockstar Games](https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026)
+* 📰 [Square Enix announces mass layoffs as "restructuring" plan pulls development ...](https://www.gamesindustry.biz/square-enix-announces-mass-layoffs-as-restructuring-plan-pulls-development-from-overseas)
+* 📰 [Nintendo has too many apps - The Verge](https://www.theverge.com/games/815741/nintendo-apps-nintendo-store-nintendo-music)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-07 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-11-08 01:57 </sub>
 </div>
 
