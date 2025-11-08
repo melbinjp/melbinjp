@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [IShowSpeed Rages Over GTA 6 Delay, Says: ‘It’s Not Coming Out’ - Yahoo](https://www.mandatory.com/news/1683682-ishowspeed-on-gta-6-delay)
 * 📰 [Hyrule Warriors: Age Of Imprisonment Already Has Free Updates Planned - Ninte...](https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-already-has-free-updates-planned)
 * 📰 [IKEA Debuts 21 HomeKit-Compatible Smart Bulbs, Sensors, and Controls - MacRumors](https://www.macrumors.com/2025/11/06/ikea-homekit-compatible-matter-products/)
-* 📰 [That Captain America And Black Panther Game We Still Haven’t Seen Gameplay Fo...](https://kotaku.com/captain-america-black-panther-game-delay-marvel-hydra-2000641825)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-08 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-11-08 12:49 </sub>
 </div>
 
