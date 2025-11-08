@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Grand Theft Auto VI is Now Set to Launch November 19, 2026 - Rockstar Games](https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026)
-* 📰 [Square Enix announces mass layoffs as "restructuring" plan pulls development ...](https://www.gamesindustry.biz/square-enix-announces-mass-layoffs-as-restructuring-plan-pulls-development-from-overseas)
-* 📰 [Nintendo has too many apps - The Verge](https://www.theverge.com/games/815741/nintendo-apps-nintendo-store-nintendo-music)
+* 📰 [Hyrule Warriors: Age Of Imprisonment Already Has Free Updates Planned - Ninte...](https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-already-has-free-updates-planned)
+* 📰 [IKEA Debuts 21 HomeKit-Compatible Smart Bulbs, Sensors, and Controls - MacRumors](https://www.macrumors.com/2025/11/06/ikea-homekit-compatible-matter-products/)
+* 📰 [That Captain America And Black Panther Game We Still Haven’t Seen Gameplay Fo...](https://kotaku.com/captain-america-black-panther-game-delay-marvel-hydra-2000641825)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-08 01:57 </sub>
+  <sub>Last updated: Last updated: 2025-11-08 06:36 </sub>
 </div>
 
