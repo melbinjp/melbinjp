@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Ever Wondered Why There’s Two Of Every Pokémon Game? The Reason’s Sillier Tha...](https://kotaku.com/pokemon-mario-nintendo-two-versions-2000642053)
-* 📰 [Apple’s website lists AirTag 4-pack for $29 in likely pricing error [Update: ...](https://9to5mac.com/2025/11/07/apples-website-lists-airtag-4-pack-for-29-in-likely-pricing-error/)
-* 📰 [Bring back the iBook, you cowards - The Verge](https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast)
+* 📰 [Halo Infinite is about to get its last major update - The Verge](https://www.theverge.com/news/816960/halo-infinite-end)
+* 📰 [iOS 26.2: All the new features coming to your iPhone - 9to5Mac](https://9to5mac.com/2025/11/07/ios-26-2-new-features-iphone/)
+* 📰 [An uncommon compound on one of NYC’s most photographed streets asks $30M - Ne...](https://nypost.com/2025/11/07/real-estate/a-compound-on-one-of-nycs-most-photographed-streets-asks-30m/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-08 18:34 </sub>
+  <sub>Last updated: Last updated: 2025-11-09 02:08 </sub>
 </div>
 
