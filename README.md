@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Silent Hill 2 leaks for Xbox via Microsoft Store with November release date -...](https://www.trueachievements.com/news/silent-hill-2-xbox)
 * 📰 [Halo Infinite is about to get its last major update - The Verge](https://www.theverge.com/news/816960/halo-infinite-end)
-* 📰 [iOS 26.2: All the new features coming to your iPhone - 9to5Mac](https://9to5mac.com/2025/11/07/ios-26-2-new-features-iphone/)
-* 📰 [An uncommon compound on one of NYC’s most photographed streets asks $30M - Ne...](https://nypost.com/2025/11/07/real-estate/a-compound-on-one-of-nycs-most-photographed-streets-asks-30m/)
+* 📰 [Best Buy Week 2 Black Friday Doorbusters now live! Galaxy S25 Ultra $400 off,...](http://9to5toys.com/2025/11/07/best-buy-week-2-black-friday-doorbusters-live/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-09 02:08 </sub>
+  <sub>Last updated: Last updated: 2025-11-09 06:36 </sub>
 </div>
 
