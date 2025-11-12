@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [State of Play Announced for 11th November, Focus on Japanese PS5 Games - Push...](https://www.pushsquare.com/news/2025/11/state-of-play-announced-for-11th-november-focus-on-japanese-ps5-games)
-* 📰 [Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
-* 📰 [November Pixel update isn't here yet, but Verizon just spilled the details - ...](https://www.androidauthority.com/pixel-november-update-verizon-3614531/)
+* 📰 [Sony Speaks on Bungie Acquisition Disaster, Takes an 'Impairment Loss' - Push...](https://www.pushsquare.com/news/2025/11/sony-speaks-on-bungie-acquisition-disaster-takes-an-impairment-loss)
+* 📰 [PlayStation experiences H1 sales increase, PS5 reaches 84m in lifetime sales ...](https://www.gamesindustry.biz/playstation-experiences-h1-sales-increase-ps5-reaches-84m-in-lifetime-sales)
+* 📰 [Pokémon GO Wild Area 2025 Global Preparation Guide - Pokémon GO Hub](https://pokemongohub.net/post/guide/pokemon-go-wild-area-2025-global-preparation-guide/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-12 09:49 </sub>
+  <sub>Last updated: Last updated: 2025-11-12 12:58 </sub>
 </div>
 
