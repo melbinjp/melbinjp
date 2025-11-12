@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Sony Speaks on Bungie Acquisition Disaster, Takes an 'Impairment Loss' - Push...](https://www.pushsquare.com/news/2025/11/sony-speaks-on-bungie-acquisition-disaster-takes-an-impairment-loss)
-* 📰 [PlayStation experiences H1 sales increase, PS5 reaches 84m in lifetime sales ...](https://www.gamesindustry.biz/playstation-experiences-h1-sales-increase-ps5-reaches-84m-in-lifetime-sales)
-* 📰 [Pokémon GO Wild Area 2025 Global Preparation Guide - Pokémon GO Hub](https://pokemongohub.net/post/guide/pokemon-go-wild-area-2025-global-preparation-guide/)
+* 📰 [New Legend of Zelda: Ocarina of Time LEGO Set For 2026 Looks to Feature Ganon...](https://www.ign.com/articles/new-legend-of-zelda-ocarina-of-time-lego-set-for-2026-looks-to-feature-ganon)
+* 📰 [The Game Awards 2025 to Stream on Prime Video in New Deal With Amazon - Variety](https://variety.com/2025/gaming/news/game-awards-streaming-amazon-prime-video-twitch-1236574939/)
+* 📰 [PlayStation State of Play November 2025 live report - keep up with everything...](https://www.eurogamer.net/playstation-state-of-play-november-2025-live-report-keep-up-with-everything-and-pray-for-bloodborne-here)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-12 12:58 </sub>
+  <sub>Last updated: Last updated: 2025-11-12 18:36 </sub>
 </div>
 
