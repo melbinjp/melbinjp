@@ -64,11 +64,6 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 ## 🌟 Featured Projects
 
 <!-- FEATURED_PROJECTS_START -->
-### 🚀 [Automated_videogen](https://github.com/melbinjp/Automated_videogen)
-Automated Media Generation: A Python project that automates the creation of media content, including videos and subtitles, based on search queries....
-
-**Primary Tech:** `Jupyter Notebook`
-
 ### 🚀 [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance)
 A multi-threaded video surveillance system for capturing and processing video frames from multiple cameras.
 
@@ -78,6 +73,11 @@ A multi-threaded video surveillance system for capturing and processing video fr
 A curated library of pre-made, machine-readable task prompts that let Jules (or any agent) — and humans — turn intent into production-grade work.
 
 **Primary Tech:** `HTML`
+
+### 🚀 [3d_modelview](https://github.com/melbinjp/3d_modelview)
+<h3>🎯 Professional 3D Model Viewer with Advanced Controls</h3>.
+
+**Primary Tech:** `JavaScript`
 <!-- FEATURED_PROJECTS_END -->
 
 ---
@@ -94,14 +94,14 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
-* [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
+* [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
 * [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
 * [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
@@ -113,6 +113,17 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 
 <!-- INSPIRATION_START -->
 > "The best way to predict the future is to invent it." — Alan Kay
+
+
+### 🌌 Today's Cosmic Perspective
+
+<p align="center">
+  <a href="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" alt="Astronomy Picture of the Day" 
+         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
+</p>
+<p align="center"><em>Astronomy Picture of the Day</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Silent Hill 2 leaks for Xbox via Microsoft Store with November release date -...](https://www.trueachievements.com/news/silent-hill-2-xbox)
-* 📰 [Halo Infinite is about to get its last major update - The Verge](https://www.theverge.com/news/816960/halo-infinite-end)
-* 📰 [Best Buy Week 2 Black Friday Doorbusters now live! Galaxy S25 Ultra $400 off,...](http://9to5toys.com/2025/11/07/best-buy-week-2-black-friday-doorbusters-live/)
+* 📰 [State of Play Announced for 11th November, Focus on Japanese PS5 Games - Push...](https://www.pushsquare.com/news/2025/11/state-of-play-announced-for-11th-november-focus-on-japanese-ps5-games)
+* 📰 [Introducing iPhone Pocket: a beautiful way to wear and carry iPhone - Apple](https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/)
+* 📰 [November Pixel update isn't here yet, but Verizon just spilled the details - ...](https://www.androidauthority.com/pixel-november-update-verizon-3614531/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-09 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-11-12 09:49 </sub>
 </div>
 
