@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -135,8 +135,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [BlazBlue is coming to PlayStation 5, Xbox and Nintendo Switch, but... - Event...](https://www.eventhubs.com/news/2025/nov/11/blazblue-console-return/)
-* 📰 [Video: Dragon Quest VII: Reimagined Reveals A Familiar Face In New "Follow-Up...](https://www.nintendolife.com/news/2025/11/video-dragon-quest-vii-reimagined-reveals-a-familiar-face-in-new-follow-up-trailer)
-* 📰 [Latest Switch 2 firmware update appears to be killing select third party dock...](https://www.gonintendo.com/contents/54866-latest-switch-2-firmware-update-appears-to-be-killing-select-third-party-docks)
+* 📰 [OCTOPATH TRAVELER 0 demo now available - Square Enix](https://www.square-enix-games.com/news/octopath-traveler-0-demo)
+* 📰 [Windows president says platform is "evolving into an agentic OS," gets cooked...](https://www.windowscentral.com/microsoft/windows-11/windows-president-confirms-os-will-become-ai-agentic-generates-push-back-online)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-13 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-11-13 12:58 </sub>
 </div>
 
