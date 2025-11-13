@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg" alt="Astronomy Picture of the Day" 
+  <a href="https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025.jpg" alt="Orion and the Running Man" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Astronomy Picture of the Day</em> • NASA APOD</p>
+<p align="center"><em>Orion and the Running Man</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [BlazBlue is coming to PlayStation 5, Xbox and Nintendo Switch, but... - Event...](https://www.eventhubs.com/news/2025/nov/11/blazblue-console-return/)
-* 📰 [OCTOPATH TRAVELER 0 demo now available - Square Enix](https://www.square-enix-games.com/news/octopath-traveler-0-demo)
-* 📰 [Windows president says platform is "evolving into an agentic OS," gets cooked...](https://www.windowscentral.com/microsoft/windows-11/windows-president-confirms-os-will-become-ai-agentic-generates-push-back-online)
+* 📰 [Hands On: Where Winds Meet PS5 Is Vast, Visionary, and on the Verge of Collap...](https://www.pushsquare.com/previews/hands-on-where-winds-meet-ps5-is-vast-visionary-and-on-the-verge-of-collapse)
+* 📰 [5 things I love about Amazon’s new Echo Shows — and 3 things I don’t - The Verge](https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on)
+* 📰 [The Super Mario Galaxy Movie's Rosalina Will Be Voiced by Brie Larson - IGN](https://www.ign.com/articles/the-super-mario-galaxy-movies-rosalina-will-be-voiced-by-brie-larson)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-13 12:58 </sub>
+  <sub>Last updated: Last updated: 2025-11-13 18:38 </sub>
 </div>
 
