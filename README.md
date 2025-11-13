@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [New Legend of Zelda: Ocarina of Time LEGO Set For 2026 Looks to Feature Ganon...](https://www.ign.com/articles/new-legend-of-zelda-ocarina-of-time-lego-set-for-2026-looks-to-feature-ganon)
-* 📰 [The Game Awards 2025 to Stream on Prime Video in New Deal With Amazon - Variety](https://variety.com/2025/gaming/news/game-awards-streaming-amazon-prime-video-twitch-1236574939/)
-* 📰 [PlayStation State of Play November 2025 live report - keep up with everything...](https://www.eurogamer.net/playstation-state-of-play-november-2025-live-report-keep-up-with-everything-and-pray-for-bloodborne-here)
+* 📰 [The Mac calculator’s original design came from letting Steve Jobs play with s...](https://arstechnica.com/gadgets/2025/11/the-mac-calculators-original-design-came-from-letting-steve-jobs-play-with-sliders-for-ten-minutes/)
+* 📰 [Sony Announces 27-inch PlayStation Monitor, With VRR Support And DualSense Ch...](https://www.ign.com/articles/sony-announces-27-inch-playstation-monitor-with-vrr-support-and-dualsense-charging-hook)
+* 📰 [Nightreign's New DLC Brings Back A Fan-Favorite Dark Souls Boss - Kotaku](https://kotaku.com/elden-ring-nightreign-dlc-forsaken-hollows-artorias-dark-souls-2000643101)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-12 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-11-13 02:07 </sub>
 </div>
 
