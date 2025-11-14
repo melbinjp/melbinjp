@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC](https://www.bbc.com/news/articles/cd679n9lnx5o)
-* 📰 [Samsung’s trifold gets a name and ‘confirmed’ specs - The Verge](https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs)
-* 📰 [The Next Horizon Game Is an MMO for Mobile and PC, Prompting Fury from PS5 Fa...](https://www.pushsquare.com/news/2025/11/the-next-horizon-game-is-an-mmo-for-mobile-and-pc-prompting-fury-from-ps5-fans)
+* 📰 [In defense of Apple’s $230 iPhone sock - TechCrunch](https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/)
+* 📰 [The Boox Palma 2 e-book reader is now $84 off - The Verge](https://www.theverge.com/tech/820046/boox-ebook-hoto-lenono-deals-sales)
+* 📰 [LinkedIn adds AI-powered search to help users find people - TechCrunch](https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-14 12:55 </sub>
+  <sub>Last updated: Last updated: 2025-11-14 18:37 </sub>
 </div>
 
