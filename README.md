@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Next Horizon Game Is an MMO by NCSOFT for PC, Mobile - Push Square](https://www.pushsquare.com/news/2025/11/the-next-horizon-game-is-an-mmo-by-ncsoft-for-pc-mobile)
-* 📰 [OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars ...](https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/)
-* 📰 [Here’s how to photograph the northern lights lighting up St. Louis skies this...](https://www.stlpr.org/health-science-environment/2025-11-12/how-photograph-northern-lights-missouri-illinois)
+* 📰 [Steam Machine: Valve rivals Xbox and PlayStation with new console - BBC](https://www.bbc.com/news/articles/cd679n9lnx5o)
+* 📰 [Samsung’s trifold gets a name and ‘confirmed’ specs - The Verge](https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs)
+* 📰 [The Next Horizon Game Is an MMO for Mobile and PC, Prompting Fury from PS5 Fa...](https://www.pushsquare.com/news/2025/11/the-next-horizon-game-is-an-mmo-for-mobile-and-pc-prompting-fury-from-ps5-fans)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-14 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-14 12:55 </sub>
 </div>
 
