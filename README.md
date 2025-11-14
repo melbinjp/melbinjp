@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Hands On: Where Winds Meet PS5 Is Vast, Visionary, and on the Verge of Collap...](https://www.pushsquare.com/previews/hands-on-where-winds-meet-ps5-is-vast-visionary-and-on-the-verge-of-collapse)
-* 📰 [5 things I love about Amazon’s new Echo Shows — and 3 things I don’t - The Verge](https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on)
-* 📰 [The Super Mario Galaxy Movie's Rosalina Will Be Voiced by Brie Larson - IGN](https://www.ign.com/articles/the-super-mario-galaxy-movies-rosalina-will-be-voiced-by-brie-larson)
+* 📰 [Black Ops 7 Day One Patch Notes: Weapon buffs & nerfs, Zombies changes, more ...](https://www.dexerto.com/call-of-duty/black-ops-7-day-one-patch-notes-3282572/)
+* 📰 [OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities - Ars ...](https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/)
+* 📰 [Steam's new VR headset, Steam Frame, will support Android games - GamesIndust...](https://www.gamesindustry.biz/steams-new-vr-headset-steam-frame-will-support-android-games)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-13 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-11-14 02:05 </sub>
 </div>
 
