@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [In defense of Apple’s $230 iPhone sock - TechCrunch](https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/)
-* 📰 [The Boox Palma 2 e-book reader is now $84 off - The Verge](https://www.theverge.com/tech/820046/boox-ebook-hoto-lenono-deals-sales)
-* 📰 [LinkedIn adds AI-powered search to help users find people - TechCrunch](https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/)
+* 📰 [Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here’s Everything Coming ...](https://thegamepost.com/bungie-destiny-2-renegades-roadmap/)
+* 📰 [Apple launches new iPhone Pocket knit case designed by Issey Miyake - Good Mo...](https://www.goodmorningamerica.com/shop/story/apple-launches-new-iphone-pocket-127486542)
+* 📰 [Red Dead Redemption Coming to Netflix, iOS, Android, PS5, Xbox Series, and Ni...](https://www.rockstargames.com/newswire/article/258282o585k1ka/red-dead-redemption-coming-to-netflix-ios-android-ps5-xbox-series-and)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-14 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-11-15 02:01 </sub>
 </div>
 
