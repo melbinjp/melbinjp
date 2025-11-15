@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/DSC07080-Edit.jpeg" alt="Florida Northern Lights" 
+  <a href="https://apod.nasa.gov/apod/image/2511/M31AB.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/M31AB.jpg" alt="Andromeda and Friends" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Florida Northern Lights</em> • NASA APOD</p>
+<p align="center"><em>Andromeda and Friends</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are Th...](https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes)
 * 📰 [Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here’s Everything Coming ...](https://thegamepost.com/bungie-destiny-2-renegades-roadmap/)
 * 📰 [Apple launches new iPhone Pocket knit case designed by Issey Miyake - Good Mo...](https://www.goodmorningamerica.com/shop/story/apple-launches-new-iphone-pocket-127486542)
-* 📰 [Red Dead Redemption Coming to Netflix, iOS, Android, PS5, Xbox Series, and Ni...](https://www.rockstargames.com/newswire/article/258282o585k1ka/red-dead-redemption-coming-to-netflix-ios-android-ps5-xbox-series-and)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-15 02:01 </sub>
+  <sub>Last updated: Last updated: 2025-11-15 06:36 </sub>
 </div>
 
