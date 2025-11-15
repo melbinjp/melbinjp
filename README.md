@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Arc Raiders Dev Drops Cosmetic Prices, Offers Refunds, and Reveals It 'Silent...](https://www.ign.com/articles/arc-raiders-dev-drops-cosmetic-prices-offers-refunds-and-reveals-it-silently-enabled-duo-prioritized-matchmaking)
-* 📰 [Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are Th...](https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes)
-* 📰 [OnePlus 15 vs OnePlus 13: Sample Photos Comparison - PhoneArena](https://www.phonearena.com/news/OnePlus-15-vs-OnePlus-13-Sample-Photos-Comparison_id175623)
+* 📰 [As Metroid Prime 4: Beyond's 'Annoying' Initial Sidekick is Revealed, A Fresh...](https://www.ign.com/articles/as-metroid-prime-4-beyonds-annoying-initial-sidekick-is-revealed-a-fresh-trailer-confirms-other-npcs-will-join-samus-throughout-the-game)
+* 📰 [Top 100 Nintendo Games, As Chosen By Nintendo Life & IGN - Nintendo Life](https://www.nintendolife.com/guides/top-100-nintendo-games-as-chosen-by-nintendo-life-and-ign)
+* 📰 [2026 Dodge Charger Sixpack's Muscle Car Silliness Will Help You Forgive Its W...](https://www.jalopnik.com/2026284/2026-dodge-charger-sixpack-hurricane-ice-engine-first-drive-review/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-15 12:50 </sub>
+  <sub>Last updated: Last updated: 2025-11-15 18:34 </sub>
 </div>
 
