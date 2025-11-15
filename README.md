@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Arc Raiders Dev Drops Cosmetic Prices, Offers Refunds, and Reveals It 'Silent...](https://www.ign.com/articles/arc-raiders-dev-drops-cosmetic-prices-offers-refunds-and-reveals-it-silently-enabled-duo-prioritized-matchmaking)
 * 📰 [Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are Th...](https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes)
-* 📰 [Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here’s Everything Coming ...](https://thegamepost.com/bungie-destiny-2-renegades-roadmap/)
-* 📰 [Apple launches new iPhone Pocket knit case designed by Issey Miyake - Good Mo...](https://www.goodmorningamerica.com/shop/story/apple-launches-new-iphone-pocket-127486542)
+* 📰 [OnePlus 15 vs OnePlus 13: Sample Photos Comparison - PhoneArena](https://www.phonearena.com/news/OnePlus-15-vs-OnePlus-13-Sample-Photos-Comparison_id175623)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-15 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-11-15 12:50 </sub>
 </div>
 
