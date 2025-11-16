@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Activision Responds to Complaints of AI-Generated Assets in Call of Duty: Bla...](https://www.ign.com/articles/activision-responds-to-complaints-of-ai-generated-assets-in-call-of-duty-black-ops-7)
-* 📰 [These Developers Are Bringing Canceled Game Concord Back To Life - aftermath....](https://aftermath.site/concord-dead-game-firewalk-sony/)
-* 📰 [A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t sa...](https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked)
+* 📰 [100 CNET Reader-Approved Tech Products Best for Holiday Shopping - CNET](https://www.cnet.com/deals/100-cnet-reader-approved-tech-products-best-for-holiday-shopping/)
+* 📰 [Sony cracks down on Concord custom servers, issues DMCA takedowns on gameplay...](https://thegamepost.com/sony-cracks-down-concord-custom-servers-dmca-takedowns/)
+* 📰 [Black Ops 7 Ashes of the Damned main quest easter egg guide - PCGamesN](https://www.pcgamesn.com/call-of-duty-black-ops-7/ashes-of-the-damned-main-quest-easter-egg)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-16 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-11-16 12:50 </sub>
 </div>
 
