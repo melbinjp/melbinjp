@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -118,12 +118,12 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/M31AB.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/M31AB.jpg" alt="Andromeda and Friends" 
+  <a href="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg" alt="Crossing Saturn&#x27;s Ring Plane" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Andromeda and Friends</em> • NASA APOD</p>
+<p align="center"><em>Crossing Saturn&#x27;s Ring Plane</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple’s $230 Cloth iPhone Pouch Is Already Sold Out — Here’s What It’s Like -...](https://www.bloomberg.com/news/articles/2025-11-14/apple-issey-miyake-iphone-pocket-price-colors-review-where-to-buy-sold-out)
-* 📰 [Best Buy Black Friday Doorbusters live — 31 deals I’d shop from just $3 on Le...](https://www.tomsguide.com/sales-events/best-buy-black-friday-doorbusters-live-31-deals-id-shop-from-just-usd3-on-lego-switch-2-ps5-games-tvs-laptops-and-more)
-* 📰 [Apple’s last-gen AirPods Pro 2 are down to their lowest price to date - The V...](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)
+* 📰 [Activision Responds to Complaints of AI-Generated Assets in Call of Duty: Bla...](https://www.ign.com/articles/activision-responds-to-complaints-of-ai-generated-assets-in-call-of-duty-black-ops-7)
+* 📰 [These Developers Are Bringing Canceled Game Concord Back To Life - aftermath....](https://aftermath.site/concord-dead-game-firewalk-sony/)
+* 📰 [A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t sa...](https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-16 02:12 </sub>
+  <sub>Last updated: Last updated: 2025-11-16 06:37 </sub>
 </div>
 
