@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Google is preparing big Android 17 gaming upgrades for fans of real controlle...](https://www.androidauthority.com/android-17-gaming-features-rumor-3616027/)
+* 📰 [The Steam Machine feels like the TV gaming PC I’ve always wanted - The Verge](https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted)
 * 📰 [100 CNET Reader-Approved Tech Products Best for Holiday Shopping - CNET](https://www.cnet.com/deals/100-cnet-reader-approved-tech-products-best-for-holiday-shopping/)
-* 📰 [Sony cracks down on Concord custom servers, issues DMCA takedowns on gameplay...](https://thegamepost.com/sony-cracks-down-concord-custom-servers-dmca-takedowns/)
-* 📰 [Black Ops 7 Ashes of the Damned main quest easter egg guide - PCGamesN](https://www.pcgamesn.com/call-of-duty-black-ops-7/ashes-of-the-damned-main-quest-easter-egg)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-16 12:50 </sub>
+  <sub>Last updated: Last updated: 2025-11-16 18:35 </sub>
 </div>
 
