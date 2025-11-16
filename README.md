@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [As Metroid Prime 4: Beyond's 'Annoying' Initial Sidekick is Revealed, A Fresh...](https://www.ign.com/articles/as-metroid-prime-4-beyonds-annoying-initial-sidekick-is-revealed-a-fresh-trailer-confirms-other-npcs-will-join-samus-throughout-the-game)
-* 📰 [Top 100 Nintendo Games, As Chosen By Nintendo Life & IGN - Nintendo Life](https://www.nintendolife.com/guides/top-100-nintendo-games-as-chosen-by-nintendo-life-and-ign)
-* 📰 [2026 Dodge Charger Sixpack's Muscle Car Silliness Will Help You Forgive Its W...](https://www.jalopnik.com/2026284/2026-dodge-charger-sixpack-hurricane-ice-engine-first-drive-review/)
+* 📰 [Apple’s $230 Cloth iPhone Pouch Is Already Sold Out — Here’s What It’s Like -...](https://www.bloomberg.com/news/articles/2025-11-14/apple-issey-miyake-iphone-pocket-price-colors-review-where-to-buy-sold-out)
+* 📰 [Best Buy Black Friday Doorbusters live — 31 deals I’d shop from just $3 on Le...](https://www.tomsguide.com/sales-events/best-buy-black-friday-doorbusters-live-31-deals-id-shop-from-just-usd3-on-lego-switch-2-ps5-games-tvs-laptops-and-more)
+* 📰 [Apple’s last-gen AirPods Pro 2 are down to their lowest price to date - The V...](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-15 18:34 </sub>
+  <sub>Last updated: Last updated: 2025-11-16 02:12 </sub>
 </div>
 
