@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google is preparing big Android 17 gaming upgrades for fans of real controlle...](https://www.androidauthority.com/android-17-gaming-features-rumor-3616027/)
-* 📰 [The Steam Machine feels like the TV gaming PC I’ve always wanted - The Verge](https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted)
-* 📰 [100 CNET Reader-Approved Tech Products Best for Holiday Shopping - CNET](https://www.cnet.com/deals/100-cnet-reader-approved-tech-products-best-for-holiday-shopping/)
+* 📰 [Escape From Tarkov players slam Steam launch: "It is not a game. It is a cosm...](https://www.eurogamer.net/escape-from-tarkov-players-slam-steam-launch-it-is-not-a-game-it-is-a-cosmic-punishment)
+* 📰 [Sony Trying to Silence Concord Revival Project After Fans Brought PS5, PC Dis...](https://www.pushsquare.com/news/2025/11/sony-trying-to-silence-concord-revival-project-after-fans-brought-ps5-pc-disaster-back)
+* 📰 [OnePlus 15 Suffers From Overheating After Running 3DMark Wild Life Extreme Fo...](https://wccftech.com/oneplus-15-overheats-when-running-3dmark-wild-life-extreme-app-crashes/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-16 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-11-17 02:06 </sub>
 </div>
 
