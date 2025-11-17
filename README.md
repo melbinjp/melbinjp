@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life](https://www.nintendolife.com/news/2025/11/corpse-party-tetralogy-pack-switch-western-release-cancelled)
-* 📰 [Escape From Tarkov players slam Steam launch: "It is not a game. It is a cosm...](https://www.eurogamer.net/escape-from-tarkov-players-slam-steam-launch-it-is-not-a-game-it-is-a-cosmic-punishment)
-* 📰 [This MacBook Air Is Only $195 Until November 16 - PCMag](https://www.pcmag.com/deals/this-macbook-air-is-only-195-until-november-16)
+* 📰 [Multiple Switch Games Get Switch 2 Compatibility Fixes - Nintendo Life](https://www.nintendolife.com/news/2025/11/multiple-switch-games-get-switch-2-compatibility-fixes)
+* 📰 [OnePlus 15 vs. Samsung Galaxy S25 Ultra: I've used both Android flagships, an...](https://www.zdnet.com/article/oneplus-15-vs-samsung-galaxy-s25-ultra-ive-used-both-android-flagships-and-heres-who-wins/)
+* 📰 [Dell Dumps Its Vostro 1TB Laptop for 70% Off, Now Selling for What Generic Bu...](https://kotaku.com/dell-dumps-its-vostro-1tb-laptop-for-70-off-now-selling-for-what-generic-budget-laptops-cost-2000644605)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-17 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-11-17 12:56 </sub>
 </div>
 
