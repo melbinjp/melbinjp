@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -118,12 +118,12 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg" alt="Crossing Saturn&#x27;s Ring Plane" 
+  <a href="https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_3728.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_3728.jpg" alt="Comet Lemmon&#x27;s Wandering Tail" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Crossing Saturn&#x27;s Ring Plane</em> • NASA APOD</p>
+<p align="center"><em>Comet Lemmon&#x27;s Wandering Tail</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life](https://www.nintendolife.com/news/2025/11/corpse-party-tetralogy-pack-switch-western-release-cancelled)
 * 📰 [Escape From Tarkov players slam Steam launch: "It is not a game. It is a cosm...](https://www.eurogamer.net/escape-from-tarkov-players-slam-steam-launch-it-is-not-a-game-it-is-a-cosmic-punishment)
-* 📰 [Sony Trying to Silence Concord Revival Project After Fans Brought PS5, PC Dis...](https://www.pushsquare.com/news/2025/11/sony-trying-to-silence-concord-revival-project-after-fans-brought-ps5-pc-disaster-back)
-* 📰 [OnePlus 15 Suffers From Overheating After Running 3DMark Wild Life Extreme Fo...](https://wccftech.com/oneplus-15-overheats-when-running-3dmark-wild-life-extreme-app-crashes/)
+* 📰 [This MacBook Air Is Only $195 Until November 16 - PCMag](https://www.pcmag.com/deals/this-macbook-air-is-only-195-until-november-16)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-17 02:06 </sub>
+  <sub>Last updated: Last updated: 2025-11-17 06:40 </sub>
 </div>
 
