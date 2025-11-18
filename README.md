@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Exclusive: Meet Samsung's Galaxy Buds 4 Pro with a powerful new feature - And...](https://www.androidauthority.com/samsung-galaxy-buds-4-pro-design-features-leak-3616254/)
-* 📰 [It's happening! YouTube Music is testing a feature everyone has wanted for ye...](https://www.androidauthority.com/youtube-music-playlist-search-3616240/)
-* 📰 [Chelsea Green banned from the International Professional Wrestling Hall of Fa...](https://www.cagesideseats.com/wwe/397175/chelsea-green-banned-from-the-international-professional-wrestling-hall-of-fame)
+* 📰 [I’ve already been using a “Steam Machine” for months, and I think it’s great ...](https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/)
+* 📰 [Even members of the US Congress are pushing back against Call of Duty: Black ...](https://www.eurogamer.net/even-members-of-the-us-congress-are-pushing-back-against-call-of-duty-black-ops-7s-ai-use)
+* 📰 [Guest column | 4 common mistakes grandparents make, according to a pediatrici...](https://www.washingtonpost.com/wellness/2025/11/17/grandparents-parents-tension/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-18 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-18 12:57 </sub>
 </div>
 
