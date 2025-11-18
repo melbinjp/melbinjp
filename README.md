@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [I’ve already been using a “Steam Machine” for months, and I think it’s great ...](https://arstechnica.com/gadgets/2025/11/ive-already-been-using-a-steam-machine-for-months-and-i-think-its-great/)
-* 📰 [Even members of the US Congress are pushing back against Call of Duty: Black ...](https://www.eurogamer.net/even-members-of-the-us-congress-are-pushing-back-against-call-of-duty-black-ops-7s-ai-use)
-* 📰 [Guest column | 4 common mistakes grandparents make, according to a pediatrici...](https://www.washingtonpost.com/wellness/2025/11/17/grandparents-parents-tension/)
+* 📰 [Overwatch 2's new damage hero is melee-focused hard (light) hitter Vendetta -...](https://www.polygon.com/overwatch-2-new-hero-45-vendetta-la-lupa-trailer/)
+* 📰 [The Game Awards Nominations 2025: ‘Clair Obscur: Expedition 33’ Becomes Most-...](https://variety.com/2025/gaming/news/game-awards-nominations-2025-list-1236583686/)
+* 📰 [As Windows Turns 40, It’s ‘Evolving’ Into a Bloated AI Slop Machine - Gizmodo](https://gizmodo.com/windows-40-year-anniversary-evolving-into-bloated-ai-slop-copilot-2000686932)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-18 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-11-18 18:39 </sub>
 </div>
 
