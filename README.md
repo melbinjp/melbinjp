@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [How LimeWire ended the Napster music revolution - The Verge](https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history)
-* 📰 [The Asus Falcata is an ambitious split ergo gaming keyboard that falls short ...](https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard)
-* 📰 [Georgia Is Home To The World's Largest Classic Car Junkyard - Jalopnik](https://www.jalopnik.com/2024139/worlds-largest-classic-car-junkyard/)
+* 📰 [5 Hidden Resentments Long-Term Partners Carry, By A Psychologist - Forbes](https://www.forbes.com/sites/traversmark/2025/11/16/5-hidden-resentments-long-term-partners-carry-by-a-psychologist/)
+* 📰 [Here's Why The Mitsubishi Eclipse Had That Giant Hood Bump (It Wasn't For The...](https://www.jalopnik.com/2024738/why-mitsubishi-eclipse-has-a-hood-bump/)
+* 📰 [The Reason Why Google Chromebooks Are So Cheap - bgr.com](https://www.bgr.com/2022978/why-google-chromebooks-cheap-explained/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-17 18:38 </sub>
+  <sub>Last updated: Last updated: 2025-11-18 02:05 </sub>
 </div>
 
