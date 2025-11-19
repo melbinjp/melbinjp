@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [November 2025 PS Plus Extra, Premium Games Available to Download Now - Push S...](https://www.pushsquare.com/news/2025/11/november-2025-ps-plus-extra-premium-games-available-to-download-now)
-* 📰 [Poll: So, Will You Be Getting Kirby Air Riders? - Nintendo Life](https://www.nintendolife.com/news/2025/11/poll-so-will-you-be-getting-kirby-air-riders)
-* 📰 [Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family - Andr...](https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/)
+* 📰 [Tomb Raider's 2013 reboot just shadow dropped on Switch and Switch 2 consoles...](https://www.eurogamer.net/tomb-raiders-2013-reboot-just-shadow-dropped-on-switch-and-switch-2-consoles)
+* 📰 [The Apple Watch Series 11 has plunged to a record low price - The Verge](https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale)
+* 📰 [Review: Demonschool (Switch) - Jokes, Gore, And '90s Vibes Set Necrosoft's Ta...](https://www.nintendolife.com/reviews/switch-eshop/demonschool)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-19 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-11-19 18:39 </sub>
 </div>
 
