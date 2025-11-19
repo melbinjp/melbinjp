@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,7 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
+
+
+### 🌌 Today's Cosmic Perspective
+
+<p align="center">
+  <a href="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_3691.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_3691.jpg" alt="Chamaeleon Dark Nebulas" 
+         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
+</p>
+<p align="center"><em>Chamaeleon Dark Nebulas</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -124,8 +135,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloombe...](https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company)
-* 📰 [Microsoft just revealed how Windows 11 is evolving into an agentic OS — final...](https://www.windowscentral.com/microsoft/windows-11/microsoft-just-revealed-how-windows-11-is-evolving-into-an-agentic-os-finally-the-explanation-weve-all-been-waiting-for)
-* 📰 [Apple's Early Black Friday Deals Are Here: Save $250 on the M4-Powered MacBoo...](https://www.pcmag.com/news/best-apple-early-black-friday-deals-airpods-ipads-macbooks-more-nov-16)
+* 📰 [Windows 11 to add an AI agent that runs in background with access to personal...](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
+* 📰 [Amazon Resale Has Upgraded "Like New" Apple iPad Pro M4 Tablets on Sale for B...](https://www.ign.com/articles/apple-ipad-pro-deals-amazon-early-black-friday-sale)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-19 02:04 </sub>
+  <sub>Last updated: Last updated: 2025-11-19 06:39 </sub>
 </div>
 
