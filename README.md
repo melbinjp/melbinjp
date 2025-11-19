@@ -123,9 +123,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Overwatch 2's new damage hero is melee-focused hard (light) hitter Vendetta -...](https://www.polygon.com/overwatch-2-new-hero-45-vendetta-la-lupa-trailer/)
-* 📰 [The Game Awards Nominations 2025: ‘Clair Obscur: Expedition 33’ Becomes Most-...](https://variety.com/2025/gaming/news/game-awards-nominations-2025-list-1236583686/)
-* 📰 [As Windows Turns 40, It’s ‘Evolving’ Into a Bloated AI Slop Machine - Gizmodo](https://gizmodo.com/windows-40-year-anniversary-evolving-into-bloated-ai-slop-copilot-2000686932)
+* 📰 [The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloombe...](https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company)
+* 📰 [Microsoft just revealed how Windows 11 is evolving into an agentic OS — final...](https://www.windowscentral.com/microsoft/windows-11/microsoft-just-revealed-how-windows-11-is-evolving-into-an-agentic-os-finally-the-explanation-weve-all-been-waiting-for)
+* 📰 [Apple's Early Black Friday Deals Are Here: Save $250 on the M4-Powered MacBoo...](https://www.pcmag.com/news/best-apple-early-black-friday-deals-airpods-ipads-macbooks-more-nov-16)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-18 18:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-19 02:04 </sub>
 </div>
 
