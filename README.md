@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Apple Designer Who Introduced the iPhone Air Leaves the Company - Bloombe...](https://www.bloomberg.com/news/articles/2025-11-17/the-apple-designer-who-introduced-the-iphone-air-leaves-the-company)
-* 📰 [Windows 11 to add an AI agent that runs in background with access to personal...](https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/)
-* 📰 [Amazon Resale Has Upgraded "Like New" Apple iPad Pro M4 Tablets on Sale for B...](https://www.ign.com/articles/apple-ipad-pro-deals-amazon-early-black-friday-sale)
+* 📰 [November 2025 PS Plus Extra, Premium Games Available to Download Now - Push S...](https://www.pushsquare.com/news/2025/11/november-2025-ps-plus-extra-premium-games-available-to-download-now)
+* 📰 [Poll: So, Will You Be Getting Kirby Air Riders? - Nintendo Life](https://www.nintendolife.com/news/2025/11/poll-so-will-you-be-getting-kirby-air-riders)
+* 📰 [Pixel 10 Pro just pulled off a narrow victory against iPhone 17 family - Andr...](https://www.androidauthority.com/pixel-10-pro-vs-iphone-17-wi-fi-speeds-3616613/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-19 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-19 12:57 </sub>
 </div>
 
