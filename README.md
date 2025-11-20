@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Fortnite is getting Unity games - The Verge](https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg)
-* 📰 [The Apple deals worth shopping before Black Friday (and the discounts to expe...](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)
-* 📰 [Goodbye, ‘Halo Infinite’ (2021-2025) - Gizmodo](https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712)
+* 📰 [Next year’s iPhone 18 decision could be very hard for almost everyone - 9to5Mac](https://9to5mac.com/2025/11/19/next-years-iphone-18-decision-could-be-very-hard-for-almost-everyone/)
+* 📰 [This viral AI pen didn’t help me cheat - The Verge](https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests)
+* 📰 [Dragon Quest VII Reimagined Goes Much Farther Than the HD-2D Remakes - IGN](https://www.ign.com/articles/dragon-quest-vii-reimagined-goes-much-farther-than-the-hd-2d-remakes)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-20 12:55 </sub>
+  <sub>Last updated: Last updated: 2025-11-20 18:39 </sub>
 </div>
 
