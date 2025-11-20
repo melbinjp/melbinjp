@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Tomb Raider's 2013 reboot just shadow dropped on Switch and Switch 2 consoles...](https://www.eurogamer.net/tomb-raiders-2013-reboot-just-shadow-dropped-on-switch-and-switch-2-consoles)
-* 📰 [The Apple Watch Series 11 has plunged to a record low price - The Verge](https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale)
-* 📰 [Review: Demonschool (Switch) - Jokes, Gore, And '90s Vibes Set Necrosoft's Ta...](https://www.nintendolife.com/reviews/switch-eshop/demonschool)
+* 📰 [GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN](https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals)
+* 📰 [R.I.P. Rebecca Heineman, legendary game designer and trailblazer - AV Club](https://www.avclub.com/rebecca-heineman-dies-games)
+* 📰 [Microsoft tries to head off the “novel security risks” of Windows 11 AI agent...](https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-19 18:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-20 02:03 </sub>
 </div>
 
