@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -118,12 +118,12 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_3691.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_3691.jpg" alt="Chamaeleon Dark Nebulas" 
+  <a href="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt2048.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt2048.jpg" alt="Alnitak, Alnilam, Mintaka" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Chamaeleon Dark Nebulas</em> • NASA APOD</p>
+<p align="center"><em>Alnitak, Alnilam, Mintaka</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN](https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals)
-* 📰 [R.I.P. Rebecca Heineman, legendary game designer and trailblazer - AV Club](https://www.avclub.com/rebecca-heineman-dies-games)
-* 📰 [Microsoft tries to head off the “novel security risks” of Windows 11 AI agent...](https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/)
+* 📰 [EA will skip next year’s F1 game and release update DLC instead - The Verge](https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game)
+* 📰 [The Apple deals worth shopping before Black Friday (and the discounts to expe...](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)
+* 📰 [Goodbye, ‘Halo Infinite’ (2021-2025) - Gizmodo](https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-20 02:03 </sub>
+  <sub>Last updated: Last updated: 2025-11-20 06:39 </sub>
 </div>
 
