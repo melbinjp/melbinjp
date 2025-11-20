@@ -134,7 +134,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [EA will skip next year’s F1 game and release update DLC instead - The Verge](https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game)
+* 📰 [Fortnite is getting Unity games - The Verge](https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg)
 * 📰 [The Apple deals worth shopping before Black Friday (and the discounts to expe...](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)
 * 📰 [Goodbye, ‘Halo Infinite’ (2021-2025) - Gizmodo](https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712)
 <!-- FUTURE_INSIGHTS_END -->
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-20 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-20 12:55 </sub>
 </div>
 
