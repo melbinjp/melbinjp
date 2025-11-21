@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Black Ops 7′ s Best Part Won’t Be Locked Behind Its Worst Part For Much Longe...](https://kotaku.com/black-ops-7s-best-part-wont-be-locked-behind-its-worst-part-for-much-longer-2000645605)
-* 📰 [PS5 Welcome Hub Update Adds New Stat Tracking, Backgrounds - Push Square](https://www.pushsquare.com/news/2025/11/ps5-welcome-hub-update-adds-new-stat-tracking-backgrounds)
-* 📰 [Why Is Everyone Posting About a Half-Life 3 Announcement Soon? - IGN](https://www.ign.com/articles/why-is-everyone-posting-about-a-half-life-3-announcement-soon)
+* 📰 [Windows on Arm is now ready for gaming thanks to some big changes - The Verge](https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements)
+* 📰 [Experts Told Us Why Our Home LED Lights Die Out So Fast - CNET](https://www.cnet.com/home/smart-home/experts-told-us-why-our-home-led-lights-die-out-so-fast/)
+* 📰 [Sakurai Is Keen To Live An "Unassuming Life", Despite His Fame And Prestige -...](https://www.nintendolife.com/news/2025/11/sakurai-is-keen-to-live-an-unassuming-life-despite-his-fame-and-prestige)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-21 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-11-21 12:55 </sub>
 </div>
 
