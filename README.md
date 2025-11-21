@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Next year’s iPhone 18 decision could be very hard for almost everyone - 9to5Mac](https://9to5mac.com/2025/11/19/next-years-iphone-18-decision-could-be-very-hard-for-almost-everyone/)
-* 📰 [This viral AI pen didn’t help me cheat - The Verge](https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests)
-* 📰 [Dragon Quest VII Reimagined Goes Much Farther Than the HD-2D Remakes - IGN](https://www.ign.com/articles/dragon-quest-vii-reimagined-goes-much-farther-than-the-hd-2d-remakes)
+* 📰 [Black Ops 7′ s Best Part Won’t Be Locked Behind Its Worst Part For Much Longe...](https://kotaku.com/black-ops-7s-best-part-wont-be-locked-behind-its-worst-part-for-much-longer-2000645605)
+* 📰 [Linus Tech Tips “disappointed” Steam Machine won’t be priced like a console -...](https://www.dexerto.com/youtube/linus-tech-tips-disappointed-steam-machine-wont-be-priced-like-a-console-3284996/)
+* 📰 [Princess Zelda reckons with her legacy and reclaims her legend in Hyrule Warr...](https://www.avclub.com/zelda-empowerment-age-of-imprisonment)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-20 18:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-21 02:04 </sub>
 </div>
 
