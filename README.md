@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt2048.jpg" alt="Alnitak, Alnilam, Mintaka" 
+  <a href="https://apod.nasa.gov/apod/image/2511/3I_251114.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/3I_251114.jpg" alt="3I/ATLAS: A View from Planet Earth" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Alnitak, Alnilam, Mintaka</em> • NASA APOD</p>
+<p align="center"><em>3I/ATLAS: A View from Planet Earth</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -135,8 +135,8 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Black Ops 7′ s Best Part Won’t Be Locked Behind Its Worst Part For Much Longe...](https://kotaku.com/black-ops-7s-best-part-wont-be-locked-behind-its-worst-part-for-much-longer-2000645605)
-* 📰 [Linus Tech Tips “disappointed” Steam Machine won’t be priced like a console -...](https://www.dexerto.com/youtube/linus-tech-tips-disappointed-steam-machine-wont-be-priced-like-a-console-3284996/)
-* 📰 [Princess Zelda reckons with her legacy and reclaims her legend in Hyrule Warr...](https://www.avclub.com/zelda-empowerment-age-of-imprisonment)
+* 📰 [PS5 Welcome Hub Update Adds New Stat Tracking, Backgrounds - Push Square](https://www.pushsquare.com/news/2025/11/ps5-welcome-hub-update-adds-new-stat-tracking-backgrounds)
+* 📰 [Why Is Everyone Posting About a Half-Life 3 Announcement Soon? - IGN](https://www.ign.com/articles/why-is-everyone-posting-about-a-half-life-3-announcement-soon)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-21 02:04 </sub>
+  <sub>Last updated: Last updated: 2025-11-21 06:40 </sub>
 </div>
 
