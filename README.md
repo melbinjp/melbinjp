@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [12 Of The Year's Biggest Games Are On Sale For Black Friday 2025 - Kotaku](https://kotaku.com/black-friday-2025-game-sale-kingdom-come-monster-hunter-2000645834)
-* 📰 [Pixel 10 phones are now compatible with AirDrop - The Verge](https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10)
-* 📰 [As Windows turns 40, Microsoft faces an AI backlash - The Verge](https://www.theverge.com/tech/825022/microsoft-windows-40-year-anniversary-agentic-os-future)
+* 📰 [Destiny 2 Renegades launch trailer leaks early via YouTube ad ahead of develo...](https://thegamepost.com/destiny-2-renegades-launch-trailer-leaks-youtube-ad/)
+* 📰 [HP and Dell disable HEVC support built into their laptops’ CPUs - Ars Technica](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
+* 📰 [Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apple’s AirDro...](https://www.bloomberg.com/news/articles/2025-11-20/google-s-latest-pixel-phones-can-now-airdrop-with-iphones)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-21 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-11-22 01:59 </sub>
 </div>
 
