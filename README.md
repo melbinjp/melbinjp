@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/3I_251114.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/3I_251114.jpg" alt="3I/ATLAS: A View from Planet Earth" 
+  <a href="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.tif" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.tif" alt="Dione and Rhea Ring Transit" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>3I/ATLAS: A View from Planet Earth</em> • NASA APOD</p>
+<p align="center"><em>Dione and Rhea Ring Transit</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Hands On With Google's Nano Banana Pro Image Generator - wired.com](https://www.wired.com/story/google-nano-banana-pro-hands-on/)
+* 📰 [75+ Black Friday deals at Best Buy that aren't cheaper anywhere else - Mashable](https://mashable.com/article/best-black-friday-best-buy-deals-2025)
 * 📰 [Destiny 2 Renegades launch trailer leaks early via YouTube ad ahead of develo...](https://thegamepost.com/destiny-2-renegades-launch-trailer-leaks-youtube-ad/)
-* 📰 [HP and Dell disable HEVC support built into their laptops’ CPUs - Ars Technica](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
-* 📰 [Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apple’s AirDro...](https://www.bloomberg.com/news/articles/2025-11-20/google-s-latest-pixel-phones-can-now-airdrop-with-iphones)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-22 01:59 </sub>
+  <sub>Last updated: Last updated: 2025-11-22 06:36 </sub>
 </div>
 
