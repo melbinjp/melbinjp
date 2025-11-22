@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google Sparks Backlash After Gmail Setting Lets Gemini Peek Inside Inboxes - ...](https://decrypt.co/349491/google-backlash-gmail-setting-gemini-peek-inside-inboxes)
-* 📰 [Hands On With Google's Nano Banana Pro Image Generator - wired.com](https://www.wired.com/story/google-nano-banana-pro-hands-on/)
-* 📰 [75+ Black Friday deals at Best Buy that aren't cheaper anywhere else - Mashable](https://mashable.com/article/best-black-friday-best-buy-deals-2025)
+* 📰 [The PlayStation 5 Slim and Pro are on sale for Black Friday - The Verge](https://www.theverge.com/gadgets/824326/playstation-5-ps5-pro-black-friday-deal-sale-2025)
+* 📰 [I signed up for Trump Mobile two weeks ago and I still don’t have my SIM - Th...](https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim)
+* 📰 [What is A Chunky Knit Doing in Wicked’s Sexiest Scene? - The Cut](http://www.thecut.com/article/wicked-for-good-sexy-scene-sweater.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-22 12:49 </sub>
+  <sub>Last updated: Last updated: 2025-11-22 18:35 </sub>
 </div>
 
