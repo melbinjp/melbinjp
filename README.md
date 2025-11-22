@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Google Sparks Backlash After Gmail Setting Lets Gemini Peek Inside Inboxes - ...](https://decrypt.co/349491/google-backlash-gmail-setting-gemini-peek-inside-inboxes)
 * 📰 [Hands On With Google's Nano Banana Pro Image Generator - wired.com](https://www.wired.com/story/google-nano-banana-pro-hands-on/)
 * 📰 [75+ Black Friday deals at Best Buy that aren't cheaper anywhere else - Mashable](https://mashable.com/article/best-black-friday-best-buy-deals-2025)
-* 📰 [Destiny 2 Renegades launch trailer leaks early via YouTube ad ahead of develo...](https://thegamepost.com/destiny-2-renegades-launch-trailer-leaks-youtube-ad/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-22 06:36 </sub>
+  <sub>Last updated: Last updated: 2025-11-22 12:49 </sub>
 </div>
 
