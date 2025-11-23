@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The PlayStation 5 Slim and Pro are on sale for Black Friday - The Verge](https://www.theverge.com/gadgets/824326/playstation-5-ps5-pro-black-friday-deal-sale-2025)
-* 📰 [I signed up for Trump Mobile two weeks ago and I still don’t have my SIM - Th...](https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim)
-* 📰 [What is A Chunky Knit Doing in Wicked’s Sexiest Scene? - The Cut](http://www.thecut.com/article/wicked-for-good-sexy-scene-sweater.html)
+* 📰 [Return to the year 2000 with classic multiplayer DOS games in your browser - ...](https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/)
+* 📰 [How to know if your Asus router is one of thousands hacked by China-state hac...](https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/)
+* 📰 [You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet ...](https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-22 18:35 </sub>
+  <sub>Last updated: Last updated: 2025-11-23 02:25 </sub>
 </div>
 
