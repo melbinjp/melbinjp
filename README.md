@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -118,12 +118,12 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.tif" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.tif" alt="Dione and Rhea Ring Transit" 
+  <a href="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg" alt="The Observable Universe" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Dione and Rhea Ring Transit</em> • NASA APOD</p>
+<p align="center"><em>The Observable Universe</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [SpaceX issues statement on Starship V3 Booster 18 anomaly - Teslarati](https://www.teslarati.com/spacex-issues-statement-on-starship-v3-booster-18-anomaly/)
+* 📰 [Google denies ‘misleading’ reports of Gmail using your emails to train AI - T...](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
 * 📰 [Return to the year 2000 with classic multiplayer DOS games in your browser - ...](https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/)
-* 📰 [How to know if your Asus router is one of thousands hacked by China-state hac...](https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/)
-* 📰 [You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet ...](https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-23 02:25 </sub>
+  <sub>Last updated: Last updated: 2025-11-23 06:37 </sub>
 </div>
 
