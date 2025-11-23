@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [SpaceX issues statement on Starship V3 Booster 18 anomaly - Teslarati](https://www.teslarati.com/spacex-issues-statement-on-starship-v3-booster-18-anomaly/)
-* 📰 [Google denies ‘misleading’ reports of Gmail using your emails to train AI - T...](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
-* 📰 [Return to the year 2000 with classic multiplayer DOS games in your browser - ...](https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/)
+* 📰 [ICYMI: Metroid Prime 4: Beyond Estimated Switch 2 And Switch File Size Reveal...](https://www.nintendolife.com/news/2025/11/icymi-metroid-prime-4-beyond-estimated-switch-2-and-switch-file-size-revealed)
+* 📰 [20 years of Xbox Achievements - view your personal Xbox Story here! - TrueAch...](https://www.trueachievements.com/news/see-your-xbox-story)
+* 📰 [Microsoft Open Sources Zork I, II And III - Hackaday](https://hackaday.com/2025/11/21/microsoft-open-sources-zork-i-ii-and-iii/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-23 06:37 </sub>
+  <sub>Last updated: Last updated: 2025-11-23 12:48 </sub>
 </div>
 
