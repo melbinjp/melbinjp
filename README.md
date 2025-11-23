@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [ICYMI: Metroid Prime 4: Beyond Estimated Switch 2 And Switch File Size Reveal...](https://www.nintendolife.com/news/2025/11/icymi-metroid-prime-4-beyond-estimated-switch-2-and-switch-file-size-revealed)
-* 📰 [20 years of Xbox Achievements - view your personal Xbox Story here! - TrueAch...](https://www.trueachievements.com/news/see-your-xbox-story)
-* 📰 [Microsoft Open Sources Zork I, II And III - Hackaday](https://hackaday.com/2025/11/21/microsoft-open-sources-zork-i-ii-and-iii/)
+* 📰 [Google AI Has Erased Avengers: Doomsday, Fortnite And More Leaks Overnight - ...](https://www.forbes.com/sites/paultassi/2025/11/22/google-ai-has-erased-avengers-doomsday-fortnite-and-more-leaks-overnight/)
+* 📰 [Xbox Black Friday Sale 2025: Games at their lowest-ever price - TrueAchievements](https://www.trueachievements.com/news/xbox-black-friday-sale-2025-games-at-their-lowest-ever-price)
+* 📰 [Ubisoft announces AI "experiment" Teammates - a playable research project tha...](https://www.eurogamer.net/ubisoft-announces-ai-experiment-teammates-a-playable-research-project-thats-more-than-just-talk)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-23 12:48 </sub>
+  <sub>Last updated: Last updated: 2025-11-23 18:36 </sub>
 </div>
 
