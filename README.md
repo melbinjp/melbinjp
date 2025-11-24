@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Super Mario And Zelda Games Are 50% Off In Amazon's Black Friday Sale - GameSpot](https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/)
-* 📰 [Resident Evil Requiem's Switch 2 Physical Release Includes A Lenticular Editi...](https://www.nintendolife.com/news/2025/11/resident-evil-requiems-switch-2-physical-release-includes-a-lenticular-edition)
-* 📰 [Amazon Chose Market Share Over Margins, AirPods Pro 3 Crash to Record Low Day...](https://kotaku.com/amazon-chose-market-share-over-margins-airpods-pro-3-crash-to-record-low-days-after-launch-2000646557)
+* 📰 [Pokémon GO Events This Week: November 24 to November 30, 2025 - Pokémon GO Hub](https://pokemongohub.net/post/event/pokemon-go-events-this-week-november-24-to-november-30-2025/)
+* 📰 [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday - The...](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025)
+* 📰 [Nintendo's 2025 Black Friday Sale is Officially Live - IGN](https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-24 12:58 </sub>
+  <sub>Last updated: Last updated: 2025-11-24 18:40 </sub>
 </div>
 
