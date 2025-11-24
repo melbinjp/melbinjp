@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 6 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -118,12 +118,12 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_2100.jpg" alt="The Observable Universe" 
+  <a href="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg" alt="Apep: Unusual Dust Shells from Webb" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>The Observable Universe</em> • NASA APOD</p>
+<p align="center"><em>Apep: Unusual Dust Shells from Webb</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Elon Musk's X rolls out feature that shows users' country of origin – then su...](https://mashable.com/article/elon-musk-x-rolls-out-country-of-origin-profiles-then-removes-it)
 * 📰 [Black Friday 2025 deals on gadgets from Amazon, Apple, Bose and more are here...](https://tech.yahoo.com/deals/article/black-friday-2025-deals-on-gadgets-from-amazon-apple-bose-and-more-are-here-at-some-of-the-lowest-prices-of-the-year-225134618.html)
 * 📰 [Astro Bot DualSense Controller Is Down to Its Lowest Price Ever for Black Fri...](https://www.ign.com/articles/astro-bot-dualsense-controller-deal-black-friday-2025)
-* 📰 [Microsoft could be forced into raising the price of Xbox consoles again given...](https://www.eurogamer.net/microsoft-could-be-forced-into-raising-the-price-of-xbox-consoles-again-given-global-ram-shortage-leaker-claims)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-24 02:18 </sub>
+  <sub>Last updated: Last updated: 2025-11-24 06:41 </sub>
 </div>
 
