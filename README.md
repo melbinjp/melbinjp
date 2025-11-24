@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google AI Has Erased Avengers: Doomsday, Fortnite And More Leaks Overnight - ...](https://www.forbes.com/sites/paultassi/2025/11/22/google-ai-has-erased-avengers-doomsday-fortnite-and-more-leaks-overnight/)
-* 📰 [Xbox Black Friday Sale 2025: Games at their lowest-ever price - TrueAchievements](https://www.trueachievements.com/news/xbox-black-friday-sale-2025-games-at-their-lowest-ever-price)
-* 📰 [Ubisoft announces AI "experiment" Teammates - a playable research project tha...](https://www.eurogamer.net/ubisoft-announces-ai-experiment-teammates-a-playable-research-project-thats-more-than-just-talk)
+* 📰 [Black Friday 2025 deals on gadgets from Amazon, Apple, Bose and more are here...](https://tech.yahoo.com/deals/article/black-friday-2025-deals-on-gadgets-from-amazon-apple-bose-and-more-are-here-at-some-of-the-lowest-prices-of-the-year-225134618.html)
+* 📰 [Astro Bot DualSense Controller Is Down to Its Lowest Price Ever for Black Fri...](https://www.ign.com/articles/astro-bot-dualsense-controller-deal-black-friday-2025)
+* 📰 [Microsoft could be forced into raising the price of Xbox consoles again given...](https://www.eurogamer.net/microsoft-could-be-forced-into-raising-the-price-of-xbox-consoles-again-given-global-ram-shortage-leaker-claims)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-23 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-11-24 02:18 </sub>
 </div>
 
