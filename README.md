@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Elon Musk's X rolls out feature that shows users' country of origin – then su...](https://mashable.com/article/elon-musk-x-rolls-out-country-of-origin-profiles-then-removes-it)
-* 📰 [Black Friday 2025 deals on gadgets from Amazon, Apple, Bose and more are here...](https://tech.yahoo.com/deals/article/black-friday-2025-deals-on-gadgets-from-amazon-apple-bose-and-more-are-here-at-some-of-the-lowest-prices-of-the-year-225134618.html)
-* 📰 [Astro Bot DualSense Controller Is Down to Its Lowest Price Ever for Black Fri...](https://www.ign.com/articles/astro-bot-dualsense-controller-deal-black-friday-2025)
+* 📰 [Super Mario And Zelda Games Are 50% Off In Amazon's Black Friday Sale - GameSpot](https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/)
+* 📰 [Resident Evil Requiem's Switch 2 Physical Release Includes A Lenticular Editi...](https://www.nintendolife.com/news/2025/11/resident-evil-requiems-switch-2-physical-release-includes-a-lenticular-edition)
+* 📰 [Amazon Chose Market Share Over Margins, AirPods Pro 3 Crash to Record Low Day...](https://kotaku.com/amazon-chose-market-share-over-margins-airpods-pro-3-crash-to-record-low-days-after-launch-2000646557)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-24 06:41 </sub>
+  <sub>Last updated: Last updated: 2025-11-24 12:58 </sub>
 </div>
 
