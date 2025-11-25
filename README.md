@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [A Couple Of New DOS PCs Appear - Hackaday](https://hackaday.com/2025/11/23/a-couple-of-new-dos-pcs-appear/)
-* 📰 [Google denies analyzing your emails for AI training - here's what happened - ...](https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/)
-* 📰 [Save Over 20% On Black Myth Wukong at Amazon For Black Friday - IGN](https://www.ign.com/articles/black-myth-wukong-deal-at-amazon-for-black-friday-2025)
+* 📰 [Best Apple Black Friday deals live now — AirPods, MacBooks, iPads and more fr...](https://www.tomsguide.com/live/news/black-friday-apple-deals-2025)
+* 📰 [Expensive Batteries Hide Cheap Tricks - Hackaday](https://hackaday.com/2025/11/23/expensive-batteries-hide-cheap-tricks/)
+* 📰 [YouTuber exposes the most censored and surveilled Android phones in the world...](https://www.androidauthority.com/north-korean-smartphones-3618863/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-25 06:42 </sub>
+  <sub>Last updated: Last updated: 2025-11-25 12:57 </sub>
 </div>
 
