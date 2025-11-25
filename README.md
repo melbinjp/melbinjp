@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 6 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2025-11-18_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg" alt="Apep: Unusual Dust Shells from Webb" 
+  <a href="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_5008.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_5008.jpg" alt="Comet Lemmon and the Milky Way" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Apep: Unusual Dust Shells from Webb</em> • NASA APOD</p>
+<p align="center"><em>Comet Lemmon and the Milky Way</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [A Couple Of New DOS PCs Appear - Hackaday](https://hackaday.com/2025/11/23/a-couple-of-new-dos-pcs-appear/)
 * 📰 [Google denies analyzing your emails for AI training - here's what happened - ...](https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/)
-* 📰 [Metroid Prime 4: Beyond Demo Now Available At Switch 2 Kiosks (US) - Nintendo...](https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-demo-now-available-at-switch-2-kiosks-us)
-* 📰 [These 4-Cylinder Engines Make Power You'd Expect From A V8 - Jalopnik](https://www.jalopnik.com/2030364/powerful-four-cylinder-engines/)
+* 📰 [Save Over 20% On Black Myth Wukong at Amazon For Black Friday - IGN](https://www.ign.com/articles/black-myth-wukong-deal-at-amazon-for-black-friday-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-25 02:06 </sub>
+  <sub>Last updated: Last updated: 2025-11-25 06:42 </sub>
 </div>
 
