@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pokémon GO Events This Week: November 24 to November 30, 2025 - Pokémon GO Hub](https://pokemongohub.net/post/event/pokemon-go-events-this-week-november-24-to-november-30-2025/)
-* 📰 [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday - The...](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025)
-* 📰 [Nintendo's 2025 Black Friday Sale is Officially Live - IGN](https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2025)
+* 📰 [Google denies analyzing your emails for AI training - here's what happened - ...](https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/)
+* 📰 [Metroid Prime 4: Beyond Demo Now Available At Switch 2 Kiosks (US) - Nintendo...](https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-demo-now-available-at-switch-2-kiosks-us)
+* 📰 [These 4-Cylinder Engines Make Power You'd Expect From A V8 - Jalopnik](https://www.jalopnik.com/2030364/powerful-four-cylinder-engines/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-24 18:40 </sub>
+  <sub>Last updated: Last updated: 2025-11-25 02:06 </sub>
 </div>
 
