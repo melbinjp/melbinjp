@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Best Apple Black Friday deals live now — AirPods, MacBooks, iPads and more fr...](https://www.tomsguide.com/live/news/black-friday-apple-deals-2025)
-* 📰 [Expensive Batteries Hide Cheap Tricks - Hackaday](https://hackaday.com/2025/11/23/expensive-batteries-hide-cheap-tricks/)
-* 📰 [YouTuber exposes the most censored and surveilled Android phones in the world...](https://www.androidauthority.com/north-korean-smartphones-3618863/)
+* 📰 [Assassin's Creed Shadows Confirms Free Attack on Titan Crossover Quest for a ...](https://www.pushsquare.com/news/2025/11/assassins-creed-shadows-confirms-free-attack-on-titan-crossover-quest-for-a-limited-time)
+* 📰 [Best iPhone Black Friday deals — get iPhone 17, Apple Watch 11 and iPad for f...](https://www.tomsguide.com/phones/iphones/best-iphone-black-friday-deals-get-iphone-17-apple-watch-11-and-ipad-for-free-right-now)
+* 📰 [Former Rockstar Games staff were fired for sharing internal company messages ...](https://www.eurogamer.net/former-rockstar-games-staff-were-fired-for-sharing-internal-company-messages-on-an-employee-and-union-only-discord-server-new-report-suggests)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-25 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-11-25 18:40 </sub>
 </div>
 
