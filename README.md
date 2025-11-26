@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Switch 2 System Update 21.0.1 Is Now Live, Here Are The Full Patch N...](https://www.nintendolife.com/news/2025/11/nintendo-switch-2-system-update-21-0-1-is-now-live-here-are-the-full-patch-notes)
-* 📰 [Eight Nintendo Switch Exclusives Are 50% Off In Walmart's Black Friday Sale -...](https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/)
-* 📰 [RAM prices are so out of control that stores are selling it like lobster - Th...](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center)
+* 📰 [Every iPad Apple sells hit a new all-time low price for Black Friday - Macworld](https://www.macworld.com/article/1374180/best-ipad-black-friday-week-deals-2025.html)
+* 📰 [I'm a laptop expert and these 53+ Black Friday deals are the ones I’d recomme...](https://www.tomsguide.com/live/news/black-friday-laptop-deals)
+* 📰 [Google is looking to take over the desktop with Aluminium OS - Android Police](https://www.androidpolice.com/google-is-looking-to-take-over-the-desktop-with-aluminium-os/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-26 06:41 </sub>
+  <sub>Last updated: Last updated: 2025-11-26 12:59 </sub>
 </div>
 
