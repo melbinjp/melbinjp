@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Assassin's Creed Shadows Confirms Free Attack on Titan Crossover Quest for a ...](https://www.pushsquare.com/news/2025/11/assassins-creed-shadows-confirms-free-attack-on-titan-crossover-quest-for-a-limited-time)
-* 📰 [Best iPhone Black Friday deals — get iPhone 17, Apple Watch 11 and iPad for f...](https://www.tomsguide.com/phones/iphones/best-iphone-black-friday-deals-get-iphone-17-apple-watch-11-and-ipad-for-free-right-now)
-* 📰 [Former Rockstar Games staff were fired for sharing internal company messages ...](https://www.eurogamer.net/former-rockstar-games-staff-were-fired-for-sharing-internal-company-messages-on-an-employee-and-union-only-discord-server-new-report-suggests)
+* 📰 [Eight Nintendo Switch Exclusives Are 50% Off In Walmart's Black Friday Sale -...](https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/)
+* 📰 [RAM prices are so out of control that stores are selling it like lobster - Th...](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center)
+* 📰 [Best Black Friday TV deals 2025: Save up to $1,300 on OLED TVs - Mashable](https://mashable.com/article/best-early-black-friday-tv-deals-hisense-samsung-tcl-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-25 18:40 </sub>
+  <sub>Last updated: Last updated: 2025-11-26 02:06 </sub>
 </div>
 
