@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Every iPad Apple sells hit a new all-time low price for Black Friday - Macworld](https://www.macworld.com/article/1374180/best-ipad-black-friday-week-deals-2025.html)
-* 📰 [I'm a laptop expert and these 53+ Black Friday deals are the ones I’d recomme...](https://www.tomsguide.com/live/news/black-friday-laptop-deals)
-* 📰 [Google is looking to take over the desktop with Aluminium OS - Android Police](https://www.androidpolice.com/google-is-looking-to-take-over-the-desktop-with-aluminium-os/)
+* 📰 [The Nintendo Switch 2 just got a new update, and it seems to have finally fix...](https://www.eurogamer.net/the-nintendo-switch-2-just-got-a-new-update-and-it-seems-to-have-finally-fixed-a-troubling-bluetooth-issue)
+* 📰 [This officially licensed footwear from Crocs has been designed to look like a...](https://www.eurogamer.net/this-officially-licensed-footwear-from-crocs-has-been-designed-to-look-like-an-xbox-controller)
+* 📰 [PlayStation 5 Pro Consoles Are $100 Off for Black Friday 2025, and I Think It...](https://www.ign.com/articles/playstation-5-pro-console-best-deal-black-friday-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-26 12:59 </sub>
+  <sub>Last updated: Last updated: 2025-11-26 18:35 </sub>
 </div>
 
