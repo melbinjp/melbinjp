@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2025-11-18_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_5008.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/MilkyLemmon_Zixuan_5008.jpg" alt="Comet Lemmon and the Milky Way" 
+  <a href="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_5585.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_5585.jpg" alt="Globular Cluster M15 Deep Field" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Comet Lemmon and the Milky Way</em> • NASA APOD</p>
+<p align="center"><em>Globular Cluster M15 Deep Field</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Nintendo Switch 2 System Update 21.0.1 Is Now Live, Here Are The Full Patch N...](https://www.nintendolife.com/news/2025/11/nintendo-switch-2-system-update-21-0-1-is-now-live-here-are-the-full-patch-notes)
 * 📰 [Eight Nintendo Switch Exclusives Are 50% Off In Walmart's Black Friday Sale -...](https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/)
 * 📰 [RAM prices are so out of control that stores are selling it like lobster - Th...](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center)
-* 📰 [Best Black Friday TV deals 2025: Save up to $1,300 on OLED TVs - Mashable](https://mashable.com/article/best-early-black-friday-tv-deals-hisense-samsung-tcl-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-26 02:06 </sub>
+  <sub>Last updated: Last updated: 2025-11-26 06:41 </sub>
 </div>
 
