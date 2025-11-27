@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5 - The Verge](https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5)
-* 📰 [Destiny 3 in "Extremely Early Development" at Bungie, Leaker Claims - The Gam...](https://thegamepost.com/destiny-3-in-early-development-at-bungie-leaker/)
-* 📰 [Nintendo Expands Switch Online's NES And Game Boy Library With Four More Titl...](https://www.nintendolife.com/news/2025/11/nintendo-expands-switch-onlines-nes-and-game-boy-library-with-four-more-titles)
+* 📰 [Tech firm’s new CTO gets indicted; company then claims he was never CTO - Ars...](https://arstechnica.com/tech-policy/2025/11/tech-firms-new-cto-gets-indicted-company-then-claims-he-was-never-cto/)
+* 📰 [If you must get an art TV, get The Frame - The Verge](https://www.theverge.com/tech/829002/youre-buying-a-frame-tv-its-okay-to-cheap-out-a-little)
+* 📰 [ChatGPT and Copilot are being booted out of WhatsApp - theverge.com](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-27 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-11-27 18:37 </sub>
 </div>
 
