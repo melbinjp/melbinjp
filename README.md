@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_5585.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_5585.jpg" alt="Globular Cluster M15 Deep Field" 
+  <a href="https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes.jpg" alt="Portrait of NGC 1055" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Globular Cluster M15 Deep Field</em> • NASA APOD</p>
+<p align="center"><em>Portrait of NGC 1055</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Plex’s crackdown on free remote streaming access starts this week - Ars Technica](https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/)
-* 📰 [Spiking memory prices mean that it is once again a horrible time to build a P...](https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/)
-* 📰 [Wyze’s new security camera watches your yard from inside your home - The Verge](https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision)
+* 📰 [Octopath Traveler 0 details more companions, path actions, amity levels, part...](https://www.gematsu.com/2025/11/octopath-traveler-0-details-more-companions-path-actions-amity-levels-party-chat-and-adventures-at-sea)
+* 📰 [Nintendo Expands Switch Online's NES And Game Boy Library With Four More Titl...](https://www.nintendolife.com/news/2025/11/nintendo-expands-switch-onlines-nes-and-game-boy-library-with-four-more-titles)
+* 📰 [Early Black Friday Deals Today: Gaming Deals Across Nintendo Switch, PlayStat...](https://www.ign.com/articles/early-black-friday-deals-november-25)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-27 02:04 </sub>
+  <sub>Last updated: Last updated: 2025-11-27 06:42 </sub>
 </div>
 
