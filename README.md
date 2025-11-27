@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Octopath Traveler 0 details more companions, path actions, amity levels, part...](https://www.gematsu.com/2025/11/octopath-traveler-0-details-more-companions-path-actions-amity-levels-party-chat-and-adventures-at-sea)
+* 📰 [Qualcomm reveals its not-so-elite Snapdragon 8 Gen 5 - The Verge](https://www.theverge.com/news/828959/qualcomm-snapdragon-8-gen-5)
+* 📰 [Destiny 3 in "Extremely Early Development" at Bungie, Leaker Claims - The Gam...](https://thegamepost.com/destiny-3-in-early-development-at-bungie-leaker/)
 * 📰 [Nintendo Expands Switch Online's NES And Game Boy Library With Four More Titl...](https://www.nintendolife.com/news/2025/11/nintendo-expands-switch-onlines-nes-and-game-boy-library-with-four-more-titles)
-* 📰 [Early Black Friday Deals Today: Gaming Deals Across Nintendo Switch, PlayStat...](https://www.ign.com/articles/early-black-friday-deals-november-25)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-27 06:42 </sub>
+  <sub>Last updated: Last updated: 2025-11-27 12:57 </sub>
 </div>
 
