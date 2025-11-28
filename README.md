@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -118,12 +118,12 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes.jpg" alt="Portrait of NGC 1055" 
+  <a href="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_2048.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_2048.jpg" alt="NGC 6888: The Crescent Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Portrait of NGC 1055</em> • NASA APOD</p>
+<p align="center"><em>NGC 6888: The Crescent Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pokémon Legends Z-A Version 1.0.3 Is Now Live, Here Are The Full Patch Notes ...](https://www.nintendolife.com/news/2025/11/pokemon-legends-z-a-version-1-0-3-is-now-live-here-are-the-full-patch-notes)
 * 📰 [The Steam Machine Doesn't Even Have To Try - GameSpot](https://www.gamespot.com/articles/the-steam-machine-doesnt-even-have-to-try/1100-6536541/)
 * 📰 [Account Behind Viral AI GTA 6 Bait Claims It Was ‘Just A Joke’ - Kotaku](https://kotaku.com/account-behind-viral-ai-gta-6-bait-claims-it-was-just-a-joke-2000647720)
+* 📰 [Every Mario Switch Game on Sale During Black Friday This Year - IGN](https://www.ign.com/articles/mario-games-nintendo-switch-black-friday-deals-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-28 02:03 </sub>
+  <sub>Last updated: Last updated: 2025-11-28 06:41 </sub>
 </div>
 
