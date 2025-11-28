@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Steam Machine Doesn't Even Have To Try - GameSpot](https://www.gamespot.com/articles/the-steam-machine-doesnt-even-have-to-try/1100-6536541/)
-* 📰 [Account Behind Viral AI GTA 6 Bait Claims It Was ‘Just A Joke’ - Kotaku](https://kotaku.com/account-behind-viral-ai-gta-6-bait-claims-it-was-just-a-joke-2000647720)
-* 📰 [Every Mario Switch Game on Sale During Black Friday This Year - IGN](https://www.ign.com/articles/mario-games-nintendo-switch-black-friday-deals-2025)
+* 📰 [Pokémon GO Tour: Kalos 2026 – Global - Pokémon GO Hub](https://pokemongohub.net/post/event/pokemon-go-tour-kalos-2026-global/)
+* 📰 [Sony's 1000XM5 Is 2x Cheaper Than XM6, Brand Removes All Profit Margins for B...](https://gizmodo.com/sonys-1000xm5-is-2x-cheaper-than-xm6-brand-removes-all-profit-margins-for-black-friday-2000692495)
+* 📰 [Arc Raiders Is Discounted On PC Until December 1 - GameSpot](https://www.gamespot.com/articles/fanatical-arc-raiders-black-friday-deal/1100-6536437/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-28 06:41 </sub>
+  <sub>Last updated: Last updated: 2025-11-28 12:56 </sub>
 </div>
 
