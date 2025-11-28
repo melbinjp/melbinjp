@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Tech firm’s new CTO gets indicted; company then claims he was never CTO - Ars...](https://arstechnica.com/tech-policy/2025/11/tech-firms-new-cto-gets-indicted-company-then-claims-he-was-never-cto/)
-* 📰 [If you must get an art TV, get The Frame - The Verge](https://www.theverge.com/tech/829002/youre-buying-a-frame-tv-its-okay-to-cheap-out-a-little)
-* 📰 [ChatGPT and Copilot are being booted out of WhatsApp - theverge.com](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)
+* 📰 [Pokémon Legends Z-A Version 1.0.3 Is Now Live, Here Are The Full Patch Notes ...](https://www.nintendolife.com/news/2025/11/pokemon-legends-z-a-version-1-0-3-is-now-live-here-are-the-full-patch-notes)
+* 📰 [The Steam Machine Doesn't Even Have To Try - GameSpot](https://www.gamespot.com/articles/the-steam-machine-doesnt-even-have-to-try/1100-6536541/)
+* 📰 [Account Behind Viral AI GTA 6 Bait Claims It Was ‘Just A Joke’ - Kotaku](https://kotaku.com/account-behind-viral-ai-gta-6-bait-claims-it-was-just-a-joke-2000647720)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-27 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-11-28 02:03 </sub>
 </div>
 
