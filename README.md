@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pokémon GO Tour: Kalos 2026 – Global - Pokémon GO Hub](https://pokemongohub.net/post/event/pokemon-go-tour-kalos-2026-global/)
-* 📰 [Sony's 1000XM5 Is 2x Cheaper Than XM6, Brand Removes All Profit Margins for B...](https://gizmodo.com/sonys-1000xm5-is-2x-cheaper-than-xm6-brand-removes-all-profit-margins-for-black-friday-2000692495)
-* 📰 [Arc Raiders Is Discounted On PC Until December 1 - GameSpot](https://www.gamespot.com/articles/fanatical-arc-raiders-black-friday-deal/1100-6536437/)
+* 📰 [LIVE: Nintendo Switch 2 gets first (small) wave of discounts - Creative Bloq](https://www.creativebloq.com/live/news/nintendo-switch-black-friday-2025)
+* 📰 [Ubisoft No Longer Plans to Release a Second Assassin's Creed Shadows Expansio...](https://www.ign.com/articles/ubisoft-no-longer-plans-to-release-a-second-assassins-creed-shadows-expansion)
+* 📰 [Live A Superyacht Life with Lavish Rewards - Rockstar Games](https://www.rockstargames.com/newswire/article/2583789kaao8aa/live-a-superyacht-life-with-lavish-rewards)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-28 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-11-28 18:37 </sub>
 </div>
 
