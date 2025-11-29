@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [I Found 60+ Anker Deals for Your Black Friday Haul - CNET](https://www.cnet.com/deals/best-black-friday-anker-deals-2025-11-27/)
-* 📰 [I just found the 13 best Black Friday laptop and computer deals so you don’t ...](https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2025-11-27)
-* 📰 [Google CEO says vibe coding has made software development 'so much more enjoy...](https://www.businessinsider.com/google-sundar-pichai-vibe-coding-software-development-exciting-again-2025-11)
+* 📰 [The Black Friday Gaming Deals Are Here. Shop Now and Save Big on PlayStation,...](https://www.cnet.com/deals/best-black-friday-gaming-deals-2025-11-28/)
+* 📰 [This $500 Dell Laptop Will Blow You Away, and It's Only This Cheap Today - WIRED](https://www.wired.com/story/dell-14-plus-black-friday-2025-1/)
+* 📰 [Walmart’s Black Friday laptop deals are wild this year — our TOP picks - Wind...](https://www.windowscentral.com/hardware/laptops/walmart-black-friday-laptop-deals)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-29 06:38 </sub>
+  <sub>Last updated: Last updated: 2025-11-29 12:52 </sub>
 </div>
 
