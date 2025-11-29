@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Black Friday Gaming Deals Are Here. Shop Now and Save Big on PlayStation,...](https://www.cnet.com/deals/best-black-friday-gaming-deals-2025-11-28/)
-* 📰 [This $500 Dell Laptop Will Blow You Away, and It's Only This Cheap Today - WIRED](https://www.wired.com/story/dell-14-plus-black-friday-2025-1/)
-* 📰 [Walmart’s Black Friday laptop deals are wild this year — our TOP picks - Wind...](https://www.windowscentral.com/hardware/laptops/walmart-black-friday-laptop-deals)
+* 📰 [LIVE: Nintendo Switch 2 bundle deals are the heroes of Black Friday so far - ...](https://www.creativebloq.com/live/news/nintendo-switch-black-friday-2025)
+* 📰 [Yes, Team Cherry is working on more Hollow Knight: Silksong, but is remaining...](https://www.eurogamer.net/team-cherry-hollow-knight-silksong-dlc-in-development)
+* 📰 [There’s one big problem with the iPhone Fold, and it’s almost the obvious one...](https://9to5mac.com/2025/11/28/theres-one-big-problem-with-the-iphone-fold-and-its-almost-the-obvious-one/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-29 12:52 </sub>
+  <sub>Last updated: Last updated: 2025-11-29 18:36 </sub>
 </div>
 
