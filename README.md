@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_2048.jpg" alt="NGC 6888: The Crescent Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc.jpg" alt="Moon Games" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>NGC 6888: The Crescent Nebula</em> • NASA APOD</p>
+<p align="center"><em>Moon Games</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google changes Gemini 3 Pro free access limits due to ‘high demand’ - 9to5Google](http://9to5google.com/2025/11/27/gemini-3-pro-free-limits/)
-* 📰 [The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday ...](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025)
-* 📰 [MacBook Air, Mac mini, and more hit new lows for Black Friday: from $479 - 9t...](https://9to5mac.com/2025/11/27/black-friday-new-lows-on-macbook-air-mac-mini-more/)
+* 📰 [I Found 60+ Anker Deals for Your Black Friday Haul - CNET](https://www.cnet.com/deals/best-black-friday-anker-deals-2025-11-27/)
+* 📰 [I just found the 13 best Black Friday laptop and computer deals so you don’t ...](https://www.cnn.com/cnn-underscored/deals/black-friday-laptop-computer-deals-2025-11-27)
+* 📰 [Google CEO says vibe coding has made software development 'so much more enjoy...](https://www.businessinsider.com/google-sundar-pichai-vibe-coding-software-development-exciting-again-2025-11)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-29 02:03 </sub>
+  <sub>Last updated: Last updated: 2025-11-29 06:38 </sub>
 </div>
 
