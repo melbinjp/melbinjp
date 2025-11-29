@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [LIVE: Nintendo Switch 2 gets first (small) wave of discounts - Creative Bloq](https://www.creativebloq.com/live/news/nintendo-switch-black-friday-2025)
-* 📰 [Ubisoft No Longer Plans to Release a Second Assassin's Creed Shadows Expansio...](https://www.ign.com/articles/ubisoft-no-longer-plans-to-release-a-second-assassins-creed-shadows-expansion)
-* 📰 [Live A Superyacht Life with Lavish Rewards - Rockstar Games](https://www.rockstargames.com/newswire/article/2583789kaao8aa/live-a-superyacht-life-with-lavish-rewards)
+* 📰 [Google changes Gemini 3 Pro free access limits due to ‘high demand’ - 9to5Google](http://9to5google.com/2025/11/27/gemini-3-pro-free-limits/)
+* 📰 [The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday ...](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025)
+* 📰 [MacBook Air, Mac mini, and more hit new lows for Black Friday: from $479 - 9t...](https://9to5mac.com/2025/11/27/black-friday-new-lows-on-macbook-air-mac-mini-more/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-28 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-11-29 02:03 </sub>
 </div>
 
