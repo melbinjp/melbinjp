@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [LIVE: Nintendo Switch 2 bundle deals are the heroes of Black Friday so far - ...](https://www.creativebloq.com/live/news/nintendo-switch-black-friday-2025)
-* 📰 [Yes, Team Cherry is working on more Hollow Knight: Silksong, but is remaining...](https://www.eurogamer.net/team-cherry-hollow-knight-silksong-dlc-in-development)
-* 📰 [There’s one big problem with the iPhone Fold, and it’s almost the obvious one...](https://9to5mac.com/2025/11/28/theres-one-big-problem-with-the-iphone-fold-and-its-almost-the-obvious-one/)
+* 📰 [I Found Over 60 Black Friday Anker Deals Worth Adding to Your Cart - CNET](https://www.cnet.com/deals/best-black-friday-anker-deals-2025-11-28/)
+* 📰 [Twelve South’s magnetic PowerBug charger is 20 percent off for Black Friday -...](https://www.theverge.com/gadgets/832416/black-friday-twelve-south-powerbug-wireless-charger-deal-sale-2025)
+* 📰 [I’m a laptop reviewer, and these are the Black Friday deals I’d shop—many are...](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-29 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-11-30 02:24 </sub>
 </div>
 
