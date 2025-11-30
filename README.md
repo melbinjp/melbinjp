@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Best Nintendo Deals for Black Friday 2025: Discounts on Switch Consoles, ...](https://www.ign.com/articles/nintendo-black-friday-2025-best-deals)
-* 📰 [You can pick up 32GB of DDR5 RAM with a whole PC for $999 for Black Friday - ...](https://www.theverge.com/gadgets/830678/black-friday-ibuypower-gaming-pc-5060ti-prebuilt-ddr5-ram-deal-sale-2025)
-* 📰 [Metroid Prime 4: Beyond Difficulty Settings Revealed By Nintendo - Nintendo Life](https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-difficulty-settings-revealed-by-nintendo)
+* 📰 [Is Nintendo Switch 2 On Sale For Black Friday? - IGN](https://www.ign.com/articles/black-friday-deals-nintendo-switch-2-consoles-bundles-where-to-buy)
+* 📰 [I'm tracking the best Black Friday TV deals LIVE — here are the can't-miss de...](https://www.tomsguide.com/tvs/live/were-tracking-the-best-black-friday-tv-deals-live-the-best-oled-mini-led-and-qd-oled-deals-from-samsung-sony-lg-and-more)
+* 📰 [iPhone Black Friday deals LIVE — here are the best offers I've found on iPhon...](https://www.tomsguide.com/sales-events/live/i-found-the-best-iphone-black-friday-deals-live-biggest-sales-right-now-on-iphone-17-iphone-17-pro-and-more)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-30 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-11-30 12:52 </sub>
 </div>
 
