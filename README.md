@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Is Nintendo Switch 2 On Sale For Black Friday? - IGN](https://www.ign.com/articles/black-friday-deals-nintendo-switch-2-consoles-bundles-where-to-buy)
-* 📰 [I'm tracking the best Black Friday TV deals LIVE — here are the can't-miss de...](https://www.tomsguide.com/tvs/live/were-tracking-the-best-black-friday-tv-deals-live-the-best-oled-mini-led-and-qd-oled-deals-from-samsung-sony-lg-and-more)
-* 📰 [iPhone Black Friday deals LIVE — here are the best offers I've found on iPhon...](https://www.tomsguide.com/sales-events/live/i-found-the-best-iphone-black-friday-deals-live-biggest-sales-right-now-on-iphone-17-iphone-17-pro-and-more)
+* 📰 [Black Friday MacBook deals are still LIVE: I'm tracking the lowest prices on ...](https://www.tomsguide.com/live/news/black-friday-macbook-deals-2025)
+* 📰 [The best Black Friday phone deals are still available with free devices and b...](https://www.businessinsider.com/guides/deals/black-friday-phone-deals-2025-11a)
+* 📰 [Shop rare Cyber Monday Apple deals with up to 47% off today 🍎 - USA Today](https://www.usatoday.com/story/shopping/2025/11/28/rare-amazon-black-friday-apple-deals-2025/87466861007/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-30 12:52 </sub>
+  <sub>Last updated: Last updated: 2025-11-30 18:36 </sub>
 </div>
 
