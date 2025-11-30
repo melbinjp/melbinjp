@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 3 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc.jpg" alt="Moon Games" 
+  <a href="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg" alt="The Surface of Titan from Huygens" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Moon Games</em> • NASA APOD</p>
+<p align="center"><em>The Surface of Titan from Huygens</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [I Found Over 60 Black Friday Anker Deals Worth Adding to Your Cart - CNET](https://www.cnet.com/deals/best-black-friday-anker-deals-2025-11-28/)
-* 📰 [Twelve South’s magnetic PowerBug charger is 20 percent off for Black Friday -...](https://www.theverge.com/gadgets/832416/black-friday-twelve-south-powerbug-wireless-charger-deal-sale-2025)
-* 📰 [I’m a laptop reviewer, and these are the Black Friday deals I’d shop—many are...](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)
+* 📰 [The Best Nintendo Deals for Black Friday 2025: Discounts on Switch Consoles, ...](https://www.ign.com/articles/nintendo-black-friday-2025-best-deals)
+* 📰 [You can pick up 32GB of DDR5 RAM with a whole PC for $999 for Black Friday - ...](https://www.theverge.com/gadgets/830678/black-friday-ibuypower-gaming-pc-5060ti-prebuilt-ddr5-ram-deal-sale-2025)
+* 📰 [Metroid Prime 4: Beyond Difficulty Settings Revealed By Nintendo - Nintendo Life](https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-difficulty-settings-revealed-by-nintendo)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-30 02:24 </sub>
+  <sub>Last updated: Last updated: 2025-11-30 06:39 </sub>
 </div>
 
