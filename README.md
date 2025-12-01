@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Pokémon TCG Mega Venusaur ex Premium Collection Box is at market value in...](https://mashable.com/article/black-friday-deal-2025-pokemon-mega-venusaur-ex-preorder)
-* 📰 [These Are The Best TV Deals This Black Friday Weekend - WIRED](https://www.wired.com/story/black-friday-tv-deals-2025-1/)
-* 📰 [Being hot is now a job requirement - Business Insider](https://www.businessinsider.com/getting-hot-job-requirement-ozempic-botox-looksmaxxing-2025-11)
+* 📰 [Cyber Monday Is Here and We’ve Found Some Amazing PlayStation, Xbox and Switc...](https://www.cnet.com/deals/best-cyber-monday-gaming-deals-2025-11-30/)
+* 📰 [This Early Cyber Monday Deal Cuts the 15-Inch M2 MacBook Air to 40% Off - Lif...](https://lifehacker.com/tech/m2-macbook-air-stacksocial-black-friday-early-cyber-monday-deal-2025)
+* 📰 [Best Cyber Monday smart glasses deals 2025: I found the biggest sales like Me...](https://www.zdnet.com/article/best-cyber-monday-smart-glasses-deals-2025-11-30/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-01 13:00 </sub>
+  <sub>Last updated: Last updated: 2025-12-01 18:45 </sub>
 </div>
 
