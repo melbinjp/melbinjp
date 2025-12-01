@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 4 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2511/Titan_Huygens_960.jpg" alt="The Surface of Titan from Huygens" 
+  <a href="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_4243.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_4243.jpg" alt="3I ATLAS: Tails of an Interstellar Comet" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>The Surface of Titan from Huygens</em> • NASA APOD</p>
+<p align="center"><em>3I ATLAS: Tails of an Interstellar Comet</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The best Black Friday noise-cancelling headphones deals still live: Sony, Bea...](https://mashable.com/article/best-black-friday-noise-cancelling-headphones-deals-2025-still-available)
-* 📰 [The HP OMEN MAX 16 RTX 5080 Gaming Laptop Drops to Just $1,899.99 for Black F...](https://www.ign.com/articles/hp-omen-max-16-rtx-5080-gaming-laptop-black-friday-deal-2025)
-* 📰 [Fortnite Chapter 7 Map For Season 1: All Map Changes - GameSpot](https://www.gamespot.com/gallery/fortnite-chapter-7-map-for-season-1-all-map-changes/2900-7288/)
+* 📰 [Fortnite Battle Pass Chapter 7 Season 1: All Skins And Other Rewards - GameSpot](https://www.gamespot.com/gallery/fortnite-battle-pass-chapter-7-season-1-all-skins-and-other-rewards/2900-7292/)
+* 📰 [More Switch Games Receive Compatibility Updates For Switch 2 - Nintendo Life](https://www.nintendolife.com/news/2025/11/more-switch-games-receive-compatibility-updates-for-switch-2)
+* 📰 [Adidas’ ‘Beautiful’ $75 Women’s Sneakers Are $24 for a Limited Time - Athlon ...](https://athlonsports.com/deals/adidas-womens-court-shoes-shop-simon-black-friday-2025-sale)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-01 02:33 </sub>
+  <sub>Last updated: Last updated: 2025-12-01 06:45 </sub>
 </div>
 
