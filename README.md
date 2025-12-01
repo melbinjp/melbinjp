@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Black Friday MacBook deals are still LIVE: I'm tracking the lowest prices on ...](https://www.tomsguide.com/live/news/black-friday-macbook-deals-2025)
-* 📰 [The best Black Friday phone deals are still available with free devices and b...](https://www.businessinsider.com/guides/deals/black-friday-phone-deals-2025-11a)
-* 📰 [Shop rare Cyber Monday Apple deals with up to 47% off today 🍎 - USA Today](https://www.usatoday.com/story/shopping/2025/11/28/rare-amazon-black-friday-apple-deals-2025/87466861007/)
+* 📰 [The best Black Friday noise-cancelling headphones deals still live: Sony, Bea...](https://mashable.com/article/best-black-friday-noise-cancelling-headphones-deals-2025-still-available)
+* 📰 [The HP OMEN MAX 16 RTX 5080 Gaming Laptop Drops to Just $1,899.99 for Black F...](https://www.ign.com/articles/hp-omen-max-16-rtx-5080-gaming-laptop-black-friday-deal-2025)
+* 📰 [Fortnite Chapter 7 Map For Season 1: All Map Changes - GameSpot](https://www.gamespot.com/gallery/fortnite-chapter-7-map-for-season-1-all-map-changes/2900-7288/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-11-30 18:36 </sub>
+  <sub>Last updated: Last updated: 2025-12-01 02:33 </sub>
 </div>
 
