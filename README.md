@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Fortnite Battle Pass Chapter 7 Season 1: All Skins And Other Rewards - GameSpot](https://www.gamespot.com/gallery/fortnite-battle-pass-chapter-7-season-1-all-skins-and-other-rewards/2900-7292/)
-* 📰 [More Switch Games Receive Compatibility Updates For Switch 2 - Nintendo Life](https://www.nintendolife.com/news/2025/11/more-switch-games-receive-compatibility-updates-for-switch-2)
-* 📰 [Adidas’ ‘Beautiful’ $75 Women’s Sneakers Are $24 for a Limited Time - Athlon ...](https://athlonsports.com/deals/adidas-womens-court-shoes-shop-simon-black-friday-2025-sale)
+* 📰 [The Pokémon TCG Mega Venusaur ex Premium Collection Box is at market value in...](https://mashable.com/article/black-friday-deal-2025-pokemon-mega-venusaur-ex-preorder)
+* 📰 [These Are The Best TV Deals This Black Friday Weekend - WIRED](https://www.wired.com/story/black-friday-tv-deals-2025-1/)
+* 📰 [Being hot is now a job requirement - Business Insider](https://www.businessinsider.com/getting-hot-job-requirement-ozempic-botox-looksmaxxing-2025-11)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-01 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-12-01 13:00 </sub>
 </div>
 
