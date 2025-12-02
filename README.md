@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Cyber Monday Is Here and We’ve Found Some Amazing PlayStation, Xbox and Switc...](https://www.cnet.com/deals/best-cyber-monday-gaming-deals-2025-11-30/)
-* 📰 [This Early Cyber Monday Deal Cuts the 15-Inch M2 MacBook Air to 40% Off - Lif...](https://lifehacker.com/tech/m2-macbook-air-stacksocial-black-friday-early-cyber-monday-deal-2025)
-* 📰 [Best Cyber Monday smart glasses deals 2025: I found the biggest sales like Me...](https://www.zdnet.com/article/best-cyber-monday-smart-glasses-deals-2025-11-30/)
+* 📰 [Anker’s Laptop Power Bank is $32 off for Cyber Monday, its biggest discount y...](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025)
+* 📰 [50+ of the best Cyber Monday TV deals: Samsung, LG, TCL, and Hisense at recor...](https://mashable.com/article/best-early-cyber-monday-tv-deals-still-available-2025)
+* 📰 [Best Cyber Monday noise-cancelling headphone deals 2025: Sony, Beats, Bose - ...](https://mashable.com/article/best-early-cyber-monday-noise-cancelling-headphones-deals-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-01 18:45 </sub>
+  <sub>Last updated: Last updated: 2025-12-02 02:08 </sub>
 </div>
 
