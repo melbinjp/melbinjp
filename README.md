@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Biggest Gran Turismo 7 Overhaul Yet in This Week's Spec 3 Update, Power Pack ...](https://www.pushsquare.com/news/2025/12/biggest-gran-turismo-7-overhaul-yet-in-this-weeks-spec-3-update-power-pack-dlc)
-* 📰 [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more - The...](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
-* 📰 [The Best Buy Cyber Monday Sale Has New, Exclusive Deals I Didn't See During B...](https://www.ign.com/articles/best-buy-cyber-monday-sale-best-deals-on-tvs-laptops-gaming-pcs-and-laptops)
+* 📰 [These Are The Best TV Deals This Cyber Monday - WIRED](https://www.wired.com/story/cyber-monday-tv-deals-2025/)
+* 📰 [Netflix kills casting from phones - The Verge](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)
+* 📰 [Best Cyber Monday iPad deals LIVE — iPad, iPad Air, iPad Pro and more - Tom's...](https://www.tomsguide.com/live/news/cyber-monday-apple-ipad-deals-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-02 06:42 </sub>
+  <sub>Last updated: Last updated: 2025-12-02 13:00 </sub>
 </div>
 
