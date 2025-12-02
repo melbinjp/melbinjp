@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [These Are The Best TV Deals This Cyber Monday - WIRED](https://www.wired.com/story/cyber-monday-tv-deals-2025/)
-* 📰 [Netflix kills casting from phones - The Verge](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)
-* 📰 [Best Cyber Monday iPad deals LIVE — iPad, iPad Air, iPad Pro and more - Tom's...](https://www.tomsguide.com/live/news/cyber-monday-apple-ipad-deals-2025)
+* 📰 [/dev: Ranked 2026 - League of Legends](https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-2026/)
+* 📰 [Minecraft 1.21.11 Pre-Release 4 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4)
+* 📰 [Best Cyber Monday 2025 deals at Best Buy: AirPods Max, Windows laptops, and m...](https://mashable.com/article/best-cyber-monday-best-buy-deals-live-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-02 13:00 </sub>
+  <sub>Last updated: Last updated: 2025-12-02 18:44 </sub>
 </div>
 
