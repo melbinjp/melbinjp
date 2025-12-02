@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 5 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 6 days ago_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,18 +112,18 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_4243.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_4243.jpg" alt="3I ATLAS: Tails of an Interstellar Comet" 
+  <a href="https://apod.nasa.gov/apod/image/2512/M77_Hubble_3681.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/M77_Hubble_3681.jpg" alt="M77: Spiral Galaxy with an Active Center" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>3I ATLAS: Tails of an Interstellar Comet</em> • NASA APOD</p>
+<p align="center"><em>M77: Spiral Galaxy with an Active Center</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Anker’s Laptop Power Bank is $32 off for Cyber Monday, its biggest discount y...](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025)
-* 📰 [50+ of the best Cyber Monday TV deals: Samsung, LG, TCL, and Hisense at recor...](https://mashable.com/article/best-early-cyber-monday-tv-deals-still-available-2025)
-* 📰 [Best Cyber Monday noise-cancelling headphone deals 2025: Sony, Beats, Bose - ...](https://mashable.com/article/best-early-cyber-monday-noise-cancelling-headphones-deals-2025)
+* 📰 [Biggest Gran Turismo 7 Overhaul Yet in This Week's Spec 3 Update, Power Pack ...](https://www.pushsquare.com/news/2025/12/biggest-gran-turismo-7-overhaul-yet-in-this-weeks-spec-3-update-power-pack-dlc)
+* 📰 [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more - The...](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
+* 📰 [The Best Buy Cyber Monday Sale Has New, Exclusive Deals I Didn't See During B...](https://www.ign.com/articles/best-buy-cyber-monday-sale-best-deals-on-tvs-laptops-gaming-pcs-and-laptops)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-02 02:08 </sub>
+  <sub>Last updated: Last updated: 2025-12-02 06:42 </sub>
 </div>
 
