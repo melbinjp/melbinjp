@@ -94,7 +94,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 6 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2025-11-26_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -118,12 +118,12 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/M77_Hubble_3681.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/M77_Hubble_3681.jpg" alt="M77: Spiral Galaxy with an Active Center" 
+  <a href="https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_8192.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_8192.jpg" alt="Visualization: Near a Black Hole and Disk" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>M77: Spiral Galaxy with an Active Center</em> • NASA APOD</p>
+<p align="center"><em>Visualization: Near a Black Hole and Disk</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [I'm tracking the best Cyber Monday Apple Watch deals LIVE! Biggest discounts ...](https://www.tomsguide.com/live/news/cyber-monday-apple-watch-deals-2025)
-* 📰 [LET IT DIE offline version announced - Gematsu](https://www.gematsu.com/2025/12/let-it-die-offline-version-announced)
-* 📰 [John Giannandrea to retire from Apple - Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
+* 📰 [Apple just named a new AI chief with Google and Microsoft expertise, as John ...](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/)
+* 📰 [PlayStation Store "End of Year" Sale Delivers Over 4,000 Discounted Items - M...](https://mp1st.com/news/playstation-store-end-of-year-sale-over-4000-discounted-items)
+* 📰 [When Will Apple Release iOS 26.2? - MacRumors](https://www.macrumors.com/2025/12/01/ios-26-2-release-date/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-03 02:08 </sub>
+  <sub>Last updated: Last updated: 2025-12-03 06:42 </sub>
 </div>
 
