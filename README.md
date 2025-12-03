@@ -64,15 +64,15 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 ## 🌟 Featured Projects
 
 <!-- FEATURED_PROJECTS_START -->
-### 🚀 [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance)
-A multi-threaded video surveillance system for capturing and processing video frames from multiple cameras.
-
-**Primary Tech:** `Python`
-
 ### 🚀 [jules-prompts](https://github.com/melbinjp/jules-prompts)
 A curated library of pre-made, machine-readable task prompts that let Jules (or any agent) — and humans — turn intent into production-grade work.
 
 **Primary Tech:** `HTML`
+
+### 🚀 [MultiCamSurveillance](https://github.com/melbinjp/MultiCamSurveillance)
+A multi-threaded video surveillance system for capturing and processing video frames from multiple cameras.
+
+**Primary Tech:** `Python`
 
 ### 🚀 [3d_modelview](https://github.com/melbinjp/3d_modelview)
 <h3>🎯 Professional 3D Model Viewer with Advanced Controls</h3>.
@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [December 2025 PS Plus Essential Games Available to Download Now - Push Square](https://www.pushsquare.com/news/2025/12/december-2025-ps-plus-essential-games-available-to-download-now)
-* 📰 [Steam Machine is a Dream Come True But There's Already a Massive Problem - GA...](https://www.gamingbible.com/news/platform/steam/steam-machine-dream-come-true-but-massive-problem-142343-20251201)
-* 📰 [Nintendo Announces 50th Maximus Cup Event For Tetris 99 - Nintendo Life](https://www.nintendolife.com/news/2025/12/nintendo-announces-50th-maximus-cup-event-for-tetris-99)
+* 📰 [Amazon Restocks Nintendo Switch 2 Mario Kart Bundle Deal - Save $50 While You...](https://www.gamespot.com/articles/nintendo-switch-2-mario-kart-console-bundle-is-discounted-for-cyber-monday/1100-6536599/)
+* 📰 [‘Destiny 2: Renegades’ Begins The Strangest ‘Star Wars’ Experiment To Date - ...](https://www.forbes.com/sites/paultassi/2025/12/02/destiny-2-renegades-begins-the-strangest-star-wars-experiment-to-date/)
+* 📰 [Fallout 76: Burning Springs Release Notes - Bethesda.net](https://bethesda.net/en/article/2tpInvSHR0w7C8GXqEEbrz/fallout-76-burning-springs-release-notes)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-03 13:00 </sub>
+  <sub>Last updated: Last updated: 2025-12-03 18:42 </sub>
 </div>
 
