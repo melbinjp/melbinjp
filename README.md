@@ -112,7 +112,7 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [/dev: Ranked 2026 - League of Legends](https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-2026/)
-* 📰 [Minecraft 1.21.11 Pre-Release 4 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4)
-* 📰 [Best Cyber Monday 2025 deals at Best Buy: AirPods Max, Windows laptops, and m...](https://mashable.com/article/best-cyber-monday-best-buy-deals-live-2025)
+* 📰 [I'm tracking the best Cyber Monday Apple Watch deals LIVE! Biggest discounts ...](https://www.tomsguide.com/live/news/cyber-monday-apple-watch-deals-2025)
+* 📰 [LET IT DIE offline version announced - Gematsu](https://www.gematsu.com/2025/12/let-it-die-offline-version-announced)
+* 📰 [John Giannandrea to retire from Apple - Apple](https://www.apple.com/newsroom/2025/12/john-giannandrea-to-retire-from-apple/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-02 18:44 </sub>
+  <sub>Last updated: Last updated: 2025-12-03 02:08 </sub>
 </div>
 
