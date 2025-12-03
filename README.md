@@ -134,9 +134,9 @@ A curated library of pre-made, machine-readable task prompts that let Jules (or 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple just named a new AI chief with Google and Microsoft expertise, as John ...](https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/)
-* 📰 [PlayStation Store "End of Year" Sale Delivers Over 4,000 Discounted Items - M...](https://mp1st.com/news/playstation-store-end-of-year-sale-over-4000-discounted-items)
-* 📰 [When Will Apple Release iOS 26.2? - MacRumors](https://www.macrumors.com/2025/12/01/ios-26-2-release-date/)
+* 📰 [December 2025 PS Plus Essential Games Available to Download Now - Push Square](https://www.pushsquare.com/news/2025/12/december-2025-ps-plus-essential-games-available-to-download-now)
+* 📰 [Steam Machine is a Dream Come True But There's Already a Massive Problem - GA...](https://www.gamingbible.com/news/platform/steam/steam-machine-dream-come-true-but-massive-problem-142343-20251201)
+* 📰 [Nintendo Announces 50th Maximus Cup Event For Tetris 99 - Nintendo Life](https://www.nintendolife.com/news/2025/12/nintendo-announces-50th-maximus-cup-event-for-tetris-99)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-03 06:42 </sub>
+  <sub>Last updated: Last updated: 2025-12-03 13:00 </sub>
 </div>
 
