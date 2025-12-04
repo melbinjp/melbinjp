@@ -112,18 +112,18 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_8192.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/BlackHoleViz_Schnittman_8192.jpg" alt="Visualization: Near a Black Hole and Disk" 
+  <a href="https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod.jpg" alt="Galaxies in the Furnace" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Visualization: Near a Black Hole and Disk</em> • NASA APOD</p>
+<p align="center"><em>Galaxies in the Furnace</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -135,8 +135,8 @@ A multi-threaded video surveillance system for capturing and processing video fr
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [The Switch 2 is still on sale at multiple retailers if you missed out during ...](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
-* 📰 [Steam Machine today, Steam Phones tomorrow - The Verge](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
-* 📰 [The Sims 4 Prairie Dreams Creator Kit Coming December 11th - Sims Community](https://simscommunity.info/2025/12/02/sims-4-prairie-dreams-creator-kit/)
+* 📰 [Testing shows why the Steam Machine’s 8GB of graphics RAM could be a problem ...](https://arstechnica.com/gadgets/2025/12/steamos-has-problems-with-8gb-gpus-but-valve-is-working-on-it/)
+* 📰 [Epic Games Store decides "at the last minute" not to distribute Horses - Game...](https://www.gamesindustry.biz/epic-games-store-decides-at-the-last-minute-not-to-distribute-horses)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-04 02:09 </sub>
+  <sub>Last updated: Last updated: 2025-12-04 06:42 </sub>
 </div>
 
