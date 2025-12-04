@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Amazon Restocks Nintendo Switch 2 Mario Kart Bundle Deal - Save $50 While You...](https://www.gamespot.com/articles/nintendo-switch-2-mario-kart-console-bundle-is-discounted-for-cyber-monday/1100-6536599/)
-* 📰 [‘Destiny 2: Renegades’ Begins The Strangest ‘Star Wars’ Experiment To Date - ...](https://www.forbes.com/sites/paultassi/2025/12/02/destiny-2-renegades-begins-the-strangest-star-wars-experiment-to-date/)
-* 📰 [Fallout 76: Burning Springs Release Notes - Bethesda.net](https://bethesda.net/en/article/2tpInvSHR0w7C8GXqEEbrz/fallout-76-burning-springs-release-notes)
+* 📰 [The Switch 2 is still on sale at multiple retailers if you missed out during ...](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
+* 📰 [Steam Machine today, Steam Phones tomorrow - The Verge](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
+* 📰 [The Sims 4 Prairie Dreams Creator Kit Coming December 11th - Sims Community](https://simscommunity.info/2025/12/02/sims-4-prairie-dreams-creator-kit/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-03 18:42 </sub>
+  <sub>Last updated: Last updated: 2025-12-04 02:09 </sub>
 </div>
 
