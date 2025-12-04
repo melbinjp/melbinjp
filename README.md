@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Switch 2 is still on sale at multiple retailers if you missed out during ...](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
-* 📰 [Android’s new ‘Call Reason’ flags important calls before you even pick up - T...](https://www.theverge.com/news/836838/android-beta-call-reason)
-* 📰 [Epic Games Store decides "at the last minute" not to distribute Horses - Game...](https://www.gamesindustry.biz/epic-games-store-decides-at-the-last-minute-not-to-distribute-horses)
+* 📰 [iPhone 17 Pro lost key Camera app feature that iPhone 16 Pro had - 9to5Mac](https://9to5mac.com/2025/12/03/iphone-17-pro-lost-key-camera-app-feature-that-iphone-16-pro-had/)
+* 📰 [Amazon Clears Out This Mac Mini Alternative Mini PC for Less Than Budget Earb...](https://kotaku.com/windows-11-mini-pc-clearance-mac-mini-alternative-2000649739)
+* 📰 [This keyboard and trackball combo are for the tinkerers - The Verge](https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-04 13:00 </sub>
+  <sub>Last updated: Last updated: 2025-12-04 18:43 </sub>
 </div>
 
