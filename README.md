@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [iPhone 17 Pro lost key Camera app feature that iPhone 16 Pro had - 9to5Mac](https://9to5mac.com/2025/12/03/iphone-17-pro-lost-key-camera-app-feature-that-iphone-16-pro-had/)
-* 📰 [Amazon Clears Out This Mac Mini Alternative Mini PC for Less Than Budget Earb...](https://kotaku.com/windows-11-mini-pc-clearance-mac-mini-alternative-2000649739)
-* 📰 [This keyboard and trackball combo are for the tinkerers - The Verge](https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic)
+* 📰 [This is how Google Fi’s new Web Calls and RCS system works, rolling out now -...](http://9to5google.com/2025/12/03/google-fi-web-calling-rcs/)
+* 📰 [Admins and defenders gird themselves against maximum-severity server vuln - A...](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/)
+* 📰 [Google shares 10 of its favorite Chrome extensions from 2025. - The Verge](https://www.theverge.com/news/837226/google-favorite-chrome-browser-extension-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-04 18:43 </sub>
+  <sub>Last updated: Last updated: 2025-12-05 02:09 </sub>
 </div>
 
