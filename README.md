@@ -112,18 +112,18 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod.jpg" alt="Galaxies in the Furnace" 
+  <a href="https://apod.nasa.gov/apod/image/2512/KXAnd.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/KXAnd.jpg" alt="The Bipolar Jets of KX Andromedae" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Galaxies in the Furnace</em> • NASA APOD</p>
+<p align="center"><em>The Bipolar Jets of KX Andromedae</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -135,8 +135,8 @@ A multi-threaded video surveillance system for capturing and processing video fr
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [This is how Google Fi’s new Web Calls and RCS system works, rolling out now -...](http://9to5google.com/2025/12/03/google-fi-web-calling-rcs/)
-* 📰 [Admins and defenders gird themselves against maximum-severity server vuln - A...](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/)
-* 📰 [Google shares 10 of its favorite Chrome extensions from 2025. - The Verge](https://www.theverge.com/news/837226/google-favorite-chrome-browser-extension-2025)
+* 📰 [Amazon Liquidates PlayStation's Elite Pro Controllers, DualSense Edge Selling...](https://kotaku.com/amazon-liquidates-playstations-elite-pro-controllers-dualsense-edge-selling-at-record-low-2000650140)
+* 📰 [Meta poaches Apple design exec Alan Dye to lead new creative studio in Realit...](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-05 02:09 </sub>
+  <sub>Last updated: Last updated: 2025-12-05 06:42 </sub>
 </div>
 
