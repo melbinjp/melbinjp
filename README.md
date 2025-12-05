@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Random: Samus Is Joined By Doom Slayer's Voice Actor In Metroid Prime 4 - Nin...](https://www.nintendolife.com/news/2025/12/random-samus-is-joined-by-doom-slayers-voice-actor-in-metroid-prime-4)
-* 📰 [Amazon Liquidates PlayStation's Elite Pro Controllers, DualSense Edge Selling...](https://kotaku.com/amazon-liquidates-playstations-elite-pro-controllers-dualsense-edge-selling-at-record-low-2000650140)
-* 📰 [Meta poaches Apple design exec Alan Dye to lead new creative studio in Realit...](https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/)
+* 📰 [Wreckreation maker Three Fields Entertainment puts whole studio on redundancy...](https://www.gamesindustry.biz/wreckreation-maker-three-fields-entertainment-puts-whole-studio-on-redundancy-notice)
+* 📰 [Tesla’s Wireless Phone Chargers: A Hardware and Software Wishlist - Not a Tes...](https://www.notateslaapp.com/news/3382/teslas-wireless-phone-chargers-a-hardware-and-software-wishlist)
+* 📰 [Nvidia’s new RTX 50-series GPU driver restores PhysX support for popular game...](https://www.theverge.com/news/838043/nvidia-rtx-50-series-physx-support-driver)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-05 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-12-05 18:37 </sub>
 </div>
 
