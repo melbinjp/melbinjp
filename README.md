@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a robust agent that transforms.
+The Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed a robust agent that transforms.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed a robust agent that transforms.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Here's your first look at the slick animation for Android’s NameDrop-style co...](https://www.androidauthority.com/android-name-drop-contact-sharing-animation-3623020/)
-* 📰 [Block all AI browsers for the foreseeable future: Gartner - theregister.com](https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/)
-* 📰 [I tried OpenAI staff's 6 tips to get more out of ChatGPT — and the model felt...](https://www.businessinsider.com/openai-staff-6-tips-chatgpt-model-smarter-2025-12)
+* 📰 [I tried Google’s prototype smart glasses and it almost made me forget about m...](https://www.cnn.com/2025/12/08/tech/google-glasses-ai-gemini)
+* 📰 [Bonus PS Plus Extra Game for December 2025 Available Now - Push Square](https://www.pushsquare.com/news/2025/12/bonus-ps-plus-extra-game-for-december-2025-available-now)
+* 📰 [Analogue is restocking its 4K N64 and making it more colorful - The Verge](https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-09 13:01 </sub>
+  <sub>Last updated: Last updated: 2025-12-09 18:38 </sub>
 </div>
 
