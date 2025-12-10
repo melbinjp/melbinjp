@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules.
+**Jules Endpoint Agent**.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed the Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Confirmed: Leon S. Kennedy is in Resident Evil Requiem, PlayStation Store Lea...](https://www.ign.com/articles/confirmed-leon-s-kennedy-is-in-resident-evil-requiem-playstation-store-leak-reveals)
-* 📰 [UK Charts: Metroid Prime 4 Debuts Behind Mario Kart World And EA Sports FC 26...](https://www.nintendolife.com/news/2025/12/uk-charts-metroid-prime-4-debuts-behind-mario-kart-world-and-ea-sports-fc-26)
-* 📰 [Your Google Play Points might be hiding a secret $200 Pixel 10 Pro discount -...](https://www.androidauthority.com/google-play-points-pixel-10-pro-200-dollar-discount-3623406/)
+* 📰 [Google rolling out Notification Organizer to Pixel - 9to5Google](http://9to5google.com/2025/12/09/google-pixel-notification-organizer/)
+* 📰 [Indiana Jones and the Great Circle update adds an outfit suitable to eat chil...](https://www.eurogamer.net/indiana-jones-and-the-great-circle-update-adds-an-outfit-suitable-to-eat-chilled-monkey-brains-in)
+* 📰 [PlayStation Wrap-Up 2025 Live Now, Get Your Gaming Stats for the Year - Push ...](https://www.pushsquare.com/news/2025/12/playstation-wrap-up-2025-live-now-get-your-gaming-stats-for-the-year)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-10 13:00 </sub>
+  <sub>Last updated: Last updated: 2025-12-10 18:40 </sub>
 </div>
 
