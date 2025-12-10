@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules.
+Developed the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Switch 2 System Update 21.1.0 Is Now Live, Here Are The Full Patch N...](https://www.nintendolife.com/news/2025/12/nintendo-switch-2-system-update-21-1-0-is-now-live-here-are-the-full-patch-notes)
-* 📰 [The best video games of 2025 - Mashable](https://mashable.com/article/best-video-games-of-2025)
-* 📰 [Ditching Spotify Has Been A Bleak Experience To Say The Least - aftermath.site](https://aftermath.site/cancel-spotify-wrapped-ai-ceo-apple-music/)
+* 📰 [Confirmed: Leon S. Kennedy is in Resident Evil Requiem, PlayStation Store Lea...](https://www.ign.com/articles/confirmed-leon-s-kennedy-is-in-resident-evil-requiem-playstation-store-leak-reveals)
+* 📰 [UK Charts: Metroid Prime 4 Debuts Behind Mario Kart World And EA Sports FC 26...](https://www.nintendolife.com/news/2025/12/uk-charts-metroid-prime-4-debuts-behind-mario-kart-world-and-ea-sports-fc-26)
+* 📰 [Your Google Play Points might be hiding a secret $200 Pixel 10 Pro discount -...](https://www.androidauthority.com/google-play-points-pixel-10-pro-200-dollar-discount-3623406/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-10 06:44 </sub>
+  <sub>Last updated: Last updated: 2025-12-10 13:00 </sub>
 </div>
 
