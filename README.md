@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **Jules.
+**Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Developed a **Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_3710.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_3710.jpg" alt="The Heart of the Soul Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2512/IC434NM.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/IC434NM.jpg" alt="The Horsehead Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>The Heart of the Soul Nebula</em> • NASA APOD</p>
+<p align="center"><em>The Horsehead Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Developed a **Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Nintendo Switch 2 System Update 21.1.0 Is Now Live, Here Are The Full Patch N...](https://www.nintendolife.com/news/2025/12/nintendo-switch-2-system-update-21-1-0-is-now-live-here-are-the-full-patch-notes)
+* 📰 [The best video games of 2025 - Mashable](https://mashable.com/article/best-video-games-of-2025)
 * 📰 [Ditching Spotify Has Been A Bleak Experience To Say The Least - aftermath.site](https://aftermath.site/cancel-spotify-wrapped-ai-ceo-apple-music/)
-* 📰 [Horses Review: A Fine Game That Should’ve Came And Went - Kotaku](https://kotaku.com/horses-review-steam-epic-games-ban-horror-ride-race-2000651442)
-* 📰 [Halo Infinite Is Four Years Old Today And It’s Bumming Me Out - Kotaku](https://kotaku.com/halo-infinite-campaign-master-chief-release-date-2000651439)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-10 02:11 </sub>
+  <sub>Last updated: Last updated: 2025-12-10 06:44 </sub>
 </div>
 
