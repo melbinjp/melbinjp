@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules.
+**Engineered the.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Galaxy S26 leak reveals Samsung’s big move into magnetic accessories - Androi...](https://www.androidauthority.com/samsung-galaxy-s26-magnetic-accessories-3623853/)
-* 📰 [Reminder: Virtual Boy For Switch And Switch 2 Are Available On The My Nintend...](https://www.nintendolife.com/news/2025/12/reminder-virtual-boy-for-switch-and-switch-2-are-available-on-the-my-nintendo-store)
-* 📰 [Call of Duty won’t release Modern Warfare or Black Ops back to back anymore -...](https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back)
+* 📰 [Two classic N64 platformers join Nintendo Switch Online later this month - Eu...](https://www.eurogamer.net/two-classic-n64-platformers-join-nintendo-switch-online-later-this-month)
+* 📰 [The Best Video Games of 2025 - The Ringer](https://www.theringer.com/2025/12/10/video-games/best-video-games-2025-top-10-ranking-games-of-the-year-goty)
+* 📰 [Amazon Bets on Color and AI With Its Priciest Kindle to Date - Bloomberg.com](https://www.bloomberg.com/news/features/2025-12-10/amazon-kindle-scribe-colorsoft-review-630-device-bets-big-on-ai-color-screen)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-11 13:02 </sub>
+  <sub>Last updated: Last updated: 2025-12-11 18:41 </sub>
 </div>
 
