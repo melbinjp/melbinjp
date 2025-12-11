@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+Developed the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Register for Last Vegas 2026 | Evo | The Ultimate Fighting Game Tournament - ...](https://evo.gg/register/)
+* 📰 [Galaxy S26 leak reveals Samsung’s big move into magnetic accessories - Androi...](https://www.androidauthority.com/samsung-galaxy-s26-magnetic-accessories-3623853/)
+* 📰 [Reminder: Virtual Boy For Switch And Switch 2 Are Available On The My Nintend...](https://www.nintendolife.com/news/2025/12/reminder-virtual-boy-for-switch-and-switch-2-are-available-on-the-my-nintendo-store)
 * 📰 [Call of Duty won’t release Modern Warfare or Black Ops back to back anymore -...](https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back)
-* 📰 [NSFW Game Cancels Steam Release Due To ‘Policy Requirements’ - Kotaku](https://kotaku.com/browndust2-nsfw-gacha-game-steam-release-cancel-policy-2000651817)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-11 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-12-11 13:02 </sub>
 </div>
 
