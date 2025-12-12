@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules Endpoint.
+Engineered the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -135,7 +135,7 @@ Engineered the Jules Endpoint.
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Nintendo Expands Switch 2 GameCube Library With Wario's 3D Outing - Nintendo ...](https://www.nintendolife.com/news/2025/12/nintendo-expands-switch-2-gamecube-library-with-warios-3d-outing)
-* 📰 [My Nintendo Store Adds A New Metroid Prime 4: Beyond Reward (North America) -...](https://www.nintendolife.com/news/2025/12/my-nintendo-store-adds-a-new-metroid-prime-4-beyond-reward-north-america)
+* 📰 [Routine Is Extremely Cool But Alas, I Am A Coward - aftermath.site](https://aftermath.site/routine-horror-game-impressions-review/)
 * 📰 [Spotify’s Prompted Playlists use AI to control your algorithm - The Verge](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-12 06:44 </sub>
+  <sub>Last updated: Last updated: 2025-12-12 12:59 </sub>
 </div>
 
