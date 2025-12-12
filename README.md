@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules.
+Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered the Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Engineered the Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Expands Switch 2 GameCube Library With Wario's 3D Outing - Nintendo ...](https://www.nintendolife.com/news/2025/12/nintendo-expands-switch-2-gamecube-library-with-warios-3d-outing)
-* 📰 [Routine Is Extremely Cool But Alas, I Am A Coward - aftermath.site](https://aftermath.site/routine-horror-game-impressions-review/)
-* 📰 [Spotify’s Prompted Playlists use AI to control your algorithm - The Verge](https://www.theverge.com/news/842053/spotify-ai-prompted-playlists)
+* 📰 [Introducing: The Parchie "Lunar-Time" Limited Editions For Hodinkee - Hodinkee](https://www.hodinkee.com/articles/the-parchie-lunar-time-limited-editions-for-hodinkee)
+* 📰 [Clair Obscur Wasn’t Just Good, It Was Also Cheap To Develop - Kotaku](https://kotaku.com/clair-obscur-expedition-33-budget-cost-goty-sandfall-2000652590)
+* 📰 [Disney Accuses Google of Using AI to Engage in Copyright Infringement on ‘Mas...](https://variety.com/2025/digital/news/disney-google-ai-copyright-infringement-cease-and-desist-letter-1236606429/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-12 12:59 </sub>
+  <sub>Last updated: Last updated: 2025-12-12 18:41 </sub>
 </div>
 
