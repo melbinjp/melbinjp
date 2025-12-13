@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent.
+Engineered a secure.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Introducing: The Parchie "Lunar-Time" Limited Editions For Hodinkee - Hodinkee](https://www.hodinkee.com/articles/the-parchie-lunar-time-limited-editions-for-hodinkee)
-* 📰 [Clair Obscur Wasn’t Just Good, It Was Also Cheap To Develop - Kotaku](https://kotaku.com/clair-obscur-expedition-33-budget-cost-goty-sandfall-2000652590)
-* 📰 [Disney Accuses Google of Using AI to Engage in Copyright Infringement on ‘Mas...](https://variety.com/2025/digital/news/disney-google-ai-copyright-infringement-cease-and-desist-letter-1236606429/)
+* 📰 [Game Awards 2025 live — latest reveals, announcements, trailers and all the w...](https://www.tomsguide.com/news/live/game-awards-2025-live-updates-and-reveals)
+* 📰 [Control 2 Is A Trippy Character Action Game Set In A Twisted NYC - Kotaku](https://kotaku.com/control-2-is-a-trippy-character-action-game-set-in-a-twisted-nyc-2000650168)
+* 📰 [Warlock: Dungeons and Dragons Is a New Single-Player RPG That Leans Into 'Exp...](https://www.ign.com/articles/warlock-dungeons-and-dragons-is-a-new-single-player-rpg-that-leans-into-expressive-magic-the-game-awards-2025)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-12 18:41 </sub>
+  <sub>Last updated: Last updated: 2025-12-13 02:05 </sub>
 </div>
 
