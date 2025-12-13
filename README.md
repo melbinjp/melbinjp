@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered a secure.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ Engineered a secure.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis.jpg" alt="Northern Fox Fires" 
+  <a href="https://apod.nasa.gov/apod/image/2512/art001e002132.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/art001e002132.jpg" alt="Orion and the Ocean of Storms" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Northern Fox Fires</em> • NASA APOD</p>
+<p align="center"><em>Orion and the Ocean of Storms</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Engineered a secure.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Game Awards 2025 live — latest reveals, announcements, trailers and all the w...](https://www.tomsguide.com/news/live/game-awards-2025-live-updates-and-reveals)
-* 📰 [Control 2 Is A Trippy Character Action Game Set In A Twisted NYC - Kotaku](https://kotaku.com/control-2-is-a-trippy-character-action-game-set-in-a-twisted-nyc-2000650168)
-* 📰 [Warlock: Dungeons and Dragons Is a New Single-Player RPG That Leans Into 'Exp...](https://www.ign.com/articles/warlock-dungeons-and-dragons-is-a-new-single-player-rpg-that-leans-into-expressive-magic-the-game-awards-2025)
+* 📰 [The Game Awards 2025 – Every Winner and Xbox Reveal Plus New Details on Contr...](https://news.xbox.com/en-us/2025/12/11/the-game-awards-2025-recap-every-winner-and-xbox-reveal/)
+* 📰 [Clair Obscur: Expedition 33's expansion is available right now, adding a phot...](https://www.eurogamer.net/clair-obscur-expedition-33s-expansion-is-available-right-now-adding-a-photo-mode-and-vibrant-new-world)
+* 📰 [Wildlight Entertainment announces free-to-play PvP first-person shooter Highg...](https://www.gematsu.com/2025/12/wildlight-entertainment-announces-free-to-play-pvp-first-person-shooter-highguard-for-ps5-xbox-series-and-pc)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-13 02:05 </sub>
+  <sub>Last updated: Last updated: 2025-12-13 06:40 </sub>
 </div>
 
