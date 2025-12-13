@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+Developed the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Game Awards 2025 – Every Winner and Xbox Reveal Plus New Details on Contr...](https://news.xbox.com/en-us/2025/12/11/the-game-awards-2025-recap-every-winner-and-xbox-reveal/)
-* 📰 [Clair Obscur: Expedition 33's expansion is available right now, adding a phot...](https://www.eurogamer.net/clair-obscur-expedition-33s-expansion-is-available-right-now-adding-a-photo-mode-and-vibrant-new-world)
-* 📰 [Wildlight Entertainment announces free-to-play PvP first-person shooter Highg...](https://www.gematsu.com/2025/12/wildlight-entertainment-announces-free-to-play-pvp-first-person-shooter-highguard-for-ps5-xbox-series-and-pc)
+* 📰 [Stand Against Mephisto: Pre-Purchase Lord of Hatred — Diablo IV - Blizzard News](https://news.blizzard.com/en-us/article/24247511/stand-against-mephisto-pre-purchase-lord-of-hatred)
+* 📰 [New Fantasy Shooter Highguard Announced From Former Titanfall Devs, Launching...](https://gameinformer.com/the-game-awards-2025/2025/12/11/new-fantasy-shooter-highguard-announced-from-former-titanfall-devs)
+* 📰 [Game Awards Declares ‘Clair Obscur: Expedition 33’ Game Of The Year – Complet...](http://deadline.com/2025/12/game-awards-2025-winners-list-1236646610/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-13 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-12-13 12:53 </sub>
 </div>
 
