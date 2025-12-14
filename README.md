@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules Endpoint.
+Engineered a.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered the Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ Engineered the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Porsche Just Unveiled a New 911 GT3 Inspired by Ferdinand Alexander Porsche H...](http://robbreport.com/motors/cars/porsche-911-gt3-ferdinand-alexander-porsche-1237410568/)
-* 📰 [With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the...](https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/)
-* 📰 [New Tomb Raider Games Recast Lara Croft With A Gaming Veteran - GameSpot](https://www.gamespot.com/articles/new-tomb-raider-games-recast-lara-croft-with-a-gaming-veteran/1100-6536948/)
+* 📰 [Video: Pragmata Hands-On Impressions Shared By Capcom - Nintendo Life](https://www.nintendolife.com/news/2025/12/video-pragmata-hands-on-impressions-shared-by-capcom)
+* 📰 [How OpenAI is using GPT-5 Codex to improve the AI tool itself - Ars Technica](https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/)
+* 📰 [Google Turns Ordinary Headphones Into Instant Language Interpreters - CNET](https://www.cnet.com/tech/mobile/google-turns-ordinary-headphones-into-instant-language-interpreters/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-14 06:39 </sub>
+  <sub>Last updated: Last updated: 2025-12-14 12:54 </sub>
 </div>
 
