@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered a.
+Engineers built the J.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered a.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ Engineered a.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Video: Pragmata Hands-On Impressions Shared By Capcom - Nintendo Life](https://www.nintendolife.com/news/2025/12/video-pragmata-hands-on-impressions-shared-by-capcom)
-* 📰 [How OpenAI is using GPT-5 Codex to improve the AI tool itself - Ars Technica](https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/)
-* 📰 [Google Turns Ordinary Headphones Into Instant Language Interpreters - CNET](https://www.cnet.com/tech/mobile/google-turns-ordinary-headphones-into-instant-language-interpreters/)
+* 📰 [Destiny 2 Equilibrium Loot Table: Dungeon Weapons and Armor - The Game Post](https://thegamepost.com/destiny-2-equilibrium-loot-table-dungeon/)
+* 📰 [Saturday Pre-orders: Era of Ruin special edition guaranteed stock - Warhammer...](https://www.warhammer-community.com/articles/wimoozuy/saturday-pre-orders-era-of-ruin-special-edition-guaranteed-stock)
+* 📰 [Early Buzz For ‘Highguard,’ The Game Awards Closer, Is Quite Poor - Forbes](https://www.forbes.com/sites/paultassi/2025/12/13/early-buzz-for-highguard-the-game-awards-closer-is-quite-poor/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-14 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-12-14 18:37 </sub>
 </div>
 
