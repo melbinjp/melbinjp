@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules.
+Developed the **.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Grok got crucial facts wrong about Bondi Beach shooting - TechCrunch](https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/)
-* 📰 [Ottocast launches new CarPlay AI Box plus wireless adapter with rear cabin mo...](https://9to5mac.com/2025/12/14/ottocast-launches-new-carplay-ai-box/)
-* 📰 [The Corvette ZR1 Won't Stop Breaking Lap Records: Video - Motor1.com](https://www.motor1.com/news/781678/corvette-zr1-track-record-canada/)
+* 📰 [Microsoft: December security updates cause Message Queuing failures - Bleepin...](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/)
+* 📰 [MSI MEG X870E Godlike X Edition Review - TechPowerUp](https://www.techpowerup.com/review/msi-meg-x870e-godlike-x-edition/)
+* 📰 [New Galaxy S23 update makes it more secure - SamMobile](https://www.sammobile.com/news/new-galaxy-s23-update-makes-it-more-secure/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-16 06:45 </sub>
+  <sub>Last updated: Last updated: 2025-12-16 13:01 </sub>
 </div>
 
