@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project develops.
+**Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ This project develops.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ This project develops.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Qi2 car chargers are the most convenient, yet frustrating Pixel 10 accessorie...](http://9to5google.com/2025/12/14/pixel-10-qi2-car-chargers/)
-* 📰 [I’m finally beginning to trust Microsoft’s handheld Xbox Allys - The Verge](https://www.theverge.com/games/843010/xbox-ally-x-sleep-battery-drain-two-months-later)
-* 📰 [iOS 26.2—Update Now Warning Issued To All iPhone Users - Forbes](https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/)
+* 📰 [Ottocast launches new CarPlay AI Box plus wireless adapter with rear cabin mo...](https://9to5mac.com/2025/12/14/ottocast-launches-new-carplay-ai-box/)
+* 📰 [Grok Is Glitching and Spewing Misinformation About The Bondi Beach Shooting -...](https://gizmodo.com/grok-is-glitching-and-spewing-misinformation-about-the-bondi-beach-shooting-2000699533)
+* 📰 [Sunday Preview – A brief pause ahead of Christmas - Warhammer Community](https://www.warhammer-community.com/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-15 18:42 </sub>
+  <sub>Last updated: Last updated: 2025-12-16 02:19 </sub>
 </div>
 
