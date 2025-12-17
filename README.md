@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the **Jules.
+The Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Engineered the **Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_2000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_2000.jpg" alt="Andromeda and Sprites over Australia" 
+  <a href="https://apod.nasa.gov/apod/image/2512/Soul_Horne_2048.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/Soul_Horne_2048.jpg" alt="W5: The Soul Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Andromeda and Sprites over Australia</em> • NASA APOD</p>
+<p align="center"><em>W5: The Soul Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Engineered the **Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Mario Kart World 1.4.1 update out now, patch notes - Nintendo Everything](https://nintendoeverything.com/mario-kart-world-1-4-1-update-out-now-patch-notes/)
-* 📰 [Holow Knight: Silksong – Sea of Sorrow DLC revealed - Nintendo Everything](https://nintendoeverything.com/holow-knight-silksong-sea-of-sorrow-dlc-revealed/)
-* 📰 [OpenAI’s Chief Communications Officer Is Leaving the Company - WIRED](https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/)
+* 📰 [Google rolling out update for original Pixel Buds Pro - 9to5Google](http://9to5google.com/2025/12/15/pixel-buds-pro-update-2025/)
+* 📰 [Hollow Knight: Silksong Expansion Coming 2026, Hollow Knight: Switch 2 Editio...](https://www.nintendolife.com/news/2025/12/hollow-knight-silksong-expansion-coming-2026-hollow-knight-switch-2-edition-also-announced)
+* 📰 [New Mous Pixel Watch 4 Charger is the first 3rd-party dock with ‘official’ ha...](http://9to5google.com/2025/12/15/mous-pixel-watch-4-charger/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-17 02:08 </sub>
+  <sub>Last updated: Last updated: 2025-12-17 06:44 </sub>
 </div>
 
