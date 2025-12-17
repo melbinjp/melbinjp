@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-The Jules Endpoint.
+Welcome to the Jules Endpoint Agent! This project provides a set of scripts and tools to turn any machine into a secure, remotely-accessible execut...
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ The Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ The Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Arc Raiders developer finally addresses theories over matchmaking, confirms p...](https://www.eurogamer.net/arc-raiders-developer-confirms-player-behaviour-is-factor-in-matchmaking)
+* 📰 [Hollow Knight: Silksong sells over 7m copies in three months - GamesIndustry.biz](https://www.gamesindustry.biz/hollow-knight-silksong-sells-over-7m-copies-in-three-months)
 * 📰 [Google rolling out update for original Pixel Buds Pro - 9to5Google](http://9to5google.com/2025/12/15/pixel-buds-pro-update-2025/)
-* 📰 [Hollow Knight: Silksong Expansion Coming 2026, Hollow Knight: Switch 2 Editio...](https://www.nintendolife.com/news/2025/12/hollow-knight-silksong-expansion-coming-2026-hollow-knight-switch-2-edition-also-announced)
-* 📰 [New Mous Pixel Watch 4 Charger is the first 3rd-party dock with ‘official’ ha...](http://9to5google.com/2025/12/15/mous-pixel-watch-4-charger/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-17 06:44 </sub>
+  <sub>Last updated: Last updated: 2025-12-17 13:01 </sub>
 </div>
 
