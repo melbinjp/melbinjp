@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Welcome to the Jules Endpoint Agent! This project provides a set of scripts and tools to turn any machine into a secure, remotely-accessible execut...
+Empower AI agents like.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Welcome to the Jules Endpoint Agent! This project provides a set of scripts and 
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Arc Raiders developer finally addresses theories over matchmaking, confirms p...](https://www.eurogamer.net/arc-raiders-developer-confirms-player-behaviour-is-factor-in-matchmaking)
-* 📰 [Hollow Knight: Silksong sells over 7m copies in three months - GamesIndustry.biz](https://www.gamesindustry.biz/hollow-knight-silksong-sells-over-7m-copies-in-three-months)
-* 📰 [Google rolling out update for original Pixel Buds Pro - 9to5Google](http://9to5google.com/2025/12/15/pixel-buds-pro-update-2025/)
+* 📰 [Larian is using generative AI, confirms CEO, but Divinity won't contain anyth...](https://www.eurogamer.net/larian-is-using-generative-ai-confirms-ceo-but-divinity-wont-contain-anything-ai-generated)
+* 📰 [The Steam Winter Sale Starts This Week And Includes Discounts On Hades II, Di...](https://gameinformer.com/psa/2025/12/16/the-steam-winter-sale-starts-this-week-and-includes-discounts-on-hades-ii-dispatch)
+* 📰 [Amazon’s Kindle Scribe Colorsoft won’t replace your notebook — or your Kindle...](https://www.theverge.com/tech/844673/amazon-kindle-scribe-colorsoft-review-ereader-eink-tablet)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-17 13:01 </sub>
+  <sub>Last updated: Last updated: 2025-12-17 18:43 </sub>
 </div>
 
