@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules.
+Developed the Jules Endpoint Agent,.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Arcade1Up isn’t dead, maybe - The Verge](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade)
-* 📰 [The Google app is intentionally replacing Pixel Launcher search - 9to5Google](http://9to5google.com/2025/12/16/pixel-launcher-search-google-app/)
-* 📰 [Alexa Plus’ website is live for some users - The Verge](https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live)
+* 📰 [Product of the Year Nominees - Pinkbike](https://www.pinkbike.com/news/2025-pinkbike-awards-product-of-the-year-nominees.html)
+* 📰 [Steam Replay 2025 shows that only 14% of all user playtime was spent playing ...](https://www.tweaktown.com/news/109388/steam-replay-2025-shows-that-only-14-percent-of-all-user-playtime-was-spent-playing-new-pc-games/index.html)
+* 📰 [Google swaps Pixel Launcher search for something worse - Android Police](https://www.androidpolice.com/google-swaps-pixel-launcher-search-for-something-worse/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-18 06:44 </sub>
+  <sub>Last updated: Last updated: 2025-12-18 12:59 </sub>
 </div>
 
