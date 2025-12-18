@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent empowers.
+Developed the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/Soul_Horne_2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/Soul_Horne_2048.jpg" alt="W5: The Soul Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz.jpg" alt="Jupiter and the Meteors from Gemini" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>W5: The Soul Nebula</em> • NASA APOD</p>
+<p align="center"><em>Jupiter and the Meteors from Gemini</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [BG3 studio Larian says it's using genAI for Divinity, but not 'looking at tri...](https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/)
-* 📰 [Hasselblad Is Replacing the Water Damaged Camera That Went Viral - PetaPixel](https://petapixel.com/2025/12/16/hasselblad-is-replacing-the-water-damaged-camera-that-went-viral/)
-* 📰 [Leaked debug kit suggests Apple is testing a new “iMac Pro,” among many other...](https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/)
+* 📰 [Arcade1Up isn’t dead, maybe - The Verge](https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade)
+* 📰 [The Google app is intentionally replacing Pixel Launcher search - 9to5Google](http://9to5google.com/2025/12/16/pixel-launcher-search-google-app/)
+* 📰 [Alexa Plus’ website is live for some users - The Verge](https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-18 02:09 </sub>
+  <sub>Last updated: Last updated: 2025-12-18 06:44 </sub>
 </div>
 
