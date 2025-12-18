@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Empower AI agents like.
+**Jules Endpoint Agent empowers.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Empower AI agents like.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Larian is using generative AI, confirms CEO, but Divinity won't contain anyth...](https://www.eurogamer.net/larian-is-using-generative-ai-confirms-ceo-but-divinity-wont-contain-anything-ai-generated)
-* 📰 [The Steam Winter Sale Starts This Week And Includes Discounts On Hades II, Di...](https://gameinformer.com/psa/2025/12/16/the-steam-winter-sale-starts-this-week-and-includes-discounts-on-hades-ii-dispatch)
-* 📰 [Amazon’s Kindle Scribe Colorsoft won’t replace your notebook — or your Kindle...](https://www.theverge.com/tech/844673/amazon-kindle-scribe-colorsoft-review-ereader-eink-tablet)
+* 📰 [BG3 studio Larian says it's using genAI for Divinity, but not 'looking at tri...](https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/)
+* 📰 [Hasselblad Is Replacing the Water Damaged Camera That Went Viral - PetaPixel](https://petapixel.com/2025/12/16/hasselblad-is-replacing-the-water-damaged-camera-that-went-viral/)
+* 📰 [Leaked debug kit suggests Apple is testing a new “iMac Pro,” among many other...](https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-17 18:43 </sub>
+  <sub>Last updated: Last updated: 2025-12-18 02:09 </sub>
 </div>
 
