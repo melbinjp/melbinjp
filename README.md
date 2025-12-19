@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+Developed the Jules Endpoint Agent,.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -135,8 +135,8 @@ A multi-threaded video surveillance system for capturing and processing video fr
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Sony’s legal battle against Tencent’s Horizon ‘clone’ is already over - The V...](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement)
-* 📰 [Google Pixel adds Samsung’s navigation button layout in latest Android 16 bet...](http://9to5google.com/2025/12/17/google-pixel-samsung-navigation-buttons-layout-beta/)
-* 📰 [LG and Dolby partner to release the first FlexConnect soundbar - The Verge](https://www.theverge.com/news/846608/lg-dolby-flexconnect-speakers-ces-2026)
+* 📰 [Google Pixel gets a slick new folder animation, other launcher UI tweaks - 9t...](http://9to5google.com/2025/12/17/android-16-qpr3-new-folder-animations/)
+* 📰 [LG's First Dolby FlexConnect Soundbar Lets You Place Speakers Anywhere - CNET](https://www.cnet.com/tech/home-entertainment/lgs-first-dolby-flexconnect-soundbar-lets-you-place-speakers-anywhere/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-19 06:42 </sub>
+  <sub>Last updated: Last updated: 2025-12-19 12:58 </sub>
 </div>
 
