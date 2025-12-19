@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent,.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent,.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Sony’s legal battle against Tencent’s Horizon ‘clone’ is already over - The V...](https://www.theverge.com/news/847080/sony-tencent-lawsuit-horizon-clone-light-of-motiram-settlement)
-* 📰 [Google Pixel gets a slick new folder animation, other launcher UI tweaks - 9t...](http://9to5google.com/2025/12/17/android-16-qpr3-new-folder-animations/)
-* 📰 [LG's First Dolby FlexConnect Soundbar Lets You Place Speakers Anywhere - CNET](https://www.cnet.com/tech/home-entertainment/lgs-first-dolby-flexconnect-soundbar-lets-you-place-speakers-anywhere/)
+* 📰 [Micron says memory shortage will ‘persist’ beyond 2026 - The Verge](https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings)
+* 📰 [The Futuristic New Progen Luiva Supercar Arrives for the Holidays in GTA Onli...](https://www.rockstargames.com/newswire/article/k47k7292o57229/the-futuristic-new-progen-luiva-supercar-arrives-for-the-holidays-in-g)
+* 📰 [What Car Never Lived Up To Its Potential? - Jalopnik](https://www.jalopnik.com/2055105/what-car-never-lived-up-to-potential-question/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-19 12:58 </sub>
+  <sub>Last updated: Last updated: 2025-12-19 18:40 </sub>
 </div>
 
