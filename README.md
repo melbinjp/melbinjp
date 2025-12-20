@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+This project transforms any machine into.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Micron says memory shortage will ‘persist’ beyond 2026 - The Verge](https://www.theverge.com/news/847344/micron-ram-memory-shortage-2026-earnings)
-* 📰 [The Futuristic New Progen Luiva Supercar Arrives for the Holidays in GTA Onli...](https://www.rockstargames.com/newswire/article/k47k7292o57229/the-futuristic-new-progen-luiva-supercar-arrives-for-the-holidays-in-g)
-* 📰 [What Car Never Lived Up To Its Potential? - Jalopnik](https://www.jalopnik.com/2055105/what-car-never-lived-up-to-potential-question/)
+* 📰 [Riot Has a Secret Plan to Remake Its ‘League of Legends’ Game - Bloomberg.com](https://www.bloomberg.com/news/articles/2025-12-18/riot-has-a-secret-plan-to-remake-its-league-of-legends-game)
+* 📰 [Oh snap, I have a new favorite phone grip - The Verge](https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip)
+* 📰 [Instagram wants to limit hashtag spam - The Verge](https://www.theverge.com/news/847739/instagram-hashtag-spam-limit)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-19 18:40 </sub>
+  <sub>Last updated: Last updated: 2025-12-20 02:05 </sub>
 </div>
 
