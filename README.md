@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+Engineered J.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [This Tool Can Tell You If Your Home Network Has Been Compromised - Lifehacker](https://lifehacker.com/tech/tool-checks-for-compromised-home-internet)
-* 📰 [Google releases factory, OTA images for second Pixel December 2025 update - 9...](http://9to5google.com/2025/12/19/second-pixel-december-2025-update/)
-* 📰 [NotebookLM now uses Gemini 3, adds new ‘Data Tables’ output - 9to5Google](http://9to5google.com/2025/12/19/notebooklm-gemini-3-data-tables/)
+* 📰 [Tomb Raider: Legacy of Atlantis has opened Pandora’s box with its free gift -...](https://www.trueachievements.com/news/tomb-raider-legacy-of-atlantis-lara-croft-outfits)
+* 📰 [Galaxy S26 Ultra Release Date: Samsung Flagship’s Disappointing Delay - Forbes](https://www.forbes.com/sites/ewanspence/2025/12/20/samsung-galaxy-s26-ultra-galaxy-s26-plus-galaxy-s26-launch-date-galaxy-unpacked-2026/)
+* 📰 [AI Image Generators Default to the Same 12 Photo Styles, Study Finds - Gizmodo](https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-21 12:54 </sub>
+  <sub>Last updated: Last updated: 2025-12-21 18:37 </sub>
 </div>
 
