@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Empowering AI agents like Jules.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,8 +123,8 @@ Empowering AI agents like Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Want to link from Google’s app store to your app? That’ll be $2–4 per install...](https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments)
 * 📰 [This Tool Can Tell You If Your Home Network Has Been Compromised - Lifehacker](https://lifehacker.com/tech/tool-checks-for-compromised-home-internet)
+* 📰 [Google releases factory, OTA images for second Pixel December 2025 update - 9...](http://9to5google.com/2025/12/19/second-pixel-december-2025-update/)
 * 📰 [NotebookLM now uses Gemini 3, adds new ‘Data Tables’ output - 9to5Google](http://9to5google.com/2025/12/19/notebooklm-gemini-3-data-tables/)
 <!-- FUTURE_INSIGHTS_END -->
 
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-21 06:40 </sub>
+  <sub>Last updated: Last updated: 2025-12-21 12:54 </sub>
 </div>
 
