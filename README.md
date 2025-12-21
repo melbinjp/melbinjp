@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Empowering AI agents.
+Empowering AI agents like Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,7 @@ Empowering AI agents.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217.jpeg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217.jpeg" alt="A Solstice Sun Tattoo" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>A Solstice Sun Tattoo</em> • NASA APOD</p>
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ Empowering AI agents.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Did a publisher’s slip-up reveal smaller Switch 2 cartridges? - The Verge](https://www.theverge.com/news/848462/nintendo-switch-2-smaller-cartridges-inin-games)
-* 📰 [New Pixel December 2025 update fixes battery drain, Pixel 10 touch issues [U]...](http://9to5google.com/2025/12/19/pixel-december-2025-update-patch/)
-* 📰 [Site News: Why We Won't Be Covering ModRetro Products Moving Forward - Time E...](https://www.timeextension.com/news/2025/12/site-news-why-we-wont-be-covering-modretro-products-moving-forward)
+* 📰 [Want to link from Google’s app store to your app? That’ll be $2–4 per install...](https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments)
+* 📰 [This Tool Can Tell You If Your Home Network Has Been Compromised - Lifehacker](https://lifehacker.com/tech/tool-checks-for-compromised-home-internet)
+* 📰 [NotebookLM now uses Gemini 3, adds new ‘Data Tables’ output - 9to5Google](http://9to5google.com/2025/12/19/notebooklm-gemini-3-data-tables/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-21 02:25 </sub>
+  <sub>Last updated: Last updated: 2025-12-21 06:40 </sub>
 </div>
 
