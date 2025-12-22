@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered J.
+**Engineered the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered J.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ Engineered J.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Tomb Raider: Legacy of Atlantis has opened Pandora’s box with its free gift -...](https://www.trueachievements.com/news/tomb-raider-legacy-of-atlantis-lara-croft-outfits)
-* 📰 [Galaxy S26 Ultra Release Date: Samsung Flagship’s Disappointing Delay - Forbes](https://www.forbes.com/sites/ewanspence/2025/12/20/samsung-galaxy-s26-ultra-galaxy-s26-plus-galaxy-s26-launch-date-galaxy-unpacked-2026/)
-* 📰 [AI Image Generators Default to the Same 12 Photo Styles, Study Finds - Gizmodo](https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012)
+* 📰 [The Best Deals Today: Nintendo Switch 2 + Mario Kart World Bundle, PS5 Pro, a...](https://www.ign.com/articles/best-deals-for-december-20-2025)
+* 📰 [Clair Obscur Is Having Its Indie Game Game Of The Year Award Stripped Away Du...](https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/)
+* 📰 [YouTube Music might be settling on this Now Playing redesign - 9to5Google](http://9to5google.com/2025/12/20/youtube-music-2025-now-playing-redesign/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-21 18:37 </sub>
+  <sub>Last updated: Last updated: 2025-12-22 02:24 </sub>
 </div>
 
