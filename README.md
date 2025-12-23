@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project **transforms**.
+Engineered the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ This project **transforms**.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ This project **transforms**.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [These 14 Facebook Moms Take Toxicity, Ignorance, And Inappropriateness To The...](https://www.buzzfeed.com/daniellaemanuel/facebook-moms-toxicity-fs)
-* 📰 [The Surface Laptop 7 is $699.99 [Deal Over] - Windows Central](https://www.windowscentral.com/hardware/surface/the-surface-laptop-7-with-a-snapdragon-x-elite-is-down-to-usd699-99-and-you-can-still-get-it-before-christmas)
-* 📰 [Bazzite explodes in usage — here’s why gamers are switching from Windows - Wi...](https://www.windowscentral.com/gaming/pc-gaming/gamers-are-installing-bazzite-instead-of-sticking-with-windows)
+* 📰 [MacBook Pro ‘overhaul’ launching as soon as next year: Here are five upgrades...](https://9to5mac.com/2025/12/21/apple-redesigned-macbook-pro-oled-touch-screen-2026-rumors/)
+* 📰 [Mazda's Suitcase Car Could've Had Us Playing Real-Life Mario Kart At The Airp...](https://www.jalopnik.com/2055770/mazda-suitcase-car-real-life-mario-kart/)
+* 📰 [Can Your USB-C Laptop Charger Also Charge Your Phone? - bgr.com](https://www.bgr.com/2054757/laptop-charger-usb-c-phone-compatible/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-22 18:41 </sub>
+  <sub>Last updated: Last updated: 2025-12-23 02:19 </sub>
 </div>
 
