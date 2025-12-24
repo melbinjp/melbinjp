@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules.
+**Jules Endpoint Agent**.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 ['Call of Duty' co-creator Vince Zampella dead at 55 - NBC News](https://www.nbcnews.com/news/obituaries/call-duty-co-creator-vince-zampella-dead-55-rcna250605)
+* 📰 [The latest Android figure is this awesome little 3D maze [Gallery] - 9to5Google](http://9to5google.com/2025/12/22/android-maze-figure-collectible/)
+* 📰 [Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC](https://www.bbc.com/news/articles/cx25rled0ylo)
 * 📰 [What’s new in Android’s December 2025 Google System Updates [U] - 9to5Google](http://9to5google.com/2025/12/22/december-2025-google-system-updates/)
-* 📰 [Protect 9 devices with this $16 ad blocker and lifetime access - Mashable](https://mashable.com/article/dec-22-adguard-family-plan-lifetime-subscription)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-24 06:46 </sub>
+  <sub>Last updated: Last updated: 2025-12-24 12:58 </sub>
 </div>
 
