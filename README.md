@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+Developed a **J.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Android Attacks—Google Confirms No Fix For 30% Of All Phones - Forbes](https://www.forbes.com/sites/zakdoffman/2025/12/22/android-attacks-google-confirms-no-fix-for-30-of-all-phones/)
-* 📰 [Nintendo News: Spread Nintendo Cheer with the Hits for the Holidays Sale! - B...](https://www.businesswire.com/news/home/20251222542446/en/Nintendo-News-Spread-Nintendo-Cheer-with-the-Hits-for-the-Holidays-Sale)
-* 📰 [The Best PS5 Games Of 2025 According To Metacritic - GameSpot](https://www.gamespot.com/gallery/the-best-ps5-games-of-2025-according-to-metacritic/2900-7358/)
+* 📰 [Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC](https://www.bbc.com/news/articles/cx25rled0ylo)
+* 📰 [ChatGPT’s yearly recap sums up your conversations with the chatbot - The Verge](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped)
+* 📰 [Proposed Magnetic Cloak Could Make Sensitive Tech Practically Invisible - Giz...](https://gizmodo.com/proposed-magnetic-cloak-could-make-sensitive-tech-practically-invisible-2000702571)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-23 18:41 </sub>
+  <sub>Last updated: Last updated: 2025-12-24 02:11 </sub>
 </div>
 
