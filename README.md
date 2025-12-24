@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **J.
+**Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Developed a **J.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1500.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1500.jpg" alt="Red Sprites and Circular Elves Lightning over Italy" 
+  <a href="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg" alt="Mystery: Little Red Dots in the Early Universe" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Red Sprites and Circular Elves Lightning over Italy</em> • NASA APOD</p>
+<p align="center"><em>Mystery: Little Red Dots in the Early Universe</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Developed a **J.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC](https://www.bbc.com/news/articles/cx25rled0ylo)
-* 📰 [ChatGPT’s yearly recap sums up your conversations with the chatbot - The Verge](https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped)
-* 📰 [Proposed Magnetic Cloak Could Make Sensitive Tech Practically Invisible - Giz...](https://gizmodo.com/proposed-magnetic-cloak-could-make-sensitive-tech-practically-invisible-2000702571)
+* 📰 ['Call of Duty' co-creator Vince Zampella dead at 55 - NBC News](https://www.nbcnews.com/news/obituaries/call-duty-co-creator-vince-zampella-dead-55-rcna250605)
+* 📰 [What’s new in Android’s December 2025 Google System Updates [U] - 9to5Google](http://9to5google.com/2025/12/22/december-2025-google-system-updates/)
+* 📰 [Protect 9 devices with this $16 ad blocker and lifetime access - Mashable](https://mashable.com/article/dec-22-adguard-family-plan-lifetime-subscription)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-24 02:11 </sub>
+  <sub>Last updated: Last updated: 2025-12-24 06:46 </sub>
 </div>
 
