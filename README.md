@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent**.
+This project provisions.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The latest Android figure is this awesome little 3D maze [Gallery] - 9to5Google](http://9to5google.com/2025/12/22/android-maze-figure-collectible/)
-* 📰 [Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC](https://www.bbc.com/news/articles/cx25rled0ylo)
-* 📰 [What’s new in Android’s December 2025 Google System Updates [U] - 9to5Google](http://9to5google.com/2025/12/22/december-2025-google-system-updates/)
+* 📰 [ChatGPT recapped your personal AI habits in 2025. Here's how to see yours. - ...](https://mashable.com/article/chatgpt-year-review-wrap-up-2025-how-to-view)
+* 📰 [Google Photos brings person and pet ‘face shortcuts’ back to search - 9to5Google](http://9to5google.com/2025/12/23/google-photos-brings-person-and-pet-face-shortcuts-back-to-search/)
+* 📰 [The Rumour Engine – 23rd of December - Warhammer Community](https://www.warhammer-community.com/articles/tvveavmu/the-rumour-engine-23rd-of-december)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-24 12:58 </sub>
+  <sub>Last updated: Last updated: 2025-12-24 18:39 </sub>
 </div>
 
