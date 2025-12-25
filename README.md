@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the **J.
+Developed the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the **J.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the **J.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - t...](https://www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/)
+* 📰 [UploadVR's Best of VR 2025 Awards – Game Of The Year, Hardware & Most Anticip...](https://www.uploadvr.com/best-of-vr-2025-awards/)
 * 📰 [IOI Delays James Bond Video Game '007: First Light' Release Date "To Further ...](http://deadline.com/2025/12/ioi-james-bond-video-game-007-first-light-release-date-1236656156/)
-* 📰 [The Best Tabletop RPGs Of 2025 - Game Informer](https://gameinformer.com/tabletop/2025/12/23/the-best-tabletop-rpgs-of-2025)
-* 📰 [Google rolling out Android 16 QPR3 Beta 1.1 patch - 9to5Google](http://9to5google.com/2025/12/23/android-16-qpr3-beta-1-1/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-25 06:44 </sub>
+  <sub>Last updated: Last updated: 2025-12-25 12:57 </sub>
 </div>
 
