@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules.
+Engineered the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed the Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - t...](https://www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/)
-* 📰 [UploadVR's Best of VR 2025 Awards – Game Of The Year, Hardware & Most Anticip...](https://www.uploadvr.com/best-of-vr-2025-awards/)
-* 📰 [IOI Delays James Bond Video Game '007: First Light' Release Date "To Further ...](http://deadline.com/2025/12/ioi-james-bond-video-game-007-first-light-release-date-1236656156/)
+* 📰 [Woman Suffers AI Psychosis After Obsessively Generating AI Images of Herself ...](http://futurism.com/health-medicine/ai-psychosis-startup-images)
+* 📰 [Grotmas Calendar Day 24 – Da Red Gobbo’s big heist - Warhammer Community](https://www.warhammer-community.com/articles/qskksauw/grotmas-calendar-day-24-da-red-gobbos-big-heist)
+* 📰 [The 10 Biggest Gaming Disappointments Of 2025 - Kotaku](https://kotaku.com/the-10-biggest-gaming-disappointments-worst-news-game-key-cards-gta-6-delay-2000655356)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-25 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-12-25 18:39 </sub>
 </div>
 
