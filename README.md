@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [AWS servers down: ARC Raiders, Fortnite, Rocket League, Epic Games - Full lis...](https://www.hindustantimes.com/world-news/us-news/aws-servers-down-arc-raiders-fortnite-rocket-league-epic-games-playstation-steam-embark-amazon-web-services-101766633418025.html)
-* 📰 [Nintendo bringing back various icons for 2025 releases - Nintendo Everything](https://nintendoeverything.com/nintendo-bringing-back-various-icons-for-2025-releases/)
-* 📰 [26 Totally Bonkers Language Facts We Learned In 2025 That Feel Made Up - Buzz...](https://www.buzzfeed.com/mjs538/2025-dictionary-facts)
+* 📰 [Got a new Google Pixel? Here are the first settings you should change - 9to5G...](http://9to5google.com/first-settings-to-change-on-a-new-google-pixel/)
+* 📰 [AI Boom Sparks RAM Crisis: PC and Phone Makers Slash Memory Specs - TipRanks](https://www.tipranks.com/news/ai-boom-sparks-ram-crisis-pc-and-phone-makers-slash-memory-specs)
+* 📰 [This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex - CNET](https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-26 12:57 </sub>
+  <sub>Last updated: Last updated: 2025-12-26 18:39 </sub>
 </div>
 
