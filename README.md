@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/IMG_7311.jpeg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/IMG_7311.jpeg" alt="Unicorn, Fox Fur and Christmas Tree" 
+  <a href="https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett.jpg" alt="3I/ATLAS Flyby" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Unicorn, Fox Fur and Christmas Tree</em> • NASA APOD</p>
+<p align="center"><em>3I/ATLAS Flyby</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [AWS servers down: ARC Raiders, Fortnite, Rocket League, Epic Games - Full lis...](https://www.hindustantimes.com/world-news/us-news/aws-servers-down-arc-raiders-fortnite-rocket-league-epic-games-playstation-steam-embark-amazon-web-services-101766633418025.html)
 * 📰 [26 Totally Bonkers Language Facts We Learned In 2025 That Feel Made Up - Buzz...](https://www.buzzfeed.com/mjs538/2025-dictionary-facts)
 * 📰 [Pixel Camera brings Photo Sphere-esque Panorama mode to Pixel 8 - 9to5Google](http://9to5google.com/2025/12/24/pixel-8-camera-new-panorama-mode/)
-* 📰 [New image sensor breaks optical limits - Phys.org](https://phys.org/news/2025-12-image-sensor-optical-limits.html)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-26 02:17 </sub>
+  <sub>Last updated: Last updated: 2025-12-26 06:43 </sub>
 </div>
 
