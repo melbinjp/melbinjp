@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Empower AI.
+**Engineered the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Empower AI.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Empower AI.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop ...](https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop)
-* 📰 [Motorola teases its first flagship slab smartphone in almost two years - Phon...](https://www.phonearena.com/news/motorola-teases-its-first-flagship-slab-smartphone-in-almost-two-years_id176890)
-* 📰 [Switch Online's 'Missions And Rewards' Brings Back Previous 2025 Icons - Nint...](https://www.nintendolife.com/news/2025/12/switch-onlines-missions-and-rewards-brings-back-previous-2025-icons)
+* 📰 [Philadelphia lacked bus-tracking signs. ‘Bus Stop Banksy’ stepped in. - The W...](https://www.washingtonpost.com/nation/interactive/2025/philadelphia-street-artist-bus-signs/)
+* 📰 [‘Focus, M’: What Is The New Meme Everyone Is Misusing? - Forbes](https://www.forbes.com/sites/paultassi/2025/12/27/focus-m-what-is-the-new-meme-everyone-is-misusing/)
+* 📰 [8 great games for your Steam Deck from 2025 - The Verge](https://www.theverge.com/entertainment/842024/steam-deck-best-games-2025-verified-playable-valve)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-28 12:56 </sub>
+  <sub>Last updated: Last updated: 2025-12-28 18:38 </sub>
 </div>
 
