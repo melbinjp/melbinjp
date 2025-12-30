@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Developed the Jules Endpoint.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/Crab_Chen_1920.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/Crab_Chen_1920.jpg" alt="M1: The Crab Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_3000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_3000.jpg" alt="An Artificial Comet" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>M1: The Crab Nebula</em> • NASA APOD</p>
+<p align="center"><em>An Artificial Comet</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Recap: New Pixel apps and major updates in 2025 - 9to5Google](http://9to5google.com/2025/12/28/pixel-apps-2025/)
-* 📰 [LG announces new UltraGear evo gaming monitors with AI upscaling - The Verge](https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling)
-* 📰 [You may soon be able to change your Gmail address - TechCrunch](https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/)
+* 📰 [KDE Plasma's Wayland Transition "Nears Completion" In Ending Out 2025 - Phoronix](https://www.phoronix.com/news/KDE-Plasma-2025-Wayland-Success)
+* 📰 [Microsoft Office 2019 drops to $29.97 for a lifetime Windows license - Mashable](https://mashable.com/article/dec-28-microsoft-office-professional-plus-2019-for-windows)
+* 📰 [You can use “sudo” on Windows 11 now — and it's more useful than I thought - ...](https://www.makeuseof.com/sudo-on-windows-11-more-useful-than-thought/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-30 02:20 </sub>
+  <sub>Last updated: Last updated: 2025-12-30 06:45 </sub>
 </div>
 
