@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project provisions secure, remotely.
+**Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ This project provisions secure, remotely.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_3000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2512/ArtificialComet_Chao_3000.jpg" alt="An Artificial Comet" 
+  <a href="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_4000.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_4000.jpg" alt="HH-222: The Waterfall Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>An Artificial Comet</em> • NASA APOD</p>
+<p align="center"><em>HH-222: The Waterfall Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ This project provisions secure, remotely.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Samsung’s Bixby reboot shows up early with Perplexity in tow - 9to5Google](http://9to5google.com/2025/12/29/samsungs-bixby-reboot-shows-up-early-with-perplexity-in-tow/)
-* 📰 [iOS 26 has three new iPhone features I’ve been really loving - 9to5Mac](https://9to5mac.com/2025/12/29/ios-26-has-three-new-iphone-features-ive-been-really-loving/)
-* 📰 [You Can Turn On Your iPhone's Flashlight Without Touching It - Here's How - b...](https://www.bgr.com/2062542/how-to-turn-on-iphone-flashlight-voice-command-guide/)
+* 📰 [What’s new in Android’s December 2025 Google System Updates [U] - 9to5Google](http://9to5google.com/2025/12/29/december-2025-google-system-updates/)
+* 📰 [Samsung’s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo](https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920)
+* 📰 [Billionaire Bill Koch Sells Banking Scion Paul Mellon’s Former Cape Cod House...](https://www.mansionglobal.com/articles/billionaire-bill-koch-sells-banking-scion-paul-mellons-former-cape-cod-house-for-20-million-1c863e5c)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2025-12-31 02:20 </sub>
+  <sub>Last updated: Last updated: 2025-12-31 06:45 </sub>
 </div>
 
