@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+Engineered the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The phone is dead. Long live . . . what exactly? - TechCrunch](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/)
-* 📰 [Google Chrome's Reading Mode on Android gets a huge revamp to make it more se...](https://www.androidpolice.com/google-chromes-reading-mode-on-android-gets-a-huge-revamp/)
-* 📰 [GTA 6, Resident Evil 9, AI and EA: Gaming trends to watch in 2026 - BBC](https://www.bbc.com/news/articles/cg5mennm6p2o)
+* 📰 [The Best Gadgets of December 2025 - Gizmodo](https://gizmodo.com/the-best-gadgets-of-december-2025-2000704366)
+* 📰 [Spread disease, chant choleric prayers, and cultivate Feculent Gnarlmaws with...](https://www.warhammer-community.com/articles/a5scea0v/spread-disease-chant-choleric-prayers-and-cultivate-feculent-gnarlmaws-with-battletome-maggotkin-of-nurgle)
+* 📰 [Samsung Galaxy S26 Ultra Hands-On Leak Reveals A New Camera Island Design - F...](https://www.forbes.com/sites/prakharkhanna/2025/12/31/samsung-galaxy-s26-ultra-hands-on-leak-reveals-a-massive-new-camera-island-design/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-01 12:58 </sub>
+  <sub>Last updated: Last updated: 2026-01-01 18:40 </sub>
 </div>
 
