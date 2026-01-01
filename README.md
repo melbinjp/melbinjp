@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Empower AI agents like.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Empower AI agents like.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nintendo Has Everything to Prove Again in 2026 - Bloomberg.com](https://www.bloomberg.com/news/newsletters/2025-12-30/nintendo-has-everything-to-prove-again-in-2026)
+* 📰 [The phone is dead. Long live . . . what exactly? - TechCrunch](https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/)
+* 📰 [Google Chrome's Reading Mode on Android gets a huge revamp to make it more se...](https://www.androidpolice.com/google-chromes-reading-mode-on-android-gets-a-huge-revamp/)
 * 📰 [GTA 6, Resident Evil 9, AI and EA: Gaming trends to watch in 2026 - BBC](https://www.bbc.com/news/articles/cg5mennm6p2o)
-* 📰 [2XKO appears to leak its console and Season 1 release date... again - EventHubs](https://www.eventhubs.com/news/2025/dec/30/2xko-release-date-leak/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-01 06:45 </sub>
+  <sub>Last updated: Last updated: 2026-01-01 12:58 </sub>
 </div>
 
