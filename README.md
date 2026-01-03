@@ -75,9 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**
-
-**J.
+Engineers autonomous AI agents.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -114,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -136,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Tipster reveals 10 spectacular upgrades for the Galaxy S26 Ultra - PhoneArena](https://www.phonearena.com/news/tipster-lists-10-upgrades-for-the-galaxy-s26-ultra_id176988)
-* 📰 [Remember when setting up a Windows PC didn’t feel like harassment? - The Verge](https://www.theverge.com/tech/852448/remember-when-setting-up-a-windows-pc-didnt-feel-like-harassment)
-* 📰 [Swansea man swaps personal trainer for AI and is 'strongest ever' - BBC](https://www.bbc.com/news/articles/c04vk5z92veo)
+* 📰 [A Pokémon-Inspired RPG More Than 20 Years In The Making Is Finally Heading To...](https://www.nintendolife.com/news/2026/01/a-pokemon-inspired-rpg-more-than-20-years-in-the-making-is-finally-heading-to-the-switch)
+* 📰 [A new Deux Ex isn't coming in 2026 as people in charge are "psychopaths", jok...](https://www.eurogamer.net/deus-ex-no-2026-people-in-charge-psychopaths)
+* 📰 [Gigabyte teasing AORUS flagship RTX 5090 graphics card launching at CES 2026 ...](https://videocardz.com/newz/gigabyte-teasing-aorus-flagship-rtx-5090-graphics-card-launching-at-ces-2026)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -165,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-03 06:41 </sub>
+  <sub>Last updated: Last updated: 2026-01-03 12:55 </sub>
 </div>
 
