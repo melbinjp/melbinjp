@@ -75,7 +75,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **J.
+**
+
+**J.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +114,18 @@ Developed a **J.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a.png" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a.png" alt="NanoSail-D2" 
+  <a href="https://apod.nasa.gov/apod/image/2601/moonwalk1.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2601/moonwalk1.jpg" alt="Full Moonlight" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>NanoSail-D2</em> • NASA APOD</p>
+<p align="center"><em>Full Moonlight</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +136,9 @@ Developed a **J.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Playmobil versus Lego: Which is the best USS Enterprise set? - Space](https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set)
-* 📰 [These AA batteries charge over USB-C and genuinely impressed me. - The Verge](https://www.theverge.com/gadgets/852436/aa-batteries-usb-c-lithium-ion-coast-zepath-titw)
-* 📰 [NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + N...](https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1)
+* 📰 [Tipster reveals 10 spectacular upgrades for the Galaxy S26 Ultra - PhoneArena](https://www.phonearena.com/news/tipster-lists-10-upgrades-for-the-galaxy-s26-ultra_id176988)
+* 📰 [Remember when setting up a Windows PC didn’t feel like harassment? - The Verge](https://www.theverge.com/tech/852448/remember-when-setting-up-a-windows-pc-didnt-feel-like-harassment)
+* 📰 [Swansea man swaps personal trainer for AI and is 'strongest ever' - BBC](https://www.bbc.com/news/articles/c04vk5z92veo)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +165,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-03 02:09 </sub>
+  <sub>Last updated: Last updated: 2026-01-03 06:41 </sub>
 </div>
 
