@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineers autonomous AI agents.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,7 @@ Engineers autonomous AI agents.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/moonwalk1.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/moonwalk1.jpg" alt="Full Moonlight" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Full Moonlight</em> • NASA APOD</p>
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ Engineers autonomous AI agents.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [A Pokémon-Inspired RPG More Than 20 Years In The Making Is Finally Heading To...](https://www.nintendolife.com/news/2026/01/a-pokemon-inspired-rpg-more-than-20-years-in-the-making-is-finally-heading-to-the-switch)
-* 📰 [A new Deux Ex isn't coming in 2026 as people in charge are "psychopaths", jok...](https://www.eurogamer.net/deus-ex-no-2026-people-in-charge-psychopaths)
-* 📰 [Gigabyte teasing AORUS flagship RTX 5090 graphics card launching at CES 2026 ...](https://videocardz.com/newz/gigabyte-teasing-aorus-flagship-rtx-5090-graphics-card-launching-at-ces-2026)
+* 📰 [Pebble’s round smartwatch is getting a reboot - The Verge](https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability)
+* 📰 [See the new and improved Captain Titus with free datasheets for the Wardens o...](https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar)
+* 📰 [Apple Announces New Fitness+ Workout Programs, Strava Challenge, and More - M...](https://www.macrumors.com/2026/01/02/apple-announces-new-fitness-workout-programs/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-03 12:55 </sub>
+  <sub>Last updated: Last updated: 2026-01-03 18:38 </sub>
 </div>
 
