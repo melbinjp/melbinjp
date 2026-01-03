@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Empower AI agents like Jules.
+Developed a **J.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Empower AI agents like Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Empower AI agents like Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [No iPhone 18 Launch This Year, Reports Suggest - MacRumors](https://www.macrumors.com/2026/01/01/no-iphone-18-launch-this-year/)
-* 📰 [ReactOS Starts 2026 With Another "Major Step" Toward Windows NT6 Compatibilit...](https://www.phoronix.com/news/ReactOS-Starts-2026)
-* 📰 [Announcing the New Year Warhammer Preview Live! 2026 – your first reveal show...](https://www.warhammer-community.com/articles/uzoe2wdo/announcing-the-new-year-warhammer-preview-live-2026-your-first-reveal-show-of-the-year)
+* 📰 [Playmobil versus Lego: Which is the best USS Enterprise set? - Space](https://www.space.com/entertainment/space-toys-lego/playmobil-versus-lego-which-is-the-best-uss-enterprise-set)
+* 📰 [These AA batteries charge over USB-C and genuinely impressed me. - The Verge](https://www.theverge.com/gadgets/852436/aa-batteries-usb-c-lithium-ion-coast-zepath-titw)
+* 📰 [NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + N...](https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-02 18:39 </sub>
+  <sub>Last updated: Last updated: 2026-01-03 02:09 </sub>
 </div>
 
