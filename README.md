@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Developed the Jules.
+**Jules Endpoint Agent transforms.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Benchmarking Windows Against Itself, From Windows XP To Windows 11 - Hackaday](https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/)
 * 📰 [MSI to launch ultra-wide MEG X QD-OLED gaming monitor at CES 2026 - VideoCard...](https://videocardz.com/pixel/msi-to-launch-ultra-wide-meg-x-qd-oled-gaming-monitor-at-ces-2026)
-* 📰 [Duolingo Used iPhone's Dynamic Island to Display Ads, Violating Apple Design ...](https://www.macrumors.com/2026/01/02/duolingo-dynamic-island-ad/)
-* 📰 [Can You Use An Amazon Fire TV Stick Without Internet? - bgr.com](https://www.bgr.com/2062805/can-you-use-amazon-fire-stick-without-internet/)
+* 📰 [Seller of Caribbean Mansion From ‘Too Hot to Handle’ Accepting $35 Million in...](https://www.mansionglobal.com/articles/seller-of-caribbean-mansion-from-too-hot-to-handle-accepting-35-million-in-crypto-121feaf8)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-04 06:42 </sub>
+  <sub>Last updated: Last updated: 2026-01-04 12:56 </sub>
 </div>
 
