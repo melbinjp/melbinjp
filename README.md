@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent transforms.
+Engineers built 'Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Benchmarking Windows Against Itself, From Windows XP To Windows 11 - Hackaday](https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/)
-* 📰 [MSI to launch ultra-wide MEG X QD-OLED gaming monitor at CES 2026 - VideoCard...](https://videocardz.com/pixel/msi-to-launch-ultra-wide-meg-x-qd-oled-gaming-monitor-at-ces-2026)
-* 📰 [Seller of Caribbean Mansion From ‘Too Hot to Handle’ Accepting $35 Million in...](https://www.mansionglobal.com/articles/seller-of-caribbean-mansion-from-too-hot-to-handle-accepting-35-million-in-crypto-121feaf8)
+* 📰 [Saturday Pre-orders – Corrupt the Mortal Realms with new Maggotkin of Nurgle ...](https://www.warhammer-community.com/articles/ppbl7t1t/saturday-pre-orders-corrupt-the-mortal-realms-with-new-maggotkin-of-nurgle)
+* 📰 [MSI RTX 5090 Lightning Z GPU has been leaked: dual 12V-2×6 power, massive 40 ...](https://videocardz.com/newz/msi-rtx-5090-lightning-gpu-has-been-leaked-dual-12v-2x6-power-massive-40-power-phase-design)
+* 📰 [‘Foldy Bird’ uses your foldable hinge to play Flappy Bird, and it hurts my so...](http://9to5google.com/2026/01/03/flappy-bird-clone-for-foldables/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-04 12:56 </sub>
+  <sub>Last updated: Last updated: 2026-01-04 18:39 </sub>
 </div>
 
