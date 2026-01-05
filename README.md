@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineers built 'Jules.
+Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineers built 'Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ Engineers built 'Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Saturday Pre-orders – Corrupt the Mortal Realms with new Maggotkin of Nurgle ...](https://www.warhammer-community.com/articles/ppbl7t1t/saturday-pre-orders-corrupt-the-mortal-realms-with-new-maggotkin-of-nurgle)
-* 📰 [MSI RTX 5090 Lightning Z GPU has been leaked: dual 12V-2×6 power, massive 40 ...](https://videocardz.com/newz/msi-rtx-5090-lightning-gpu-has-been-leaked-dual-12v-2x6-power-massive-40-power-phase-design)
-* 📰 [‘Foldy Bird’ uses your foldable hinge to play Flappy Bird, and it hurts my so...](http://9to5google.com/2026/01/03/flappy-bird-clone-for-foldables/)
+* 📰 [New year, smarter home: 7 AI-powered Kickstarter projects that actually solve...](https://www.ksl.com/article/51426946/new-year-smarter-home-7-ai-powered-kickstarter-projects-that-actually-solve-problems)
+* 📰 [Recap: A big 2025 for Google Keep, but what’s the future? - 9to5Google](http://9to5google.com/2026/01/03/recap-google-keep-2025/)
+* 📰 [You Must Stare Into the Heart of the $400 Million Machine - Gizmodo](https://gizmodo.com/you-must-stare-into-the-heart-of-the-400-million-machine-2000705100)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-04 18:39 </sub>
+  <sub>Last updated: Last updated: 2026-01-05 02:33 </sub>
 </div>
 
