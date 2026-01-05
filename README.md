@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent.
+**Engineered the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules Endpoint Agent.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ Developed the Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [New year, smarter home: 7 AI-powered Kickstarter projects that actually solve...](https://www.ksl.com/article/51426946/new-year-smarter-home-7-ai-powered-kickstarter-projects-that-actually-solve-problems)
-* 📰 [Recap: A big 2025 for Google Keep, but what’s the future? - 9to5Google](http://9to5google.com/2026/01/03/recap-google-keep-2025/)
-* 📰 [You Must Stare Into the Heart of the $400 Million Machine - Gizmodo](https://gizmodo.com/you-must-stare-into-the-heart-of-the-400-million-machine-2000705100)
+* 📰 [The Rare British Roadster That Helped Inspire The Mazda Miata - Jalopnik](https://www.jalopnik.com/2058949/rare-british-roadster-that-inspired-mazda-miata/)
+* 📰 [Alleged First Look at The Sims Project X Character Design - Sims Community](https://simscommunity.info/2026/01/04/the-sims-project-x-character-leak/)
+* 📰 [Surprise, surprise: Silksong wins Steam’s Game of the Year - The Verge](https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-05 02:33 </sub>
+  <sub>Last updated: Last updated: 2026-01-05 06:52 </sub>
 </div>
 
