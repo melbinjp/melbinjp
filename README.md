@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+**Jules Endpoint Agent**.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [LEAK: The Sims 4 Royalty & Legacy is The Next Expansion Pack Title - Sims Com...](https://simscommunity.info/2026/01/04/leak-the-sims-4-royalty-legacy-expansion/)
-* 📰 [ASUS launches ROG Swift 4th Gen Tandem OLED PG27UCWM and QD-OLED PG34WCDN mon...](https://videocardz.com/newz/asus-launches-rog-swift-4th-gen-tandem-oled-pg27ucwm-and-qd-oled-pg34wcdn-monitors)
-* 📰 [These are the best new MacBook Air and MacBook Pro deals in January so far - ...](https://9to5mac.com/2026/01/03/best-apple-macbook-deals-in-january-2026/)
+* 📰 [Sunday Preview – Captain Titus prepares to unify the 500 Worlds - Warhammer C...](https://www.warhammer-community.com/articles/ubw3jaeg/sunday-preview-captain-titus-prepares-to-unify-the-500-worlds)
+* 📰 [What To Expect From Nintendo in 2026 - IGN](https://www.ign.com/articles/what-to-expect-from-nintendo-in-2026)
+* 📰 [Belkin’s new 3-in-1 charging dock isn’t limited to the Apple Watch - The Verge](https://www.theverge.com/tech/849759/belkin-ultracharge-modular-charging-dock-pro-power-bank-10-magnetic-ring-smartwatch)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-05 13:03 </sub>
+  <sub>Last updated: Last updated: 2026-01-05 18:44 </sub>
 </div>
 
