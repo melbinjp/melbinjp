@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Engineered the Jules Endpoint.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Rare British Roadster That Helped Inspire The Mazda Miata - Jalopnik](https://www.jalopnik.com/2058949/rare-british-roadster-that-inspired-mazda-miata/)
-* 📰 [Alleged First Look at The Sims Project X Character Design - Sims Community](https://simscommunity.info/2026/01/04/the-sims-project-x-character-leak/)
-* 📰 [Surprise, surprise: Silksong wins Steam’s Game of the Year - The Verge](https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year)
+* 📰 [LEAK: The Sims 4 Royalty & Legacy is The Next Expansion Pack Title - Sims Com...](https://simscommunity.info/2026/01/04/leak-the-sims-4-royalty-legacy-expansion/)
+* 📰 [ASUS launches ROG Swift 4th Gen Tandem OLED PG27UCWM and QD-OLED PG34WCDN mon...](https://videocardz.com/newz/asus-launches-rog-swift-4th-gen-tandem-oled-pg27ucwm-and-qd-oled-pg34wcdn-monitors)
+* 📰 [These are the best new MacBook Air and MacBook Pro deals in January so far - ...](https://9to5mac.com/2026/01/03/best-apple-macbook-deals-in-january-2026/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-05 06:52 </sub>
+  <sub>Last updated: Last updated: 2026-01-05 13:03 </sub>
 </div>
 
