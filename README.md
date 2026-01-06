@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project develops a.
+**Jules Endpoint Agent empowers.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ This project develops a.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ This project develops a.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [CES 2026 Showcases the Future of TVs. Learn Which Display Tech Will Make the ...](https://www.cnet.com/tech/home-entertainment/forget-invisible-tvs-heres-the-display-tech-that-will-matter-at-ces-2026/)
-* 📰 [MSI Stealth 16 AI+ features Core Ultra 300 CPU and RTX 50 GPU - VideoCardz.com](https://videocardz.com/newz/msi-stealth-16-ai-features-core-ultra-300-cpu-and-rtx-50-gpu)
-* 📰 [‘Project Blackbird Was the Game I Had Waited My Entire Career to Create, and ...](https://wccftech.com/project-blackbird-was-the-game-i-had-waited-my-entire-career-to-create-says-ex-zos-founder/)
+* 📰 [Qualcomm’s next-gen Snapdragon X2 laptops are here — and they brought a new f...](https://www.theverge.com/tech/853851/qualcomm-snapdragon-x2-plus-elite-laptops-price-ces-2026)
+* 📰 [HP’s latest OmniBooks are getting chip bumps and OLED screens - The Verge](https://www.theverge.com/tech/854240/hp-omnibook-ultra-14-3-5-7-x-laptop-updates-ces-2026)
+* 📰 [Anker’s Eufy finally launches its first Android Find Hub tracker for $35 - 9t...](http://9to5google.com/2026/01/05/ankers-eufy-finally-launches-its-first-android-find-hub-tracker-for-35/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-06 13:01 </sub>
+  <sub>Last updated: Last updated: 2026-01-06 18:42 </sub>
 </div>
 
