@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+**Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Dell is eating humble pie and bringing back the XPS brand - The Verge](https://www.theverge.com/news/851047/dell-xps-14-16-13-laptops-brand-return-ces-2026)
-* 📰 [What on Earth is HP doing with its gaming laptop branding? - The Verge](https://www.theverge.com/tech/851812/hp-hyperx-omen-name-gaming-laptop-branding-ces-2026)
-* 📰 [Lego Smart Bricks Light Up With Jedi Magic In Coming Star Wars Set – and I'm ...](https://www.cnet.com/culture/entertainment/lego-smart-bricks-star-wars-set-ces-2026/)
+* 📰 [McDonald’s expected to bring back beloved childhood favorite in 2026 - thestr...](https://www.thestreet.com/restaurants/mcdonalds-brings-back-a-beloved-childhood-favorite-in-2026-pokemon-happy-meal)
+* 📰 [Xbox sale round-up January 6, 2026 - TrueAchievements](https://www.trueachievements.com/n61223/xbox-sale-roundup-january-6-2026)
+* 📰 [Why are more gamers than ever playing the 2000s classic RuneScape? - BBC](https://www.bbc.com/news/articles/c4g6g1z3160o)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-07 02:22 </sub>
+  <sub>Last updated: Last updated: 2026-01-07 06:46 </sub>
 </div>
 
