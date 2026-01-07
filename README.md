@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules.
+**Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [McDonald’s expected to bring back beloved childhood favorite in 2026 - thestr...](https://www.thestreet.com/restaurants/mcdonalds-brings-back-a-beloved-childhood-favorite-in-2026-pokemon-happy-meal)
-* 📰 [Xbox sale round-up January 6, 2026 - TrueAchievements](https://www.trueachievements.com/n61223/xbox-sale-roundup-january-6-2026)
-* 📰 [Why are more gamers than ever playing the 2000s classic RuneScape? - BBC](https://www.bbc.com/news/articles/c4g6g1z3160o)
+* 📰 [Nvidia’s GeForce Now is getting native Linux and Fire TV apps - The Verge](https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps)
+* 📰 [Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A proc...](https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/)
+* 📰 [Baby's got clack: HP pushes PC-in-a-keyboard for businesses with hot desks - ...](https://www.theregister.com/2026/01/06/hp_keyboard_pc/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-07 06:46 </sub>
+  <sub>Last updated: Last updated: 2026-01-07 13:03 </sub>
 </div>
 
