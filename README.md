@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Developed the Jules Endpoint Agent.
+**Jules Endpoint Agent**.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Nvidia’s GeForce Now is getting native Linux and Fire TV apps - The Verge](https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps)
-* 📰 [Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A proc...](https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/)
-* 📰 [Baby's got clack: HP pushes PC-in-a-keyboard for businesses with hot desks - ...](https://www.theregister.com/2026/01/06/hp_keyboard_pc/)
+* 📰 [Anker’s display-equipped Nano Charger is on sale following its CES debut - Th...](https://www.theverge.com/gadgets/855701/anker-45w-nano-charger-nothing-ear-open-earbuds-deal-sale)
+* 📰 [I tested Apple’s hands-free Home Key — and it’s a big upgrade - The Verge](https://www.theverge.com/tech/854757/aqara-u400-apple-home-key-hands-free-uwb)
+* 📰 [Amazon’s Ring doorbells get fire alerts, an app store and new sensors - TechC...](https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-07 13:03 </sub>
+  <sub>Last updated: Last updated: 2026-01-07 18:45 </sub>
 </div>
 
