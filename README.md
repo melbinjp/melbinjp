@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent empowers.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Qualcomm’s next-gen Snapdragon X2 laptops are here — and they brought a new f...](https://www.theverge.com/tech/853851/qualcomm-snapdragon-x2-plus-elite-laptops-price-ces-2026)
-* 📰 [HP’s latest OmniBooks are getting chip bumps and OLED screens - The Verge](https://www.theverge.com/tech/854240/hp-omnibook-ultra-14-3-5-7-x-laptop-updates-ces-2026)
-* 📰 [Anker’s Eufy finally launches its first Android Find Hub tracker for $35 - 9t...](http://9to5google.com/2026/01/05/ankers-eufy-finally-launches-its-first-android-find-hub-tracker-for-35/)
+* 📰 [Dell is eating humble pie and bringing back the XPS brand - The Verge](https://www.theverge.com/news/851047/dell-xps-14-16-13-laptops-brand-return-ces-2026)
+* 📰 [What on Earth is HP doing with its gaming laptop branding? - The Verge](https://www.theverge.com/tech/851812/hp-hyperx-omen-name-gaming-laptop-branding-ces-2026)
+* 📰 [Lego Smart Bricks Light Up With Jedi Magic In Coming Star Wars Set – and I'm ...](https://www.cnet.com/culture/entertainment/lego-smart-bricks-star-wars-set-ces-2026/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-06 18:42 </sub>
+  <sub>Last updated: Last updated: 2026-01-07 02:22 </sub>
 </div>
 
