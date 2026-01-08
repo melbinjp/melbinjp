@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+Developed the Jules Endpoint Agent,.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Global Blog | Motorola launches the first motorola signature - motorolanews.com](https://motorolanews.com/motorola-sets-a-new-standard-for-world-class-refinement-with-the-launch-of-motorola-signature/)
-* 📰 [Moto Tag 2 brings improved Android Find Hub tracking and longer battery life ...](http://9to5google.com/2026/01/06/moto-tag-2-announcement-ces-2026-android-find-hub/)
-* 📰 [These Are the Coolest Laptops We've Seen at CES 2026 - CNET](https://www.cnet.com/tech/computing/these-are-the-coolest-laptops-weve-seen-at-ces-2026/)
+* 📰 [CES 2026: These Smart Glasses Can Help Some People See Even Better Than Norma...](https://lifehacker.com/health/esight-smart-glasses-ces-2026)
+* 📰 [Babau: The Sludge of the Land Album Review - Pitchfork](https://pitchfork.com/reviews/albums/babau-the-sludge-of-the-land/)
+* 📰 [Global Blog | Motorola at Lenovo Tech World 2026 - motorolanews.com](https://motorolanews.com/tech-world-2026/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-08 06:47 </sub>
+  <sub>Last updated: Last updated: 2026-01-08 13:03 </sub>
 </div>
 
