@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent**.
+This project empowers AI.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Anker’s display-equipped Nano Charger is on sale following its CES debut - Th...](https://www.theverge.com/gadgets/855701/anker-45w-nano-charger-nothing-ear-open-earbuds-deal-sale)
-* 📰 [I tested Apple’s hands-free Home Key — and it’s a big upgrade - The Verge](https://www.theverge.com/tech/854757/aqara-u400-apple-home-key-hands-free-uwb)
-* 📰 [Amazon’s Ring doorbells get fire alerts, an app store and new sensors - TechC...](https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/)
+* 📰 [Wi-Fi 8 is appearing at CES before most of us have switched to Wi-Fi 7 - The ...](https://www.theverge.com/tech/856883/ces-2026-wi-fi-8-asus-broadcom-mediatek)
+* 📰 [How (not) to recycle those old gadgets - The Washington Post](https://www.washingtonpost.com/technology/2026/01/06/recycle-old-gadgets-comic/)
+* 📰 [Power bank feature creep is out of control - The Verge](https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-07 18:45 </sub>
+  <sub>Last updated: Last updated: 2026-01-08 02:22 </sub>
 </div>
 
