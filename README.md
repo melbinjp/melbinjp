@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+Engineered the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The best phone chargers and portable power solutions at CES 2026 - The Verge](https://www.theverge.com/tech/855028/ces-2026-best-chargers-wireless-power-bank-qi)
-* 📰 [Kick off the year with new rewards - Minecraft](https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards)
-* 📰 [Best of CES 2026 Awards: Official List of Finalists - CNET](https://www.cnet.com/best-of-ces-2026/)
+* 📰 [What It's Like to Slice Food With an Ultrasonic Knife That Vibrates 30,000 Ti...](https://www.cnet.com/home/kitchen-and-household/what-its-like-to-slice-food-with-an-ultrasonic-knife/)
+* 📰 [Third-Person StarCraft Shooter Will Reportedly Be Unveiled at BlizzCon 2026 -...](https://wccftech.com/third-person-starcraft-shooter-will-reportedly-be-unveiled-at-blizzcon-2026/)
+* 📰 [Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-...](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-08 18:40 </sub>
+  <sub>Last updated: Last updated: 2026-01-09 02:23 </sub>
 </div>
 
