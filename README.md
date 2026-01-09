@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules Endpoint Agent.
+**Developed the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,9 +123,9 @@ Engineered the Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [What It's Like to Slice Food With an Ultrasonic Knife That Vibrates 30,000 Ti...](https://www.cnet.com/home/kitchen-and-household/what-its-like-to-slice-food-with-an-ultrasonic-knife/)
-* 📰 [Third-Person StarCraft Shooter Will Reportedly Be Unveiled at BlizzCon 2026 -...](https://wccftech.com/third-person-starcraft-shooter-will-reportedly-be-unveiled-at-blizzcon-2026/)
-* 📰 [Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-...](https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/)
+* 📰 [All the Head-Turning Security Tech I Saw at CES 2026 - CNET](https://www.cnet.com/home/security/all-the-head-turning-security-tech-i-saw-at-ces-2026/)
+* 📰 [Tame your wayward cables with $60 off the Anker Prime Docking Station - Mashable](https://mashable.com/article/jan-7-anker-prime-docking-station-deal)
+* 📰 [Intel Stock Is Soaring. Is the Turnaround Gamble Finally Paying Off? - Invest...](https://www.investopedia.com/intel-stock-is-soaring-is-the-turnaround-gamble-finally-paying-off-11881039)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-09 02:23 </sub>
+  <sub>Last updated: Last updated: 2026-01-09 06:47 </sub>
 </div>
 
