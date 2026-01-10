@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **J.
+**Jules Endpoint Agent transforms.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,9 +123,9 @@ Developed a **J.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Intel's 'Panther Lake' Core Ultra Laptop Chips Are Ready for Prime Time: All ...](https://www.pcmag.com/news/intel-panther-lake-core-ultra-laptop-chips-details-ces-2026)
-* 📰 [Google Fi starts selling its first 5G tablet - 9to5Google](http://9to5google.com/2026/01/08/google-fi-store-tablet/)
-* 📰 [Towerborne Launches February 26 with Massive Full Game Update - Xbox Wire](https://news.xbox.com/en-us/2026/01/08/towerborne-launches-february-26-with-massive-full-game-update/)
+* 📰 [The Massive Galaxy Z TriFold Is Turning Heads at CES. It's Easy to See Why - ...](https://www.pcmag.com/news/massive-galaxy-z-trifold-is-turning-heads-at-ces-2026-its-easy-to-see-why)
+* 📰 [Subaru Reveals New Engine for GT300 Challenger - Sportscar365](https://sportscar365.com/super-gt/subaru-reveals-new-engine-for-2026-gt300-challenger/)
+* 📰 [AI Faces Fool Most of Us, But 5 Minutes of Training May Help You Spot Fakes -...](https://www.sciencealert.com/ai-faces-fool-most-of-us-but-5-minutes-of-training-may-help-you-spot-fakes)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-10 06:41 </sub>
+  <sub>Last updated: Last updated: 2026-01-10 12:55 </sub>
 </div>
 
