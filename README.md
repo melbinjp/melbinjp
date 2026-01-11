@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered a **Jules.
+Developed the Jules Endpoint Agent,.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered a **Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ Engineered a **Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Pe...](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/)
+* 📰 [What Are The Best And/Or Worst-Looking Race Cars? - The Autopian](https://www.theautopian.com/what-are-the-best-and-or-worst-looking-race-cars/)
 * 📰 [I went to CES to check out robotaxis. I left convinced that one player is far...](https://www.businessinsider.com/first-time-ces-experience-robotaxis-humanoid-robots-ai-2026-1)
-* 📰 [A Bosch vs. Avinox Final Challenge & Our Field Test E-Bike Rankings - Pinkbike](https://www.pinkbike.com/news/bosch-vs-avinox-final-challenge-e-bike-field-test.html)
-* 📰 [New Gmail AI features replacing Gemini side panel for some - 9to5Google](http://9to5google.com/2026/01/09/gmail-gemini-side-panel-2/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-11 02:33 </sub>
+  <sub>Last updated: Last updated: 2026-01-11 06:43 </sub>
 </div>
 
