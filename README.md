@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Developed the.
+Engineered a **Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Titus and the Wardens of Ultramar are on parade thanks to our talented commun...](https://www.warhammer-community.com/articles/xcucjrwf/titus-and-the-wardens-of-ultramar-are-on-parade-thanks-to-our-talented-community-painters)
-* 📰 [Crimson Desert's Open World Is at Least Twice as Big as Skyrim's, and Larger ...](https://www.ign.com/articles/crimson-deserts-open-world-is-at-least-twice-as-big-as-skyrims-and-larger-than-the-red-dead-redemption-2-map)
-* 📰 [Microsoft 365 Copilot app rebrand was bad, others were worse - theregister.com](https://www.theregister.com/2026/01/09/microsoft_365_copilot_app/)
+* 📰 [I went to CES to check out robotaxis. I left convinced that one player is far...](https://www.businessinsider.com/first-time-ces-experience-robotaxis-humanoid-robots-ai-2026-1)
+* 📰 [A Bosch vs. Avinox Final Challenge & Our Field Test E-Bike Rankings - Pinkbike](https://www.pinkbike.com/news/bosch-vs-avinox-final-challenge-e-bike-field-test.html)
+* 📰 [New Gmail AI features replacing Gemini side panel for some - 9to5Google](http://9to5google.com/2026/01/09/gmail-gemini-side-panel-2/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-10 18:39 </sub>
+  <sub>Last updated: Last updated: 2026-01-11 02:33 </sub>
 </div>
 
