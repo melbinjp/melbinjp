@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent,.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules Endpoint Agent,.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ Developed the Jules Endpoint Agent,.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [OpenAI Is Asking Contractors to Upload Work From Past Jobs to Evaluate the Pe...](https://www.wired.com/story/openai-contractor-upload-real-work-documents-ai-agents/)
-* 📰 [What Are The Best And/Or Worst-Looking Race Cars? - The Autopian](https://www.theautopian.com/what-are-the-best-and-or-worst-looking-race-cars/)
-* 📰 [I went to CES to check out robotaxis. I left convinced that one player is far...](https://www.businessinsider.com/first-time-ces-experience-robotaxis-humanoid-robots-ai-2026-1)
+* 📰 [Today's Hurdle hints and answers for January 10, 2026 - Mashable](https://mashable.com/article/hurdle-hints-answers-january-10-2026)
+* 📰 [Play 1,000s of nostalgic games with this $85 console - Mashable](https://mashable.com/article/jan-9-kinhank-super-console-x2-pro-retro-gaming-emulator-streaming-console)
+* 📰 [Microsoft issues important warning for Windows 11 Insiders - Neowin](https://www.neowin.net/news/microsoft-issues-important-warning-for-windows-11-insiders/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-11 06:43 </sub>
+  <sub>Last updated: Last updated: 2026-01-11 12:57 </sub>
 </div>
 
