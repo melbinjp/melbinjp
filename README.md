@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Engineered a secure endpoint.
+**The Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Make 2026 the year you cancel subscriptions for good — MS Office is a flat $3...](https://mashable.com/article/jan-10-microsoft-office-professional-2021-for-windows)
+* 📰 [Alfa Romeo Giulia Quadrifoglio Gets Yet Another Special Edition, But This Tim...](https://www.jalopnik.com/2071765/alfa-romeo-giulia-quadrifoglio-special-edition/)
 * 📰 [Samsung Galaxy S26 Ultra Release Dates, Pre-Order Offers And Reviews - Forbes](https://www.forbes.com/sites/ewanspence/2026/01/10/samsung-galaxy-s26-ultra-release-date-galaxy-unpacked-pre-orders-reviews/)
-* 📰 [Budgie 10.10 Released: Officially Migrated From X11 To Wayland - Phoronix](https://www.phoronix.com/news/Budgie-10.10-Released)
-* 📰 [A ‘Baldur’s Gate 3’ Writer Explains Wyll’s Disappointing Arc - Gizmodo](https://gizmodo.com/a-baldurs-gate-3-writer-explains-wylls-disappointing-arc-2000708297)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-12 02:29 </sub>
+  <sub>Last updated: Last updated: 2026-01-12 06:50 </sub>
 </div>
 
