@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent.
+Developed the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -123,9 +123,9 @@ Developed the Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Make 2026 the year you cancel subscriptions for good — MS Office is a flat $3...](https://mashable.com/article/jan-10-microsoft-office-professional-2021-for-windows)
-* 📰 [When will Minecraft realms be back up? Frustrated users report 'bedrock could...](https://www.hindustantimes.com/world-news/us-news/when-will-minecraft-realms-be-back-up-frustrated-users-report-bedrock-couldnt-load-error-101768085187000.html)
-* 📰 [Alfa Romeo Giulia Quadrifoglio Gets Yet Another Special Edition, But This Tim...](https://www.jalopnik.com/2071765/alfa-romeo-giulia-quadrifoglio-special-edition/)
+* 📰 [I went looking for weird phones and CES 2026 did not disappoint - The Verge](https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold)
+* 📰 [DuckDuckGo vs. Google: The Search Engine Choice That Says Everything About Yo...](https://www.pcmag.com/comparisons/duckduckgo-vs-google-the-search-engine-choice-that-says-everything-about)
+* 📰 [CES 2026: LG's Latest Washer-Dryer Combo Solves the Biggest Issues With All-I...](https://www.cnet.com/home/smart-home/lg-signature-series-washer-dryer-combo-ces-2026/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-12 13:04 </sub>
+  <sub>Last updated: Last updated: 2026-01-12 18:44 </sub>
 </div>
 
