@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules Endpoint.
+**Developed the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,7 @@ Engineered the Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_2316.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_2316.jpg" alt="Meteor Dust" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Meteor Dust</em> • NASA APOD</p>
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ Engineered the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Linux Consulting Firm Linutronix Recently Began A New Chapter - Phoronix](https://www.phoronix.com/news/Linutronix-New-Chapter)
-* 📰 [Apple Confirms iPhone Attacks—No Fix For Most Users - Forbes](https://www.forbes.com/sites/zakdoffman/2026/01/11/apple-confirms-iphone-attacks-no-fix-for-most-users/)
-* 📰 [The Pros And Cons Of The Chevy Corvette's Carbon Fiber Wheels - Jalopnik](https://www.jalopnik.com/2069244/pros-cons-chevy-corvette-carbon-fiber-wheels/)
+* 📰 [Goodwill shopper sparks outrage after sharing photos of local store's shelves...](https://www.yahoo.com/lifestyle/articles/goodwill-shopper-sparks-outrage-sharing-021500709.html)
+* 📰 [Say Goodbye To Ugly Power Strips With This Sleek Solution - bgr.com](https://www.bgr.com/2068681/say-goodbye-to-ugly-power-strips-cable-organizer/)
+* 📰 [Nicklas Backstrom’s Northern Virginia home sells for $11 million - RMNB](https://russianmachineneverbreaks.com/2026/01/11/nicklas-backstrom-northern-virginia-home-sells-11-million-capitals/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-13 02:20 </sub>
+  <sub>Last updated: Last updated: 2026-01-13 06:47 </sub>
 </div>
 
