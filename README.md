@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint.
+The Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 ['What makes this lamp unique is that switching between colors is not a sudden...](https://www.tomsguide.com/home/smart-home/ikea-just-released-a-smart-version-of-one-of-its-most-iconic-products)
-* 📰 [Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Palantir, Zoom...](https://www.cnbc.com/2026/01/12/mondays-biggest-analyst-calls-on-wall-street.html)
-* 📰 [Nintendo's President Remains Coy On Potential Price Increases - Nintendo Life](https://www.nintendolife.com/news/2026/01/nintendos-president-remains-coy-on-potential-price-increases)
+* 📰 [Anthem was abandoned in death as in life: it's a game EA and BioWare would ra...](https://www.eurogamer.net/anthem-was-abandoned-in-death-as-in-life-its-a-game-ea-and-bioware-would-rather-forget)
+* 📰 [Minecraft 26.1 Snapshot 3 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-3)
+* 📰 [10 Hacks Every Gmail User Should Know - Lifehacker](https://lifehacker.com/tech/10-gmail-hacks-to-bring-your-inbox-under-control)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-14 13:04 </sub>
+  <sub>Last updated: Last updated: 2026-01-14 18:45 </sub>
 </div>
 
