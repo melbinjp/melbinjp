@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-The Jules Endpoint Agent.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ The Jules Endpoint Agent.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ The Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Anthem was abandoned in death as in life: it's a game EA and BioWare would ra...](https://www.eurogamer.net/anthem-was-abandoned-in-death-as-in-life-its-a-game-ea-and-bioware-would-rather-forget)
-* 📰 [Minecraft 26.1 Snapshot 3 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-3)
-* 📰 [10 Hacks Every Gmail User Should Know - Lifehacker](https://lifehacker.com/tech/10-gmail-hacks-to-bring-your-inbox-under-control)
+* 📰 [‘Android 17’ split Notifications & Quick Settings panels leak in full [Galler...](http://9to5google.com/2026/01/13/android-notifications-quick-settings-split/)
+* 📰 [Photos Of Things That Don’t Exist Anymore That Instantly Transport You Back I...](https://www.boredpanda.com/how-old-we-are-posts/)
+* 📰 [New Vegas Dev Doesn't Agree With Bethesda's Take On Fallout - GameSpot](https://www.gamespot.com/articles/new-vegas-dev-doesnt-agree-with-bethesdas-take-on-fallout/1100-6537374/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-14 18:45 </sub>
+  <sub>Last updated: Last updated: 2026-01-15 02:21 </sub>
 </div>
 
