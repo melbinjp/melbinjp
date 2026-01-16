@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Developed a secure,.
+This project engineers.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple sits out AI arms race to play kingmaker between Google and OpenAI - Fin...](https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a)
-* 📰 [Maker fight! SparkFun cuts ties with Adafruit in harassment dispute - theregi...](https://www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/)
-* 📰 [Android 16 QPR3 Beta 2 takes a big leap forward - Android Police](https://www.androidpolice.com/android-16-qpr3-beta-2-now-live/)
+* 📰 [Key Senate staffer is “begging” NASA to get on with commercial space stations...](https://arstechnica.com/space/2026/01/key-senate-staffer-is-begging-nasa-to-get-on-with-commercial-space-stations/)
+* 📰 [The Sony Bravia 8 II is a TV enthusiast’s dream - The Verge](https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review)
+* 📰 [Gemini Personal Intelligence previews what we can expect from the new Siri - ...](https://9to5mac.com/2026/01/15/gemini-personal-intelligence-previews-what-we-can-expect-from-the-new-siri/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-16 13:02 </sub>
+  <sub>Last updated: Last updated: 2026-01-16 18:44 </sub>
 </div>
 
