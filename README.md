@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+**Developed a secure,.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [PS5 And PS4's Most-Downloaded Games Of 2025 Revealed, Including A Call Of Dut...](https://www.gamespot.com/gallery/ps5-and-ps4s-most-downloaded-games-of-2025-revealed-including-a-call-of-duty-surprise/2900-7406/)
-* 📰 [A single click mounted a covert, multistage attack against Copilot - Ars Tech...](https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/)
-* 📰 [Naya Connect is a modular mechanical keyboard system for the indecisive - The...](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)
+* 📰 [Apple sits out AI arms race to play kingmaker between Google and OpenAI - Fin...](https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a)
+* 📰 [Maker fight! SparkFun cuts ties with Adafruit in harassment dispute - theregi...](https://www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/)
+* 📰 [Android 16 QPR3 Beta 2 takes a big leap forward - Android Police](https://www.androidpolice.com/android-16-qpr3-beta-2-now-live/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-16 06:46 </sub>
+  <sub>Last updated: Last updated: 2026-01-16 13:02 </sub>
 </div>
 
