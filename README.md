@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered a **secure.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Engineered a **secure.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr.jpg" alt="Plato and the Lunar Alps" 
+  <a href="https://apod.nasa.gov/apod/image/2601/NGC7023_Falk2048.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2601/NGC7023_Falk2048.jpg" alt="NGC 7023: The Iris Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Plato and the Lunar Alps</em> • NASA APOD</p>
+<p align="center"><em>NGC 7023: The Iris Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Engineered a **secure.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pentagon’s “Arsenal of Freedom” tour borrows name from Star Trek episode—abou...](https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/)
-* 📰 [Google rolling out Android 16 QPR3 Beta 2 to Pixel - 9to5Google](http://9to5google.com/2026/01/14/android-16-qpr3-beta-2-pixel/)
-* 📰 [Most Downloaded PS5 Games of 2025 Revealed, as Xbox's Forza Horizon 5 Tops Gh...](https://www.pushsquare.com/news/2026/01/most-downloaded-ps5-games-of-2025-revealed-as-xboxs-forza-horizon-5-tops-ghost-of-yotei)
+* 📰 [PS5 And PS4's Most-Downloaded Games Of 2025 Revealed, Including A Call Of Dut...](https://www.gamespot.com/gallery/ps5-and-ps4s-most-downloaded-games-of-2025-revealed-including-a-call-of-duty-surprise/2900-7406/)
+* 📰 [A single click mounted a covert, multistage attack against Copilot - Ars Tech...](https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/)
+* 📰 [Naya Connect is a modular mechanical keyboard system for the indecisive - The...](https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-16 02:23 </sub>
+  <sub>Last updated: Last updated: 2026-01-16 06:46 </sub>
 </div>
 
