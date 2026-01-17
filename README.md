@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project engineers.
+Empowering AI agents.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ This project engineers.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ This project engineers.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Key Senate staffer is “begging” NASA to get on with commercial space stations...](https://arstechnica.com/space/2026/01/key-senate-staffer-is-begging-nasa-to-get-on-with-commercial-space-stations/)
-* 📰 [The Sony Bravia 8 II is a TV enthusiast’s dream - The Verge](https://www.theverge.com/tech/862340/sony-bravia-8-ii-tv-review)
-* 📰 [Gemini Personal Intelligence previews what we can expect from the new Siri - ...](https://9to5mac.com/2026/01/15/gemini-personal-intelligence-previews-what-we-can-expect-from-the-new-siri/)
+* 📰 [Resident Evil Showcase January 2026: Everything Announced - IGN](https://www.ign.com/articles/resident-evil-showcase-january-2026-5-things-we-learned)
+* 📰 [Secret Lair: Rad Superdrop - Magic: The Gathering](https://magic.wizards.com/en/news/announcements/secret-lair-rad-superdrop)
+* 📰 [Trump Uses Stardew Valley To Threaten Third Term - Kotaku](https://kotaku.com/donald-trump-white-house-stardew-valley-whole-milk-ai-2000660273)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-16 18:44 </sub>
+  <sub>Last updated: Last updated: 2026-01-17 02:11 </sub>
 </div>
 
