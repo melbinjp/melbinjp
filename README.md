@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Rumor: Nintendo website may point to possible new Switch 2 model - Nintendo E...](https://nintendoeverything.com/rumor-new-switch-2-model-osm/)
-* 📰 [9 PS Plus Extra, Premium Games for January 2026 Announced - Push Square](https://www.pushsquare.com/news/2026/01/9-ps-plus-extra-premium-games-for-january-2026-announced)
-* 📰 [Leon Kennedy Can Finally Use A Chainsaw In Resident Evil Requiem - Game Informer](https://gameinformer.com/2026/01/15/leon-kennedy-can-finally-use-a-chainsaw-in-resident-evil-requiem)
+* 📰 [Casting is dead. Long live casting! - The Verge](https://www.theverge.com/column/861948/casting-netflix-dead)
+* 📰 [Public Statement to Clarify Recent Reports Regarding the ASUS GeForce RTX™ 50...](https://press.asus.com/news/statements/asus-rtx-5070ti-5060ti-statement/)
+* 📰 [The Hundred Line: Last Defense Academy officially a ‘1&2 Pack’ - Gematsu](https://www.gematsu.com/2026/01/the-hundred-line-last-defense-academy-officially-a-12-pack)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-17 06:41 </sub>
+  <sub>Last updated: Last updated: 2026-01-17 12:55 </sub>
 </div>
 
