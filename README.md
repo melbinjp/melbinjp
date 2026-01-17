@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+Engineered the.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Casting is dead. Long live casting! - The Verge](https://www.theverge.com/column/861948/casting-netflix-dead)
-* 📰 [Public Statement to Clarify Recent Reports Regarding the ASUS GeForce RTX™ 50...](https://press.asus.com/news/statements/asus-rtx-5070ti-5060ti-statement/)
-* 📰 [The Hundred Line: Last Defense Academy officially a ‘1&2 Pack’ - Gematsu](https://www.gematsu.com/2026/01/the-hundred-line-last-defense-academy-officially-a-12-pack)
+* 📰 [‘Hades II’ Is At War With Itself - Defector](https://defector.com/hades-ii-is-at-war-with-itself)
+* 📰 [Researchers Just Found Something That Could Shake the AI Industry to Its Core...](http://futurism.com/artificial-intelligence/ai-industry-recall-copyright-books)
+* 📰 [The Division Boss Julian Gerighty Leaves For Battlefield: "Don't Worry," Ubis...](https://www.gamespot.com/articles/the-division-boss-julian-gerighty-leaves-for-battlefield-dont-worry-ubisoft-says/1100-6537452/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-17 12:55 </sub>
+  <sub>Last updated: Last updated: 2026-01-17 18:38 </sub>
 </div>
 
