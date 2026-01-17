@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Empowering AI agents.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Empowering AI agents.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/NGC7023_Falk2048.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/NGC7023_Falk2048.jpg" alt="NGC 7023: The Iris Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg" alt="Apollo 14: A View from Antares" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>NGC 7023: The Iris Nebula</em> • NASA APOD</p>
+<p align="center"><em>Apollo 14: A View from Antares</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Empowering AI agents.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Resident Evil Showcase January 2026: Everything Announced - IGN](https://www.ign.com/articles/resident-evil-showcase-january-2026-5-things-we-learned)
-* 📰 [Secret Lair: Rad Superdrop - Magic: The Gathering](https://magic.wizards.com/en/news/announcements/secret-lair-rad-superdrop)
-* 📰 [Trump Uses Stardew Valley To Threaten Third Term - Kotaku](https://kotaku.com/donald-trump-white-house-stardew-valley-whole-milk-ai-2000660273)
+* 📰 [Rumor: Nintendo website may point to possible new Switch 2 model - Nintendo E...](https://nintendoeverything.com/rumor-new-switch-2-model-osm/)
+* 📰 [9 PS Plus Extra, Premium Games for January 2026 Announced - Push Square](https://www.pushsquare.com/news/2026/01/9-ps-plus-extra-premium-games-for-january-2026-announced)
+* 📰 [Leon Kennedy Can Finally Use A Chainsaw In Resident Evil Requiem - Game Informer](https://gameinformer.com/2026/01/15/leon-kennedy-can-finally-use-a-chainsaw-in-resident-evil-requiem)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-17 02:11 </sub>
+  <sub>Last updated: Last updated: 2026-01-17 06:41 </sub>
 </div>
 
