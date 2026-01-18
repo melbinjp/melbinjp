@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+Developed the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/a14pan9335-43emj.jpg" alt="Apollo 14: A View from Antares" 
+  <a href="https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_3283_annotated.png" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_3283_annotated.png" alt="Jupiter from the Webb Space Telescope" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Apollo 14: A View from Antares</em> • NASA APOD</p>
+<p align="center"><em>Jupiter from the Webb Space Telescope</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -135,8 +135,8 @@ A multi-threaded video surveillance system for capturing and processing video fr
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Rackspace customers grapple with “devastating” email hosting price hike - Ars...](https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/)
-* 📰 [Ford Mustang Dark Horse SC Revealed: A Sinister Supercharged Pony Car - Motor...](https://www.motor1.com/news/784455/2026-ford-mustang-dark-horse-sc-revealed/)
 * 📰 [Judge orders Anna’s Archive to delete scraped data; no one thinks it will com...](https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/)
+* 📰 [Mandiant releases rainbow table that cracks weak admin password in 12 hours -...](https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-18 02:31 </sub>
+  <sub>Last updated: Last updated: 2026-01-18 06:42 </sub>
 </div>
 
