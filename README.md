@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Empowering AI.
+**Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Empowering AI.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_3283_annotated.png" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/Jupiter2_WebbSchmidt_3283_annotated.png" alt="Jupiter from the Webb Space Telescope" 
+  <a href="https://apod.nasa.gov/apod/image/2601/Ctb1_Konzelmann_4009.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2601/Ctb1_Konzelmann_4009.jpg" alt="CTB 1: The Medulla Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Jupiter from the Webb Space Telescope</em> • NASA APOD</p>
+<p align="center"><em>CTB 1: The Medulla Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Empowering AI.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [This new Anker 13-in-1 docking station is great at home and on the go [Hands-...](https://9to5mac.com/2026/01/17/anker-nano-docking-station-hands-on-ces-2026-for-mac/)
 * 📰 [Playing Video Games Has an Unexpected Effect on Kids' IQ, Study Says - Scienc...](https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-study-says)
-* 📰 [This Jackery HomePower 3000 portable power station is over 50% off right now ...](https://mashable.com/article/jan-17-jackery-homepower-3000-portable-power-station-deal)
-* 📰 [Bank of America revamps Alphabet stock after Google enters two key partnershi...](https://www.thestreet.com/investing/stocks/bank-of-america-revamps-alphabet-stock-after-google-enters-two-key-partnerships)
+* 📰 [Subject: Oculus Strategy (LONG) - UploadVR](https://www.uploadvr.com/subject-oculus-strategy-long-2026/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-19 02:29 </sub>
+  <sub>Last updated: Last updated: 2026-01-19 06:52 </sub>
 </div>
 
