@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the .
+Engineered the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered the .
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Engineered the .
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Apple Makes A Crucial iPhone Update Call — Hundreds Of Millions Must Act Now ...](https://www.forbes.com/sites/davidphelan/2026/01/18/apples-crucial-iphone-update-decision-means-hundreds-of-millions-must-update-now/)
-* 📰 [Ex- Assassin’s Creed Boss Sues Ubisoft For Nearly $1 Million Over Alleged For...](https://kotaku.com/assassins-creed-lawsuit-ubisoft-marc-alexis-cote-hexe-2000660833)
-* 📰 [Rockstar gives terminally ill fan early access to GTA 6 - Eurogamer](https://www.eurogamer.net/rockstar-gives-terminally-ill-fan-early-access-to-gta-6)
+* 📰 [Footage of ZeniMax’s Cancelled Project Blackbird Surfaces Online - Insider Ga...](https://insider-gaming.com/blackbrird-footage-leaked/)
+* 📰 [Games Workshop Is Finally Making Female Custodes Models - Gizmodo](https://gizmodo.com/warhammer-40k-female-custodes-models-games-workshop-2000711356)
+* 📰 [EXCLUSIVE: Xbox Cloud Gaming is getting ad-supported access VERY soon - Windo...](https://www.windowscentral.com/gaming/xbox/exclusive-xbox-cloud-gaming-will-get-an-ad-supported-tier-this-year-rumors-coalesce-after-ad-support-notices-appear-prematurely)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-19 18:42 </sub>
+  <sub>Last updated: Last updated: 2026-01-20 02:24 </sub>
 </div>
 
