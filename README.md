@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent.
+Engineered the.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Yes, The Leaked ‘Marathon’ Preorder And Release Date Is Real - Forbes](https://www.forbes.com/sites/paultassi/2026/01/19/yes-the-leaked-marathon-preorder-and-release-date-is-real/)
-* 📰 [An Explosion Rocks ‘GTA 6’ Developer Rockstar North, Reportedly An Accident -...](https://www.forbes.com/sites/paultassi/2026/01/19/an-explosion-rocks-gta-6-developer-rockstar-north-reportedly-an-accident/)
-* 📰 ["I'm Excited To Meet You" - Devon Pritchard Makes Her First Public Appearance...](https://www.nintendolife.com/news/2026/01/im-excited-to-meet-you-devon-pritchard-makes-her-first-public-appearance-as-president-of-noa)
+* 📰 [Yakuza 3 Remastered to be locked behind $130 bundle after delisting - TrueAch...](https://www.trueachievements.com/news/yakuza-3-remastered-delisted)
+* 📰 [Exclusive: OpenAI aims to debut first device in 2026 - Axios](https://www.axios.com/2026/01/19/openai-device-2026-lehane-jony-ive)
+* 📰 [Zephyr tests single-fan Mini-ITX RTX 4070 Ti SUPER cooler with copper, alumin...](https://videocardz.com/newz/zephyr-tests-single-fan-mini-itx-rtx-4070-ti-super-cooler-with-copper-aluminum-and-graphene-coated-heatsinks)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-20 13:08 </sub>
+  <sub>Last updated: Last updated: 2026-01-20 18:57 </sub>
 </div>
 
