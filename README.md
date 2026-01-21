@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project **transforms**.
+Engineered the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ This project **transforms**.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_2796.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/iotruecolor_galileo_2796.jpg" alt="Io in True Color" 
+  <a href="https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365.png" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2601/JWSTMIRI_ngc1365.png" alt="Barred Spiral Galaxy NGC 1365 from Webb" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Io in True Color</em> • NASA APOD</p>
+<p align="center"><em>Barred Spiral Galaxy NGC 1365 from Webb</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -135,8 +135,8 @@ This project **transforms**.
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Video: Nintendo Highlights Enhanced Switch Games On Switch 2 - Nintendo Life](https://www.nintendolife.com/news/2026/01/video-nintendo-highlights-enhanced-switch-games-on-switch-2)
-* 📰 [Watch the northern lights online tonight with these free livestreams - Space](https://www.space.com/stargazing/auroras/watch-the-northern-lights-online-tonight-with-these-free-livestreams)
-* 📰 [Report: Fable Reboot New Pieces of Concept Art Showcase Locations - MP1st](https://mp1st.com/news/fable-rebootconcept-art-showcase-locations)
+* 📰 [How to take pictures of the Northern Lights with Google Pixel and other Andro...](http://9to5google.com/2026/01/19/how-to-take-pictures-northern-lights-android-google-pixel/)
+* 📰 [Most Anticipated Upcoming Video Games of 2026 - ComingSoon.net](https://www.comingsoon.net/games/features/2080048-most-anticipated-upcoming-video-games-of-2026)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-21 02:27 </sub>
+  <sub>Last updated: Last updated: 2026-01-21 06:50 </sub>
 </div>
 
