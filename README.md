@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project empowers AI.
+Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ This project empowers AI.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/ldn1622fellows.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/ldn1622fellows.jpg" alt="LDN 1622: Dark Nebula in Orion" 
+  <a href="https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg" alt="Planetary Nebula Abell 7" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>LDN 1622: Dark Nebula in Orion</em> • NASA APOD</p>
+<p align="center"><em>Planetary Nebula Abell 7</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ This project empowers AI.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Millions of people imperiled through sign-in links sent by SMS - Ars Technica](https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/)
-* 📰 [Apple is reportedly working on an AirTag-sized AI wearable - The Verge](https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor)
-* 📰 [Loot Capsules Are The Worst Part Of Borderlands 4 - Kotaku](https://kotaku.com/loot-capsules-pods-borderlands-4-worst-part-help-why-bad-gearbox-2000661916)
+* 📰 [Donkey Kong Bananza's First Update Of 2026 Is Now Available, Here's What's In...](https://www.nintendolife.com/news/2026/01/donkey-kong-bananzas-first-update-of-2026-is-now-available-heres-whats-included)
+* 📰 [Free update for Mario Kart World lets you race as a team in Knockout Tour - N...](https://www.nintendo.com/us/whatsnew/free-update-for-mario-kart-world-lets-you-race-as-a-team-in-knockout-tour/)
+* 📰 [Pokemon Legends Z-A 2.0.1 update out now, patch notes - Nintendo Everything](https://nintendoeverything.com/pokemon-legends-z-a-2-0-1-update-out-now-patch-notes/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-23 02:24 </sub>
+  <sub>Last updated: Last updated: 2026-01-23 06:48 </sub>
 </div>
 
