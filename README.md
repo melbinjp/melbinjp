@@ -75,7 +75,8 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the J.
+**
+**.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +113,7 @@ Developed the J.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +135,9 @@ Developed the J.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Forza Horizon 6: More Details on The Country, The Culture and The Cars of Pla...](https://news.xbox.com/en-us/2026/01/22/forza-horizon-6-developer-direct-breakdown-interview/)
-* 📰 [Claude Code is suddenly everywhere inside Microsoft - The Verge](https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad)
-* 📰 [Sony announces its first turntables in years - The Verge](https://www.theverge.com/news/865333/sony-new-turntables-2026)
+* 📰 [Epic and Google have a secret $800 million Unreal Engine and services deal - ...](https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement)
+* 📰 [Fable Reboot Release Window Set for Fall 2026, Launches Day 1 on PS5 - IGN](https://www.ign.com/articles/fable-reboot-release-window-set-for-fall-2026-launches-day-1-on-ps5)
+* 📰 [Beast of Reincarnation Game Director Answers All Our Burning Questions About ...](https://www.ign.com/articles/beast-of-reincarnation-game-director-answers-all-our-burning-questions-about-the-pokemon-developers-upcoming-action-game)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +164,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-23 18:47 </sub>
+  <sub>Last updated: Last updated: 2026-01-24 02:19 </sub>
 </div>
 
