@@ -75,8 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**
-**.
+**Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -113,18 +112,18 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2601/Abell7pugh.jpg" alt="Planetary Nebula Abell 7" 
+  <a href="https://apod.nasa.gov/apod/image/2601/earthset-snap00.png" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2601/earthset-snap00.png" alt="Earthset from Orion" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Planetary Nebula Abell 7</em> • NASA APOD</p>
+<p align="center"><em>Earthset from Orion</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -135,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Epic and Google have a secret $800 million Unreal Engine and services deal - ...](https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement)
+* 📰 [Google and Epic Games struck a secretive $800 million deal, 'helping Google m...](http://9to5google.com/2026/01/22/google-epic-games-deal-court-reveal/)
+* 📰 [PSA: Switch 2 Visual And Performance Improvements Included In New Rocket Leag...](https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update)
 * 📰 [Fable Reboot Release Window Set for Fall 2026, Launches Day 1 on PS5 - IGN](https://www.ign.com/articles/fable-reboot-release-window-set-for-fall-2026-launches-day-1-on-ps5)
-* 📰 [Beast of Reincarnation Game Director Answers All Our Burning Questions About ...](https://www.ign.com/articles/beast-of-reincarnation-game-director-answers-all-our-burning-questions-about-the-pokemon-developers-upcoming-action-game)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -164,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-24 02:19 </sub>
+  <sub>Last updated: Last updated: 2026-01-24 06:42 </sub>
 </div>
 
