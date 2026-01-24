@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Developed the Jules Endpoint Agent.
+Engineered the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Reminder: Final Fantasy VII Remake Intergrade 'Limited Early Purchase Edition...](https://www.nintendolife.com/news/2026/01/reminder-final-fantasy-vii-remake-intergrade-limited-early-purchase-edition-offer-ends-next-week)
+* 📰 [iPhone 18 Pro: Leaker Reveals Alleged Size of Smaller Dynamic Island - MacRumors](https://www.macrumors.com/2026/01/23/iphone-18-pro-alleged-dynamic-island-size/)
 * 📰 [Google and Epic Games struck a secretive $800 million deal, 'helping Google m...](http://9to5google.com/2026/01/22/google-epic-games-deal-court-reveal/)
-* 📰 [PSA: Switch 2 Visual And Performance Improvements Included In New Rocket Leag...](https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update)
-* 📰 [Fable Reboot Release Window Set for Fall 2026, Launches Day 1 on PS5 - IGN](https://www.ign.com/articles/fable-reboot-release-window-set-for-fall-2026-launches-day-1-on-ps5)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-24 06:42 </sub>
+  <sub>Last updated: Last updated: 2026-01-24 12:56 </sub>
 </div>
 
