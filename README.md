@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered the Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Engineered the Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Reminder: Final Fantasy VII Remake Intergrade 'Limited Early Purchase Edition...](https://www.nintendolife.com/news/2026/01/reminder-final-fantasy-vii-remake-intergrade-limited-early-purchase-edition-offer-ends-next-week)
-* 📰 [iPhone 18 Pro: Leaker Reveals Alleged Size of Smaller Dynamic Island - MacRumors](https://www.macrumors.com/2026/01/23/iphone-18-pro-alleged-dynamic-island-size/)
-* 📰 [Google and Epic Games struck a secretive $800 million deal, 'helping Google m...](http://9to5google.com/2026/01/22/google-epic-games-deal-court-reveal/)
+* 📰 [The Fable Reboot Is Reportedly "Under Consideration" For Switch 2 - Nintendo ...](https://www.nintendolife.com/news/2026/01/the-fable-reboot-is-reportedly-under-consideration-for-switch-2)
+* 📰 [Final Fantasy 7 Remake 3 Is Bringing Back Queen’s Blood - Kotaku](https://kotaku.com/final-fantasy-7-remake-3-queens-blood-snowboarding-2000662578)
+* 📰 [What Seemingly Normal Car Is Actually Pretty Weird? - Jalopnik](https://www.jalopnik.com/2082784/what-normal-car-is-pretty-weird-reader-question/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-24 12:56 </sub>
+  <sub>Last updated: Last updated: 2026-01-24 18:40 </sub>
 </div>
 
