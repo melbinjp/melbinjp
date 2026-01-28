@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Propain Sresh SL Review: A Mid-Power eMTB That Doesn’t Ride Like a Tank - Pin...](https://www.pinkbike.com/news/review-propain-sresh-mid-power-emtb-2026.html)
-* 📰 [‘Highguard’ Arrives Today In A Cloud Of Mystery: When To Play, What To Watch ...](https://www.forbes.com/sites/paultassi/2026/01/26/highguard-arrives-today-in-a-cloud-of-mystery-when-to-play-what-to-watch/)
-* 📰 [Resident Evil: Requiem's director on why RE9 won't suffer the same multi-prot...](https://www.eurogamer.net/resident-evil-requiems-director-on-why-re9-wont-suffer-the-same-multi-protagonist-woes-as-re6-and-why-its-more-like-sushi)
+* 📰 [Code Vein II Review - Bloodsucking The Fun Away - Game Informer](https://gameinformer.com/review/code-vein-ii/bloodsucking-the-fun-away)
+* 📰 [This is Android 17’s blur, new screen recorder, & more in leaked screenshots ...](http://9to5google.com/2026/01/26/android-17-leak/)
+* 📰 [Why has Microsoft been routing example.com traffic to a company in Japan? - A...](https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-27 18:52 </sub>
+  <sub>Last updated: Last updated: 2026-01-28 02:26 </sub>
 </div>
 
