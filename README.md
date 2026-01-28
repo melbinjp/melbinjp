@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Developed the Jules Endpoint Agent.
+**Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Xbox Cloud Gaming’s new design teases the future of Xbox console UI - The Verge](https://www.theverge.com/tech/868434/xbox-cloud-gaming-new-ui-future-xbox-console-design)
-* 📰 [January Update 1.13.0 - ARC Raiders](https://arcraiders.com/news/patch-notes-1-13-0)
-* 📰 [Wildlight Entertainment says it wishes Highguard "had been received better" a...](https://www.gamesindustry.biz/wildlight-entertainment-says-it-wishes-highguard-had-been-received-better-after-game-awards-reveal)
+* 📰 [Minecraft 26.1 Snapshot 5 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-5)
+* 📰 [Two Cancelled Virtual Boy Games Coming To NSO In 2026, Including F-Zero Spin-...](https://www.nintendolife.com/news/2026/01/two-cancelled-virtual-boy-games-coming-to-nso-in-2026-including-f-zero-spin-off)
+* 📰 [Yahoo Scout looks like a more web-friendly take on AI search - The Verge](https://www.theverge.com/ai-artificial-intelligence/868374/yahoo-scout-looks-like-a-more-web-friendly-take-on-ai-search)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-28 13:08 </sub>
+  <sub>Last updated: Last updated: 2026-01-28 18:48 </sub>
 </div>
 
