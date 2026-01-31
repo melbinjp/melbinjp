@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the.
+Engineered the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered the.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Engineered the.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Microsoft is experimenting with a top menu bar for Windows 11 - The Verge](https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment)
-* 📰 [Dispatch censored on Switch and Switch 2 - GamesIndustry.biz](https://www.gamesindustry.biz/dispatch-censored-on-switch-and-switch-2)
-* 📰 [Apple buys secretive Israeli AI company for $1.6 billion - jpost.com](https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-885039)
+* 📰 [The Warhammer: The Horus Heresy team goes heavy on Cataphractii Terminators -...](https://www.warhammer-community.com/articles/riua1n5m/the-warhammer-the-horus-heresy-team-goes-heavy-on-cataphractii-terminators)
+* 📰 [Rule the Maelstrom with Huron and his crew’s spicy new datasheets - Warhammer...](https://www.warhammer-community.com/articles/2fdhlf7g/rule-the-maelstrom-with-huron-and-his-crews-spicy-new-datasheets)
+* 📰 [iPhone 18 isn’t launching until next year, new report reaffirms - 9to5Mac](https://9to5mac.com/2026/01/30/iphone-18-isnt-launching-until-next-year-new-report-reaffirms/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-31 13:05 </sub>
+  <sub>Last updated: Last updated: 2026-01-31 18:44 </sub>
 </div>
 
