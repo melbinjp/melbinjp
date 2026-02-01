@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules Endpoint.
+**Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Engineered the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Warhammer: The Horus Heresy team goes heavy on Cataphractii Terminators -...](https://www.warhammer-community.com/articles/riua1n5m/the-warhammer-the-horus-heresy-team-goes-heavy-on-cataphractii-terminators)
-* 📰 [Rule the Maelstrom with Huron and his crew’s spicy new datasheets - Warhammer...](https://www.warhammer-community.com/articles/2fdhlf7g/rule-the-maelstrom-with-huron-and-his-crews-spicy-new-datasheets)
-* 📰 [iPhone 18 isn’t launching until next year, new report reaffirms - 9to5Mac](https://9to5mac.com/2026/01/30/iphone-18-isnt-launching-until-next-year-new-report-reaffirms/)
+* 📰 [The TV industry finally concedes that the future may not be in 8K - Ars Technica](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/)
+* 📰 [Video game company stock prices dip after Google introduces an AI world-gener...](https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity)
+* 📰 [Canon Fodder: Parasite’s Cake - Halo Waypoint](https://www.halowaypoint.com/news/canon-fodder-parasites-cake)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-01-31 18:44 </sub>
+  <sub>Last updated: Last updated: 2026-02-01 03:22 </sub>
 </div>
 
