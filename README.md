@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint.
+The Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Photo Mode - Borderlands | Official Website](https://borderlands.2k.com/borderlands-4/news/photo-mode/)
-* 📰 [Poll: Do you like the new Xbox achievement designs? - TrueAchievements](https://www.trueachievements.com/poll/61435/poll-new-xbox-achievement-designs)
-* 📰 [The latest Instax printer is a pricey but worthy upgrade - The Verge](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos)
+* 📰 [A nice upgrade for Apple’s simplest gadget - The Verge](https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer)
+* 📰 [12+ powerful Alexa commands you should start using at home (no subscriptions ...](https://www.zdnet.com/home-and-office/smart-home/best-alexa-commands/)
+* 📰 [Google takes down an invisible network that was secretly using your phone's i...](https://www.androidcentral.com/apps-software/google-takes-down-an-invisible-network-that-was-secretly-using-your-phones-internet)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-01 13:07 </sub>
+  <sub>Last updated: Last updated: 2026-02-01 18:48 </sub>
 </div>
 
