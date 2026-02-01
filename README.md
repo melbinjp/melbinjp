@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent,.
+Developed the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules Endpoint Agent,.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent,.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Dispatch Dev AdHoc Responds To Nintendo's Statement, Says It Intends To Addre...](https://www.nintendolife.com/news/2026/01/dispatch-dev-adhoc-responds-to-nintendos-statement-says-it-intends-to-address-censored-switch-content)
-* 📰 [PSA: OpenAI will remove several models from ChatGPT next month - 9to5Mac](https://9to5mac.com/2026/01/30/psa-openai-will-remove-several-models-from-chatgpt-next-month/)
-* 📰 [The TV industry finally concedes that the future may not be in 8K - Ars Technica](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/)
+* 📰 [Photo Mode - Borderlands | Official Website](https://borderlands.2k.com/borderlands-4/news/photo-mode/)
+* 📰 [Poll: Do you like the new Xbox achievement designs? - TrueAchievements](https://www.trueachievements.com/poll/61435/poll-new-xbox-achievement-designs)
+* 📰 [The latest Instax printer is a pricey but worthy upgrade - The Verge](https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-01 07:00 </sub>
+  <sub>Last updated: Last updated: 2026-02-01 13:07 </sub>
 </div>
 
