@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules Endpoint Agent.
+Engineered the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Engineered the Jules Endpoint Agent.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_3298.jpg" alt="Orion: The Running Man Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg" alt="Red Spider Planetary Nebula from Webb" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Orion: The Running Man Nebula</em> • NASA APOD</p>
+<p align="center"><em>Red Spider Planetary Nebula from Webb</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -135,8 +135,8 @@ Engineered the Jules Endpoint Agent.
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Samsung Confirms Ground-Breaking Galaxy S26 Ultra Feature - Forbes](https://www.forbes.com/sites/davidphelan/2026/02/01/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/)
+* 📰 [Ditch app subscriptions with this Microsoft Office lifetime license - Mashable](https://mashable.com/article/feb-1-microsoft-office-professional-2021-for-windows)
 * 📰 [Studio Display refresh looms with three key upgrades - 9to5Mac](https://9to5mac.com/2026/02/01/studio-display-refresh-looms-with-three-key-upgrades/)
-* 📰 [Pixel 10 and Pixel Watch 4 discounts return to the Google Store - 9to5Google](http://9to5google.com/2026/02/01/google-store-february-2026-pixel/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-03 02:50 </sub>
+  <sub>Last updated: Last updated: 2026-02-03 07:02 </sub>
 </div>
 
