@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules.
+Developed a robust **Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Engineered the Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Samsung Confirms Ground-Breaking Galaxy S26 Ultra Feature - Forbes](https://www.forbes.com/sites/davidphelan/2026/02/01/galaxy-s26-ultra-samsung-confirms-ground-breaking-new-feature---why-it-matters/)
-* 📰 [Ditch app subscriptions with this Microsoft Office lifetime license - Mashable](https://mashable.com/article/feb-1-microsoft-office-professional-2021-for-windows)
-* 📰 [Studio Display refresh looms with three key upgrades - 9to5Mac](https://9to5mac.com/2026/02/01/studio-display-refresh-looms-with-three-key-upgrades/)
+* 📰 [Tyranids swarm over our Iron Halo coin stash thanks to February’s free Miniat...](https://www.warhammer-community.com/articles/hkuqc4cx/tyranids-swarm-over-our-iron-halo-coin-stash-thanks-to-februarys-free-miniature-of-the-month)
+* 📰 [Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Troll...](https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026)
+* 📰 ['People Have a Right to Be Pissed' — Dispatch Developer Apologizes to Fans Ov...](https://www.ign.com/articles/people-have-a-right-to-be-pissed-dispatch-developer-apologizes-to-fans-over-nintendo-switch-censorship-says-disclaimer-wasnt-visible-enough)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-03 07:02 </sub>
+  <sub>Last updated: Last updated: 2026-02-03 13:19 </sub>
 </div>
 
