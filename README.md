@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint.
+The Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Developed the Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_1280.jpg" alt="Red Spider Planetary Nebula from Webb" 
+  <a href="https://apod.nasa.gov/apod/image/2602/NGC1512_stern_6214.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/NGC1512_stern_6214.jpg" alt="Spiral Galaxy NGC 1512: Wide Field" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Red Spider Planetary Nebula from Webb</em> • NASA APOD</p>
+<p align="center"><em>Spiral Galaxy NGC 1512: Wide Field</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Developed the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Looking back at Catacomb 3D , the game that led to Wolfenstein 3D - Ars Technica](https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/)
-* 📰 ['People Have a Right to Be Pissed' — Dispatch Developer Apologizes to Fans Ov...](https://www.ign.com/articles/people-have-a-right-to-be-pissed-dispatch-developer-apologizes-to-fans-over-nintendo-switch-censorship-says-disclaimer-wasnt-visible-enough)
-* 📰 [Jez Corden argues next Xbox could inherit Windows’ strengths and its flaws - ...](https://www.windowscentral.com/gaming/xbox/the-next-xbox-is-a-pc-with-all-of-windows-strengths-will-it-come-with-its-weaknesses-too)
+* 📰 [Pokémon 30th Anniversary Nintendo Store Event Announced (US) - Nintendo Life](https://www.nintendolife.com/news/2026/02/pokemon-30th-anniversary-nintendo-store-event-announced-us)
+* 📰 [Azure Striker Gunvolt Trilogy Enhanced ‘CONNECT iX’ Copen mode update now ava...](https://www.gematsu.com/2026/02/azure-striker-gunvolt-trilogy-enhanced-connect-ix-copen-mode-update-now-available)
+* 📰 [Nitro Deck 2 for Nintendo Switch 2 Is Up for Preorder at Amazon With a May 1 ...](https://www.ign.com/articles/where-to-preorder-the-nitro-deck-2-for-nintendo-switch-2)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-04 02:45 </sub>
+  <sub>Last updated: Last updated: 2026-02-04 07:03 </sub>
 </div>
 
