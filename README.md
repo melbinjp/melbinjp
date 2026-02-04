@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+Developed the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Why Civilization VII is the way it is, and how its devs plan to win critics b...](https://arstechnica.com/gaming/2026/02/interview-civilization-viis-devs-on-the-big-update-meant-to-win-critics-back/)
-* 📰 [Sonic Racing: CrossWorlds Fails To Meets Sega's Expectations - Nintendo Life](https://www.nintendolife.com/news/2026/02/sonic-racing-crossworlds-fails-to-meets-segas-expectations)
-* 📰 [New iPhone Fold specs revealed, including design, cameras, more - 9to5Mac](https://9to5mac.com/2026/02/02/new-iphone-fold-specs-revealed-including-design-cameras-more/)
+* 📰 [Looking back at Catacomb 3D , the game that led to Wolfenstein 3D - Ars Technica](https://arstechnica.com/gaming/2026/02/looking-back-at-catacomb-3d-the-game-that-led-to-wolfenstein-3d/)
+* 📰 ['People Have a Right to Be Pissed' — Dispatch Developer Apologizes to Fans Ov...](https://www.ign.com/articles/people-have-a-right-to-be-pissed-dispatch-developer-apologizes-to-fans-over-nintendo-switch-censorship-says-disclaimer-wasnt-visible-enough)
+* 📰 [Jez Corden argues next Xbox could inherit Windows’ strengths and its flaws - ...](https://www.windowscentral.com/gaming/xbox/the-next-xbox-is-a-pc-with-all-of-windows-strengths-will-it-come-with-its-weaknesses-too)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-03 19:07 </sub>
+  <sub>Last updated: Last updated: 2026-02-04 02:45 </sub>
 </div>
 
