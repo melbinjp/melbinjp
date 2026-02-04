@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **secure,.
+**Jules Endpoint Agent empowers.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed a **secure,.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Coming to Xbox Game Pass: High on Life 2, Madden NFL 26, Avatar: Frontiers of...](https://news.xbox.com/en-us/2026/02/03/xbox-game-pass-february-2026-wave-1/)
-* 📰 [Stardew Valley Turns 10: The Big ConcernedApe Interview - IGN](https://www.ign.com/articles/stardew-valley-turns-10-the-big-concernedape-interview)
-* 📰 [Metroid Prime 4: Beyond Sales Have Got Off To A Slow Start - Nintendo Life](https://www.nintendolife.com/news/2026/02/metroid-prime-4-beyond-sales-have-got-off-to-a-slow-start)
+* 📰 [New The Sims 4 Update: Official Patch Notes! (February 3rd, 2026) - Sims Comm...](https://simscommunity.info/2026/02/03/sims-4-update-patch-notes-february-3rd-2026/)
+* 📰 [More Hunters Per Match Being Tested - huntshowdown.com](https://www.huntshowdown.com/detailed)
+* 📰 [Minecraft 26.1 Snapshot 6 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-6)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-04 13:19 </sub>
+  <sub>Last updated: Last updated: 2026-02-04 19:01 </sub>
 </div>
 
