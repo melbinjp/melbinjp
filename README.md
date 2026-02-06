@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent empowers.
+Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Latest macOS 26.3 beta adds to signs that new M5 MacBook Pros are imminent - ...](https://9to5mac.com/2026/02/04/latest-macos-26-3-beta-adds-to-signs-that-new-m5-macbook-pros-are-imminent/)
-* 📰 [System76's COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experienc...](https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming)
-* 📰 [Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricin...](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis)
+* 📰 [Nintendo Direct Partner Showcase Announced For Today, 5th February 2026 - Nin...](https://www.nintendolife.com/news/2026/02/nintendo-direct-partner-showcase-announced-for-today-5th-february-2026)
+* 📰 [Valve Steam Machine, Controller, Frame Hit by Memory Crisis - TechPowerUp](https://www.techpowerup.com/345989/valve-steam-machine-controller-frame-hit-by-memory-crisis)
+* 📰 [Canon Announces the Canon RF 14mm f/1.4L VCM - Canon Rumors](https://www.canonrumors.com/canon-announces-the-canon-rf-14mm-f-1-4l-vcm/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-06 07:05 </sub>
+  <sub>Last updated: Last updated: 2026-02-06 13:18 </sub>
 </div>
 
