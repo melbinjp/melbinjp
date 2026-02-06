@@ -118,12 +118,12 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster.jpg" alt="NGC 1275 in the Perseus Cluster" 
+  <a href="https://apod.nasa.gov/apod/image/2602/CasA_nircam_4096.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/CasA_nircam_4096.jpg" alt="Supernova Remnant Cassiopeia A" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>NGC 1275 in the Perseus Cluster</em> • NASA APOD</p>
+<p align="center"><em>Supernova Remnant Cassiopeia A</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Latest macOS 26.3 beta adds to signs that new M5 MacBook Pros are imminent - ...](https://9to5mac.com/2026/02/04/latest-macos-26-3-beta-adds-to-signs-that-new-m5-macbook-pros-are-imminent/)
+* 📰 [System76's COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experienc...](https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming)
 * 📰 [Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricin...](https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis)
-* 📰 [Alphabet won’t talk about the Google-Apple AI deal, even to investors - TechC...](https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/)
-* 📰 [Russian-state hackers exploit Office vulnerability to infect computers - Ars ...](https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-06 02:47 </sub>
+  <sub>Last updated: Last updated: 2026-02-06 07:05 </sub>
 </div>
 
