@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules.
+Engineered the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes](https://www.forbes.com/sites/jaymcgregor/2026/02/06/samsung-galaxy-s26-ultra-leak-battery-qi2/)
-* 📰 [Mewgenics Review - IGN](https://www.ign.com/articles/mewgenics-review)
-* 📰 [British woman claims she’s 80% human and 20% robot thanks to a mind-reading b...](https://supercarblondie.com/tech/british-woman-claims-shes-80-human-and-20-robot-bionic-arm/)
+* 📰 [Why a bump to $700 could be a "death sentence" for the Steam Machine - Ars Te...](https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/)
+* 📰 [This is the Trump Phone - theverge.com](https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson)
+* 📰 [Pokemon’s 30th Anniversary Super Bowl commercial partially leaks featuring ce...](https://mynintendonews.com/2026/02/06/pokemons-30th-anniversary-super-bowl-commercial-partially-leaks-featuring-celebs/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-07 18:48 </sub>
+  <sub>Last updated: Last updated: 2026-02-08 03:27 </sub>
 </div>
 
