@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules Endpoint.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ Engineered the Jules Endpoint.
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/PIA20522enceladus.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/PIA20522enceladus.jpg" alt="Crescent Enceladus" 
+  <a href="https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/Sunspot4366_Korona_1280.jpg" alt="Active Sunspot Region 4366 Crosses the Sun" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Crescent Enceladus</em> • NASA APOD</p>
+<p align="center"><em>Active Sunspot Region 4366 Crosses the Sun</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Engineered the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Why a bump to $700 could be a "death sentence" for the Steam Machine - Ars Te...](https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/)
-* 📰 [This is the Trump Phone - theverge.com](https://www.theverge.com/gadgets/875190/trump-phone-t1-first-look-design-interview-eric-thomas-don-hendrickson)
-* 📰 [Pokemon’s 30th Anniversary Super Bowl commercial partially leaks featuring ce...](https://mynintendonews.com/2026/02/06/pokemons-30th-anniversary-super-bowl-commercial-partially-leaks-featuring-celebs/)
+* 📰 [DOJ Over-Seized Hannah Natanson’s Garmin Device and Other Reporting Materials...](https://emptywheel.net/doj-over-seized-hannah-natansons-garmin-device-and-other-reporting-materials/)
+* 📰 [Hamster's 'Console Archives' Starting Lineup Revealed, Includes More Than 10 ...](https://www.nintendolife.com/news/2026/02/hamsters-console-archives-starting-lineup-revealed-includes-more-than-10-titles)
+* 📰 [Why Apple's iOS 26.4 Siri Upgrade Will Be Bigger Than Originally Promised - M...](https://www.macrumors.com/2026/02/06/siri-ios-26-4-rumors/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-08 03:27 </sub>
+  <sub>Last updated: Last updated: 2026-02-08 07:02 </sub>
 </div>
 
