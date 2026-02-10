@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the.
+**Jules Endpoint Agent**.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -113,17 +113,6 @@ Engineered the.
 
 <!-- INSPIRATION_START -->
 > "Code is like humor. When you have to explain it, it's bad." — Cory House
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/greencompany_rive_2916.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/greencompany_rive_2916.jpg" alt="In Green Company: Aurora over Norway" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>In Green Company: Aurora over Norway</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ Engineered the.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Discord will require a face scan or ID for full access next month - theverge.com](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
-* 📰 [Discover a new love for objective-based piracy with the Red Corsairs Raiders ...](https://www.warhammer-community.com/articles/1v332xbn/discover-a-new-love-for-objective-based-piracy-with-the-red-corsairs-raiders-datasheets)
-* 📰 [PlayStation just announced a State of Play, and it looks like it'll be the lo...](https://www.eurogamer.net/playstation-state-of-play-february-2026-announced)
+* 📰 [Apple AirPods Pro 4 may include cameras: Here's what it means - Times of India](https://timesofindia.indiatimes.com/technology/wearables/apple-airpods-pro-4-may-include-cameras-heres-what-it-means/articleshow/128124962.cms)
+* 📰 [Blizzard's Latest Attempt at a StarCraft Shooter Reportedly in Development at...](https://www.ign.com/articles/blizzards-latest-attempt-at-a-starcraft-shooter-reportedly-in-development-at-nexon)
+* 📰 [Nintendo Store App Receives A Small But Welcome Update - Nintendo Life](https://www.nintendolife.com/news/2026/02/nintendo-store-app-receives-a-small-but-welcome-update)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-10 13:43 </sub>
+  <sub>Last updated: Last updated: 2026-02-10 19:19 </sub>
 </div>
 
