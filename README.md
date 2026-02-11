@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a robust **Jules.
+Developed a **.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed a robust **Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed a robust **Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Capcom's New IP Is Off To A Promising Start As Demo Hits One Million "Combine...](https://www.nintendolife.com/news/2026/02/capcoms-new-ip-is-off-to-a-promising-start-as-demo-hits-one-million-combined-downloads)
-* 📰 [Monster Hunter Wilds large-scale expansion in development; version 1.041 upda...](https://www.gematsu.com/2026/02/monster-hunter-wilds-large-scale-expansion-in-development-version-1-041-update-launches-february-18)
-* 📰 [New video game sees Africans fantasise about taking back looted treasures - BBC](https://www.bbc.com/news/articles/clyg4lgm1d2o)
+* 📰 [Column | How to change the way you make coffee to improve your life — forever...](https://www.washingtonpost.com/climate-environment/2026/02/10/how-change-way-you-make-coffee-improve-your-life-forever/)
+* 📰 [February Update 1.15.0 - ARC Raiders](https://arcraiders.com/news/patch-notes-1-15-0)
+* 📰 [Riot Games downsizes 2XKO team, about 80 employees affected - GamesIndustry.biz](https://www.gamesindustry.biz/riot-games-downsizes-2xko-team-about-80-employees-affected)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-11 07:14 </sub>
+  <sub>Last updated: Last updated: 2026-02-11 13:40 </sub>
 </div>
 
