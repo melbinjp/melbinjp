@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Engineered the Jules.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [TikTok is tracking you, even if you don't use the app. Here's how to stop it ...](https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it)
-* 📰 [Column | Asking Eric: Alexa’s eavesdropping makes for uncomfortable visits - ...](https://www.washingtonpost.com/advice/2026/02/11/asking-eric-alexa-listening-nervous/)
-* 📰 [Suda51 Says Grasshopper Is Still Working On A "Switch 2 Version" Of Its New G...](https://www.nintendolife.com/news/2026/02/suda51-says-grasshopper-is-still-working-on-a-switch-2-version-of-its-new-game)
+* 📰 [Review: Reanimal (Switch 2) - Little Nightmares Team Delivers Its Darkest, Bo...](https://www.nintendolife.com/reviews/nintendo-switch-2/reanimal)
+* 📰 [Preview: Despite Low Expectations, Pokémon Pokopia Had Me Grinning From Ear T...](https://www.nintendolife.com/previews/despite-low-expectations-pokemon-pokopia-had-me-grinning-from-ear-to-ear)
+* 📰 [Notepad's new Markdown powers served with a side of remote code execution - t...](https://www.theregister.com/2026/02/11/notepad_rce_flaw/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-12 13:38 </sub>
+  <sub>Last updated: Last updated: 2026-02-12 19:14 </sub>
 </div>
 
