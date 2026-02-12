@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent,.
+**Engineered the Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules Endpoint Agent,.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent,.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [TikTok is tracking you, even if you don't use the app. Here's how to stop it ...](https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it)
 * 📰 [Column | Asking Eric: Alexa’s eavesdropping makes for uncomfortable visits - ...](https://www.washingtonpost.com/advice/2026/02/11/asking-eric-alexa-listening-nervous/)
-* 📰 [Samsung to Unveil AI-Charged Galaxy S26 Smartphones on Feb. 25 - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWUydTFJdnVxUHRQMUlqNkcyUXBER2plRll6cVVUdEJkcXlzWXhPam9NNnN6SXl1LUgyTDFqUGdySWhDYzJXejFsNW9uNWFuVHFudy1qbHlhMldCSEgxYXZMQkhUNHllNktzN3dKUEEwMkxQX0tMbURiQVFHYm5wa3diNVpCV2p0WVpmbnFZUlQ4N1kzSkxzckFCa2tUMWREeWRiRmtUQnUzWlNUSXFIcFVXaw?oc=5)
-* 📰 [Mewgenics earns back entire 7 year development budget just 3 hours after laun...](https://www.dexerto.com/gaming/mewgenics-earns-back-entire-7-year-development-budget-just-3-hours-after-launch-3317073/)
+* 📰 [Suda51 Says Grasshopper Is Still Working On A "Switch 2 Version" Of Its New G...](https://www.nintendolife.com/news/2026/02/suda51-says-grasshopper-is-still-working-on-a-switch-2-version-of-its-new-game)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-12 07:13 </sub>
+  <sub>Last updated: Last updated: 2026-02-12 13:38 </sub>
 </div>
 
