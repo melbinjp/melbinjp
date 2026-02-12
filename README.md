@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint.
+Developed the Jules Endpoint Agent,.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_3450.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_3450.jpg" alt="A Year of Sunspots" 
+  <a href="https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger.jpg" alt="The Bay of Rainbows" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>A Year of Sunspots</em> • NASA APOD</p>
+<p align="center"><em>The Bay of Rainbows</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Samsung confirms Galaxy S26 launch on February 25, up to $900 off with reserv...](http://9to5google.com/2026/02/10/samsung-galaxy-s26-launch-date-confirmed/)
-* 📰 [Google rolling out Android 16 QPR3 Beta 2.1 patch - 9to5Google](http://9to5google.com/2026/02/10/android-16-qpr3-beta-2-1-pixel/)
-* 📰 [The Trump Phone Looks as Bad as It Sounds - Gizmodo](https://gizmodo.com/the-trump-phone-looks-as-bad-as-it-sounds-2000720184)
+* 📰 [Column | Asking Eric: Alexa’s eavesdropping makes for uncomfortable visits - ...](https://www.washingtonpost.com/advice/2026/02/11/asking-eric-alexa-listening-nervous/)
+* 📰 [Samsung to Unveil AI-Charged Galaxy S26 Smartphones on Feb. 25 - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWUydTFJdnVxUHRQMUlqNkcyUXBER2plRll6cVVUdEJkcXlzWXhPam9NNnN6SXl1LUgyTDFqUGdySWhDYzJXejFsNW9uNWFuVHFudy1qbHlhMldCSEgxYXZMQkhUNHllNktzN3dKUEEwMkxQX0tMbURiQVFHYm5wa3diNVpCV2p0WVpmbnFZUlQ4N1kzSkxzckFCa2tUMWREeWRiRmtUQnUzWlNUSXFIcFVXaw?oc=5)
+* 📰 [Mewgenics earns back entire 7 year development budget just 3 hours after laun...](https://www.dexerto.com/gaming/mewgenics-earns-back-entire-7-year-development-budget-just-3-hours-after-launch-3317073/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-12 03:13 </sub>
+  <sub>Last updated: Last updated: 2026-02-12 07:13 </sub>
 </div>
 
