@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-The Jules Endpoint Agent provisions.
+Developed the **J.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ The Jules Endpoint Agent provisions.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini...](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657)
-* 📰 [Samsung Display Intros “QD-OLED Penta-Tandem” Premium Technology Brand - Wccf...](https://wccftech.com/samsung-display-qd-oled-penta-tandem-premium-technology-brand/)
-* 📰 [Mario Tennis Fever 1.0.1 update out now, patch notes - Nintendo Everything](https://nintendoeverything.com/mario-tennis-fever-1-0-1-update-out-now-patch-notes/)
+* 📰 [PS5 State of Play February 2026 live updates — last-minute leaks and rumors, ...](https://www.tomsguide.com/news/live/ps5-state-of-play-february-2026-live-updates)
+* 📰 [YouTube launches native app for Apple Vision Pro - 9to5Mac](https://9to5mac.com/2026/02/12/youtube-launches-native-app-for-apple-vision-pro/)
+* 📰 [Sony WF-1000XM6 arrive with updated sound tuning, stronger ANC - GSMArena.com...](https://www.gsmarena.com/sony_wf1000xm6_arrive_with_updated_sound_tuning_stronger_anc_-news-71532.php)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-13 13:19 </sub>
+  <sub>Last updated: Last updated: 2026-02-13 19:02 </sub>
 </div>
 
