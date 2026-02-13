@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineers a secure, remotely.
+The Jules Endpoint Agent provisions.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -135,8 +135,8 @@ Engineers a secure, remotely.
 
 <!-- FUTURE_INSIGHTS_START -->
 * 📰 [Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini...](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657)
-* 📰 [Mario Tennis Fever Takes To The Court With A Small Day One Game Update - Nint...](https://www.nintendolife.com/news/2026/02/mario-tennis-fever-takes-to-the-court-with-a-small-day-one-game-update)
-* 📰 [Apple fixes zero-day flaw used in 'extremely sophisticated' attacks - Bleepin...](https://www.bleepingcomputer.com/news/security/apple-fixes-zero-day-flaw-used-in-extremely-sophisticated-attacks/)
+* 📰 [Samsung Display Intros “QD-OLED Penta-Tandem” Premium Technology Brand - Wccf...](https://wccftech.com/samsung-display-qd-oled-penta-tandem-premium-technology-brand/)
+* 📰 [Mario Tennis Fever 1.0.1 update out now, patch notes - Nintendo Everything](https://nintendoeverything.com/mario-tennis-fever-1-0-1-update-out-now-patch-notes/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-13 07:09 </sub>
+  <sub>Last updated: Last updated: 2026-02-13 13:19 </sub>
 </div>
 
