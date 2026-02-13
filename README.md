@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Review: Reanimal (Switch 2) - Little Nightmares Team Delivers Its Darkest, Bo...](https://www.nintendolife.com/reviews/nintendo-switch-2/reanimal)
-* 📰 [Preview: Despite Low Expectations, Pokémon Pokopia Had Me Grinning From Ear T...](https://www.nintendolife.com/previews/despite-low-expectations-pokemon-pokopia-had-me-grinning-from-ear-to-ear)
-* 📰 [Notepad's new Markdown powers served with a side of remote code execution - t...](https://www.theregister.com/2026/02/11/notepad_rce_flaw/)
+* 📰 [Highguard Developer Wildlight Entertainment Reportedly Lays Off 'Most Of The ...](https://gameinformer.com/2026/02/11/update-highguard-developer-wildlight-entertainment-confirms-layoffs-at-the-studio)
+* 📰 [Blizzard Is Bringing The Warlock Class To Diablo IV: Lord Of Hatred, Diablo I...](https://gameinformer.com/2026/02/11/blizzard-is-bringing-the-warlock-class-to-diablo-iv-lord-of-hatred-diablo-ii-and-diablo)
+* 📰 [Apple Stock Eyes Breakout As This Unseen Engine Unlocks Agentic AI - Investor...](https://www.investors.com/research/breakout-stocks-technical-analysis/apple-stock-near-breakout-xcode-agentic-ai-anthropic-claude-openai-codex/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-12 19:14 </sub>
+  <sub>Last updated: Last updated: 2026-02-13 03:14 </sub>
 </div>
 
