@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -118,12 +118,12 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/N147N185.png" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/N147N185.png" alt="NGC 147 and NGC 185" 
+  <a href="https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/RosetteCalcagno.jpg" alt="Roses are Red" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>NGC 147 and NGC 185</em> • NASA APOD</p>
+<p align="center"><em>Roses are Red</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [PlayStation State Of Play February 2026: All The Biggest Announcements And Ga...](https://www.gamespot.com/gallery/playstation-state-of-play-february-2026-all-the-biggest-announcements-and-games/2900-7488/)
-* 📰 [Turns out Game Freak's "relatively small" internal team is supported by "seve...](https://www.eurogamer.net/turns-out-game-freaks-relatively-small-internal-team-is-supported-by-several-dozen-development-partners-for-beast-of-reincarnation)
-* 📰 [God of War goes 2D with pixelated Sons of Sparta (which is out right now!) as...](https://www.eurogamer.net/god-of-war-goes-2d-with-pixelated-sons-of-sparta-which-is-out-right-now-as-original-ps2-trilogy-eyes-up-the-remake-treatment)
+* 📰 [Open world PS5 game Project Windless is part-God of War, part-Dynasty Warrior...](https://www.eurogamer.net/open-world-ps5-game-project-windless)
+* 📰 [Castlevania: Belmont's Curse Unveiled For Switch, Launching In 2026 - Nintend...](https://www.nintendolife.com/news/2026/02/castlevania-belmonts-curse-unveiled-for-switch-launching-in-2026)
+* 📰 [Metal Gear Solid: Master Collection Vol. 2 revealed for Nintendo Switch 2, Sw...](https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-revealed-for-nintendo-switch-2-switch/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-14 02:45 </sub>
+  <sub>Last updated: Last updated: 2026-02-14 06:58 </sub>
 </div>
 
