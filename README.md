@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent.
+Developed a **Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Open world PS5 game Project Windless is part-God of War, part-Dynasty Warrior...](https://www.eurogamer.net/open-world-ps5-game-project-windless)
-* 📰 [Castlevania: Belmont's Curse Unveiled For Switch, Launching In 2026 - Nintend...](https://www.nintendolife.com/news/2026/02/castlevania-belmonts-curse-unveiled-for-switch-launching-in-2026)
-* 📰 [Metal Gear Solid: Master Collection Vol. 2 revealed for Nintendo Switch 2, Sw...](https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-revealed-for-nintendo-switch-2-switch/)
+* 📰 ["We were turned into a joke from minute one" - fired Highguard developer refl...](https://www.eurogamer.net/we-were-turned-into-a-joke-from-minute-one-fired-highguard-developer-reflects-on-games-ill-fated-launch-and-false-assumptions-after-game-awards-reveal)
+* 📰 [Samsung Galaxy S26 colors, renders leak. See them now. - Mashable](https://mashable.com/article/samsung-galaxy-s26-leak)
+* 📰 [Surprise! Rayman: 30th Anniversary Edition Arrives On Switch This Week - Nint...](https://www.nintendolife.com/news/2026/02/surprise-rayman-30th-anniversary-edition-arrives-on-switch-this-week)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-14 06:58 </sub>
+  <sub>Last updated: Last updated: 2026-02-14 13:07 </sub>
 </div>
 
