@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the **J.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the **J.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the **J.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [PS5 State of Play February 2026 live updates — last-minute leaks and rumors, ...](https://www.tomsguide.com/news/live/ps5-state-of-play-february-2026-live-updates)
-* 📰 [YouTube launches native app for Apple Vision Pro - 9to5Mac](https://9to5mac.com/2026/02/12/youtube-launches-native-app-for-apple-vision-pro/)
-* 📰 [Sony WF-1000XM6 arrive with updated sound tuning, stronger ANC - GSMArena.com...](https://www.gsmarena.com/sony_wf1000xm6_arrive_with_updated_sound_tuning_stronger_anc_-news-71532.php)
+* 📰 [PlayStation State Of Play February 2026: All The Biggest Announcements And Ga...](https://www.gamespot.com/gallery/playstation-state-of-play-february-2026-all-the-biggest-announcements-and-games/2900-7488/)
+* 📰 [Turns out Game Freak's "relatively small" internal team is supported by "seve...](https://www.eurogamer.net/turns-out-game-freaks-relatively-small-internal-team-is-supported-by-several-dozen-development-partners-for-beast-of-reincarnation)
+* 📰 [God of War goes 2D with pixelated Sons of Sparta (which is out right now!) as...](https://www.eurogamer.net/god-of-war-goes-2d-with-pixelated-sons-of-sparta-which-is-out-right-now-as-original-ps2-trilogy-eyes-up-the-remake-treatment)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-13 19:02 </sub>
+  <sub>Last updated: Last updated: 2026-02-14 02:45 </sub>
 </div>
 
