@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **Jules Endpoint.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed a **Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed a **Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [New base iPhone coming soon, new leak reveals key specs - 9to5Mac](https://9to5mac.com/2026/02/13/new-base-iphone-coming-soon-new-leak-reveals-key-specs/)
+* 📰 [Silent Hill: Townfall Not Coming To Xbox At Launch, Along With A Few Other St...](https://www.purexbox.com/news/2026/02/silent-hill-townfall-not-coming-to-xbox-at-launch-along-with-a-few-other-state-of-play-titles)
 * 📰 ["We were turned into a joke from minute one" - fired Highguard developer refl...](https://www.eurogamer.net/we-were-turned-into-a-joke-from-minute-one-fired-highguard-developer-reflects-on-games-ill-fated-launch-and-false-assumptions-after-game-awards-reveal)
-* 📰 [Samsung Galaxy S26 colors, renders leak. See them now. - Mashable](https://mashable.com/article/samsung-galaxy-s26-leak)
-* 📰 [Surprise! Rayman: 30th Anniversary Edition Arrives On Switch This Week - Nint...](https://www.nintendolife.com/news/2026/02/surprise-rayman-30th-anniversary-edition-arrives-on-switch-this-week)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-14 13:07 </sub>
+  <sub>Last updated: Last updated: 2026-02-14 18:48 </sub>
 </div>
 
