@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint.
+The Jules Endpoint Agent transforms.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Samsung Confirms Galaxy S26 Ultra Unpacked: How To Claim Your $900 Discount -...](https://www.forbes.com/sites/davidphelan/2026/02/14/galaxy-s26-ultra-release-date-samsung-confirms-event-and-pre-order-perks/)
-* 📰 [ChatGPT promised to help her find her soulmate. Then it betrayed her - NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot)
-* 📰 [The DJI Romo robovac had security so poor, this man remotely accessed thousan...](https://www.theverge.com/tech/879088/dji-romo-hack-vulnerability-remote-control-camera-access-mqtt)
+* 📰 [Google sets accelerated Android 17 release schedule - 9to5Google](http://9to5google.com/2026/02/14/android-17-schedule/)
+* 📰 [I found the best Presidents Day TV deals on the latest from Samsung, Sony and...](https://www.cnn.com/cnn-underscored/deals/presidents-day-tv-sales-2026-02-14)
+* 📰 [What it’s like to go on a date with an AI in NYC - CNN](https://www.cnn.com/2026/02/14/us/video/artificial-intelligence-date-valentines-day-nyc-digvid)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-15 13:09 </sub>
+  <sub>Last updated: Last updated: 2026-02-15 18:49 </sub>
 </div>
 
