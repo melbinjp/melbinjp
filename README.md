@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-The Jules Endpoint Agent transforms.
+Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ The Jules Endpoint Agent transforms.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google sets accelerated Android 17 release schedule - 9to5Google](http://9to5google.com/2026/02/14/android-17-schedule/)
-* 📰 [I found the best Presidents Day TV deals on the latest from Samsung, Sony and...](https://www.cnn.com/cnn-underscored/deals/presidents-day-tv-sales-2026-02-14)
-* 📰 [What it’s like to go on a date with an AI in NYC - CNN](https://www.cnn.com/2026/02/14/us/video/artificial-intelligence-date-valentines-day-nyc-digvid)
+* 📰 [This weekend Amazon has the DKI Mini 4K drone for 20% off - Mashable](https://mashable.com/article/feb-14-dji-mini-4k-drone-deal)
+* 📰 [8 Apple Products You Should Buy And 4 You Should Skip - bgr.com](https://www.bgr.com/2096359/must-have-apple-products/)
+* 📰 [5 Gadgets Sold At Home Depot That Any DIYer Would Consider A Must-Have - Slas...](https://www.slashgear.com/2097512/home-depot-gadgets-for-diy-enthusiasts/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-15 18:49 </sub>
+  <sub>Last updated: Last updated: 2026-02-16 02:53 </sub>
 </div>
 
