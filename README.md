@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the **Jules Endpoint.
+Developed a secure endpoint agent that.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the **Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the **Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pokémon Pinball Machine Officially Revealed By Stern Pinball, Available Now -...](https://www.nintendolife.com/news/2026/02/pokemon-pinball-machine-officially-revealed-by-stern-pinball-available-now)
-* 📰 [Rayman: 30th Anniversary Edition Is Getting A Physical Switch Release - Ninte...](https://www.nintendolife.com/news/2026/02/rayman-30th-anniversary-edition-is-getting-a-physical-switch-release)
-* 📰 [Why There's Simply No Need For An Amazon Fire TV Stick Anymore - bgr.com](https://www.bgr.com/2098089/why-no-one-uses-amazon-fire-tv-stick-anymore/)
+* 📰 [Google’s AI Overviews Can Scam You. Here’s How to Stay Safe - WIRED](https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/)
+* 📰 [I replaced 6 subscription-based Android apps with these free open source gems...](https://www.androidpolice.com/replaced-subscription-based-android-apps-with-free-open-source-gems/)
+* 📰 [Xbox Game Pass loses another four games in February 2026 - TrueAchievements](https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-february-2026-wave-2)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-16 07:16 </sub>
+  <sub>Last updated: Last updated: 2026-02-16 13:22 </sub>
 </div>
 
