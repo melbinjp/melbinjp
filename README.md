@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent.
+Developed the **Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Developed the Jules Endpoint Agent.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_3000.jpg" alt="To Fly Free in Space" 
+  <a href="https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/WhiteDwarfShock_VLT_960.jpg" alt="Unexplained Shocks Around a White Dwarf Star" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>To Fly Free in Space</em> • NASA APOD</p>
+<p align="center"><em>Unexplained Shocks Around a White Dwarf Star</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [This weekend Amazon has the DKI Mini 4K drone for 20% off - Mashable](https://mashable.com/article/feb-14-dji-mini-4k-drone-deal)
-* 📰 [8 Apple Products You Should Buy And 4 You Should Skip - bgr.com](https://www.bgr.com/2096359/must-have-apple-products/)
-* 📰 [5 Gadgets Sold At Home Depot That Any DIYer Would Consider A Must-Have - Slas...](https://www.slashgear.com/2097512/home-depot-gadgets-for-diy-enthusiasts/)
+* 📰 [Pokémon Pinball Machine Officially Revealed By Stern Pinball, Available Now -...](https://www.nintendolife.com/news/2026/02/pokemon-pinball-machine-officially-revealed-by-stern-pinball-available-now)
+* 📰 [Rayman: 30th Anniversary Edition Is Getting A Physical Switch Release - Ninte...](https://www.nintendolife.com/news/2026/02/rayman-30th-anniversary-edition-is-getting-a-physical-switch-release)
+* 📰 [Why There's Simply No Need For An Amazon Fire TV Stick Anymore - bgr.com](https://www.bgr.com/2098089/why-no-one-uses-amazon-fire-tv-stick-anymore/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-16 02:53 </sub>
+  <sub>Last updated: Last updated: 2026-02-16 07:16 </sub>
 </div>
 
