@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the.
+This project **.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Engineered the.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Galaxy S26 Ultra: Seven possible upgrades beyond the leaked specs - PhoneArena](https://www.phonearena.com/news/Galaxy-S26-Ultra-Seven-possible-upgrades-beyond-the-leaked-specs_id178176)
-* 📰 [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released - Th...](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html)
-* 📰 [Bloodstained Director Shutaro Iida Passes Away at 52 as Sequel Production Ent...](https://noisypixel.net/bloodstained-director-shutaro-iida-passes-away/)
+* 📰 [Guy Deletes His Fiance’s Red Dead Redemption 2 Save, Begs Arthur Morgan For H...](https://kotaku.com/red-dead-redemption-2-arthur-morgan-roger-clark-cameo-2000669442)
+* 📰 [Best gaming monitor deal: 34-inch curved QD-OLED Alienware model hits low pri...](https://mashable.com/article/feb-16-alienware-curved-oled-gaming-monitor-deal)
+* 📰 [I've worked from home for 7 years: These are the gadgets I'm eyeing to buy - ...](https://www.zdnet.com/home-and-office/ive-worked-from-home-for-7-years-these-are-the-gadgets-im-eyeing-to-buy/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-17 13:22 </sub>
+  <sub>Last updated: Last updated: 2026-02-17 19:08 </sub>
 </div>
 
