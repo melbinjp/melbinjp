@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered the Jules Endpoint.
+Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineered the Jules Endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "First, solve the problem. Then, write the code." — John Johnson
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Engineered the Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [An Update on Recent Exploits and Corrective Actions - ARC Raiders](https://arcraiders.com/news/an-update-on-recent-exploits-and-corrective-actions)
-* 📰 [Metal Gear Solid 4 and Peace Walker delisted from PS3 store following Master ...](https://www.eurogamer.net/metal-gear-solid-4-and-peace-walker-delisted-from-ps3-store-following-master-collection-vol-2-reveal)
-* 📰 [God of War Dev's Next Big PS5 Exclusive Plotted for 2027 Release - Push Square](https://www.pushsquare.com/news/2026/02/god-of-war-devs-next-big-ps5-exclusive-plotted-for-2027-release)
+* 📰 ['Can You Use Labo VR Goggles For Virtual Boy Games On Switch?' & Other Ninten...](https://www.nintendolife.com/guides/can-you-use-labo-vr-goggles-for-virtual-boy-games-on-switch-and-other-nintendo-classics-vb-questions-answered)
+* 📰 [Review: Avowed (PS5) - Overlooked Xbox RPG Arrives with Some Big Upgrades - P...](https://www.pushsquare.com/reviews/ps5/avowed)
+* 📰 [Valve's Steam Deck "intermittently" out of stock as RAM shortage drags on - A...](https://arstechnica.com/gadgets/2026/02/valves-steam-deck-intermittently-out-of-stock-as-ram-shortage-drags-on/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-18 13:25 </sub>
+  <sub>Last updated: Last updated: 2026-02-18 19:06 </sub>
 </div>
 
