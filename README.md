@@ -75,7 +75,8 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project **.
+**
+Developed a secure,.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +135,9 @@ This project **.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Guy Deletes His Fiance’s Red Dead Redemption 2 Save, Begs Arthur Morgan For H...](https://kotaku.com/red-dead-redemption-2-arthur-morgan-roger-clark-cameo-2000669442)
-* 📰 [Best gaming monitor deal: 34-inch curved QD-OLED Alienware model hits low pri...](https://mashable.com/article/feb-16-alienware-curved-oled-gaming-monitor-deal)
-* 📰 [I've worked from home for 7 years: These are the gadgets I'm eyeing to buy - ...](https://www.zdnet.com/home-and-office/ive-worked-from-home-for-7-years-these-are-the-gadgets-im-eyeing-to-buy/)
+* 📰 [macOS Tahoe 26.4 and iPadOS 26.4 add compact tab bar in Safari - 9to5Mac](https://9to5mac.com/2026/02/16/macos-tahoe-26-4-and-ipados-26-4-add-compact-tab-bar-in-safari/)
+* 📰 [Get ready for new Macs and iPads: Apple announces "Special Experience" on Mar...](https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/)
+* 📰 [iOS 26.4 beta 1: Here’s everything new - 9to5Mac](https://9to5mac.com/2026/02/16/ios-26-4-beta-1-heres-everything-new/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +164,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-17 19:08 </sub>
+  <sub>Last updated: Last updated: 2026-02-18 02:53 </sub>
 </div>
 
