@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-The Jules Endpoint Agent transforms any.
+Engineered the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ The Jules Endpoint Agent transforms any.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the ...](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis)
-* 📰 [Magical Princess launches this spring - Gematsu](https://www.gematsu.com/2026/02/magical-princess-launches-this-spring)
-* 📰 [California dealer refuses to sell 2025 Ferrari 296 GTS despite being offered ...](https://supercarblondie.com/california-dealer-refuses-sell-2025-ferrari-296-gts-despite-high-offer/)
+* 📰 [An Update on Recent Exploits and Corrective Actions - ARC Raiders](https://arcraiders.com/news/an-update-on-recent-exploits-and-corrective-actions)
+* 📰 [Metal Gear Solid 4 and Peace Walker delisted from PS3 store following Master ...](https://www.eurogamer.net/metal-gear-solid-4-and-peace-walker-delisted-from-ps3-store-following-master-collection-vol-2-reveal)
+* 📰 [God of War Dev's Next Big PS5 Exclusive Plotted for 2027 Release - Push Square](https://www.pushsquare.com/news/2026/02/god-of-war-devs-next-big-ps5-exclusive-plotted-for-2027-release)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-18 07:12 </sub>
+  <sub>Last updated: Last updated: 2026-02-18 13:25 </sub>
 </div>
 
