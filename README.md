@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineers can **.
+This project **transforms**.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Engineers can **.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Engineers can **.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [I hacked ChatGPT and Google's AI – and it only took 20 minutes - BBC](https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes)
-* 📰 [Samsung teases Galaxy S26 camera as ‘brightest’ and ‘easiest’ ever, thanks to...](http://9to5google.com/2026/02/17/samsung-galaxy-s26-brightest-teaser/)
-* 📰 [Look Away Now, The Revuelto Has Been Mansoried - Carscoops](https://www.carscoops.com/2026/02/mansory-lamborghini-revuelto-carbonado-x/)
+* 📰 [Call Of Duty: Black Ops 7 Ad Banned Over Sexual Assault Joke - Kotaku](https://kotaku.com/call-of-duty-black-ops-7-ad-banned-over-sexual-assault-joke-2000670671)
+* 📰 [Record scratch—Google’s Lyria 3 AI music model is coming to Gemini today - Ar...](https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/)
+* 📰 [Google’s Pixel 10a arrives on March 5 for $499 with specs and design of yeste...](https://arstechnica.com/gadgets/2026/02/googles-pixel-10a-arrives-on-march-5-for-499-with-specs-and-design-of-yesteryear/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-19 13:26 </sub>
+  <sub>Last updated: Last updated: 2026-02-19 19:02 </sub>
 </div>
 
