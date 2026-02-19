@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 ['Can You Use Labo VR Goggles For Virtual Boy Games On Switch?' & Other Ninten...](https://www.nintendolife.com/guides/can-you-use-labo-vr-goggles-for-virtual-boy-games-on-switch-and-other-nintendo-classics-vb-questions-answered)
-* 📰 [Review: Avowed (PS5) - Overlooked Xbox RPG Arrives with Some Big Upgrades - P...](https://www.pushsquare.com/reviews/ps5/avowed)
-* 📰 [Valve's Steam Deck "intermittently" out of stock as RAM shortage drags on - A...](https://arstechnica.com/gadgets/2026/02/valves-steam-deck-intermittently-out-of-stock-as-ram-shortage-drags-on/)
+* 📰 [GameHub will give Mac owners another imperfect way to play Windows games - Ar...](https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/)
+* 📰 [Google announces dates for I/O 2026 - The Verge](https://www.theverge.com/tech/880401/google-io-2026-dates-ai)
+* 📰 [Highguard's Mysterious Funding Reportedly Came From Tencent - Kotaku](https://kotaku.com/highguard-wildlight-tencent-funding-layoffs-servers-2000669790)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-18 19:06 </sub>
+  <sub>Last updated: Last updated: 2026-02-19 02:52 </sub>
 </div>
 
