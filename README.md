@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+Engineers can **.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Yes, Chrome’s Home icon changed on Android - 9to5Google](http://9to5google.com/2026/02/17/chrome-145-home-icon/)
-* 📰 [Zelda: Tears of the Kingdom 1.4.3 update out now, patch notes - Nintendo Ever...](https://nintendoeverything.com/zelda-tears-of-the-kingdom-1-4-3-update-out-now-patch-notes/)
-* 📰 [Microsoft confirms new Windows 11 feature drop coming next month - Windows Ce...](https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-next-windows-11-feature-drop-with-new-taskbar-emoji-and-settings-updates-heres-whats-coming-to-your-pc-very-soon)
+* 📰 [I hacked ChatGPT and Google's AI – and it only took 20 minutes - BBC](https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes)
+* 📰 [Samsung teases Galaxy S26 camera as ‘brightest’ and ‘easiest’ ever, thanks to...](http://9to5google.com/2026/02/17/samsung-galaxy-s26-brightest-teaser/)
+* 📰 [Look Away Now, The Revuelto Has Been Mansoried - Carscoops](https://www.carscoops.com/2026/02/mansory-lamborghini-revuelto-carbonado-x/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-19 07:11 </sub>
+  <sub>Last updated: Last updated: 2026-02-19 13:26 </sub>
 </div>
 
