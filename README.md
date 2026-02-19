@@ -112,18 +112,18 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_3000.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/OrionBarnard_Czerski_3000.jpg" alt="Orion&#x27;s Cradle" 
+  <a href="https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg" alt="IC 2574: Coddington&#x27;s Nebula" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>Orion&#x27;s Cradle</em> • NASA APOD</p>
+<p align="center"><em>IC 2574: Coddington&#x27;s Nebula</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [GameHub will give Mac owners another imperfect way to play Windows games - Ar...](https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/)
-* 📰 [Google announces dates for I/O 2026 - The Verge](https://www.theverge.com/tech/880401/google-io-2026-dates-ai)
-* 📰 [Highguard's Mysterious Funding Reportedly Came From Tencent - Kotaku](https://kotaku.com/highguard-wildlight-tencent-funding-layoffs-servers-2000669790)
+* 📰 [Yes, Chrome’s Home icon changed on Android - 9to5Google](http://9to5google.com/2026/02/17/chrome-145-home-icon/)
+* 📰 [Zelda: Tears of the Kingdom 1.4.3 update out now, patch notes - Nintendo Ever...](https://nintendoeverything.com/zelda-tears-of-the-kingdom-1-4-3-update-out-now-patch-notes/)
+* 📰 [Microsoft confirms new Windows 11 feature drop coming next month - Windows Ce...](https://www.windowscentral.com/microsoft/windows-11/microsoft-confirms-next-windows-11-feature-drop-with-new-taskbar-emoji-and-settings-updates-heres-whats-coming-to-your-pc-very-soon)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-19 02:52 </sub>
+  <sub>Last updated: Last updated: 2026-02-19 07:11 </sub>
 </div>
 
