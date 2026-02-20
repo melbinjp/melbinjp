@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered a robust agent.
+Developed the Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,18 @@ Engineered a robust agent.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
 
 <p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/IC2574Vetter.jpg" alt="IC 2574: Coddington&#x27;s Nebula" 
+  <a href="https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1178.png" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/B93_bertincourt_1178.png" alt="B93: A Dark Interstellar Ghost" 
          style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   </a>
 </p>
-<p align="center"><em>IC 2574: Coddington&#x27;s Nebula</em> • NASA APOD</p>
+<p align="center"><em>B93: A Dark Interstellar Ghost</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +134,9 @@ Engineered a robust agent.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [This is when Samsung is restocking the Galaxy Z TriFold in the US - GSMArena....](https://www.gsmarena.com/this_is_when_samsung_is_restocking_the_galaxy_z_trifold_in_the_us-news-71619.php)
-* 📰 [Todd Howard Shuts Down ‘Starfield 2.0’ Claims and Promises More News ‘Soonish...](https://insider-gaming.com/todd-howard-starfield-2-shut-down-and-promises-more-news/)
-* 📰 [Elder Scrolls 6 Is Powered By New Version Of Creation Engine - Kotaku](https://kotaku.com/elder-scrolls-6-is-powered-by-new-version-of-creation-engine-starfield-classic-rpg-2000670744)
+* 📰 [Highguard Dev Assures Fans a New Patch Is on the Way After Website Troubles S...](https://www.ign.com/articles/highguard-dev-assures-fans-a-new-patch-is-on-the-way-after-website-troubles-spark-fears-of-game-shut-down)
+* 📰 [Another AirPods Pro 3 model is coming, with one rumored upgrade - 9to5Mac](https://9to5mac.com/2026/02/18/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/)
+* 📰 [Laser writing in glass for dense, fast and efficient archival data storage - ...](https://www.nature.com/articles/s41586-025-10042-w)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-20 02:47 </sub>
+  <sub>Last updated: Last updated: 2026-02-20 07:07 </sub>
 </div>
 
