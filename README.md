@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules Endpoint Agent,.
+This project **architect.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed the Jules Endpoint Agent,.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ Developed the Jules Endpoint Agent,.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The biggest app in the whole wide world - The Verge](https://www.theverge.com/tech/876196/top-app-store-apps-developers)
-* 📰 ['You'll Hear About What We're Doing in Late Summer': Kratos Actor Spills Next...](https://www.pushsquare.com/news/2026/02/youll-hear-about-what-were-doing-in-late-summer-kratos-actor-spills-next-ps5-god-of-wars-reveal-plans)
-* 📰 [Vivo V70 is officially here with impressive Zeiss cameras: you're invited to ...](https://www.phonearena.com/news/vivo-v70-is-officially-here_id178311)
+* 📰 [Xenoblade Chronicles X: Definitive Edition - Nintendo Switch 2 Edition announ...](https://www.gematsu.com/2026/02/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-edition-announced-now-available)
+* 📰 ["Reputational damage already done" - Highguard clings to life with a content ...](https://www.eurogamer.net/highguard-clings-to-life-with-a-content-patch)
+* 📰 [Microsoft says Copilot was summarizing confidential emails without permission...](https://mashable.com/article/microsoft-copilot-summarizing-confidential-emails-without-permission)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-20 13:17 </sub>
+  <sub>Last updated: Last updated: 2026-02-20 19:00 </sub>
 </div>
 
