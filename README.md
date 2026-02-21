@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed the Jules.
+Engineered a secure, remotely.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,18 @@ Developed the Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "Code is like humor. When you have to explain it, it's bad." — Cory House
+> "The best way to predict the future is to invent it." — Alan Kay
+
+
+### 🌌 Today's Cosmic Perspective
+
+<p align="center">
+  <a href="https://apod.nasa.gov/apod/image/2602/20260219a.jpg" target="_blank">
+    <img src="https://apod.nasa.gov/apod/image/2602/20260219a.jpg" alt="Twilight with Moon and Planets" 
+         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
+</p>
+<p align="center"><em>Twilight with Moon and Planets</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +134,9 @@ Developed the Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pokémon FireRed & LeafGreen Is Getting A Stunning 'Special Edition' Release I...](https://www.nintendolife.com/news/2026/02/pokemon-firered-and-leafgreen-is-getting-a-stunning-special-edition-release-in-japan)
-* 📰 [Former Firaxis Games creative director announces closure of Midsummer Studios...](https://www.gamesindustry.biz/former-firaxis-games-creative-director-announces-closure-of-midsummer-studios)
-* 📰 [Rivian Adds A Sport Mode To All R1 EVs On The Road - InsideEVs](https://insideevs.com/news/787692/rivian-sport-mode-all-r1-evs-apple-watch-app/)
+* 📰 [CarPlay just got a big upgrade, and iOS 26.4 delivers even more - 9to5Mac](https://9to5mac.com/2026/02/20/carplay-just-got-a-big-upgrade-and-ios-26-4-delivers-even-more/)
+* 📰 [Tunic, Night in the Woods Publisher Says TikTok Is Creating and Running Racis...](https://www.ign.com/articles/tunic-night-in-the-woods-publisher-says-tiktok-is-creating-and-running-racist-genai-ads-for-its-games-without-permission)
+* 📰 [Pahk ya Boston accent right here. These stories on the city’s unique dialect ...](https://www.bostonglobe.com/2026/02/20/newsletters/starting-point/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-21 13:06 </sub>
+  <sub>Last updated: Last updated: 2026-02-21 18:48 </sub>
 </div>
 
