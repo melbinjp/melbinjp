@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project **architect.
+**Empower AI agents.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ This project **architect.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Xenoblade Chronicles X: Definitive Edition - Nintendo Switch 2 Edition announ...](https://www.gematsu.com/2026/02/xenoblade-chronicles-x-definitive-edition-nintendo-switch-2-edition-announced-now-available)
-* 📰 ["Reputational damage already done" - Highguard clings to life with a content ...](https://www.eurogamer.net/highguard-clings-to-life-with-a-content-patch)
-* 📰 [Microsoft says Copilot was summarizing confidential emails without permission...](https://mashable.com/article/microsoft-copilot-summarizing-confidential-emails-without-permission)
+* 📰 [Diablo II’s new Warlock is a great excuse to revisit a classic game - Ars Tec...](https://arstechnica.com/gaming/2026/02/diablo-iis-new-warlock-is-a-great-excuse-to-revisit-a-classic-game/)
+* 📰 [Remake specialist Bluepoint Games, co-developer of God of War Ragnarok, shut ...](https://www.gamesindustry.biz/remake-specialist-bluepoint-games-co-developer-of-god-of-war-ragnarok-shut-down-by-sony)
+* 📰 [iOS 27 will bring Liquid Glass changes, and I’m excited for one reason - 9to5Mac](https://9to5mac.com/2026/02/19/ios-27-will-bring-liquid-glass-changes-and-im-excited-for-one-reason/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-20 19:00 </sub>
+  <sub>Last updated: Last updated: 2026-02-21 02:41 </sub>
 </div>
 
