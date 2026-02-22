@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **Jules.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ Developed a **Jules.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +123,9 @@ Developed a **Jules.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Google Weather for Android is finally saying goodbye - Android Police](https://www.androidpolice.com/google-weather-app-for-android-on-its-way-out/)
+* 📰 [Why There's Simply No Need For A Password Manager Anymore - bgr.com](https://www.bgr.com/2102887/why-no-one-needs-password-managers-anymore/)
 * 📰 [New Microsoft Gaming, Xbox CEO: Asha Sharma on Great Games, AI Use - Variety](https://variety.com/2026/gaming/news/new-microsoft-gaming-ceo-asha-sharma-xbox-games-ai-1236668829/)
-* 📰 [The Google Weather Android ‘app’ is going away - 9to5Google](http://9to5google.com/2026/02/20/google-weather-app-android-deprecation/)
-* 📰 [Fury over Discord’s age checks explodes after shady Persona test in UK - Ars ...](https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-22 02:54 </sub>
+  <sub>Last updated: Last updated: 2026-02-22 06:59 </sub>
 </div>
 
