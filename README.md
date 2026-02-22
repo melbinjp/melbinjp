@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered a secure, remotely.
+Developed a **Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -113,17 +113,6 @@ Engineered a secure, remotely.
 
 <!-- INSPIRATION_START -->
 > "The best way to predict the future is to invent it." — Alan Kay
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/20260219a.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/20260219a.jpg" alt="Twilight with Moon and Planets" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Twilight with Moon and Planets</em> • NASA APOD</p>
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ Engineered a secure, remotely.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [CarPlay just got a big upgrade, and iOS 26.4 delivers even more - 9to5Mac](https://9to5mac.com/2026/02/20/carplay-just-got-a-big-upgrade-and-ios-26-4-delivers-even-more/)
-* 📰 [Tunic, Night in the Woods Publisher Says TikTok Is Creating and Running Racis...](https://www.ign.com/articles/tunic-night-in-the-woods-publisher-says-tiktok-is-creating-and-running-racist-genai-ads-for-its-games-without-permission)
-* 📰 [Pahk ya Boston accent right here. These stories on the city’s unique dialect ...](https://www.bostonglobe.com/2026/02/20/newsletters/starting-point/)
+* 📰 [New Microsoft Gaming, Xbox CEO: Asha Sharma on Great Games, AI Use - Variety](https://variety.com/2026/gaming/news/new-microsoft-gaming-ceo-asha-sharma-xbox-games-ai-1236668829/)
+* 📰 [The Google Weather Android ‘app’ is going away - 9to5Google](http://9to5google.com/2026/02/20/google-weather-app-android-deprecation/)
+* 📰 [Fury over Discord’s age checks explodes after shady Persona test in UK - Ars ...](https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-21 18:48 </sub>
+  <sub>Last updated: Last updated: 2026-02-22 02:54 </sub>
 </div>
 
