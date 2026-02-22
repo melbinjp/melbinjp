@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-The Jules Endpoint.
+**Jules Endpoint Agent enables.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ The Jules Endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Anker’s X1 Pro shouldn’t exist, but I’m so glad it does - The Verge](https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1)
-* 📰 [Why There's Simply No Need For A Password Manager Anymore - bgr.com](https://www.bgr.com/2102887/why-no-one-needs-password-managers-anymore/)
-* 📰 [Microsoft gaming chief Phil Spencer steps down after 38 years with company - ...](https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/)
+* 📰 [Strip out Windows 11’s bloatware, ads, and other grossness—for free - PCWorld](https://www.pcworld.com/article/3056694/strip-out-windows-11s-bloatware-ads-and-other-grossness-for-free.html)
+* 📰 [After using Android 17 Beta 1, I can't go back to Android 16 because of these...](https://www.androidauthority.com/android-17-beta-1-hands-on-3642520/)
+* 📰 [Why people are buying iPods again - Axios](https://www.axios.com/2026/02/21/ipods-music-genz-nostalgia)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-22 13:08 </sub>
+  <sub>Last updated: Last updated: 2026-02-22 18:48 </sub>
 </div>
 
