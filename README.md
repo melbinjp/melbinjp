@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,7 +112,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
 
 
 ### 🌌 Today's Cosmic Perspective
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [The Pokémon FireRed and LeafGreen Switch re-release is already topping the eS...](https://www.eurogamer.net/pokemon-fire-red-leaf-green-switch-home-support-mention-deleted)
-* 📰 [UK Charts: Mario Tennis Fever Gets Lobbed By Old Favourites - Nintendo Life](https://www.nintendolife.com/news/2026/02/uk-charts-mario-tennis-fever-gets-lobbed-by-old-favourites)
-* 📰 ['Beep Boop Beep Boop': New Xbox Boss Asha Sharma Hits Back at Claim Her Socia...](https://www.ign.com/articles/beep-boop-beep-boop-new-xbox-boss-asha-sharma-hits-back-at-claim-her-social-media-account-is-run-by-ai-and-posts-her-gamertag)
+* 📰 [New Microsoft gaming chief has "no tolerance for bad AI" - Ars Technica](https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/)
+* 📰 [The creators of Dark Sky have a new weather app that shares multiple predicti...](https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription)
+* 📰 [Ubisoft Taps 3 Assassin's Creed Black Flag Vets To Lead Franchise - Kotaku](https://kotaku.com/assassins-creed-black-flag-vets-leading-frnachise-series-vantage-new-games-2000672792)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-24 13:25 </sub>
+  <sub>Last updated: Last updated: 2026-02-24 19:13 </sub>
 </div>
 
