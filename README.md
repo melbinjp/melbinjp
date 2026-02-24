@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-This project engineers.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ This project engineers.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [These 12+ PS5, PS4 Games Are Coming Out This Week (23rd-1st March) - Push Square](https://www.pushsquare.com/guides/these-12plus-ps5-ps4-games-are-coming-out-this-week-23rd-1st-march)
-* 📰 [4 Things You Didn't Know HDMI Ports Can Do - SlashGear](https://www.slashgear.com/2104457/things-you-didnt-know-hdmi-ports-can-do/)
-* 📰 [The FBI Says These Wi-Fi Routers Are Unsafe, And Here's Why - SlashGear](https://www.slashgear.com/2104404/wifi-routers-unsafe-fbi-warning/)
+* 📰 [The Pokémon FireRed and LeafGreen Switch re-release is already topping the eS...](https://www.eurogamer.net/pokemon-fire-red-leaf-green-switch-home-support-mention-deleted)
+* 📰 [UK Charts: Mario Tennis Fever Gets Lobbed By Old Favourites - Nintendo Life](https://www.nintendolife.com/news/2026/02/uk-charts-mario-tennis-fever-gets-lobbed-by-old-favourites)
+* 📰 ['Beep Boop Beep Boop': New Xbox Boss Asha Sharma Hits Back at Claim Her Socia...](https://www.ign.com/articles/beep-boop-beep-boop-new-xbox-boss-asha-sharma-hits-back-at-claim-her-social-media-account-is-run-by-ai-and-posts-her-gamertag)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-24 07:11 </sub>
+  <sub>Last updated: Last updated: 2026-02-24 13:25 </sub>
 </div>
 
