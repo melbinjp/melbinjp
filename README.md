@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Engineered a secure,.
+Developed the Jules Endpoint Agent,.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ Engineered a secure,.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 ["Microsoft wants a turnaround and is worried about losing Xbox" - Insider rep...](https://www.eurogamer.net/xbox-insider-report-paints-different-picture-of-spencer-retirement-and-bond-departure)
-* 📰 [Shrouded Sky - Patch Notes 1.17.0 - ARC Raiders](https://arcraiders.com/news/shrouded-sky-patch-notes-1-17-0)
-* 📰 [“Unearthing Rationality”: Intel Stock (NASDAQ:INTC) Dips as Nova Lake Gets De...](https://www.tipranks.com/news/unearthing-rationality-intel-stock-nasdaqintc-dips-as-nova-lake-gets-delayed)
+* 📰 [Minecraft 26.1 Snapshot 10 - Minecraft](https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-10)
+* 📰 [YouTube’s cheaper subscription is getting background play and downloads - The...](https://www.theverge.com/streaming/883316/youtube-premium-lite-background-play-offline-downloads)
+* 📰 [Fallout 4 Switch 2 Launch Trailer Gives Us A Better Glimpse At The Wasteland ...](https://www.nintendolife.com/news/2026/02/fallout-4-switch-2-launch-trailer-gives-us-a-better-glimpse-at-the-wasteland)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-25 13:25 </sub>
+  <sub>Last updated: Last updated: 2026-02-25 19:16 </sub>
 </div>
 
