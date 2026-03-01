@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **secure endpoint.
+Developed a robust Jules.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -112,18 +112,7 @@ Developed a **secure endpoint.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
-
-
-### 🌌 Today's Cosmic Perspective
-
-<p align="center">
-  <a href="https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri.jpg" target="_blank">
-    <img src="https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri.jpg" alt="Lunar Occultation of Mercury" 
-         style="max-width: 600px; width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  </a>
-</p>
-<p align="center"><em>Lunar Occultation of Mercury</em> • NASA APOD</p>
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -134,9 +123,9 @@ Developed a **secure endpoint.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
+* 📰 [Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - A...](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/)
+* 📰 [What to Expect From Apple's Big Week: iPhone 17e, Low-Cost MacBook, New iPads...](https://www.macrumors.com/guide/apple-products-march-2026/)
 * 📰 [Porsche responds after Resident Evil fans claim Leon will definitely destroy ...](https://www.dexerto.com/resident-evil/porsche-responds-after-resident-evil-fans-claim-leon-will-definitely-destroy-his-porsche-in-resident-evil-requiem-3326192/)
-* 📰 [BMW’s new 2027 EVs leak online before the site is taken down - Electrek](http://electrek.co/2026/02/27/bmws-new-2027-evs-leak/)
-* 📰 [Sony’s Bluepoint Pitched ‘Bloodborne’ Remake Before Closure - Bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-02-27/sony-s-bluepoint-pitched-bloodborne-remake-before-closure)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +152,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-03-01 03:17 </sub>
+  <sub>Last updated: Last updated: 2026-03-01 06:57 </sub>
 </div>
 
