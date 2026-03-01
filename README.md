@@ -75,7 +75,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Engineered a secure,.
+Developed a **secure endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -134,9 +134,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Pokémon Winds & Waves Announced For Switch 2, Launching Next Year - Nintendo ...](https://www.nintendolife.com/news/2026/02/pokemon-winds-and-waves-announced-for-switch-2-launching-next-year)
-* 📰 [Pokémon-Themed Mini Game Boy Announced, Though It's Not What You Think - Nint...](https://www.nintendolife.com/news/2026/02/pokemon-themed-mini-game-boy-announced-though-its-not-what-you-think)
-* 📰 [Honor exec showcases Magic V6’s crease-less display - GSMArena.com news - GSM...](https://www.gsmarena.com/honor_exec_showcases_magic_v6s_creaseless_display_-news-71750.php)
+* 📰 [Porsche responds after Resident Evil fans claim Leon will definitely destroy ...](https://www.dexerto.com/resident-evil/porsche-responds-after-resident-evil-fans-claim-leon-will-definitely-destroy-his-porsche-in-resident-evil-requiem-3326192/)
+* 📰 [BMW’s new 2027 EVs leak online before the site is taken down - Electrek](http://electrek.co/2026/02/27/bmws-new-2027-evs-leak/)
+* 📰 [Sony’s Bluepoint Pitched ‘Bloodborne’ Remake Before Closure - Bloomberg.com](https://www.bloomberg.com/news/newsletters/2026-02-27/sony-s-bluepoint-pitched-bloodborne-remake-before-closure)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -163,6 +163,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-02-28 18:45 </sub>
+  <sub>Last updated: Last updated: 2026-03-01 03:17 </sub>
 </div>
 
