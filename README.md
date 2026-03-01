@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&background=00000000&width=435&lines=Hi+there+%2C+I'm+Melbin" alt="Typing SVG" /></a>
   <br>
   <a href="https://github.com/melbinjp" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&background=00000000&width=635&lines=AI+Solutions+Architect+%7C+Computer+Vision+Engineer" alt="Sub-header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&background=00000000&width=635&lines=Independent+AI+Developer+%7C+Python+Automation+Specialist" alt="Sub-header" />
   </a>
 </div>
 
@@ -16,12 +16,12 @@
 <hr>
 
 ## 🎯 About Me
-I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Vision**, and **Distributed Systems**. My passion is to transform complex business challenges into production-ready, intelligent systems with a focus on performance, scalability, and clean architecture.
+I'm an **Independent AI Developer** with a non-traditional background, skilled in leveraging AI-assisted workflows to rapidly prototype and deploy complex systems. I build end-to-end Python automation pipelines, custom in-memory RAG models, and functional web applications using FastAPI and Docker.
 
 **Core Competencies:**
-- 🚀 **End-to-End Development:** From ideation and architecture design to deployment and MLOps.
-- 🔧 **High-Performance Systems:** Expertise in building low-latency RAG systems and optimized inference pipelines.
-- 🎓 **Technical Leadership:** Proven experience in technical education, mentorship, and open-source contribution.
+- 🚀 **AI & Automation Prototyping:** Rapidly scaling from "idea" to "hosted API" using Gemini, Hugging Face, and Numpy.
+- 🔧 **Modular Toolchains:** Developing autonomous Python pipelines (like an end-to-end YouTube auto-poster) orchestrating multiple web and local services.
+- 🌱 **Continuous Learner:** Self-taught developer actively deploying algorithmic trading bots and exploring the limits of LLMs through `wecanuseai.com`.
 
 ---
 
@@ -45,17 +45,16 @@ I'm an AI Solutions Developer specializing in **Generative AI**, **Computer Visi
 
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### Backend & Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 
 </details>
 
@@ -75,7 +74,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**The Jules Endpoint Agent transforms.
+**Jules Endpoint Agent.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -94,7 +93,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated 2 days ago_
+* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
 * 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
@@ -112,7 +111,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "The best way to predict the future is to invent it." — Alan Kay
 <!-- INSPIRATION_END -->
 
 ---
@@ -123,9 +122,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Tenways nearly perfects the shareable city e-bike - The Verge](https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable)
 * 📰 [Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - A...](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/)
-* 📰 [Porsche responds after Resident Evil fans claim Leon will definitely destroy ...](https://www.dexerto.com/resident-evil/porsche-responds-after-resident-evil-fans-claim-leon-will-definitely-destroy-his-porsche-in-resident-evil-requiem-3326192/)
+* 📰 [BMW Mistakenly Publishes The Names Of All 2027 Cars - Motor1.com](https://www.motor1.com/news/788464/bmw-leaks-names-2027-cars/)
+* 📰 [You Will Be Able To Marry Clint In Stardew Valley, Pleasing People Like, Um, ...](https://aftermath.site/stardew-valley-marriage-candidate-clint-loser/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -152,6 +151,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-03-01 13:05 </sub>
+  <sub>Last updated: Last updated: 2026-03-01 18:29 UTC</sub>
 </div>
 
