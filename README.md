@@ -29,8 +29,8 @@ I'm an **Independent AI Developer** with a non-traditional background, skilled i
 
 <!-- CORE_COMPETENCIES_START -->
 **🔧 Languages & Frameworks:**
-* **HTML**
 * **JavaScript**
+* **HTML**
 * **CSS**
 * **Python**
 * **Jupyter Notebook**
@@ -74,7 +74,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+**Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -93,17 +93,17 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
+* 🔨 Working on [voice_notes](https://github.com/melbinjp/voice_notes) - _last updated today_
 * 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated today_
-* 🔨 Working on [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc) - _last updated 2025-10-18_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [voice_notes](https://github.com/melbinjp/voice_notes)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
 * [Utily](https://github.com/melbinjp/Utily)
 * [favicon](https://github.com/melbinjp/favicon)
-* [DocQA](https://github.com/melbinjp/DocQA) - A simple UI for a RAG (Retrieval Augmented Generation) ba...
 <!-- REPO_LIST_END -->
 
 ---
@@ -111,7 +111,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "The best way to predict the future is to invent it." — Alan Kay
+> "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
 <!-- INSPIRATION_END -->
 
 ---
@@ -122,9 +122,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - A...](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/)
-* 📰 [BMW Mistakenly Publishes The Names Of All 2027 Cars - Motor1.com](https://www.motor1.com/news/788464/bmw-leaks-names-2027-cars/)
-* 📰 [You Will Be Able To Marry Clint In Stardew Valley, Pleasing People Like, Um, ...](https://aftermath.site/stardew-valley-marriage-candidate-clint-loser/)
+* 📰 [Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim power...](https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/)
+* 📰 [Roundup: Here's What The First Reviews / Impressions Say About The Marathon S...](https://www.purexbox.com/news/2026/02/roundup-heres-what-the-first-reviews-impressions-say-about-the-marathon-server-slam)
+* 📰 [Review: Fallout 4: Anniversary Edition (Switch 2) - A Solid Port With Plenty ...](https://www.nintendolife.com/reviews/nintendo-switch-2/fallout-4-anniversary-edition)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -151,6 +151,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-03-01 18:29 UTC</sub>
+  <sub>Last updated: Last updated: 2026-03-02 02:41 UTC</sub>
 </div>
 
