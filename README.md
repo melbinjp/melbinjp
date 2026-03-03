@@ -74,7 +74,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-**Jules Endpoint Agent.
+Developed a **.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -122,9 +122,9 @@ A multi-threaded video surveillance system for capturing and processing video fr
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [Scientists train human brain cells on a microchip to play Doom - Dexerto](https://www.dexerto.com/gaming/scientists-train-human-brain-cells-on-a-chip-to-play-doom-3326709/)
-* 📰 [Mystic & Aurora Ticket easily obtainable in Pokemon FireRed & LeafGreen on Sw...](https://mynintendonews.com/2026/03/01/mystic-aurora-ticket-easily-obtainable-in-pokemon-firered-leafgreen-on-switch/)
-* 📰 [Pokemon Champions storage limits and subscription details revealed - Nintendo...](https://nintendoeverything.com/pokemon-champions-storage-limits-and-subscription-details-revealed/)
+* 📰 [TCL releases RayNeo Air 4 Pro AR smart glasses for only $299: Save $50 at lau...](https://mashable.com/article/tcl-rayneo-air-4-pro-launch-price-specs)
+* 📰 [AMD will bring its "Ryzen AI" processors to standard desktop PCs for the firs...](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/)
+* 📰 [The winners of the smartphone boom think they know what the next big tech gad...](https://www.cnn.com/2026/03/02/business/tech-gadgets-smartphone-glasses)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -151,6 +151,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-03-03 02:43 UTC</sub>
+  <sub>Last updated: Last updated: 2026-03-03 13:12 UTC</sub>
 </div>
 
