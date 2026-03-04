@@ -74,7 +74,7 @@ A multi-threaded video surveillance system for capturing and processing video fr
 **Primary Tech:** `Python`
 
 ### 🚀 [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-Developed a **.
+Developed the Jules Endpoint.
 
 **Primary Tech:** `Shell`
 <!-- FEATURED_PROJECTS_END -->
@@ -93,17 +93,17 @@ Developed a **.
 ## 🔭 Current Focus
 
 <!-- CURRENT_FOCUS_START -->
-* 🔨 Working on [voice_notes](https://github.com/melbinjp/voice_notes) - _last updated today_
-* 🔨 Working on [3d_modelview](https://github.com/melbinjp/3d_modelview) - _last updated yesterday_
+* 🔨 Working on [Utily](https://github.com/melbinjp/Utily) - _last updated today_
+* 🔨 Working on [image_classification](https://github.com/melbinjp/image_classification) - _last updated today_
 <!-- CURRENT_FOCUS_END -->
 
 ### 📚 Recent Activity
 <!-- REPO_LIST_START -->
+* [Utily](https://github.com/melbinjp/Utily)
+* [image_classification](https://github.com/melbinjp/image_classification)
 * [voice_notes](https://github.com/melbinjp/voice_notes)
 * [3d_modelview](https://github.com/melbinjp/3d_modelview) - A 3d model viewer
 * [let-agents-use-your-pc](https://github.com/melbinjp/let-agents-use-your-pc)
-* [Utily](https://github.com/melbinjp/Utily)
-* [favicon](https://github.com/melbinjp/favicon)
 <!-- REPO_LIST_END -->
 
 ---
@@ -111,7 +111,7 @@ Developed a **.
 ## 💡 Daily Inspiration
 
 <!-- INSPIRATION_START -->
-> "First, solve the problem. Then, write the code." — John Johnson
+> "Make it work, make it right, make it fast." — Kent Beck
 <!-- INSPIRATION_END -->
 
 ---
@@ -122,9 +122,9 @@ Developed a **.
 <summary><b>📡 Latest in Technology</b></summary>
 
 <!-- FUTURE_INSIGHTS_START -->
-* 📰 [TCL releases RayNeo Air 4 Pro AR smart glasses for only $299: Save $50 at lau...](https://mashable.com/article/tcl-rayneo-air-4-pro-launch-price-specs)
-* 📰 [AMD will bring its "Ryzen AI" processors to standard desktop PCs for the firs...](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/)
-* 📰 [The winners of the smartphone boom think they know what the next big tech gad...](https://www.cnn.com/2026/03/02/business/tech-gadgets-smartphone-glasses)
+* 📰 [Ubisoft Is Having A Pretty Enormous Sale Right Now - Kotaku](https://kotaku.com/ubisoft-steam-sale-assassins-creed-shadows-star-wars-2000675127)
+* 📰 [Apple’s new products add C1X chip for three unique advantages - 9to5Mac](https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2ZNZFk3aW5rUXpvek9UUWJFTVg0dWVfZFdtaUNrZV96NzdKNUc1NXJaN0pER2xmdnkwTVJYQUNtSUVITlptdl81Zi1zcnNYbEVQTl8tdTRFVDFrYWc4dWd4NmQwaUU1STF0aTBwRHJuWU1WN3FZTmRXN09mQVdMZ0hhTDNxRTljQTlaNXJmeTlpdFliRThN?oc=5)
+* 📰 [Apple iPhone 18 Pro: New Leak Signals Unprecedented Design Change - Forbes](https://www.forbes.com/sites/davidphelan/2026/03/02/apple-iphone-18-pro-new-leak-signals-unprecedented-design-change/)
 <!-- FUTURE_INSIGHTS_END -->
 
 </details>
@@ -151,6 +151,6 @@ I'm always excited to collaborate on innovative AI projects and discuss emerging
 ---
 
 <div align="center">
-  <sub>Last updated: Last updated: 2026-03-03 13:12 UTC</sub>
+  <sub>Last updated: Last updated: 2026-03-04 02:35 UTC</sub>
 </div>
 
