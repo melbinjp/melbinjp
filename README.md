@@ -1,155 +1,92 @@
 Melbin J Paulose
 
-<div align="center">
+<div align="center">Turning loosely defined ideas into working software
 
-<img src=""https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Working+Systems;AI-assisted+Development+Workflows;Retrieval+%7C+Agents+%7C+Automation;Building+Practical+Software" (https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Working+Systems;AI-assisted+Development+Workflows;Retrieval+%7C+Agents+%7C+Automation;Building+Practical+Software)" alt="Typing SVG" />
+AI-assisted development · Agent tooling · Retrieval systems · Browser experiments
 
-<br/>
+"Website" (https://wecanuseai.com) · "LinkedIn" (https://linkedin.com/in/melbinjpaulose) · "Email" (mailto:melbinjpaulose@gmail.com)
 
-AI-Assisted Developer — Agent Tooling, Retrieval Systems & Practical Software
+</div>---
 
-<p>
-  <a href=""https://wecanuseai.com" (https://wecanuseai.com)">
-    <img src=""https://img.shields.io/badge/Website-wecanuseai.com-0ea5e9?style=for-the-badge" (https://img.shields.io/badge/Website-wecanuseai.com-0ea5e9?style=for-the-badge)">
-  </a>
+<div align="center">      idea                  constraints                 working software
+       ○  · · · · · · · · · ·  ◇  · · · · · · · · · ·  □
+                                  ↖       ↘
+                                    iterate
 
-  <a href=""https://linkedin.com/in/melbinjpaulose" (https://linkedin.com/in/melbinjpaulose)">
-    <img src=""https://img.shields.io/badge/LinkedIn-melbinjpaulose-0077B5?style=for-the-badge&logo=linkedin" (https://img.shields.io/badge/LinkedIn-melbinjpaulose-0077B5?style=for-the-badge&logo=linkedin)">
-  </a>
+</div>What I Work On
 
-  <a href="mailto:melbinjpaulose@gmail.com">
-    <img src=""https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" (https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)">
-  </a>
-</p>
+I define software problems, expected behaviour, and practical constraints, then use AI coding agents to develop and iterate on implementations.
 
-</div>
+My work currently centres on agent execution tooling, retrieval workflows, browser-native applications, and developer utilities.
 
----
-
-What I Work On
-
-I focus on defining problems, constraints, and expected behavior, then using AI coding agents to build and iterate on working implementations.
-
-My current areas of exploration include:
-
-- AI-agent execution tooling
-- retrieval and document workflows
-- browser-native applications
-- automation and developer utilities
-
-These repositories represent practical experiments and working systems rather than production-scale engineering claims.
+The repositories below are working projects and technical experiments—not claims of senior-level or production-scale engineering.
 
 ---
 
 Selected Projects
 
-Rigout
+"Rigout" (https://github.com/melbinjp/rigout)
 
-A Python package that exposes a computer, VM, or container to authorized AI agents through MCP.
+A released-beta Python package that lets an authorized AI agent interact with a computer, VM, or container through MCP.
 
-It supports:
+"command execution" · "file operations" · "persistent terminals" · "Docker" · "system inspection" · "tunneled access" · "lifecycle management"
 
-- command execution
-- file and Docker operations
-- persistent terminal sessions
-- system inspection
-- tunnel-based access
-- lifecycle management and logging
-
-Tech: Python · MCP · Starlette · Cloudflare Tunnel · pytest · GitHub Actions
+Python · MCP · Starlette · Cloudflare Tunnel · pytest · GitHub Actions
 
 ---
 
-CiteRAG
+"CiteRAG" (https://github.com/melbinjp/citerag)
 
-A document question-answering system evolved from DocQA with retrievable page-level sources.
+A hackathon project evolved from "DocQA" (https://github.com/melbinjp/DocQA), built for question answering over PDFs with retrievable page-level sources.
 
-It includes:
+"PDF extraction" · "targeted OCR" · "deterministic chunking" · "dense + sparse retrieval" · "Qdrant" · "streaming responses"
 
-- PDF extraction and targeted OCR
-- deterministic chunking
-- dense and sparse retrieval
-- Qdrant integration
-- streaming responses
-- React-based interface
-
-Tech: Python · FastAPI · React · Qdrant · BGE-M3 · Docker
+Python · FastAPI · React · Qdrant · BGE-M3 · Docker
 
 ---
 
-Mango Modem
+"Mango Modem" (https://github.com/melbinjp/audio_data_transfer)
 
-A browser-based system for transferring files through audible sound.
+An experimental browser application that transfers files between devices through audible sound.
 
-It explores:
+"4-FSK modulation" · "binary framing" · "CRC32 validation" · "acknowledgements" · "retries" · "microphone reception" · "file reassembly"
 
-- 4-FSK modulation
-- binary framing
-- CRC32 validation
-- acknowledgements and retries
-- microphone-based reception
-- file reconstruction
-
-Tech: TypeScript · Web Audio API · AudioWorklet · Vite · Vitest
+TypeScript · Web Audio API · AudioWorklet · Vite · Vitest
 
 ---
 
-Jules Prompts
+"Jules Prompts" (https://github.com/melbinjp/jules-prompts)
 
-A structured prompt library for converting broad development requests into scoped, verifiable tasks for coding agents.
+A machine-readable prompt library for turning broad development requests into scoped, verifiable tasks for coding agents.
 
-It covers:
+"repository audits" · "project hardening" · "implementation workflows" · "dependency maintenance" · "UI review" · "repository curation"
 
-- repository auditing
-- project hardening
-- implementation workflows
-- dependency maintenance
-- UI review
-- repository curation
+Markdown · YAML · JSON · Jekyll · GitHub Pages
 
-Tech: Markdown · YAML · JSON · Jekyll · GitHub Pages
+---
+
+<div align="center">              define  ─────▶  direct  ─────▶  evaluate
+                 ▲                              │
+                 └──────────── iterate ◀────────┘
+
+</div>How I Work
+
+I rely heavily on AI agents for implementation. My contribution is primarily in problem selection, specification, constraints, evaluation, and iteration.
+
+I focus on whether a tool solves the intended problem, behaves within its boundaries, and is useful enough to publish or continue improving.
 
 ---
 
 Also Built
 
-- Audio Editor — client-side recording and audio editing
-- Make a Call — peer-to-peer browser communication using WebRTC
-- DocQA — earlier document QA system that preceded CiteRAG
+- "Audio Editor" (https://github.com/melbinjp/audio-editor) — client-side recording and audio editing
+- "Make a Call" (https://github.com/melbinjp/make-a-call) — peer-to-peer browser communication using WebRTC
+- "DocQA API" (https://github.com/melbinjp/DocQA_api) — backend for the earlier document-QA project
 
 ---
 
-Working Method
+<div align="center">Open to junior roles and bounded project work
 
-Problem → constraints → agent-assisted implementation
-        → testing and use → iteration → publish or archive
-
-I rely heavily on AI agents for implementation, while focusing on problem definition, constraints, evaluation, and iteration.
-
----
-
-<div align="center">
-
-Opportunities
-
-Open to junior roles and project-based work involving AI tooling, automation, retrieval systems, and technical workflows.
+AI tooling · automation · retrieval systems · technical workflows
 
 </div>
-
-<!--
-Doodle Layer (hidden for future refinement)
-
-Concept:
-- Minimal line-based sketches
-- Soft geometric shapes (circles, arcs, nodes)
-- Light motion-inspired spacing
-
-Example motifs:
-- small node clusters → representing agents
-- dotted paths → workflows
-- curved lines → iteration loops
-
-Guideline:
-Keep visuals subtle, low contrast, and non-distracting.
-Aim for calm, structured whitespace similar to modern AI product design.
--->
