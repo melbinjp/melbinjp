@@ -34,6 +34,18 @@ A released-beta Python package that lets authorized AI agents interact with a co
 
 ---
 
+### [docproof](https://github.com/melbinjp/docproof)
+
+A deterministic checker that proves a project's documentation against the project itself. No model, no network, so the same repository always gets the same verdict.
+
+**Includes:** three verdicts on every claim (holds, broken, or skipped out loud), checks for documented paths, CLI flags, version claims and imported symbols, a GitHub Action, and a reporting mode for projects that already have drift.
+
+Findings from it have been merged by maintainers at [prettier](https://github.com/prettier/prettier/pull/19881), [pipenv](https://github.com/pypa/pipenv/pull/6709) and [anyio](https://github.com/agronholm/anyio/pull/1280).
+
+`Python` `pytest` `GitHub Actions` `Git`
+
+---
+
 ### [CiteRAG](https://github.com/melbinjp/citerag)
 
 A hackathon project evolved from [DocQA](https://github.com/melbinjp/DocQA), built for question answering over PDFs with retrievable page-level sources.
