@@ -10,7 +10,7 @@
 
 </div>
 
-> I turn loosely defined ideas into scoped software projects by defining the problem, constraints, expected behaviour, and acceptance criteria—then directing AI-assisted implementation and iteration.
+> I turn loosely defined ideas into scoped software projects by defining the problem, constraints, expected behaviour, and acceptance criteria, then directing AI-assisted implementation and iteration.
 
 ```mermaid
 %%{init: {"theme": "neutral", "flowchart": {"curve": "basis"}}}%%
