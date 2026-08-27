@@ -98,6 +98,5 @@ I use AI coding agents heavily. My contribution is primarily in problem selectio
 
 <div align="center">
 
-Open to junior roles and bounded project work involving **AI tooling, automation, retrieval systems, and technical workflows**.
-
+Available for contract work involving **document AI, retrieval systems, extraction pipelines, agent tooling**, and the full-stack builds around them.
 </div>
