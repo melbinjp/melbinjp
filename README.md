@@ -64,7 +64,7 @@ A machine-readable prompt library for turning broad development requests into sc
 
 ## More work
 
-Audio, video and real time —
+Audio, video and real time:
 [Transcribe Realtime](https://github.com/melbinjp/Transcribe-Realtime-) ·
 [Voice Notes](https://github.com/melbinjp/voice_notes) ·
 [Audio Editor](https://github.com/melbinjp/audio-editor) ·
@@ -73,12 +73,12 @@ Audio, video and real time —
 [Automated Videogen](https://github.com/melbinjp/Automated_videogen) ·
 [Animation Effect](https://github.com/melbinjp/animation_effect)
 
-Vision and browser-native —
+Vision and browser-native:
 [Image Classification](https://github.com/melbinjp/image_classification) ·
 [MultiCam Surveillance](https://github.com/melbinjp/MultiCamSurveillance) ·
 [Favicon](https://github.com/melbinjp/favicon)
 
-Documents —
+Documents:
 [DocQA](https://github.com/melbinjp/DocQA) ·
 [DocQA API](https://github.com/melbinjp/DocQA_api)
 
@@ -86,5 +86,5 @@ Documents —
 
 <div align="center">
 
-Available for contract work — **agent tooling, retrieval and document pipelines**, and the full-stack builds around them.
+Available for contract work: **agent tooling, retrieval and document pipelines**, and the full-stack builds around them.
 </div>
