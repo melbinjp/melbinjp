@@ -28,7 +28,7 @@ A deterministic checker that proves a project's documentation against the projec
 
 **Includes:** three verdicts on every claim (holds, broken, or skipped out loud), checks for documented paths, CLI flags, version claims and imported symbols, a GitHub Action, and a reporting mode for projects that already have drift.
 
-Findings from it have been merged by maintainers at [prettier](https://github.com/prettier/prettier/pull/19881), [pipenv](https://github.com/pypa/pipenv/pull/6709) and [anyio](https://github.com/agronholm/anyio/pull/1280).
+Findings from it have been merged upstream by the maintainers of [prettier](https://github.com/prettier/prettier/pull/19881), [pipenv](https://github.com/pypa/pipenv/pull/6709), [anyio](https://github.com/agronholm/anyio/pull/1280), [gunicorn](https://github.com/benoitc/gunicorn/pull/3690), [Sentry](https://github.com/getsentry/sentry-react-native/pull/6594), [Sanity](https://github.com/sanity-io/sanity/pull/14169), [rolldown](https://github.com/rolldown/rolldown/pull/10719) and [Harvard's Dataverse](https://github.com/IQSS/dataverse/pull/12632), among others. [azul](https://github.com/fschutt/azul/commit/62034ba09dedf25e00ff7cf4a5ae27a58478642a) runs it in CI.
 
 `Python` `pytest` `GitHub Actions` `Git`
 
@@ -62,7 +62,7 @@ A machine-readable prompt library for turning broad development requests into sc
 
 `Markdown` `YAML` `JSON` `Jekyll` `GitHub Pages`
 
-## More work
+## Everything else
 
 Audio, video and real time:
 [Transcribe Realtime](https://github.com/melbinjp/Transcribe-Realtime-) ·
